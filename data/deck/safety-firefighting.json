@@ -1,0 +1,227 @@
+[
+  {
+    "id": "deck-saf-001",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "Under common classification (ISO/EN), a Class B fire involves:",
+    "options": [
+      "Cooking oils only",
+      "Combustible metals",
+      "Flammable liquids such as oil, paint or solvents",
+      "Ordinary combustible solids such as wood and paper"
+    ],
+    "correctIndex": 2,
+    "explanation": "Class B liquid fires are tackled with foam, dry powder or CO2. Never use a straight water jet."
+  },
+  {
+    "id": "deck-saf-002",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Which extinguisher is most suitable for a fire in live electrical equipment?",
+    "options": [
+      "Wet chemical",
+      "CO2",
+      "Water",
+      "Foam"
+    ],
+    "correctIndex": 1,
+    "explanation": "CO2 does not conduct electricity and leaves no residue. Isolate the supply as soon as possible."
+  },
+  {
+    "id": "deck-saf-003",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "The three elements of the fire triangle are:",
+    "options": [
+      "Fuel, heat and oxygen",
+      "Oxygen, nitrogen and fuel",
+      "Fuel, water and smoke",
+      "Heat, smoke and carbon dioxide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Removing any one element extinguishes the fire: starving (fuel), cooling (heat) or smothering (oxygen)."
+  },
+  {
+    "id": "deck-saf-004",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "On a cargo ship, how often must every crew member take part in an abandon ship drill and a fire drill?",
+    "options": [
+      "Once every three months",
+      "At least once every month",
+      "Once a year",
+      "Only when joining the ship"
+    ],
+    "correctIndex": 1,
+    "explanation": "SOLAS III/19. Drills must be held within 24 hours of leaving port if more than 25% of the crew have not taken part in a drill on board in the previous month."
+  },
+  {
+    "id": "deck-saf-005",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "On a cargo ship, each lifeboat must be launched with its assigned crew on board and manoeuvred in the water at least once every:",
+    "options": [
+      "Five years",
+      "Year",
+      "Week",
+      "Three months"
+    ],
+    "correctIndex": 3,
+    "explanation": "SOLAS III/19 - where reasonable and practicable."
+  },
+  {
+    "id": "deck-saf-006",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "A SOLAS immersion suit must be donned without assistance within:",
+    "options": [
+      "10 minutes",
+      "2 minutes",
+      "30 seconds",
+      "5 minutes"
+    ],
+    "correctIndex": 1,
+    "explanation": "LSA Code requirement, including any associated clothing and lifejacket."
+  },
+  {
+    "id": "deck-saf-007",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "An Emergency Escape Breathing Device (EEBD) is intended for:",
+    "options": [
+      "Diving operations",
+      "Escaping from a hazardous atmosphere only",
+      "Firefighting inside the space",
+      "Entering enclosed spaces for work"
+    ],
+    "correctIndex": 1,
+    "explanation": "EEBDs give about 10 minutes of air for escape. Never use them for firefighting or entry."
+  },
+  {
+    "id": "deck-saf-008",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "Before entering an enclosed space, the oxygen content should read:",
+    "options": [
+      "At least 25% by volume",
+      "About 21% by volume, with flammable and toxic gases within safe limits",
+      "At least 16% by volume",
+      "Oxygen does not need to be measured if the space was ventilated"
+    ],
+    "correctIndex": 1,
+    "explanation": "Test from outside and at different levels, keep ventilating, and keep a standby person with communications at the entrance."
+  },
+  {
+    "id": "deck-saf-009",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "When someone falls overboard, the immediate actions are:",
+    "options": [
+      "Release a lifebuoy, raise the alarm and keep the person in sight",
+      "Stop the engines and wait for instructions",
+      "Call the company first",
+      "Launch a lifeboat immediately at full speed"
+    ],
+    "correctIndex": 0,
+    "explanation": "Also mark the position (MOB on GPS/ECDIS), post look-outs and start a recovery manoeuvre."
+  },
+  {
+    "id": "deck-saf-010",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "The Williamson turn is used to:",
+    "options": [
+      "Bring the ship back onto her original track in the opposite direction, e.g. for man overboard",
+      "Turn the ship in the smallest possible space",
+      "Approach a berth",
+      "Anchor in strong current"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rudder hard over, after about 60° off the original course put the rudder hard over the other way, and steady on the reciprocal course."
+  },
+  {
+    "id": "deck-saf-011",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "The general emergency alarm signal on board is:",
+    "options": [
+      "Seven or more short blasts followed by one long blast",
+      "One prolonged blast",
+      "Three short blasts",
+      "Continuous ringing of the bell"
+    ],
+    "correctIndex": 0,
+    "explanation": "Given on the ship's whistle and the general alarm bells; crew then go to their muster stations."
+  },
+  {
+    "id": "deck-saf-012",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "A SOLAS lifejacket must allow the wearer to jump into the water from a height of at least:",
+    "options": [
+      "18 metres",
+      "1 metre",
+      "10 metres",
+      "4.5 metres without injury or damage to the lifejacket"
+    ],
+    "correctIndex": 3,
+    "explanation": "LSA Code requirement. Liferafts are designed for a drop of 18 m."
+  },
+  {
+    "id": "deck-saf-013",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "Before releasing a fixed CO2 flooding system into a space, you must:",
+    "options": [
+      "Open the doors to let the gas in faster",
+      "Make sure everyone is out and accounted for, and close all openings and ventilation",
+      "Keep ventilation fans running",
+      "Release it immediately without warning"
+    ],
+    "correctIndex": 1,
+    "explanation": "CO2 at extinguishing concentrations is lethal. Head counts and sealing the space are essential before release."
+  },
+  {
+    "id": "deck-saf-014",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "The hydrostatic release unit of a float-free liferaft releases the raft at a depth of about:",
+    "options": [
+      "15 metres",
+      "0.5 metres",
+      "40 metres",
+      "4 metres"
+    ],
+    "correctIndex": 3,
+    "explanation": "The raft then floats up and the painter's weak link breaks as the ship sinks, letting the raft inflate and float free."
+  },
+  {
+    "id": "deck-saf-015",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "Foam is most effective on:",
+    "options": [
+      "Class B fires involving flammable liquids",
+      "Combustible metal fires",
+      "Live electrical fires",
+      "Gas fires from a leaking pipe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Foam forms a blanket that smothers the fire and seals vapours."
+  }
+]

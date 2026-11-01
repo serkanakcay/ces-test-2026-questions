@@ -1,0 +1,227 @@
+[
+  {
+    "id": "engine-saf-001",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "The most common cause of engine room fires is:",
+    "options": [
+      "Galley cooking",
+      "Fuel or lubricating oil leaking onto hot surfaces",
+      "Sea water leaks",
+      "Lightning strikes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Check hot surfaces are insulated, pipe joints are tight and leak spray shields are in place."
+  },
+  {
+    "id": "engine-saf-002",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Under SOLAS, surfaces that may be exposed to oil leaks must be insulated if their temperature is above:",
+    "options": [
+      "220 °C",
+      "60 °C",
+      "450 °C",
+      "100 °C"
+    ],
+    "correctIndex": 0,
+    "explanation": "Exhaust manifolds, turbochargers and indicator cocks are typical hot spots."
+  },
+  {
+    "id": "engine-saf-003",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Quick-closing valves on fuel oil tank outlets are used to:",
+    "options": [
+      "Shut off fuel from outside the space in a fire",
+      "Drain water from tanks",
+      "Control the purifier",
+      "Speed up bunkering"
+    ],
+    "correctIndex": 0,
+    "explanation": "They are tested regularly and must never be wedged or tied open."
+  },
+  {
+    "id": "engine-saf-004",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "For a fixed CO2 system protecting a machinery space, at least 85% of the required gas must be discharged within:",
+    "options": [
+      "20 minutes",
+      "2 minutes",
+      "10 minutes",
+      "30 seconds"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is the FSS Code requirement. Personnel must be evacuated before release, and there is a time-delayed pre-discharge alarm."
+  },
+  {
+    "id": "engine-saf-005",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Local application fire-fighting systems (for example water mist) in machinery spaces protect:",
+    "options": [
+      "High-risk areas such as engine tops, purifiers and boiler fronts, without evacuating the whole space",
+      "Only the bridge",
+      "Only the accommodation",
+      "Only the cargo holds"
+    ],
+    "correctIndex": 0,
+    "explanation": "They are required in larger machinery spaces under SOLAS II-2/10."
+  },
+  {
+    "id": "engine-saf-006",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Before hot work in the engine room, you should:",
+    "options": [
+      "Get a hot work permit, remove combustibles, check for gas, and post a fire watch with extinguishers",
+      "Start immediately if it is a small job",
+      "Just inform the bridge",
+      "Turn off the fire detection system and start"
+    ],
+    "correctIndex": 0,
+    "explanation": "The fire watch continues for a set period after the job ends, as smouldering fires can start later."
+  },
+  {
+    "id": "engine-saf-007",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "The purpose of lock-out/tag-out is to:",
+    "options": [
+      "Secure spares in the store",
+      "Record running hours",
+      "Mark equipment for disposal",
+      "Stop machinery being energised or started unexpectedly during maintenance"
+    ],
+    "correctIndex": 3,
+    "explanation": "Isolate the energy source, lock it, tag it and confirm zero energy before work."
+  },
+  {
+    "id": "engine-saf-008",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "If a fire breaks out in the purifier room, an early action should be to:",
+    "options": [
+      "Open the room doors fully for ventilation",
+      "Increase purifier throughput",
+      "Leave the fuel running to cool the fire",
+      "Raise the alarm, stop the purifiers and shut off the fuel supply"
+    ],
+    "correctIndex": 3,
+    "explanation": "Removing the fuel is essential. Then use local fire-fighting or fixed systems as instructed."
+  },
+  {
+    "id": "engine-saf-009",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Sounding pipes of oil tanks in machinery spaces have self-closing cocks to:",
+    "options": [
+      "Stop oil escaping if the cap is left open",
+      "Let water out",
+      "Speed up soundings",
+      "Add chemicals to the tank"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oil escaping onto hot surfaces is a major fire risk."
+  },
+  {
+    "id": "engine-saf-010",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "High-pressure fuel delivery pipes between fuel pumps and injectors must be:",
+    "options": [
+      "Painted red",
+      "Made of plastic",
+      "Left uninsulated for inspection",
+      "Jacketed (double-walled) with a leakage alarm"
+    ],
+    "correctIndex": 3,
+    "explanation": "SOLAS II-2/4 requires jacketed pipes to collect leaks from high-pressure lines."
+  },
+  {
+    "id": "engine-saf-011",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Fire dampers in ventilation ducts are closed during a fire to:",
+    "options": [
+      "Increase airflow to the fire",
+      "Remove CO2 from the space",
+      "Stop air supply and prevent fire and smoke spreading through the ducts",
+      "Cool the engine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Also stop ventilation fans before releasing a fixed gas system."
+  },
+  {
+    "id": "engine-saf-012",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "A firefighter's breathing apparatus air cylinder must hold at least:",
+    "options": [
+      "100 litres of free air",
+      "10,000 litres of free air",
+      "300 litres of free air",
+      "1,200 litres of free air (about 30 minutes)"
+    ],
+    "correctIndex": 3,
+    "explanation": "FSS Code requirement for self-contained compressed air BA. A low-pressure warning sounds before the air runs out."
+  },
+  {
+    "id": "engine-saf-013",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "When grinding, the essential personal protective equipment is:",
+    "options": [
+      "A lifejacket",
+      "A breathing apparatus",
+      "Sunglasses",
+      "Safety goggles or a face shield, gloves and hearing protection"
+    ],
+    "correctIndex": 3,
+    "explanation": "Check the wheel is rated for the grinder speed and that the guard is in place."
+  },
+  {
+    "id": "engine-saf-014",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Class D fires involve:",
+    "options": [
+      "Live electrical equipment",
+      "Ordinary solids",
+      "Flammable gases",
+      "Combustible metals such as magnesium or sodium"
+    ],
+    "correctIndex": 3,
+    "explanation": "They need special dry powder agents. Water can make them more violent."
+  },
+  {
+    "id": "engine-saf-015",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "Before entering a crankcase or boiler drum, you must:",
+    "options": [
+      "Isolate and lock the equipment, ventilate it, test the atmosphere and use an enclosed space permit with a standby person",
+      "Wear an EEBD and enter",
+      "Only tell the duty engineer",
+      "Enter quickly before it cools"
+    ],
+    "correctIndex": 0,
+    "explanation": "Enclosed space accidents often kill rescuers too. Never enter without testing the atmosphere."
+  }
+]

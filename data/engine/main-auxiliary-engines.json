@@ -1,0 +1,242 @@
+[
+  {
+    "id": "engine-eng-001",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "easy",
+    "question": "The correct order of events in a four-stroke diesel engine is:",
+    "options": [
+      "Intake, compression, power, exhaust",
+      "Intake, power, compression, exhaust",
+      "Compression, intake, exhaust, power",
+      "Power, intake, compression, exhaust"
+    ],
+    "correctIndex": 0,
+    "explanation": "A four-stroke engine completes one working cycle every two crankshaft revolutions."
+  },
+  {
+    "id": "engine-eng-002",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "easy",
+    "question": "A two-stroke engine completes its working cycle in:",
+    "options": [
+      "Half a crankshaft revolution",
+      "Four crankshaft revolutions",
+      "One crankshaft revolution",
+      "Two crankshaft revolutions"
+    ],
+    "correctIndex": 2,
+    "explanation": "Scavenging and exhaust happen around bottom dead centre, so there is a power stroke every revolution."
+  },
+  {
+    "id": "engine-eng-003",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "medium",
+    "question": "Most modern large slow-speed two-stroke main engines use:",
+    "options": [
+      "Four-stroke valve timing",
+      "Uniflow scavenging with an exhaust valve in the cylinder head",
+      "Natural aspiration",
+      "Loop scavenging with no exhaust valve"
+    ],
+    "correctIndex": 1,
+    "explanation": "Air enters through ports at the bottom of the liner and leaves through the exhaust valve at the top, giving efficient scavenging."
+  },
+  {
+    "id": "engine-eng-004",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "easy",
+    "question": "A diesel engine turbocharger turbine is driven by:",
+    "options": [
+      "Exhaust gas",
+      "Gear drive from the crankshaft",
+      "Starting air",
+      "Electric motor"
+    ],
+    "correctIndex": 0,
+    "explanation": "The turbine drives a compressor that supplies pressurised charge air, increasing power output."
+  },
+  {
+    "id": "engine-eng-005",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "medium",
+    "question": "In a crosshead engine, the crosshead allows:",
+    "options": [
+      "The engine to run without lubrication",
+      "The piston to rotate",
+      "The fuel pump to change timing",
+      "The piston rod to move in a straight vertical line, so a stuffing box can separate the crankcase from the scavenge space"
+    ],
+    "correctIndex": 3,
+    "explanation": "Side thrust is taken by the guides, and scavenge-space contamination is kept out of the crankcase oil."
+  },
+  {
+    "id": "engine-eng-006",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "hard",
+    "question": "The main purpose of a crankcase oil mist detector is to:",
+    "options": [
+      "Monitor exhaust smoke",
+      "Detect water in fuel oil",
+      "Measure lubricating oil viscosity",
+      "Detect a rising oil mist concentration early to prevent a crankcase explosion"
+    ],
+    "correctIndex": 3,
+    "explanation": "Oil mist forms at hot spots such as overheating bearings. On an alarm, slow down and stop, and do not open the crankcase until it has cooled."
+  },
+  {
+    "id": "engine-eng-007",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "medium",
+    "question": "Crankcase explosion relief valves are designed to:",
+    "options": [
+      "Release lubricating oil when it is too hot",
+      "Relieve explosion pressure and stop flames coming out of the crankcase",
+      "Admit air to the crankcase",
+      "Drain water from the sump"
+    ],
+    "correctIndex": 1,
+    "explanation": "They are spring-loaded, self-closing and fitted with flame arresters, so a secondary explosion is less likely."
+  },
+  {
+    "id": "engine-eng-008",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "medium",
+    "question": "If fuel injection timing is too late, the likely result is:",
+    "options": [
+      "No effect on performance",
+      "Higher maximum pressure and lower exhaust temperature",
+      "Lower maximum cylinder pressure, higher exhaust temperature and higher fuel consumption",
+      "Faster engine start"
+    ],
+    "correctIndex": 2,
+    "explanation": "Late injection makes combustion continue into the expansion stroke, sending more heat to the exhaust."
+  },
+  {
+    "id": "engine-eng-009",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "medium",
+    "question": "Typical signs of a scavenge fire include:",
+    "options": [
+      "A drop in fuel oil viscosity",
+      "Low cooling water temperature",
+      "High scavenge air temperature, high exhaust temperature in the affected unit and sparks or smoke from scavenge drains",
+      "Higher engine rpm with no change in load"
+    ],
+    "correctIndex": 2,
+    "explanation": "Reduce speed, cut fuel to the unit, increase cylinder lubrication and use the fixed extinguishing system if the fire spreads."
+  },
+  {
+    "id": "engine-eng-010",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "medium",
+    "question": "Crankshaft deflection readings are taken to assess:",
+    "options": [
+      "Fuel injector condition",
+      "Turbocharger efficiency",
+      "Piston ring wear",
+      "Main bearing alignment and wear"
+    ],
+    "correctIndex": 3,
+    "explanation": "A dial gauge between the crank webs measures opening and closing as the crank turns. Excess deflection points to misalignment."
+  },
+  {
+    "id": "engine-eng-011",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "easy",
+    "question": "The main purpose of a charge air cooler is to:",
+    "options": [
+      "Heat the air for easier starting",
+      "Cool the lubricating oil",
+      "Raise the density of the charge air so more oxygen enters each cylinder",
+      "Clean the exhaust gas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cooler, denser air allows more fuel to be burned efficiently and lowers thermal load."
+  },
+  {
+    "id": "engine-eng-012",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "medium",
+    "question": "Typical main engine starting air receiver pressure is about:",
+    "options": [
+      "300 bar",
+      "30 bar",
+      "7 bar",
+      "3 bar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Receivers must hold enough air for a set number of consecutive starts (for example 12 for a reversible engine) without recharging."
+  },
+  {
+    "id": "engine-eng-013",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "hard",
+    "question": "A common cause of a starting air line explosion is:",
+    "options": [
+      "A low fuel oil level",
+      "Low ambient temperature",
+      "A leaking cylinder starting valve letting hot combustion gas into a line with oil deposits",
+      "Too much cooling water"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prevent it by draining the lines, keeping oil out of the compressed air and maintaining start valves. Flame arresters or bursting discs are fitted."
+  },
+  {
+    "id": "engine-eng-014",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "medium",
+    "question": "The compression ratio of a diesel engine is:",
+    "options": [
+      "Bore divided by stroke",
+      "Maximum pressure divided by atmospheric pressure",
+      "Fuel volume divided by air volume",
+      "Total cylinder volume at BDC divided by the clearance volume at TDC"
+    ],
+    "correctIndex": 3,
+    "explanation": "A high compression ratio gives the temperature needed for compression ignition."
+  },
+  {
+    "id": "engine-eng-015",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "easy",
+    "question": "The main function of an engine governor is to:",
+    "options": [
+      "Measure fuel consumption",
+      "Start the engine automatically",
+      "Keep engine speed steady as load changes by adjusting the fuel supply",
+      "Control cooling water temperature"
+    ],
+    "correctIndex": 2,
+    "explanation": "It also provides overspeed protection together with a separate overspeed trip."
+  },
+  {
+    "id": "engine-eng-016",
+    "department": "engine",
+    "category": "main-auxiliary-engines",
+    "difficulty": "easy",
+    "question": "Fuel in a diesel engine ignites because of:",
+    "options": [
+      "The heat of compression",
+      "A spark plug",
+      "Exhaust gas heat",
+      "A glow plug at all loads"
+    ],
+    "correctIndex": 0,
+    "explanation": "Air compressed to a high ratio becomes hot enough to ignite injected fuel."
+  }
+]

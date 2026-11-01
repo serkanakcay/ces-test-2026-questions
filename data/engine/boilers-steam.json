@@ -1,0 +1,227 @@
+[
+  {
+    "id": "engine-blr-001",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "In a water-tube boiler:",
+    "options": [
+      "Steam flows inside the tubes only",
+      "There are no tubes",
+      "Hot gases flow inside the tubes and water surrounds them",
+      "Water flows inside the tubes and hot gases pass around the outside"
+    ],
+    "correctIndex": 3,
+    "explanation": "Water-tube boilers suit higher pressures and outputs. In fire-tube boilers the gases pass through the tubes."
+  },
+  {
+    "id": "engine-blr-002",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "The main purpose of a boiler safety valve is to:",
+    "options": [
+      "Control the burner",
+      "Stop the pressure going above the maximum allowed working pressure",
+      "Control the water level",
+      "Drain sludge"
+    ],
+    "correctIndex": 1,
+    "explanation": "Safety valves must be set and sealed by a surveyor and tested regularly with the easing gear."
+  },
+  {
+    "id": "engine-blr-003",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Blowing down the water gauge glass checks that:",
+    "options": [
+      "The steam and water connections are clear and the level shown is true",
+      "The feed pump is running",
+      "The burner is working",
+      "The safety valve is set"
+    ],
+    "correctIndex": 0,
+    "explanation": "A blocked connection can show a false level, which is very dangerous."
+  },
+  {
+    "id": "engine-blr-004",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Very low water level in a boiler is dangerous because:",
+    "options": [
+      "Steam pressure will fall to zero",
+      "Fuel consumption goes up slightly",
+      "The safety valve will lift",
+      "The tubes and furnace can overheat and fail"
+    ],
+    "correctIndex": 3,
+    "explanation": "If the level is lost from the glass, shut off the fuel at once. Do not add feed water until the boiler has cooled and been inspected."
+  },
+  {
+    "id": "engine-blr-005",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Boiler water treatment is used to:",
+    "options": [
+      "Prevent scale, corrosion and foaming or carry-over",
+      "Lubricate the feed pump",
+      "Make the water drinkable",
+      "Increase the steam temperature"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chemicals control alkalinity, hardness, phosphate and dissolved oxygen. Samples are tested regularly."
+  },
+  {
+    "id": "engine-blr-006",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Priming or carry-over of water with the steam is most likely caused by:",
+    "options": [
+      "Low water level",
+      "Clean boiler water",
+      "Low burner output",
+      "High water level, high dissolved solids or a sudden increase in steam demand"
+    ],
+    "correctIndex": 3,
+    "explanation": "Carry-over can damage turbines and cause water hammer in steam lines."
+  },
+  {
+    "id": "engine-blr-007",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Bottom blowdown of a boiler is done to:",
+    "options": [
+      "Remove sludge and deposits from the lowest part of the boiler",
+      "Raise steam pressure",
+      "Remove floating oil from the surface",
+      "Test the safety valve"
+    ],
+    "correctIndex": 0,
+    "explanation": "It is usually done at low load, and the valves must be operated carefully."
+  },
+  {
+    "id": "engine-blr-008",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Scum (surface) blowdown is used to:",
+    "options": [
+      "Drain the economiser",
+      "Clean the furnace",
+      "Remove floating impurities and reduce dissolved solids near the water surface",
+      "Remove sludge from the bottom"
+    ],
+    "correctIndex": 2,
+    "explanation": "This helps prevent foaming and carry-over."
+  },
+  {
+    "id": "engine-blr-009",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "hard",
+    "question": "Before lighting an oil-fired boiler, the furnace must be:",
+    "options": [
+      "Sprayed with fuel to warm it",
+      "Filled with steam",
+      "Purged with air to remove any combustible vapour",
+      "Left closed with no air"
+    ],
+    "correctIndex": 2,
+    "explanation": "Not purging can lead to a furnace explosion. Automatic burner management systems enforce a purge period."
+  },
+  {
+    "id": "engine-blr-010",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Exhaust gas economiser fires are usually caused by:",
+    "options": [
+      "High steam pressure",
+      "Soot deposits igniting, often at low load",
+      "Too much feed water",
+      "Low sea water temperature"
+    ],
+    "correctIndex": 1,
+    "explanation": "Regular soot blowing and keeping water circulating help to prevent them."
+  },
+  {
+    "id": "engine-blr-011",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "A steam trap is used to:",
+    "options": [
+      "Increase steam pressure",
+      "Measure steam flow",
+      "Superheat the steam",
+      "Remove condensate and air while keeping steam in the system"
+    ],
+    "correctIndex": 3,
+    "explanation": "A failed-open trap wastes steam; a failed-closed trap floods the equipment with condensate."
+  },
+  {
+    "id": "engine-blr-012",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Chemicals such as hydrazine or sodium sulphite are added to boiler feed water to:",
+    "options": [
+      "Reduce pH to acidic levels",
+      "Increase hardness",
+      "Remove dissolved oxygen and prevent corrosion",
+      "Remove oil"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oxygen pitting is a major cause of boiler tube failure."
+  },
+  {
+    "id": "engine-blr-013",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "hard",
+    "question": "Auxiliary boiler water is normally kept:",
+    "options": [
+      "Neutral, exactly pH 7",
+      "Alkaline, typically pH around 9.5 to 11",
+      "Strongly acidic, around pH 2",
+      "Acidic, around pH 4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alkaline water protects steel. Exact limits depend on the treatment program and boiler type."
+  },
+  {
+    "id": "engine-blr-014",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "The flame failure device on a burner:",
+    "options": [
+      "Increases fuel pressure",
+      "Controls water level",
+      "Shuts off the fuel supply if the flame goes out",
+      "Re-lights the flame automatically with fuel flowing"
+    ],
+    "correctIndex": 2,
+    "explanation": "A photocell or UV detector monitors the flame. Fuel flowing into a hot furnace without a flame is an explosion risk."
+  },
+  {
+    "id": "engine-blr-015",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Superheated steam is steam that:",
+    "options": [
+      "Contains water droplets",
+      "Has been heated above the saturation temperature for its pressure",
+      "Is at the saturation temperature",
+      "Is at atmospheric pressure only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Superheated steam carries more energy and is dry, which suits turbines."
+  }
+]

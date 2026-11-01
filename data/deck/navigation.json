@@ -1,0 +1,242 @@
+[
+  {
+    "id": "deck-nav-001",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "How long is one international nautical mile?",
+    "options": [
+      "1,000 metres",
+      "1,852 metres",
+      "2,000 metres",
+      "1,609 metres"
+    ],
+    "correctIndex": 1,
+    "explanation": "The international nautical mile is defined as exactly 1,852 m, roughly one minute of arc of latitude."
+  },
+  {
+    "id": "deck-nav-002",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "A speed of one knot means:",
+    "options": [
+      "One statute mile per hour",
+      "One kilometre per hour",
+      "One nautical mile per hour",
+      "One nautical mile per minute"
+    ],
+    "correctIndex": 2,
+    "explanation": "A knot is a unit of speed equal to one nautical mile (1,852 m) per hour."
+  },
+  {
+    "id": "deck-nav-003",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "True course 090°, variation 5°W, deviation 2°E. What is the compass course to steer?",
+    "options": [
+      "097°",
+      "093°",
+      "087°",
+      "083°"
+    ],
+    "correctIndex": 1,
+    "explanation": "From true to compass, westerly errors are added and easterly errors subtracted: 090 + 5 (W) = 095 magnetic; 095 - 2 (E) = 093 compass."
+  },
+  {
+    "id": "deck-nav-004",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "Which chart projection shows a rhumb line as a straight line and is used for most navigational charts?",
+    "options": [
+      "Mercator projection",
+      "Polar stereographic projection",
+      "Gnomonic projection",
+      "Lambert conformal conic projection"
+    ],
+    "correctIndex": 0,
+    "explanation": "On a Mercator chart meridians and parallels are straight and perpendicular, so a line of constant course (rhumb line) is straight."
+  },
+  {
+    "id": "deck-nav-005",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "What is a line joining places of equal magnetic variation called?",
+    "options": [
+      "Agonic contour",
+      "Isotherm",
+      "Isogonic line",
+      "Isobar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Isogonic lines connect points of equal variation. The agonic line is a special case where variation is zero."
+  },
+  {
+    "id": "deck-nav-006",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "A vessel steams at 12 knots for 2 hours 15 minutes. How far does she run?",
+    "options": [
+      "24 nautical miles",
+      "30 nautical miles",
+      "27 nautical miles",
+      "26.5 nautical miles"
+    ],
+    "correctIndex": 2,
+    "explanation": "Distance = speed x time = 12 kn x 2.25 h = 27 NM."
+  },
+  {
+    "id": "deck-nav-007",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "Under the IALA Region A buoyage system, a port-hand lateral mark is:",
+    "options": [
+      "Black and yellow with two cones",
+      "Red and white vertical stripes",
+      "Red, can-shaped or pillar, with a red can topmark if fitted",
+      "Green, conical, with a green cone topmark"
+    ],
+    "correctIndex": 2,
+    "explanation": "In IALA Region A, port-hand marks are red (can shape) and starboard-hand marks are green (conical), relative to the conventional direction of buoyage."
+  },
+  {
+    "id": "deck-nav-008",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "What is the topmark of a WEST cardinal mark?",
+    "options": [
+      "Two black cones, both pointing up",
+      "Two black cones, points together",
+      "Two black cones, both pointing down",
+      "Two black cones, bases together"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cardinal topmarks: North both up, South both down, East base-to-base, West point-to-point. Safe water lies to the west of a west cardinal mark."
+  },
+  {
+    "id": "deck-nav-009",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "An isolated danger mark is painted:",
+    "options": [
+      "Red and white vertical stripes with a red sphere topmark",
+      "Green with a green cone topmark",
+      "Black with one or more broad red horizontal bands, with two black spheres as topmark",
+      "Yellow with a yellow X topmark"
+    ],
+    "correctIndex": 2,
+    "explanation": "An isolated danger mark is erected on a danger of limited extent with navigable water all around; its light, if any, is white, Fl(2)."
+  },
+  {
+    "id": "deck-nav-010",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "Squat in shallow water increases approximately:",
+    "options": [
+      "Only when the ship is stopped",
+      "Linearly with the depth of water",
+      "With the square of the ship's speed through the water",
+      "In inverse proportion to the block coefficient"
+    ],
+    "correctIndex": 2,
+    "explanation": "Squat is roughly proportional to the block coefficient and to speed squared, so reducing speed is the most effective way to reduce it."
+  },
+  {
+    "id": "deck-nav-011",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "When fixing position by two cross bearings, the ideal angle between the position lines is:",
+    "options": [
+      "150°",
+      "90°",
+      "180°",
+      "30°"
+    ],
+    "correctIndex": 1,
+    "explanation": "A cut of 90° minimises the effect of a bearing error on the fix; angles below 30° or above 150° give poor fixes."
+  },
+  {
+    "id": "deck-nav-012",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "Spring tides occur:",
+    "options": [
+      "At first and last quarter of the moon",
+      "Only at the equinoxes",
+      "Shortly after new moon and full moon",
+      "When the moon is at its greatest declination only"
+    ],
+    "correctIndex": 2,
+    "explanation": "When sun and moon are aligned (new and full moon), their tide-raising forces combine, producing the largest tidal range."
+  },
+  {
+    "id": "deck-nav-013",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "In radar plotting, 'CPA' stands for:",
+    "options": [
+      "Calculated Position Accuracy",
+      "Collision Position Alert",
+      "Course Plotted Ahead",
+      "Closest Point of Approach"
+    ],
+    "correctIndex": 3,
+    "explanation": "CPA is the minimum predicted distance between own ship and a target if both maintain course and speed; TCPA is the time to reach it."
+  },
+  {
+    "id": "deck-nav-014",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "The main advantage of great circle sailing is that it gives:",
+    "options": [
+      "The shortest distance between two points on the earth's surface",
+      "Calmer weather on the route",
+      "A route that always stays south of the rhumb line",
+      "A constant course throughout the passage"
+    ],
+    "correctIndex": 0,
+    "explanation": "A great circle is the shortest path on a sphere, but the course changes continuously, so it is usually sailed as a series of rhumb lines."
+  },
+  {
+    "id": "deck-nav-015",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "According to IMO guidelines, the four stages of passage planning are:",
+    "options": [
+      "Briefing, sailing, arrival and debriefing",
+      "Appraisal, planning, execution and monitoring",
+      "Charting, plotting, steering and logging",
+      "Loading, sailing, berthing and reporting"
+    ],
+    "correctIndex": 1,
+    "explanation": "IMO Resolution A.893(21) sets out appraisal, planning, execution and monitoring as the stages of berth-to-berth passage planning."
+  },
+  {
+    "id": "deck-nav-016",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "Before relying on ECDIS as the primary means of navigation, the vessel must use:",
+    "options": [
+      "Official ENCs, up to date, with an appropriate backup arrangement",
+      "Any electronic chart downloaded from the internet",
+      "Raster charts only, with no backup",
+      "The radar overlay alone"
+    ],
+    "correctIndex": 0,
+    "explanation": "ECDIS meets SOLAS chart carriage requirements only when using up-to-date official charts (ENCs) and with an approved backup arrangement."
+  }
+]

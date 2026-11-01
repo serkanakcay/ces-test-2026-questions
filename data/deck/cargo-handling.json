@@ -1,0 +1,227 @@
+[
+  {
+    "id": "deck-crg-001",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "Stowage factor is:",
+    "options": [
+      "The maximum number of tiers of containers",
+      "The volume occupied by one tonne of cargo, including normal broken stowage",
+      "The weight of cargo per hold",
+      "The density of sea water"
+    ],
+    "correctIndex": 1,
+    "explanation": "Usually expressed in m³/t or ft³/LT; used to work out how much cargo a space can hold."
+  },
+  {
+    "id": "deck-crg-002",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "Broken stowage is:",
+    "options": [
+      "Space in a cargo compartment lost because of the shape of packages and the structure",
+      "Cargo damaged during loading",
+      "An unsafe stowage method",
+      "Cargo stowed on deck"
+    ],
+    "correctIndex": 0,
+    "explanation": "It is usually given as a percentage and is higher for irregular packages and shaped holds."
+  },
+  {
+    "id": "deck-crg-003",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "The IMDG Code applies to:",
+    "options": [
+      "Solid bulk cargoes",
+      "Crude oil in bulk",
+      "Dangerous goods carried in packaged form",
+      "Grain in bulk"
+    ],
+    "correctIndex": 2,
+    "explanation": "The International Maritime Dangerous Goods Code covers classification, packing, marking, labelling and segregation of packaged dangerous goods."
+  },
+  {
+    "id": "deck-crg-004",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "Which code sets the stability requirements for ships carrying grain in bulk?",
+    "options": [
+      "The IMDG Code",
+      "The International Grain Code",
+      "The IBC Code",
+      "The ISPS Code"
+    ],
+    "correctIndex": 1,
+    "explanation": "It requires the ship to withstand assumed grain-shift heeling moments, with a maximum heel of 12° (or less in some cases)."
+  },
+  {
+    "id": "deck-crg-005",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "Under the IMSBC Code, Group A cargoes are those that:",
+    "options": [
+      "Have chemical hazards only",
+      "May liquefy if shipped at a moisture content above their Transportable Moisture Limit",
+      "Are always carried in containers",
+      "Are neither liquefiable nor chemically hazardous"
+    ],
+    "correctIndex": 1,
+    "explanation": "Group A cargoes (for example some mineral concentrates) need a TML certificate and moisture declaration before loading."
+  },
+  {
+    "id": "deck-crg-006",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "Ship's sweat (condensation on the steel structure) is most likely when:",
+    "options": [
+      "The hold is completely dry",
+      "The ship moves from a warm region to a cold region with warm, moist air in the hold",
+      "The ship moves from a cold region to a warm region with cold cargo",
+      "The cargo is stowed on deck"
+    ],
+    "correctIndex": 1,
+    "explanation": "Warm humid air in the hold meets steel cooled by the colder sea and air, below the dew point, so moisture condenses on the structure."
+  },
+  {
+    "id": "deck-crg-007",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "Which methods are used to test hatch covers for weathertightness?",
+    "options": [
+      "A megger test",
+      "A hydrostatic pressure test of the hold",
+      "A dye-penetrant test of the cargo",
+      "An ultrasonic test or a hose test"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ultrasonic testing is common because it can be done with cargo on board and does not wet the cargo."
+  },
+  {
+    "id": "deck-crg-008",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "The SWL marked on lifting gear is:",
+    "options": [
+      "The breaking load of the wire",
+      "The maximum load the gear is certified to lift safely",
+      "The weight of the gear itself",
+      "The test load used at proof testing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gear is proof tested above its SWL, and it must never be loaded beyond it."
+  },
+  {
+    "id": "deck-crg-009",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "On a tanker with an inert gas system, oxygen content in the cargo tanks should be kept at:",
+    "options": [
+      "Not more than 21% by volume",
+      "Exactly 15% by volume",
+      "Not less than 11% by volume",
+      "Not more than 8% by volume"
+    ],
+    "correctIndex": 3,
+    "explanation": "Below about 11% oxygen most hydrocarbon atmospheres cannot burn; SOLAS requires 8% or less to give a safety margin, with positive pressure."
+  },
+  {
+    "id": "deck-crg-010",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "Crude oil washing (COW) is carried out:",
+    "options": [
+      "At sea after discharge, using hot fresh water",
+      "Only in dry dock",
+      "During loading, using sea water",
+      "During discharge, using the crude oil cargo itself as the washing medium"
+    ],
+    "correctIndex": 3,
+    "explanation": "COW reduces residues on board and must be done with an inerted tank atmosphere under an approved COW manual."
+  },
+  {
+    "id": "deck-crg-011",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "Every ship carrying cargo units must have a Cargo Securing Manual that is:",
+    "options": [
+      "Optional for container ships",
+      "Written by the charterer for each voyage",
+      "Issued by the port state",
+      "Approved by the Administration and specific to the ship"
+    ],
+    "correctIndex": 3,
+    "explanation": "Required by SOLAS chapters VI and VII and based on IMO guidelines."
+  },
+  {
+    "id": "deck-crg-012",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "Before a reefer container is loaded, a pre-trip inspection (PTI) confirms that:",
+    "options": [
+      "The customs seal is broken",
+      "The container is empty",
+      "The cargo has been weighed",
+      "The refrigeration unit works correctly and holds the set temperature"
+    ],
+    "correctIndex": 3,
+    "explanation": "Monitor reefer temperatures regularly at sea and record them in the reefer log."
+  },
+  {
+    "id": "deck-crg-013",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "Under SOLAS, a packed container may not be loaded unless:",
+    "options": [
+      "It is stowed below deck",
+      "It has been opened for inspection by the crew",
+      "Its Verified Gross Mass (VGM) has been provided to the master or terminal",
+      "It has been fumigated"
+    ],
+    "correctIndex": 2,
+    "explanation": "SOLAS Ch. VI Reg. 2 places the VGM requirement on the shipper."
+  },
+  {
+    "id": "deck-crg-014",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "The main purpose of dunnage is to:",
+    "options": [
+      "Protect cargo, help ventilation and drainage, and prevent shifting",
+      "Increase the ship's GM",
+      "Count the cargo",
+      "Seal the hatch covers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dunnage can be timber, mats, airbags or other materials placed between cargo and structure."
+  },
+  {
+    "id": "deck-crg-015",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "Container stack weights must not exceed the limit given in the:",
+    "options": [
+      "Ship's Cargo Securing Manual and stowage/stability documentation",
+      "Bill of lading",
+      "Charter party",
+      "Crew list"
+    ],
+    "correctIndex": 0,
+    "explanation": "Overweight stacks overload lashings and corner posts, especially in heavy rolling."
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "engine-ref-001",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "The four main components of a vapour compression refrigeration cycle are:",
+    "options": [
+      "Boiler, turbine, condenser and pump",
+      "Pump, heater, valve and tank",
+      "Compressor, boiler, cooler and filter",
+      "Compressor, condenser, expansion valve and evaporator"
+    ],
+    "correctIndex": 3,
+    "explanation": "The refrigerant absorbs heat in the evaporator and rejects it in the condenser."
+  },
+  {
+    "id": "engine-ref-002",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "In the evaporator, the refrigerant:",
+    "options": [
+      "Is compressed to high pressure",
+      "Rejects heat and condenses",
+      "Is filtered and dried",
+      "Absorbs heat and boils at low pressure"
+    ],
+    "correctIndex": 3,
+    "explanation": "This absorbed heat is what cools the refrigerated space."
+  },
+  {
+    "id": "engine-ref-003",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "A thermostatic expansion valve (TEV) controls:",
+    "options": [
+      "Compressor speed",
+      "Oil level in the crankcase",
+      "Condenser cooling water flow",
+      "Refrigerant flow to the evaporator to keep a set superheat at the outlet"
+    ],
+    "correctIndex": 3,
+    "explanation": "Its sensing bulb at the evaporator outlet responds to the temperature of the suction gas."
+  },
+  {
+    "id": "engine-ref-004",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "In a ship's provision refrigeration plant, the condenser usually rejects heat to:",
+    "options": [
+      "The fuel oil system",
+      "The refrigerated rooms",
+      "The evaporator",
+      "Sea water"
+    ],
+    "correctIndex": 3,
+    "explanation": "Air-cooled condensers are used on some smaller units."
+  },
+  {
+    "id": "engine-ref-005",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Low compressor suction pressure may be caused by:",
+    "options": [
+      "High room temperature",
+      "Too much refrigerant",
+      "Low refrigerant charge, an iced evaporator or a blocked expansion valve",
+      "Too much condenser cooling water"
+    ],
+    "correctIndex": 2,
+    "explanation": "Not enough refrigerant reaches the evaporator, so suction pressure falls."
+  },
+  {
+    "id": "engine-ref-006",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "High compressor discharge pressure is often caused by:",
+    "options": [
+      "A frozen evaporator",
+      "Fouled condenser tubes, low cooling water flow or air in the system",
+      "A low refrigerant charge",
+      "Low room temperature"
+    ],
+    "correctIndex": 1,
+    "explanation": "Condensing pressure rises when heat cannot be rejected effectively."
+  },
+  {
+    "id": "engine-ref-007",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Air and other non-condensable gases in a refrigeration system are usually purged from:",
+    "options": [
+      "The top of the condenser or receiver",
+      "The compressor crankcase",
+      "The bottom of the evaporator",
+      "The expansion valve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Non-condensables collect where the refrigerant condenses and raise the head pressure."
+  },
+  {
+    "id": "engine-ref-008",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Moisture in a refrigeration system can cause:",
+    "options": [
+      "Ice blocking the expansion valve, and acid that corrodes parts",
+      "Improved oil lubrication",
+      "Better cooling",
+      "Lower discharge pressure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Filter driers remove moisture, and systems are evacuated before charging."
+  },
+  {
+    "id": "engine-ref-009",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Bubbles seen in the liquid-line sight glass during steady running usually mean:",
+    "options": [
+      "The oil level is high",
+      "The condenser is too cold",
+      "The system is overcharged",
+      "The system is short of refrigerant"
+    ],
+    "correctIndex": 3,
+    "explanation": "Flash gas forms when the liquid line is not fully filled with liquid. Check for leaks before adding refrigerant."
+  },
+  {
+    "id": "engine-ref-010",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "hard",
+    "question": "Superheat at the evaporator outlet is:",
+    "options": [
+      "The temperature difference across the compressor",
+      "The liquid temperature below saturation",
+      "The temperature of the condenser cooling water",
+      "The temperature of the vapour above its saturation temperature at the same pressure"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct superheat (often around 4-8 K) makes sure only vapour returns to the compressor."
+  },
+  {
+    "id": "engine-ref-011",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Evaporator coils are defrosted regularly because:",
+    "options": [
+      "Ice reduces heat transfer and airflow",
+      "It cleans the condenser",
+      "Ice improves cooling",
+      "Defrosting adds refrigerant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Defrosting methods include electric heaters, hot gas and water spray."
+  },
+  {
+    "id": "engine-ref-012",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Compared with R-22, the refrigerant R-134a:",
+    "options": [
+      "Is a CFC",
+      "Is banned under MARPOL Annex VI",
+      "Has zero ozone depletion potential",
+      "Has a higher ozone depletion potential"
+    ],
+    "correctIndex": 2,
+    "explanation": "R-134a is an HFC. It is not ozone-depleting but does have a significant global warming potential."
+  },
+  {
+    "id": "engine-ref-013",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "hard",
+    "question": "Liquid refrigerant returning to a reciprocating compressor (liquid slugging) can:",
+    "options": [
+      "Reduce the discharge temperature without risk",
+      "Damage valves and other parts, since liquid cannot be compressed",
+      "Lubricate the cylinders",
+      "Improve compressor efficiency"
+    ],
+    "correctIndex": 1,
+    "explanation": "It usually comes from a flooding expansion valve, low superheat or an overcharge."
+  },
+  {
+    "id": "engine-ref-014",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "In an indirect (secondary) refrigeration system, brine is used as:",
+    "options": [
+      "A secondary refrigerant that carries heat from the cargo spaces to the evaporator",
+      "Condenser cooling water",
+      "Lubricating oil",
+      "The main refrigerant in the compressor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Indirect systems keep the main refrigerant out of the cargo spaces."
+  },
+  {
+    "id": "engine-ref-015",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "An oil separator in the compressor discharge line:",
+    "options": [
+      "Controls the condenser pressure",
+      "Removes moisture",
+      "Adds oil to the refrigerant",
+      "Removes lubricating oil from the hot gas and returns it to the crankcase"
+    ],
+    "correctIndex": 3,
+    "explanation": "Oil carried into the system reduces heat transfer in the condenser and evaporator."
+  }
+]

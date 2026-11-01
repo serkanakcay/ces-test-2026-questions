@@ -1,0 +1,227 @@
+[
+  {
+    "id": "deck-mar-001",
+    "department": "deck",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "MARPOL Annex I covers pollution by:",
+    "options": [
+      "Sewage",
+      "Oil",
+      "Air emissions",
+      "Garbage"
+    ],
+    "correctIndex": 1,
+    "explanation": "Annex I: oil; II: noxious liquid substances in bulk; III: harmful packaged substances; IV: sewage; V: garbage; VI: air pollution."
+  },
+  {
+    "id": "deck-mar-002",
+    "department": "deck",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "MARPOL Annex V regulates:",
+    "options": [
+      "Ballast water",
+      "Garbage from ships",
+      "Anti-fouling paint",
+      "Oil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Annex V generally prohibits discharge of garbage at sea, with limited exceptions such as food waste beyond set distances."
+  },
+  {
+    "id": "deck-mar-003",
+    "department": "deck",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Outside special areas, an oil tanker may discharge oily cargo residue only if, among other conditions, the instantaneous rate does not exceed:",
+    "options": [
+      "15 litres per nautical mile",
+      "60 litres per nautical mile",
+      "30 litres per nautical mile",
+      "100 litres per nautical mile"
+    ],
+    "correctIndex": 2,
+    "explanation": "The tanker must also be more than 50 NM from land, en route, with ODME in operation, and the total discharged must be within the permitted fraction of cargo."
+  },
+  {
+    "id": "deck-mar-004",
+    "department": "deck",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Oil Record Book Part II on tankers records:",
+    "options": [
+      "Sewage discharge",
+      "Garbage disposal",
+      "Cargo and ballast operations",
+      "Machinery space operations"
+    ],
+    "correctIndex": 2,
+    "explanation": "Part I covers machinery space operations on all ships."
+  },
+  {
+    "id": "deck-mar-005",
+    "department": "deck",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "Since 1 January 2020, the global limit on fuel oil sulphur content outside ECAs is:",
+    "options": [
+      "3.50% m/m",
+      "0.50% m/m",
+      "0.10% m/m",
+      "1.00% m/m"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inside SOx Emission Control Areas the limit is 0.10% m/m, unless an approved equivalent such as a scrubber is used."
+  },
+  {
+    "id": "deck-mar-006",
+    "department": "deck",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "Discharge of plastics into the sea is:",
+    "options": [
+      "Prohibited in all sea areas",
+      "Allowed beyond 12 NM",
+      "Allowed outside special areas",
+      "Allowed if shredded"
+    ],
+    "correctIndex": 0,
+    "explanation": "MARPOL Annex V bans plastics at sea, including synthetic ropes, nets and plastic garbage bags."
+  },
+  {
+    "id": "deck-mar-007",
+    "department": "deck",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Outside special areas, comminuted food waste (25 mm or less) may be discharged no closer to the nearest land than:",
+    "options": [
+      "200 nautical miles",
+      "25 nautical miles",
+      "Any distance",
+      "3 nautical miles, while en route"
+    ],
+    "correctIndex": 3,
+    "explanation": "Food waste that has not been comminuted needs at least 12 NM. Special areas have stricter rules."
+  },
+  {
+    "id": "deck-mar-008",
+    "department": "deck",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "The D-2 standard of the Ballast Water Management Convention is a:",
+    "options": [
+      "Performance standard limiting viable organisms in discharged ballast water",
+      "Standard for sewage treatment",
+      "Ballast exchange standard requiring 95% volumetric exchange",
+      "Standard for ballast tank coatings"
+    ],
+    "correctIndex": 0,
+    "explanation": "D-1 is ballast water exchange. D-2 is normally met with an approved treatment system."
+  },
+  {
+    "id": "deck-mar-009",
+    "department": "deck",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "SOPEP stands for:",
+    "options": [
+      "Standard Oil Pumping and Emptying Plan",
+      "Safety Officer Pollution Equipment Program",
+      "Shipboard Oil Pollution Emergency Plan",
+      "Ship Operational Pollution Enforcement Procedure"
+    ],
+    "correctIndex": 2,
+    "explanation": "Required by MARPOL Annex I for oil tankers of 150 GT and above and other ships of 400 GT and above."
+  },
+  {
+    "id": "deck-mar-010",
+    "department": "deck",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "The Garbage Record Book must be kept on board for at least:",
+    "options": [
+      "Five years",
+      "Two years after the last entry",
+      "Six months",
+      "Until the next dry dock"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entries include date, time, position, garbage category and estimated amount discharged or incinerated."
+  },
+  {
+    "id": "deck-mar-011",
+    "department": "deck",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "MARPOL Annex IV covers:",
+    "options": [
+      "Oil",
+      "Air pollution",
+      "Garbage",
+      "Sewage"
+    ],
+    "correctIndex": 3,
+    "explanation": "Annex IV regulates sewage discharge and requires approved treatment plants, comminuting systems or holding tanks."
+  },
+  {
+    "id": "deck-mar-012",
+    "department": "deck",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Oil Record Books must be kept on board, readily available for inspection, for:",
+    "options": [
+      "Three years after the last entry",
+      "Ten years",
+      "Six months",
+      "One year"
+    ],
+    "correctIndex": 0,
+    "explanation": "Each completed operation is signed by the officer in charge and each page by the master."
+  },
+  {
+    "id": "deck-mar-013",
+    "department": "deck",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "CII, introduced under MARPOL Annex VI, stands for:",
+    "options": [
+      "Cargo Inspection Index",
+      "Coastal Impact Indicator",
+      "Combustion Improvement Index",
+      "Carbon Intensity Indicator"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ships are rated A-E each year based on operational CO2 emissions per transport work."
+  },
+  {
+    "id": "deck-mar-014",
+    "department": "deck",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Under MARPOL Annex VI, new installations containing ozone-depleting substances such as CFCs are:",
+    "options": [
+      "Permitted if recorded",
+      "Permitted outside ECAs",
+      "Prohibited",
+      "Required for reefer ships"
+    ],
+    "correctIndex": 2,
+    "explanation": "HCFCs were allowed in new installations only until 1 January 2020."
+  },
+  {
+    "id": "deck-mar-015",
+    "department": "deck",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "The Ballast Water Record Book must record:",
+    "options": [
+      "Each ballast uptake, treatment, exchange and discharge, with dates, positions and volumes",
+      "Only ballast discharged in port",
+      "Only ballast exchanged at night",
+      "Fuel consumption"
+    ],
+    "correctIndex": 0,
+    "explanation": "The ship must also carry an approved Ballast Water Management Plan."
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "engine-mgt-001",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "UMS stands for:",
+    "options": [
+      "Unattended Machinery Space",
+      "Unit Monitoring Station",
+      "Underwater Machinery Survey",
+      "Universal Maintenance System"
+    ],
+    "correctIndex": 0,
+    "explanation": "In UMS mode, alarms are relayed to the duty engineer and the bridge, and the engine room is unattended for set periods."
+  },
+  {
+    "id": "engine-mgt-002",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Before taking over an engine room watch, the incoming engineer should:",
+    "options": [
+      "Only sign the log",
+      "Accept the watch without checking if relieving a senior engineer",
+      "Wait until the watch has started to check things",
+      "Check machinery status, standing and special orders, alarms, tank levels and work in progress"
+    ],
+    "correctIndex": 3,
+    "explanation": "STCW Code section A-VIII/2 sets out what to check when taking over a watch."
+  },
+  {
+    "id": "engine-mgt-003",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "The Chief Engineer's standing orders are:",
+    "options": [
+      "Port state control reports",
+      "The crew roster only",
+      "Purchase orders for spares",
+      "Written instructions to watchkeeping engineers on how to run the engine room safely"
+    ],
+    "correctIndex": 3,
+    "explanation": "Watchkeepers read and sign them, together with any night orders."
+  },
+  {
+    "id": "engine-mgt-004",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "A Planned Maintenance System (PMS) schedules maintenance based on:",
+    "options": [
+      "Running hours or calendar intervals, plus manufacturer and class requirements",
+      "The crew's spare time",
+      "Only breakdowns",
+      "The voyage cargo"
+    ],
+    "correctIndex": 0,
+    "explanation": "PMS is part of the ISM Safety Management System and is checked during audits."
+  },
+  {
+    "id": "engine-mgt-005",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Condition-based maintenance uses:",
+    "options": [
+      "Monitoring data such as vibration analysis, oil analysis and temperatures to decide when maintenance is needed",
+      "Maintenance only after failure",
+      "Fixed intervals only",
+      "Random inspections"
+    ],
+    "correctIndex": 0,
+    "explanation": "It can reduce unnecessary overhauls and find faults before they cause failures."
+  },
+  {
+    "id": "engine-mgt-006",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "During bunkering, fuel tanks should normally not be filled above about:",
+    "options": [
+      "110% of capacity",
+      "100% of capacity",
+      "90% of capacity",
+      "50% of capacity"
+    ],
+    "correctIndex": 2,
+    "explanation": "Space for expansion and good monitoring of soundings help prevent overflows and pollution."
+  },
+  {
+    "id": "engine-mgt-007",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "The 'dead man' alarm in the engine room:",
+    "options": [
+      "Raises an alarm if an engineer alone in the machinery space does not acknowledge it within a set time",
+      "Stops the main engine",
+      "Monitors bilge level",
+      "Detects fire"
+    ],
+    "correctIndex": 0,
+    "explanation": "It is used during UMS when an engineer attends an alarm alone."
+  },
+  {
+    "id": "engine-mgt-008",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "STCW requirements for engine room watchkeeping are mainly found in:",
+    "options": [
+      "The ISPS Code part B",
+      "SOLAS chapter V",
+      "STCW Code section A-VIII/2",
+      "MARPOL Annex VI"
+    ],
+    "correctIndex": 2,
+    "explanation": "It covers watch arrangements, taking over, performing and handing over the watch."
+  },
+  {
+    "id": "engine-mgt-009",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Fuel oil purifier gravity disc size is chosen based on:",
+    "options": [
+      "Engine power",
+      "Fuel density at the separating temperature",
+      "The ship's draught",
+      "Ambient temperature only"
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct disc places the oil/water interface correctly in the bowl. Modern clarifier-type systems may not need gravity discs."
+  },
+  {
+    "id": "engine-mgt-010",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "hard",
+    "question": "After a blackout, the first priority is to:",
+    "options": [
+      "Shut down all generators",
+      "Restore power safely by starting and connecting a generator, while emergency power keeps essential services running",
+      "Leave the engine room",
+      "Restart the main engine before anything else"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inform the bridge, find the cause, restore auxiliaries in sequence and restart the main engine when it is safe."
+  },
+  {
+    "id": "engine-mgt-011",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "A shipboard risk assessment combines:",
+    "options": [
+      "The time the job takes",
+      "The number of crew on board",
+      "The likelihood of a hazard causing harm with how severe the harm would be",
+      "Only the cost of the job"
+    ],
+    "correctIndex": 2,
+    "explanation": "Control measures should reduce risk to an acceptable level before work starts."
+  },
+  {
+    "id": "engine-mgt-012",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Regular lubricating oil analysis can detect:",
+    "options": [
+      "Fuel sulphur content",
+      "Sea water salinity",
+      "Exhaust gas NOx content",
+      "Wear metals, water, fuel dilution and contamination"
+    ],
+    "correctIndex": 3,
+    "explanation": "Trends in results help predict bearing wear and other problems."
+  },
+  {
+    "id": "engine-mgt-013",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Critical spare parts on board should be:",
+    "options": [
+      "Identified, stocked at the required minimum and checked in the inventory",
+      "Stored in the accommodation",
+      "Thrown away after inspection",
+      "Ordered only after a failure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Critical equipment is identified under the ISM Code. Spares support safe operation."
+  },
+  {
+    "id": "engine-mgt-014",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "When the bridge requests 'stand by engines' for port entry, the engine room should:",
+    "options": [
+      "Reduce engine room staffing",
+      "Stop all auxiliary machinery",
+      "Make sure enough generators are online, prepare the main engine and steering gear, and man the engine room",
+      "Switch to UMS mode"
+    ],
+    "correctIndex": 2,
+    "explanation": "Test controls and confirm communication with the bridge before manoeuvring."
+  },
+  {
+    "id": "engine-mgt-015",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "hard",
+    "question": "A management-level engineer's responsibilities typically include:",
+    "options": [
+      "Steering the ship",
+      "Only standing watches",
+      "Only cleaning the engine room",
+      "Planning maintenance and budgets, supervising the team and making sure the engine department complies with regulations"
+    ],
+    "correctIndex": 3,
+    "explanation": "STCW management level means Chief and Second Engineer, with overall responsibility for the machinery."
+  }
+]

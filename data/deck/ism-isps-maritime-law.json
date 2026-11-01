@@ -1,0 +1,227 @@
+[
+  {
+    "id": "deck-law-001",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "The main objectives of the ISM Code are to:",
+    "options": [
+      "Set crew wage levels",
+      "Ensure safety at sea, prevent injury or loss of life, and avoid damage to the environment and property",
+      "Standardise ship designs",
+      "Increase cargo capacity"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Code requires a Safety Management System (SMS) for each company and ship."
+  },
+  {
+    "id": "deck-law-002",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "Under the ISM Code, the Designated Person Ashore (DPA):",
+    "options": [
+      "Is a port state control inspector",
+      "Is a link between the company and those on board, with direct access to the highest level of management",
+      "Is the ship's master",
+      "Commands the ship in an emergency"
+    ],
+    "correctIndex": 1,
+    "explanation": "The DPA monitors safety and pollution-prevention aspects and ensures adequate resources and shore support."
+  },
+  {
+    "id": "deck-law-003",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "Under the ISM Code, the Document of Compliance (DOC) is issued to the:",
+    "options": [
+      "Company",
+      "Ship",
+      "Master",
+      "Classification society surveyor"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Safety Management Certificate (SMC) is issued to the ship."
+  },
+  {
+    "id": "deck-law-004",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "How many security levels does the ISPS Code define?",
+    "options": [
+      "Two",
+      "Three",
+      "Five",
+      "Four"
+    ],
+    "correctIndex": 1,
+    "explanation": "Level 1 normal, Level 2 heightened, Level 3 exceptional (specific threat probable or imminent)."
+  },
+  {
+    "id": "deck-law-005",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "Under the ISPS Code, the person on board responsible for security of the ship is the:",
+    "options": [
+      "Company Security Officer",
+      "Port Facility Security Officer",
+      "Ship Security Officer (SSO)",
+      "Designated Person Ashore"
+    ],
+    "correctIndex": 2,
+    "explanation": "The SSO is accountable to the master and implements the Ship Security Plan."
+  },
+  {
+    "id": "deck-law-006",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "The Ship Security Alert System (SSAS), when activated:",
+    "options": [
+      "Turns on all deck lights",
+      "Sends a covert alert to shore without raising an alarm on board or alerting nearby ships",
+      "Sounds the general alarm",
+      "Transmits a MAYDAY on VHF 16"
+    ],
+    "correctIndex": 1,
+    "explanation": "SSAS is used when the ship is under threat, for example piracy or terrorism."
+  },
+  {
+    "id": "deck-law-007",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "The Safety Management Certificate (SMC) is valid for up to:",
+    "options": [
+      "Indefinitely",
+      "One year",
+      "Ten years",
+      "Five years, with an intermediate verification between the second and third anniversary"
+    ],
+    "correctIndex": 3,
+    "explanation": "Renewal requires a successful audit of the shipboard SMS."
+  },
+  {
+    "id": "deck-law-008",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "Under STCW, minimum hours of rest for a watchkeeper are:",
+    "options": [
+      "10 hours in any 24-hour period and 77 hours in any 7-day period",
+      "8 hours in any 24 hours and 56 hours in 7 days",
+      "12 hours in any 24 hours and 84 hours in 7 days",
+      "6 hours in any 24 hours and 50 hours in 7 days"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rest may be split into no more than two periods, one of at least 6 hours, with no more than 14 hours between them."
+  },
+  {
+    "id": "deck-law-009",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "The Maritime Labour Convention, 2006 (MLC) deals mainly with:",
+    "options": [
+      "Oil pollution limits",
+      "Navigation lights",
+      "Seafarers' working and living conditions",
+      "Ship construction standards"
+    ],
+    "correctIndex": 2,
+    "explanation": "It covers minimum age, employment agreements, hours, accommodation, food, medical care and complaint procedures."
+  },
+  {
+    "id": "deck-law-010",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "A port state control officer may detain a ship when:",
+    "options": [
+      "The cargo is late",
+      "The crew has more than one nationality",
+      "Deficiencies are clearly hazardous to safety, health or the environment",
+      "The ship is older than 15 years"
+    ],
+    "correctIndex": 2,
+    "explanation": "The ship may not sail until the deficiencies are fixed or the conditions for sailing are agreed."
+  },
+  {
+    "id": "deck-law-011",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "The ISM Code says the master has overriding authority to:",
+    "options": [
+      "Ignore the SMS",
+      "Change the ship's flag",
+      "Sign charter parties",
+      "Make decisions on safety and pollution prevention and to ask for the company's assistance"
+    ],
+    "correctIndex": 3,
+    "explanation": "ISM Code section 5 requires the company to state this authority clearly in the SMS."
+  },
+  {
+    "id": "deck-law-012",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "Under UNCLOS, the territorial sea may extend up to:",
+    "options": [
+      "3 nautical miles",
+      "24 nautical miles",
+      "12 nautical miles from the baseline",
+      "200 nautical miles"
+    ],
+    "correctIndex": 2,
+    "explanation": "The contiguous zone goes to 24 NM and the Exclusive Economic Zone (EEZ) to 200 NM."
+  },
+  {
+    "id": "deck-law-013",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "hard",
+    "question": "A Declaration of Security (DoS) under the ISPS Code is:",
+    "options": [
+      "An agreement between a ship and a port facility or another ship on the security measures each will take",
+      "A certificate issued by the flag state",
+      "A cargo manifest",
+      "The crew list given to immigration"
+    ],
+    "correctIndex": 0,
+    "explanation": "It may be requested, for example, when security levels differ or after a security incident."
+  },
+  {
+    "id": "deck-law-014",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "In ISM terms, a 'non-conformity' is:",
+    "options": [
+      "A crew complaint about food",
+      "An observed situation where objective evidence shows a specified requirement is not met",
+      "A delay in cargo operations",
+      "A serious accident with loss of life"
+    ],
+    "correctIndex": 1,
+    "explanation": "A 'major non-conformity' is a serious threat to safety or environment that needs immediate corrective action."
+  },
+  {
+    "id": "deck-law-015",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "hard",
+    "question": "The first SOLAS Convention (1914) was adopted mainly because of the:",
+    "options": [
+      "Herald of Free Enterprise capsizing",
+      "Exxon Valdez grounding",
+      "Torrey Canyon oil spill",
+      "Loss of the Titanic"
+    ],
+    "correctIndex": 3,
+    "explanation": "Torrey Canyon (1967) led towards MARPOL; Herald of Free Enterprise (1987) led towards the ISM Code."
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "engine-mar-001",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "Oil Record Book Part I records:",
+    "options": [
+      "Cargo tank washing on tankers",
+      "Ballast water exchange",
+      "Machinery space operations such as bunkering, sludge disposal and bilge discharge",
+      "Garbage disposal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Entries use the specified codes and item numbers, and each is signed by the officer in charge."
+  },
+  {
+    "id": "engine-mar-002",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "Oily bilge water from machinery spaces may be discharged overboard only if its oil content is no more than:",
+    "options": [
+      "100 ppm",
+      "50 ppm",
+      "15 ppm",
+      "1,000 ppm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Discharge must also be via an approved oily water separator with alarm, while en route and outside special areas restrictions."
+  },
+  {
+    "id": "engine-mar-003",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Oil sludge from fuel and lube oil purification should be:",
+    "options": [
+      "Landed to a shore reception facility or burned in an approved incinerator or boiler",
+      "Mixed with sewage",
+      "Discharged in special areas only",
+      "Pumped overboard at night"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sludge tank capacity and disposal must be recorded in the Oil Record Book."
+  },
+  {
+    "id": "engine-mar-004",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "Under MARPOL Annex VI, a sealed sample of delivered fuel (MARPOL sample) must be kept:",
+    "options": [
+      "For 7 days",
+      "Permanently",
+      "For one voyage only",
+      "Until the fuel is substantially used, but for at least 12 months from delivery"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Bunker Delivery Note must be kept on board for three years."
+  },
+  {
+    "id": "engine-mar-005",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "NOx Tier III limits apply to marine diesel engines on ships of the relevant build date when they operate:",
+    "options": [
+      "In a NOx Emission Control Area",
+      "Only on rivers",
+      "Only in port",
+      "Anywhere in the world"
+    ],
+    "correctIndex": 0,
+    "explanation": "Outside NOx ECAs, Tier II applies. Tier III needs technologies such as SCR or EGR."
+  },
+  {
+    "id": "engine-mar-006",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "The EIAPP certificate is issued for:",
+    "options": [
+      "The oily water separator",
+      "A marine diesel engine, confirming it meets the NOx limits",
+      "The ship's incinerator",
+      "The ship's sewage plant"
+    ],
+    "correctIndex": 1,
+    "explanation": "Engine International Air Pollution Prevention certificate. The engine's NOx Technical File must be kept with it."
+  },
+  {
+    "id": "engine-mar-007",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Which of these must NOT be burned in a shipboard incinerator?",
+    "options": [
+      "Paper",
+      "Food waste",
+      "Oil sludge in an approved incinerator",
+      "PCBs and Annex I cargo residues"
+    ],
+    "correctIndex": 3,
+    "explanation": "Banned items also include garbage with heavy metals and refined products containing halogens. PVC only in type-approved incinerators."
+  },
+  {
+    "id": "engine-mar-008",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "An exhaust gas cleaning system (scrubber) is used to:",
+    "options": [
+      "Reduce sulphur oxide emissions so higher-sulphur fuel can be used",
+      "Clean ballast water",
+      "Reduce CO2 emissions to zero",
+      "Treat sewage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Open-loop scrubbers discharge wash water to sea; some ports and areas restrict this."
+  },
+  {
+    "id": "engine-mar-009",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "When changing over to compliant fuel before entering a SOx ECA, the ship must record:",
+    "options": [
+      "Date, time, position and the volume of low-sulphur fuel in each tank when the changeover is complete",
+      "Only the cost of the fuel",
+      "Nothing if the changeover is quick",
+      "Only the date"
+    ],
+    "correctIndex": 0,
+    "explanation": "Use a written changeover procedure to make sure compliant fuel is in use before entering the ECA."
+  },
+  {
+    "id": "engine-mar-010",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Selective Catalytic Reduction (SCR) reduces NOx by:",
+    "options": [
+      "Injecting urea or ammonia into the exhaust over a catalyst",
+      "Burning more fuel",
+      "Adding water to the fuel tanks",
+      "Recirculating lube oil"
+    ],
+    "correctIndex": 0,
+    "explanation": "NOx is converted into nitrogen and water vapour."
+  },
+  {
+    "id": "engine-mar-011",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Exhaust Gas Recirculation (EGR) reduces NOx by:",
+    "options": [
+      "Removing sulphur from the fuel",
+      "Raising the combustion temperature",
+      "Returning some cooled exhaust gas to the intake, which lowers peak combustion temperature",
+      "Increasing the oxygen in the cylinder"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lower peak temperatures reduce thermal NOx formation."
+  },
+  {
+    "id": "engine-mar-012",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "IOPP certificate stands for:",
+    "options": [
+      "International Operations and Port Procedures certificate",
+      "International Oil Pollution Prevention certificate",
+      "Inspection of Oil Purifier Plant certificate",
+      "International Onboard Pump Permit"
+    ],
+    "correctIndex": 1,
+    "explanation": "It is issued under MARPOL Annex I with a supplement (Form A or B) describing the ship's equipment."
+  },
+  {
+    "id": "engine-mar-013",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Bilge holding tanks in the engine room are used to:",
+    "options": [
+      "Store oily bilge water until it can be processed by the OWS or landed ashore",
+      "Store fuel for the boiler",
+      "Store sewage",
+      "Store fresh water"
+    ],
+    "correctIndex": 0,
+    "explanation": "Holding tanks reduce the need to run the OWS in port or in special areas."
+  },
+  {
+    "id": "engine-mar-014",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "The ISPP certificate relates to:",
+    "options": [
+      "Air pollution",
+      "Prevention of pollution by sewage",
+      "Garbage",
+      "Oil pollution"
+    ],
+    "correctIndex": 1,
+    "explanation": "International Sewage Pollution Prevention certificate, MARPOL Annex IV."
+  },
+  {
+    "id": "engine-mar-015",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "Changing the oily water separator's 15 ppm alarm or discharge piping to bypass it is:",
+    "options": [
+      "Allowed if recorded in the log",
+      "Acceptable in open sea",
+      "A serious MARPOL violation that can lead to heavy penalties for the company and crew",
+      "Allowed if the chief engineer approves"
+    ],
+    "correctIndex": 2,
+    "explanation": "Unlawful bypassing ('magic pipes') is prosecuted in many countries. Report concerns through the company's procedures."
+  }
+]

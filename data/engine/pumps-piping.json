@@ -1,0 +1,227 @@
+[
+  {
+    "id": "engine-pmp-001",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "Why does a centrifugal pump usually need priming?",
+    "options": [
+      "Priming increases the motor voltage",
+      "Priming lubricates the bearings",
+      "It cannot create enough suction to lift liquid when its casing is full of air",
+      "Priming cleans the impeller"
+    ],
+    "correctIndex": 2,
+    "explanation": "Self-priming arrangements (for example vacuum pumps on bilge or ballast pumps) remove air so the pump can draw liquid."
+  },
+  {
+    "id": "engine-pmp-002",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Why must a positive displacement pump have a relief valve?",
+    "options": [
+      "To prime the pump",
+      "Its discharge pressure rises until something fails if the discharge is blocked",
+      "To cool the pump",
+      "To control speed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Never start a positive displacement pump against a closed discharge valve unless a relief valve is fitted."
+  },
+  {
+    "id": "engine-pmp-003",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Cavitation in a pump happens when:",
+    "options": [
+      "The local pressure at the suction falls below the vapour pressure of the liquid",
+      "The liquid is very cold",
+      "The discharge valve is fully open",
+      "The pump runs at low speed"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vapour bubbles collapse violently, causing noise, vibration, impeller erosion and loss of performance."
+  },
+  {
+    "id": "engine-pmp-004",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "To avoid cavitation, the net positive suction head available (NPSHa) must be:",
+    "options": [
+      "Zero",
+      "Greater than the NPSH required by the pump",
+      "Equal to the discharge head",
+      "Less than the NPSH required"
+    ],
+    "correctIndex": 1,
+    "explanation": "Raise suction head, reduce suction losses or lower liquid temperature to increase NPSHa."
+  },
+  {
+    "id": "engine-pmp-005",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Non-return valves in bilge suction branches are fitted to:",
+    "options": [
+      "Prevent sea water or bilge water flowing back into compartments",
+      "Measure bilge level",
+      "Reduce fuel consumption",
+      "Increase pump flow rate"
+    ],
+    "correctIndex": 0,
+    "explanation": "SOLAS requires bilge arrangements that prevent water passing from the sea or from one compartment into another."
+  },
+  {
+    "id": "engine-pmp-006",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "A gear pump is a:",
+    "options": [
+      "Jet pump",
+      "Rotary positive displacement pump",
+      "Centrifugal pump",
+      "Axial-flow pump"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gear pumps are widely used for lubricating oil and fuel oil transfer."
+  },
+  {
+    "id": "engine-pmp-007",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Running two identical centrifugal pumps in parallel mainly:",
+    "options": [
+      "Doubles the head at the same flow",
+      "Increases the flow rate at about the same head",
+      "Reduces the flow rate",
+      "Has no effect"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pumps in series add head; pumps in parallel add flow."
+  },
+  {
+    "id": "engine-pmp-008",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Compared with gland packing, a mechanical seal:",
+    "options": [
+      "Needs a steady drip of liquid to work",
+      "Must be tightened daily",
+      "Cannot be used on centrifugal pumps",
+      "Leaks much less and needs no regular adjustment"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mechanical seals must never run dry, as heat quickly damages the faces."
+  },
+  {
+    "id": "engine-pmp-009",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Under SOLAS, the emergency fire pump on a cargo ship must be:",
+    "options": [
+      "Driven by the main engine",
+      "Only used in port",
+      "Located outside the machinery space and have an independent power source",
+      "Located in the main engine room"
+    ],
+    "correctIndex": 2,
+    "explanation": "This ensures water for firefighting if a fire disables the machinery space and main fire pumps."
+  },
+  {
+    "id": "engine-pmp-010",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "hard",
+    "question": "By the pump affinity laws, if a centrifugal pump's speed is doubled, the power absorbed becomes:",
+    "options": [
+      "Unchanged",
+      "About 2 times greater",
+      "About 4 times greater",
+      "About 8 times greater"
+    ],
+    "correctIndex": 3,
+    "explanation": "Flow is proportional to speed, head to speed squared and power to speed cubed: 2³ = 8."
+  },
+  {
+    "id": "engine-pmp-011",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Screw pumps are commonly used on board for:",
+    "options": [
+      "Emergency fire pumping with sea water",
+      "Pumping exhaust gas",
+      "Transferring high-viscosity fluids such as heavy fuel oil and lubricating oil",
+      "Pumping refrigerant"
+    ],
+    "correctIndex": 2,
+    "explanation": "They give smooth, pulse-free flow and handle viscous liquids well."
+  },
+  {
+    "id": "engine-pmp-012",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "If the oily water separator's 15 ppm alarm is activated, the system must:",
+    "options": [
+      "Switch off the alarm",
+      "Automatically stop overboard discharge or return the water to the bilge or tank",
+      "Increase the discharge rate",
+      "Discharge anyway and log it later"
+    ],
+    "correctIndex": 1,
+    "explanation": "MARPOL Annex I requires an automatic stopping device and a recorded 15 ppm alarm."
+  },
+  {
+    "id": "engine-pmp-013",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "The main purpose of a sea chest strainer is to:",
+    "options": [
+      "Increase pump suction pressure",
+      "Measure sea water temperature",
+      "Stop debris and marine growth entering the sea water cooling system",
+      "Prevent oil pollution"
+    ],
+    "correctIndex": 2,
+    "explanation": "Clean strainers regularly. Change over to the standby sea chest before opening one."
+  },
+  {
+    "id": "engine-pmp-014",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "hard",
+    "question": "Water hammer in a steam line is mainly caused by:",
+    "options": [
+      "A fully open steam trap",
+      "High boiler water pH",
+      "Too much superheat",
+      "Condensate collected in the line being driven at high speed by steam"
+    ],
+    "correctIndex": 3,
+    "explanation": "Warm up lines slowly, open drains first and keep steam traps working."
+  },
+  {
+    "id": "engine-pmp-015",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Why is it important to keep the suction pipe of a centrifugal pump airtight?",
+    "options": [
+      "Air leaks reduce suction and can make the pump lose prime",
+      "Air leaks increase the discharge pressure",
+      "Air leaks only affect the motor",
+      "Air improves cooling"
+    ],
+    "correctIndex": 0,
+    "explanation": "Check suction joints, valve glands and strainer covers when a pump fails to deliver."
+  }
+]

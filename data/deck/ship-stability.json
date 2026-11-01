@@ -1,0 +1,242 @@
+[
+  {
+    "id": "deck-stb-001",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "Metacentric height (GM) is the distance between:",
+    "options": [
+      "The centre of buoyancy and the centre of flotation",
+      "The waterline and the keel",
+      "The keel (K) and the centre of buoyancy (B)",
+      "The centre of gravity (G) and the metacentre (M)"
+    ],
+    "correctIndex": 3,
+    "explanation": "GM = KM - KG. It is the key measure of initial transverse stability."
+  },
+  {
+    "id": "deck-stb-002",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "The free surface effect in a slack tank causes:",
+    "options": [
+      "A real lowering of the centre of gravity",
+      "No change to stability",
+      "A virtual rise of the centre of gravity, reducing GM",
+      "An increase in GM"
+    ],
+    "correctIndex": 2,
+    "explanation": "Liquid moving in a partly filled tank shifts its centre of gravity, which acts like a rise of G. Keep tanks pressed up or empty."
+  },
+  {
+    "id": "deck-stb-003",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "A ship has positive initial stability when:",
+    "options": [
+      "The centre of buoyancy is above the metacentre",
+      "The centre of gravity is above the metacentre",
+      "The metacentre is above the centre of gravity",
+      "The ship has a list"
+    ],
+    "correctIndex": 2,
+    "explanation": "With M above G (positive GM), a righting lever develops at small angles of heel."
+  },
+  {
+    "id": "deck-stb-004",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "A ship with a very large GM is described as 'stiff'. She will:",
+    "options": [
+      "Have an angle of loll",
+      "Not roll at all",
+      "Roll slowly and comfortably",
+      "Roll with a short, quick period that can damage cargo and stress the structure"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rolling period is inversely related to GM. Excessive GM gives violent, jerky motion."
+  },
+  {
+    "id": "deck-stb-005",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "TPC stands for:",
+    "options": [
+      "Trim per centimetre",
+      "Tonnes per centimetre immersion",
+      "Transverse position of centre",
+      "Total pressure coefficient"
+    ],
+    "correctIndex": 1,
+    "explanation": "TPC is the mass that changes mean draught by 1 cm: TPC = (A_w x density) / 100."
+  },
+  {
+    "id": "deck-stb-006",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "A ship of 9,900 t displacement has KG 8.00 m. 100 t is loaded with its centre at 12.00 m above the keel. What is the new KG?",
+    "options": [
+      "7.96 m",
+      "8.12 m",
+      "8.40 m",
+      "8.04 m"
+    ],
+    "correctIndex": 3,
+    "explanation": "New KG = (9,900 x 8.00 + 100 x 12.00) / 10,000 = 80,400 / 10,000 = 8.04 m."
+  },
+  {
+    "id": "deck-stb-007",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "When a weight is shifted transversely on board, the ship's centre of gravity:",
+    "options": [
+      "Moves parallel to the direction of the shift, causing a list",
+      "Moves vertically upwards",
+      "Moves towards the keel",
+      "Does not move"
+    ],
+    "correctIndex": 0,
+    "explanation": "GG1 = (w x d) / displacement, in the direction of the shift."
+  },
+  {
+    "id": "deck-stb-008",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "An angle of loll is caused by:",
+    "options": [
+      "An excessively large GM",
+      "Trim by the stern",
+      "A negative initial GM (G above M at the upright)",
+      "A transverse shift of weight"
+    ],
+    "correctIndex": 2,
+    "explanation": "The ship heels until the centre of buoyancy moves far enough to give GZ = 0. She may flop from side to side."
+  },
+  {
+    "id": "deck-stb-009",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "To correct an angle of loll, the first action should normally be to:",
+    "options": [
+      "Lower G by ballasting a small, divided double-bottom tank on the low side first",
+      "Shift weight from the low side to the high side",
+      "Pump out double-bottom ballast",
+      "Fill a large tank on the high side first"
+    ],
+    "correctIndex": 0,
+    "explanation": "Confirm it is loll, not list. Filling on the high side first can make the ship flop violently to the other side. Free surface is minimised with small divided tanks."
+  },
+  {
+    "id": "deck-stb-010",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "Trim is defined as:",
+    "options": [
+      "The amount of freeboard",
+      "The angle of heel",
+      "The difference between the forward and aft draughts",
+      "The mean of the forward and aft draughts"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trim by the stern means the aft draught is greater than the forward draught."
+  },
+  {
+    "id": "deck-stb-011",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "MCTC is the:",
+    "options": [
+      "Moment required to change trim by 1 cm",
+      "Mean cargo tonnage capacity",
+      "Maximum change of transverse centre",
+      "Moment to change trim by 1 metre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Change of trim (cm) = trimming moment / MCTC."
+  },
+  {
+    "id": "deck-stb-012",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "On a load line mark, the line marked 'S' indicates the:",
+    "options": [
+      "Salt water line",
+      "Summer load line",
+      "Standard line",
+      "Southern zone line"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lines include TF, F, T, S, W and WNA. The summer line is level with the centre of the load line disc."
+  },
+  {
+    "id": "deck-stb-013",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "Fresh Water Allowance (FWA) is:",
+    "options": [
+      "The change in mean draught when the ship passes between sea water and fresh water at summer displacement",
+      "The amount of potable water the crew needs",
+      "The amount of fresh water the ship may carry",
+      "The draught allowance for tropical zones"
+    ],
+    "correctIndex": 0,
+    "explanation": "FWA (mm) = summer displacement / (4 x TPC). Dock water allowance is proportional to the density difference."
+  },
+  {
+    "id": "deck-stb-014",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "At small angles of heel, the righting lever GZ is approximately equal to:",
+    "options": [
+      "BM / displacement",
+      "KM x cos(angle of heel)",
+      "GM x sin(angle of heel)",
+      "KG x tan(angle of heel)"
+    ],
+    "correctIndex": 2,
+    "explanation": "This relation holds for small angles (roughly up to 10-15°), when M stays approximately fixed."
+  },
+  {
+    "id": "deck-stb-015",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "Under the IMO Intact Stability Code general criteria, the minimum initial metacentric height (GM0) is:",
+    "options": [
+      "0.05 m",
+      "1.00 m",
+      "0.30 m",
+      "0.15 m"
+    ],
+    "correctIndex": 3,
+    "explanation": "The code also sets minimum areas under the GZ curve and GZ of at least 0.20 m at an angle of 30° or more."
+  },
+  {
+    "id": "deck-stb-016",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "The centre of buoyancy (B) is:",
+    "options": [
+      "The geometric centre of the underwater volume of the hull",
+      "Always located at the keel",
+      "The point where the ship's weight acts",
+      "The centre of the waterplane area"
+    ],
+    "correctIndex": 0,
+    "explanation": "The buoyancy force acts vertically upwards through B. B moves as the ship heels or changes draught."
+  }
+]

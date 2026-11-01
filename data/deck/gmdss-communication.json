@@ -1,0 +1,242 @@
+[
+  {
+    "id": "deck-gmd-001",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "easy",
+    "question": "VHF channel 16 is used for:",
+    "options": [
+      "Ship-to-ship routine chat",
+      "Weather forecasts only",
+      "Port operations only",
+      "Distress, urgency and safety calls, and calling"
+    ],
+    "correctIndex": 3,
+    "explanation": "Keep channel 16 traffic short and move to a working channel for routine communications."
+  },
+  {
+    "id": "deck-gmd-002",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "easy",
+    "question": "Which VHF channel is used for DSC?",
+    "options": [
+      "Channel 13",
+      "Channel 16",
+      "Channel 6",
+      "Channel 70"
+    ],
+    "correctIndex": 3,
+    "explanation": "Channel 70 is reserved for digital selective calling. Voice is not permitted on it."
+  },
+  {
+    "id": "deck-gmd-003",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "medium",
+    "question": "Sea area A1 is defined as an area:",
+    "options": [
+      "Within MF coast station coverage",
+      "Within radiotelephone range of at least one VHF coast station with continuous DSC alerting",
+      "In polar regions beyond satellite coverage",
+      "Within Inmarsat coverage only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A1 is typically about 20-30 NM from the coast station. A2 is MF coverage, A3 is satellite coverage and A4 is the remaining (polar) areas."
+  },
+  {
+    "id": "deck-gmd-004",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "medium",
+    "question": "Satellite EPIRBs in the Cospas-Sarsat system transmit their distress alert on:",
+    "options": [
+      "9 GHz",
+      "406 MHz",
+      "156.8 MHz",
+      "2182 kHz"
+    ],
+    "correctIndex": 1,
+    "explanation": "406 MHz beacons transmit a coded ID; many also have a 121.5 MHz homing signal and an AIS locator."
+  },
+  {
+    "id": "deck-gmd-005",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "medium",
+    "question": "A radar SART operates in the:",
+    "options": [
+      "VHF marine band",
+      "9 GHz (X-band) radar frequency band",
+      "3 GHz (S-band) radar frequency band",
+      "406 MHz band"
+    ],
+    "correctIndex": 1,
+    "explanation": "A SART responds to an X-band radar interrogation, so it is only detected by X-band radars."
+  },
+  {
+    "id": "deck-gmd-006",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "medium",
+    "question": "The international NAVTEX frequency is:",
+    "options": [
+      "2187.5 kHz",
+      "518 kHz",
+      "4209.5 kHz",
+      "490 kHz"
+    ],
+    "correctIndex": 1,
+    "explanation": "518 kHz carries English-language broadcasts. 490 kHz is used for national-language services."
+  },
+  {
+    "id": "deck-gmd-007",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "easy",
+    "question": "Which spoken signal indicates an urgency message?",
+    "options": [
+      "SECURITE",
+      "MAYDAY",
+      "SEELONCE",
+      "PAN PAN"
+    ],
+    "correctIndex": 3,
+    "explanation": "Urgency concerns the safety of a ship or person, but there is no grave and imminent danger."
+  },
+  {
+    "id": "deck-gmd-008",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "easy",
+    "question": "Which spoken signal begins a safety message such as a navigational warning?",
+    "options": [
+      "SECURITE",
+      "ROGER",
+      "MAYDAY RELAY",
+      "PAN PAN"
+    ],
+    "correctIndex": 0,
+    "explanation": "Spoken three times before the message, which usually follows on a working channel."
+  },
+  {
+    "id": "deck-gmd-009",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "hard",
+    "question": "A VHF DSC distress alert has been sent by mistake. What should you do?",
+    "options": [
+      "Send another distress alert",
+      "Switch off the radio and say nothing",
+      "Wait for a coast station to call you back",
+      "Cancel it on the DSC equipment if possible, then make an 'all stations' voice cancellation on channel 16"
+    ],
+    "correctIndex": 3,
+    "explanation": "Acting promptly and openly stops a needless SAR response. Note the event in the radio log."
+  },
+  {
+    "id": "deck-gmd-010",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "medium",
+    "question": "Sea area A3 is the area outside A1 and A2 that is within coverage of:",
+    "options": [
+      "A VHF coast station",
+      "Only HF coast stations",
+      "A recognised mobile satellite service (for example Inmarsat geostationary satellites)",
+      "NAVTEX stations"
+    ],
+    "correctIndex": 2,
+    "explanation": "Satellite coverage roughly between 70°N and 70°S."
+  },
+  {
+    "id": "deck-gmd-011",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "medium",
+    "question": "The MF DSC distress and safety frequency is:",
+    "options": [
+      "2182 kHz",
+      "518 kHz",
+      "2187.5 kHz",
+      "8414.5 kHz"
+    ],
+    "correctIndex": 2,
+    "explanation": "2182 kHz is the MF radiotelephony distress frequency that follows a DSC alert on 2187.5 kHz."
+  },
+  {
+    "id": "deck-gmd-012",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "hard",
+    "question": "On an X-band radar display, an active SART first appears as:",
+    "options": [
+      "A single bright spot",
+      "A ring of light around own ship",
+      "A line of 12 dots extending outward from the SART's position",
+      "A flashing red cross"
+    ],
+    "correctIndex": 2,
+    "explanation": "As the rescue ship comes within about 1 NM, the dots become arcs and then concentric circles."
+  },
+  {
+    "id": "deck-gmd-013",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "easy",
+    "question": "In the international phonetic alphabet, the letter M is:",
+    "options": [
+      "Mexico",
+      "Mike",
+      "Mother",
+      "Mary"
+    ],
+    "correctIndex": 1,
+    "explanation": "Used to spell call signs and names clearly over the radio."
+  },
+  {
+    "id": "deck-gmd-014",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "easy",
+    "question": "In a radiotelephone distress message, MAYDAY is spoken:",
+    "options": [
+      "Five times",
+      "Once",
+      "Three times",
+      "Twice"
+    ],
+    "correctIndex": 2,
+    "explanation": "The call is MAYDAY x3, THIS IS, the vessel name/call sign x3, then MAYDAY, name, MMSI, position, nature of distress, assistance required and other information."
+  },
+  {
+    "id": "deck-gmd-015",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "medium",
+    "question": "Which records must be kept in the GMDSS radio log?",
+    "options": [
+      "Only weather reports",
+      "Distress, urgency and safety traffic, and equipment tests",
+      "Only routine commercial calls",
+      "Crew private calls"
+    ],
+    "correctIndex": 1,
+    "explanation": "The log must be available for inspection by the Administration and port state."
+  },
+  {
+    "id": "deck-gmd-016",
+    "department": "deck",
+    "category": "gmdss-communication",
+    "difficulty": "medium",
+    "question": "The DSC controller's internal test should be done:",
+    "options": [
+      "Only during annual survey",
+      "Daily, without transmitting a signal",
+      "Weekly, by sending a live distress alert",
+      "Never at sea"
+    ],
+    "correctIndex": 1,
+    "explanation": "Daily checks of DSC by internal test, plus regular battery and EPIRB/SART checks, are part of GMDSS maintenance."
+  }
+]
