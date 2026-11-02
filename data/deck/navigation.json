@@ -238,5 +238,740 @@
     ],
     "correctIndex": 0,
     "explanation": "ECDIS meets SOLAS chart carriage requirements only when using up-to-date official charts (ENCs) and with an approved backup arrangement."
+  },
+  {
+    "id": "deck-nav-017",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "Latitude is measured north or south of the:",
+    "options": [
+      "Tropic of Cancer",
+      "International Date Line",
+      "Prime meridian",
+      "Equator"
+    ],
+    "correctIndex": 3,
+    "explanation": "Latitude runs from 0° at the equator to 90° at each pole; longitude is measured from the prime meridian."
+  },
+  {
+    "id": "deck-nav-018",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "Longitude is measured east or west of the:",
+    "options": [
+      "Equator, up to 90°",
+      "International Date Line, up to 360°",
+      "Local meridian of the ship",
+      "Prime (Greenwich) meridian, up to 180°"
+    ],
+    "correctIndex": 3,
+    "explanation": "Longitude is the angle at the pole between the prime meridian and the meridian through the position, 0° to 180° E or W."
+  },
+  {
+    "id": "deck-nav-019",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "The angle between true north and magnetic north at a place is called:",
+    "options": [
+      "Dip",
+      "Compass error",
+      "Deviation",
+      "Variation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Variation depends on position and changes slowly with time; it is printed on the chart's compass rose with its annual change."
+  },
+  {
+    "id": "deck-nav-020",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "Deviation of a magnetic compass is caused by:",
+    "options": [
+      "The ship's own magnetism from her steel structure and electrical equipment",
+      "The difference between true and magnetic north",
+      "The earth's rotation",
+      "Tidal streams acting on the hull"
+    ],
+    "correctIndex": 0,
+    "explanation": "Deviation changes with the ship's heading and is recorded on the deviation card after compass adjustment."
+  },
+  {
+    "id": "deck-nav-021",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "On most modern charts, charted depths are measured below chart datum, which is usually close to:",
+    "options": [
+      "Mean Sea Level (MSL)",
+      "Mean High Water Springs (MHWS)",
+      "Highest Astronomical Tide (HAT)",
+      "Lowest Astronomical Tide (LAT)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Using a datum near LAT means the actual depth is rarely less than charted; the height of tide is added to the charted depth."
+  },
+  {
+    "id": "deck-nav-022",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "ECDIS stands for:",
+    "options": [
+      "Electronic Chart Display and Information System",
+      "Enhanced Compass Deviation Indicator System",
+      "Electronic Course Direction and Indication System",
+      "Emergency Chart Data Information Service"
+    ],
+    "correctIndex": 0,
+    "explanation": "An ECDIS that meets IMO performance standards, using official ENCs, can satisfy SOLAS chart carriage requirements."
+  },
+  {
+    "id": "deck-nav-023",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "Shipborne AIS transmits its data in the:",
+    "options": [
+      "X-band radar band",
+      "HF band",
+      "406 MHz satellite band",
+      "VHF maritime band"
+    ],
+    "correctIndex": 3,
+    "explanation": "AIS uses two dedicated VHF channels (AIS 1 and AIS 2, around 162 MHz), so its range is similar to VHF radio range."
+  },
+  {
+    "id": "deck-nav-024",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "When settled and corrected for its errors, a gyro compass indicates:",
+    "options": [
+      "Grid north",
+      "True north",
+      "Magnetic north",
+      "Compass north"
+    ],
+    "correctIndex": 1,
+    "explanation": "A gyro compass seeks the meridian using the earth's rotation and is not affected by magnetism."
+  },
+  {
+    "id": "deck-nav-025",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "Compass course 200°, deviation 3°W, variation 10°E. What is the true course?",
+    "options": [
+      "207°",
+      "213°",
+      "187°",
+      "193°"
+    ],
+    "correctIndex": 0,
+    "explanation": "From compass to true, easterly errors are added and westerly errors subtracted: 200 - 3 = 197° magnetic; 197 + 10 = 207° true."
+  },
+  {
+    "id": "deck-nav-026",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "Two charted objects in transit bear 045°T from the chart. The gyro bearing of the transit is 047°. The gyro error is:",
+    "options": [
+      "2° High",
+      "2° Low",
+      "4° High",
+      "2° East"
+    ],
+    "correctIndex": 0,
+    "explanation": "The gyro reads more than the true bearing, so the error is 2° high; 2° must be subtracted from gyro readings."
+  },
+  {
+    "id": "deck-nav-027",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "Departure is:",
+    "options": [
+      "The time at which a ship leaves port",
+      "The angle between the course and the meridian",
+      "The north-south distance between two parallels",
+      "The east-west distance in nautical miles between two meridians, measured along a parallel of latitude"
+    ],
+    "correctIndex": 3,
+    "explanation": "Departure = difference of longitude (in minutes) x cos(latitude), so a given d.long covers fewer miles at higher latitudes."
+  },
+  {
+    "id": "deck-nav-028",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "By the rule of twelfths, what fraction of the tidal range does the tide rise in the third hour after low water?",
+    "options": [
+      "2/12",
+      "3/12",
+      "6/12",
+      "1/12"
+    ],
+    "correctIndex": 1,
+    "explanation": "For a regular semidiurnal tide the rise in successive hours is 1, 2, 3, 3, 2 and 1 twelfths of the range."
+  },
+  {
+    "id": "deck-nav-029",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "Around the moon's first and last quarters, the tidal range is:",
+    "options": [
+      "Unaffected by the moon's phase",
+      "At its smallest (neap tides)",
+      "Zero everywhere",
+      "At its largest (spring tides)"
+    ],
+    "correctIndex": 1,
+    "explanation": "At the quarters the sun and moon pull at right angles, so their tide-raising forces partly cancel."
+  },
+  {
+    "id": "deck-nav-030",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "Compared with an X-band (3 cm) radar with the same antenna size, an S-band (10 cm) radar:",
+    "options": [
+      "Is less affected by rain and sea clutter but has poorer bearing discrimination",
+      "Gives sharper bearing discrimination and more clutter",
+      "Has a shorter maximum range in all conditions",
+      "Detects a SART more easily"
+    ],
+    "correctIndex": 0,
+    "explanation": "The longer wavelength penetrates precipitation better, but a wider beam results from the same antenna length."
+  },
+  {
+    "id": "deck-nav-031",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "The ARPA 'trial manoeuvre' function lets the officer:",
+    "options": [
+      "Remove clutter from the display",
+      "Steer the ship automatically around targets",
+      "Record the radar picture for the VDR",
+      "Simulate the effect of a planned course or speed change on CPA and TCPA before making it"
+    ],
+    "correctIndex": 3,
+    "explanation": "The display shows the predicted situation if the proposed manoeuvre is made, helping check that it will result in a safe passing distance."
+  },
+  {
+    "id": "deck-nav-032",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "On a relative-motion radar display, the trail or vector of a target shows:",
+    "options": [
+      "Its heading only",
+      "Its course and speed over the ground",
+      "Its movement relative to own ship",
+      "The direction of the wind"
+    ],
+    "correctIndex": 2,
+    "explanation": "Relative motion shows directly whether a target's CPA is close; true motion is needed to judge the target's own course and aspect."
+  },
+  {
+    "id": "deck-nav-033",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "The actual path of the ship over the ground is called:",
+    "options": [
+      "Course over ground (track made good)",
+      "Heading",
+      "Leeway",
+      "Course through the water"
+    ],
+    "correctIndex": 0,
+    "explanation": "Heading is where the bow points; the course over ground also includes the effect of current and wind."
+  },
+  {
+    "id": "deck-nav-034",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "In navigation, 'set and drift' describe:",
+    "options": [
+      "The rise and fall of the tide",
+      "The ship's heading and speed through the water",
+      "The direction from which the wind blows and its force",
+      "The direction towards which a current flows and its rate or distance"
+    ],
+    "correctIndex": 3,
+    "explanation": "Set is the direction a current sets towards; drift is its rate in knots or the distance it carries the ship in a given time."
+  },
+  {
+    "id": "deck-nav-035",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "Echoes of one target appearing on the same bearing at two and three times its true range are:",
+    "options": [
+      "Second-trace echoes from super-refraction",
+      "Multiple echoes, caused by the signal reflecting back and forth between own ship and a large close target",
+      "Indirect echoes from own ship's mast",
+      "Side lobe echoes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Multiple echoes occur with large targets at short range, especially beam-on, and fade as the range opens."
+  },
+  {
+    "id": "deck-nav-036",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "For judging the aspect of other vessels when applying the COLREGs, the radar/ARPA should preferably be:",
+    "options": [
+      "Head-up and unstabilised",
+      "Ground-stabilised, using GNSS speed over the ground",
+      "Sea-stabilised, using speed through the water",
+      "Set to relative motion with no vectors"
+    ],
+    "correctIndex": 2,
+    "explanation": "A ground-stabilised picture in a strong current shows targets' ground tracks, which can give a misleading impression of their heading and aspect."
+  },
+  {
+    "id": "deck-nav-037",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "The safety contour is set to 12 m, but the ENC contains only 10 m and 20 m depth contours. ECDIS will use as the safety contour:",
+    "options": [
+      "The 20 m contour",
+      "The 10 m contour",
+      "No contour, and give no alarm",
+      "A 12 m contour calculated by the ECDIS"
+    ],
+    "correctIndex": 0,
+    "explanation": "If the chosen value is not in the ENC, ECDIS uses the next deeper contour available, so the safe side is preserved."
+  },
+  {
+    "id": "deck-nav-038",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "The CATZOC (zone of confidence) attribute in an ENC indicates:",
+    "options": [
+      "Areas where AIS coverage is available",
+      "The scale at which the cell was compiled",
+      "The date the ENC cell was last updated",
+      "The assessed quality and accuracy of the survey data behind the chart"
+    ],
+    "correctIndex": 3,
+    "explanation": "Low-confidence zones (C, D, U) need larger safety margins because depths and positions may be less accurate than they appear."
+  },
+  {
+    "id": "deck-nav-039",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "Charted depth 12.0 m, height of tide 1.5 m, static draught 11.2 m and expected squat 0.6 m. What is the under-keel clearance?",
+    "options": [
+      "2.3 m",
+      "0.8 m",
+      "1.7 m",
+      "1.1 m"
+    ],
+    "correctIndex": 2,
+    "explanation": "Depth available = 12.0 + 1.5 = 13.5 m. Dynamic draught = 11.2 + 0.6 = 11.8 m. UKC = 13.5 - 11.8 = 1.7 m."
+  },
+  {
+    "id": "deck-nav-040",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "A ship steams due east along the parallel of 60°N for 120 nautical miles. What is her change of longitude?",
+    "options": [
+      "2°00'",
+      "4°00'",
+      "1°00'",
+      "3°00'"
+    ],
+    "correctIndex": 1,
+    "explanation": "d.long = departure / cos(lat) = 120 / 0.5 = 240 minutes of longitude = 4°00'."
+  },
+  {
+    "id": "deck-nav-041",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "Compared with a chart at 1:150,000, a chart at 1:25,000 is:",
+    "options": [
+      "The same scale with different units",
+      "Only used for ocean passages",
+      "A smaller-scale chart showing a larger area",
+      "A larger-scale chart showing a smaller area in more detail"
+    ],
+    "correctIndex": 3,
+    "explanation": "The smaller the scale number, the larger the scale; the largest suitable scale chart should be used for navigation."
+  },
+  {
+    "id": "deck-nav-042",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "Notices to Mariners are mainly used to:",
+    "options": [
+      "Keep charts and nautical publications up to date",
+      "Announce crew changes",
+      "Report the ship's position to the company",
+      "Give weather forecasts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Corrections from Notices to Mariners, or ENC updates, must be applied so that charts are fit for navigation."
+  },
+  {
+    "id": "deck-nav-043",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "Details of a light's character, elevation and range are found in the:",
+    "options": [
+      "Tide tables",
+      "List of Lights",
+      "Nautical Almanac",
+      "Ship's deviation card"
+    ],
+    "correctIndex": 1,
+    "explanation": "The List of Lights (and Fog Signals) gives full details of lights, while the chart shows an abbreviated description."
+  },
+  {
+    "id": "deck-nav-044",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "Sailing Directions (Pilot books) mainly give:",
+    "options": [
+      "Radio frequencies for weather faxes only",
+      "The positions of the sun and stars",
+      "Descriptions of coasts, ports, dangers and local regulations",
+      "Daily tidal heights for each port"
+    ],
+    "correctIndex": 2,
+    "explanation": "They supplement the chart with information useful for passage planning and pilotage."
+  },
+  {
+    "id": "deck-nav-045",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "An echo sounder measures:",
+    "options": [
+      "The distance to the nearest coastline",
+      "The ship's speed through the water",
+      "The depth of water below its transducer",
+      "The height of the tide"
+    ],
+    "correctIndex": 2,
+    "explanation": "The transducer offset must be known so the reading can be related to the keel or the waterline."
+  },
+  {
+    "id": "deck-nav-046",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "easy",
+    "question": "A light shown on a chart as 'Fl(3) 10s' shows:",
+    "options": [
+      "One flash every 3 seconds for 10 minutes",
+      "Groups of three flashes, repeated every 10 seconds",
+      "Three seconds of light followed by 10 seconds of darkness",
+      "Ten flashes every 3 seconds"
+    ],
+    "correctIndex": 1,
+    "explanation": "The period is the time for one complete sequence, from the start of one group to the start of the next."
+  },
+  {
+    "id": "deck-nav-047",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "An isophase (Iso) light is one in which:",
+    "options": [
+      "Flashes are given in groups",
+      "The colour alternates between red and white",
+      "Light is always longer than darkness",
+      "The durations of light and darkness are equal"
+    ],
+    "correctIndex": 3,
+    "explanation": "Iso lights are often used on safe water marks and leading lights."
+  },
+  {
+    "id": "deck-nav-048",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "In an occulting (Oc) light, the duration of light in each period is:",
+    "options": [
+      "Longer than the duration of darkness",
+      "Shorter than the duration of darkness",
+      "Exactly equal to the darkness",
+      "Always less than one second"
+    ],
+    "correctIndex": 0,
+    "explanation": "Occulting is the opposite of flashing: steady light interrupted by shorter eclipses."
+  },
+  {
+    "id": "deck-nav-049",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "In IALA Region A, a red can buoy with one broad green horizontal band indicates:",
+    "options": [
+      "A new wreck",
+      "A preferred channel to starboard",
+      "A preferred channel to port",
+      "An isolated danger"
+    ],
+    "correctIndex": 1,
+    "explanation": "This modified port-hand mark shows where a channel divides; the preferred (main) channel lies to starboard."
+  },
+  {
+    "id": "deck-nav-050",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "A safe water mark is painted with:",
+    "options": [
+      "Black and yellow horizontal bands",
+      "Green and white horizontal bands",
+      "Yellow, with an X-shaped topmark",
+      "Red and white vertical stripes, with a single red sphere topmark"
+    ],
+    "correctIndex": 3,
+    "explanation": "Safe water marks show navigable water all around, for example a mid-channel or landfall position."
+  },
+  {
+    "id": "deck-nav-051",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "An emergency wreck marking buoy is painted:",
+    "options": [
+      "In blue and yellow vertical stripes, with a yellow upright cross topmark",
+      "Red and white vertical stripes",
+      "Black with red bands and two black spheres",
+      "Yellow with a yellow X topmark"
+    ],
+    "correctIndex": 0,
+    "explanation": "It marks new wrecks not yet shown in nautical publications, with an alternating blue and yellow light."
+  },
+  {
+    "id": "deck-nav-052",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "The light character of a SOUTH cardinal mark is:",
+    "options": [
+      "Continuous quick flashing",
+      "Q(9) every 15 s, or VQ(9) every 10 s",
+      "Q(6) + LFl every 15 s, or VQ(6) + LFl every 10 s",
+      "Q(3) every 10 s, or VQ(3) every 5 s"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardinal light characters follow a clock face: east 3, south 6, west 9, north continuous; the long flash makes six easier to tell from nine."
+  },
+  {
+    "id": "deck-nav-053",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "An EAST cardinal mark is painted:",
+    "options": [
+      "Yellow with a broad black band",
+      "Black above yellow",
+      "Yellow above black",
+      "Black with a single broad horizontal yellow band"
+    ],
+    "correctIndex": 3,
+    "explanation": "East cardinal: black-yellow-black, matching its base-to-base topmark cones. Safe water lies to the east."
+  },
+  {
+    "id": "deck-nav-054",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "A radar range of a charted point of land gives a position line that is:",
+    "options": [
+      "A hyperbola",
+      "A line parallel to the coast",
+      "An arc of a circle centred on the object",
+      "A straight line through the object"
+    ],
+    "correctIndex": 2,
+    "explanation": "Two or more ranges, or a range and a bearing, give a fix; radar ranges are usually more accurate than radar bearings."
+  },
+  {
+    "id": "deck-nav-055",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "A running fix is used when:",
+    "options": [
+      "Several objects can be observed at the same moment",
+      "Only one charted object is available, so a position line is transferred by the ship's run between two observations",
+      "The radar has failed and GNSS is available",
+      "The ship is at anchor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Its accuracy depends on how well the course and distance made good between the observations are known."
+  },
+  {
+    "id": "deck-nav-056",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "An estimated position (EP) differs from a dead reckoning (DR) position because the EP also allows for:",
+    "options": [
+      "Tidal stream or current, and leeway",
+      "The height of tide",
+      "Compass deviation",
+      "The ship's draught"
+    ],
+    "correctIndex": 0,
+    "explanation": "DR uses only course steered and distance run through the water from the last known position."
+  },
+  {
+    "id": "deck-nav-057",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "Leeway is:",
+    "options": [
+      "The angle between the ship's heading and her track through the water, caused by wind",
+      "The difference between gyro and magnetic headings",
+      "The effect of a current on the ship",
+      "The distance between two waypoints"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leeway is greatest for light ships with high windage at low speed, in strong beam winds."
+  },
+  {
+    "id": "deck-nav-058",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "Parallel indexing on radar is used to:",
+    "options": [
+      "Reduce sea clutter",
+      "Measure the speed of other vessels",
+      "Calibrate the gyro compass",
+      "Monitor continuously the ship's position relative to the planned track using a radar-conspicuous fixed object"
+    ],
+    "correctIndex": 3,
+    "explanation": "An index line drawn parallel to the track at the planned passing distance shows at once if the ship is setting off track."
+  },
+  {
+    "id": "deck-nav-059",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "Gyro compass speed and latitude error is greatest when the ship is:",
+    "options": [
+      "Stopped in the water",
+      "Rolling heavily on a westerly course",
+      "On a northerly or southerly course at high speed in high latitudes",
+      "On an easterly course at low speed near the equator"
+    ],
+    "correctIndex": 2,
+    "explanation": "The error comes from the north-south component of the ship's speed and increases with the secant of latitude."
+  },
+  {
+    "id": "deck-nav-060",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "Compared with the rhumb line between the same two points, a great-circle track lies:",
+    "options": [
+      "Exactly on the rhumb line",
+      "On the poleward side",
+      "On the equatorward side",
+      "On the western side only"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is why great-circle routes between mid-latitude ports take ships into higher latitudes, where weather and ice must be checked."
+  },
+  {
+    "id": "deck-nav-061",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "A ship crosses the International Date Line heading east (from east longitude into west longitude). Her date:",
+    "options": [
+      "Goes forward one day",
+      "Does not change",
+      "Goes back one day, so the same date is repeated",
+      "Changes by 12 hours"
+    ],
+    "correctIndex": 2,
+    "explanation": "Heading east the ship's clocks have been advanced towards +12 h; crossing into west longitude she moves to -12 h and repeats the date."
+  },
+  {
+    "id": "deck-nav-062",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "A ship keeping standard zone time in longitude 75°W has a zone description of:",
+    "options": [
+      "+7",
+      "-5",
+      "-3",
+      "+5"
+    ],
+    "correctIndex": 3,
+    "explanation": "Zone = longitude / 15, and west longitude gives a positive description: add 5 hours to zone time to get UTC."
+  },
+  {
+    "id": "deck-nav-063",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "When an ENC is displayed on ECDIS at a much larger scale than its compilation scale, ECDIS:",
+    "options": [
+      "Disables all alarms",
+      "Shows an overscale indication warning that the detail and accuracy shown may be misleading",
+      "Automatically adds more soundings",
+      "Switches to raster charts"
+    ],
+    "correctIndex": 1,
+    "explanation": "Zooming in does not add survey data; the overscale pattern reminds the navigator that positions are no more accurate than the source scale."
+  },
+  {
+    "id": "deck-nav-064",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "hard",
+    "question": "Second-trace echoes on radar are most likely when:",
+    "options": [
+      "Super-refraction (ducting) returns echoes from beyond the range limit of the pulse repetition interval",
+      "Heavy rain attenuates the beam",
+      "The target is very close and large",
+      "The antenna is shadowed by the funnel"
+    ],
+    "correctIndex": 0,
+    "explanation": "These echoes appear at a false, shorter range; changing the range scale (and PRF) makes them shift or disappear."
+  },
+  {
+    "id": "deck-nav-065",
+    "department": "deck",
+    "category": "navigation",
+    "difficulty": "medium",
+    "question": "A GNSS position used for navigation should be:",
+    "options": [
+      "Cross-checked regularly by an independent method such as radar ranges, visual bearings or soundings",
+      "Used only when the radar has failed",
+      "Trusted without checking, because satellites are always accurate",
+      "Checked only once per voyage"
+    ],
+    "correctIndex": 0,
+    "explanation": "GNSS can be degraded or spoofed; good practice is never to rely on a single means of position fixing."
   }
 ]

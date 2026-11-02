@@ -223,5 +223,755 @@
     ],
     "correctIndex": 3,
     "explanation": "Oil carried into the system reduces heat transfer in the condenser and evaporator."
+  },
+  {
+    "id": "engine-ref-016",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "In a vapour compression refrigeration system, the compressor:",
+    "options": [
+      "Removes moisture from the refrigerant",
+      "Raises the pressure and temperature of the refrigerant vapour",
+      "Reduces the refrigerant pressure",
+      "Turns liquid refrigerant into vapour at low pressure"
+    ],
+    "correctIndex": 1,
+    "explanation": "Raising the pressure allows the refrigerant to condense at a temperature above that of the cooling medium."
+  },
+  {
+    "id": "engine-ref-017",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "In the condenser, the refrigerant:",
+    "options": [
+      "Absorbs heat from the cold room",
+      "Is compressed",
+      "Gives up heat and changes from vapour to liquid",
+      "Is filtered"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sea water or fresh water from the cooling system carries the heat away."
+  },
+  {
+    "id": "engine-ref-018",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "As the refrigerant passes through the expansion valve, its pressure:",
+    "options": [
+      "Rises and its temperature falls to zero",
+      "Falls sharply, so it can boil at a low temperature in the evaporator",
+      "Stays the same",
+      "Rises sharply"
+    ],
+    "correctIndex": 1,
+    "explanation": "Part of the liquid flashes to vapour, cooling the rest."
+  },
+  {
+    "id": "engine-ref-019",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "The liquid receiver in a refrigeration plant:",
+    "options": [
+      "Cools the compressor",
+      "Stores refrigerant vapour for the compressor",
+      "Stores liquid refrigerant leaving the condenser",
+      "Separates oil from the vapour"
+    ],
+    "correctIndex": 2,
+    "explanation": "It allows for changes in load and lets the refrigerant be pumped down for maintenance."
+  },
+  {
+    "id": "engine-ref-020",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "A filter drier in the liquid line is fitted to:",
+    "options": [
+      "Increase the refrigerant pressure",
+      "Measure the refrigerant flow",
+      "Remove moisture and dirt from the refrigerant",
+      "Add oil to the system"
+    ],
+    "correctIndex": 2,
+    "explanation": "Driers are replaced whenever the system has been opened or shows signs of moisture or restriction."
+  },
+  {
+    "id": "engine-ref-021",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "A ship's frozen meat and fish room is typically kept at about:",
+    "options": [
+      "-18 to -20 °C",
+      "0 °C",
+      "+2 to +4 °C",
+      "-60 °C"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vegetable and dairy rooms are kept just above freezing so the produce is not damaged."
+  },
+  {
+    "id": "engine-ref-022",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "The high-pressure cut-out on a refrigeration compressor:",
+    "options": [
+      "Opens the expansion valve",
+      "Stops the compressor if the discharge pressure becomes too high",
+      "Adds refrigerant automatically",
+      "Starts the compressor when the room warms up"
+    ],
+    "correctIndex": 1,
+    "explanation": "It protects against conditions such as a cooling water failure or a fouled condenser; it usually needs a manual reset."
+  },
+  {
+    "id": "engine-ref-023",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "Which safety device stops a refrigeration compressor when its suction pressure falls too low?",
+    "options": [
+      "The liquid receiver",
+      "The high-pressure cut-out",
+      "The low-pressure cut-out",
+      "The oil separator"
+    ],
+    "correctIndex": 2,
+    "explanation": "On many plants the LP switch also stops the compressor normally after the liquid solenoid valve closes."
+  },
+  {
+    "id": "engine-ref-024",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "Small refrigerant leaks are commonly found using:",
+    "options": [
+      "A megger",
+      "An electronic leak detector or soap solution",
+      "A naked flame held at the joints",
+      "A hydrometer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Leaks often show as oily stains at joints, since oil escapes with the refrigerant."
+  },
+  {
+    "id": "engine-ref-025",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "Large ship reefer and provision plants commonly use which types of compressor?",
+    "options": [
+      "Reciprocating or screw compressors",
+      "Centrifugal fans only",
+      "Gear pumps",
+      "Jet ejectors"
+    ],
+    "correctIndex": 0,
+    "explanation": "Screw compressors are common on larger plants because of their smooth capacity control."
+  },
+  {
+    "id": "engine-ref-026",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "Small refrigeration units such as drinking water coolers often use, instead of an expansion valve:",
+    "options": [
+      "A capillary tube",
+      "A steam trap",
+      "A safety valve",
+      "A gate valve"
+    ],
+    "correctIndex": 0,
+    "explanation": "The fixed restriction of the long, thin tube meters the refrigerant flow."
+  },
+  {
+    "id": "engine-ref-027",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "An air conditioning system on board controls:",
+    "options": [
+      "Only the engine room temperature",
+      "Only fresh air supply",
+      "Air temperature, humidity, cleanliness and circulation",
+      "Only air temperature"
+    ],
+    "correctIndex": 2,
+    "explanation": "Good air conditioning keeps the accommodation comfortable in all climates."
+  },
+  {
+    "id": "engine-ref-028",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "Relative humidity is:",
+    "options": [
+      "The temperature of the air",
+      "The amount of water vapour in the air compared with the maximum it could hold at that temperature, as a percentage",
+      "The air pressure",
+      "The amount of oxygen in the air"
+    ],
+    "correctIndex": 1,
+    "explanation": "Air at 100% relative humidity is saturated, and further cooling causes condensation."
+  },
+  {
+    "id": "engine-ref-029",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "Relative humidity on board is commonly measured with:",
+    "options": [
+      "A barometer",
+      "A megger",
+      "A manometer",
+      "A wet and dry bulb thermometer (psychrometer) or an electronic hygrometer"
+    ],
+    "correctIndex": 3,
+    "explanation": "The difference between wet and dry bulb readings is used with a table or chart to find relative humidity."
+  },
+  {
+    "id": "engine-ref-030",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "When handling liquid refrigerant, you should wear:",
+    "options": [
+      "Only ear defenders",
+      "No protection is needed",
+      "Gloves and eye protection, because contact can cause frostbite",
+      "A lifejacket"
+    ],
+    "correctIndex": 2,
+    "explanation": "Liquid refrigerant evaporates very quickly at atmospheric pressure, absorbing heat from the skin."
+  },
+  {
+    "id": "engine-ref-031",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "A large refrigerant leak in an enclosed space such as a cold room is dangerous because:",
+    "options": [
+      "Most refrigerant vapour is heavier than air and can displace oxygen",
+      "It increases oxygen levels",
+      "It is always explosive",
+      "It makes the air too warm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ventilate the space and check the atmosphere before entry."
+  },
+  {
+    "id": "engine-ref-032",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "easy",
+    "question": "In winter, the air conditioning plant mainly:",
+    "options": [
+      "Stops all air circulation",
+      "Heats the air and adds moisture, for example with steam humidifiers",
+      "Uses only recirculated air with no heating",
+      "Cools the air below its dew point"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cold outside air heated without humidification becomes very dry."
+  },
+  {
+    "id": "engine-ref-033",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "A moisture indicator in the liquid-line sight glass:",
+    "options": [
+      "Shows the refrigerant pressure",
+      "Shows the oil level",
+      "Changes colour if the refrigerant contains too much moisture",
+      "Measures the room temperature"
+    ],
+    "correctIndex": 2,
+    "explanation": "If it shows 'wet', the filter drier should be changed and the cause investigated."
+  },
+  {
+    "id": "engine-ref-034",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "In a multi-room provision plant, the liquid solenoid valve for each room:",
+    "options": [
+      "Is always open",
+      "Closes when the room thermostat is satisfied, stopping refrigerant flow to that evaporator",
+      "Controls the condenser water",
+      "Opens to release refrigerant to atmosphere"
+    ],
+    "correctIndex": 1,
+    "explanation": "When all rooms are satisfied, the suction pressure falls and the compressor stops on its LP switch."
+  },
+  {
+    "id": "engine-ref-035",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "The oil pressure differential switch on a refrigeration compressor:",
+    "options": [
+      "Stops the compressor if the oil pressure above crankcase pressure becomes too low",
+      "Starts the condenser pump",
+      "Controls the defrost cycle",
+      "Measures the refrigerant charge"
+    ],
+    "correctIndex": 0,
+    "explanation": "A time delay lets oil pressure build up during start-up."
+  },
+  {
+    "id": "engine-ref-036",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Subcooling of liquid refrigerant before the expansion valve:",
+    "options": [
+      "Causes liquid slugging",
+      "Raises the evaporator temperature",
+      "Reduces the plant's capacity",
+      "Increases the refrigerating effect and helps prevent flash gas in the liquid line"
+    ],
+    "correctIndex": 3,
+    "explanation": "Subcooling means cooling the liquid below its saturation temperature at the condensing pressure."
+  },
+  {
+    "id": "engine-ref-037",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "The coefficient of performance (COP) of a refrigeration plant is:",
+    "options": [
+      "The compressor speed divided by the motor power",
+      "The refrigerating effect divided by the work input to the compressor",
+      "The condenser pressure divided by the suction pressure",
+      "The room temperature divided by the ambient temperature"
+    ],
+    "correctIndex": 1,
+    "explanation": "A higher COP means a more efficient plant; it falls as the condensing temperature rises."
+  },
+  {
+    "id": "engine-ref-038",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Deliberate release of ozone-depleting refrigerants such as R-22 to the atmosphere is:",
+    "options": [
+      "Prohibited under MARPOL Annex VI",
+      "Allowed at sea beyond 12 miles",
+      "Allowed if recorded in the log",
+      "Allowed during maintenance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Refrigerant must be recovered into suitable cylinders; ships with ODS keep a record book of ODS operations."
+  },
+  {
+    "id": "engine-ref-039",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "R-404A has zero ozone depletion potential but a high:",
+    "options": [
+      "Flammability",
+      "Boiling point",
+      "Toxicity",
+      "Global warming potential (GWP)"
+    ],
+    "correctIndex": 3,
+    "explanation": "High-GWP refrigerants are being phased down, and lower-GWP alternatives are used in new installations."
+  },
+  {
+    "id": "engine-ref-040",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Carbon dioxide (R-744) used as a refrigerant requires:",
+    "options": [
+      "No compressor",
+      "No safety valves",
+      "Equipment designed for much higher working pressures than conventional refrigerants",
+      "Copper pipework only at low pressure"
+    ],
+    "correctIndex": 2,
+    "explanation": "CO2 has very low GWP and no ODP, but some systems operate above 100 bar."
+  },
+  {
+    "id": "engine-ref-041",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "When adding refrigerant as vapour to a running plant, it is normally charged into:",
+    "options": [
+      "The condenser cooling water",
+      "The suction (low-pressure) side",
+      "The discharge line",
+      "The liquid receiver as vapour at high pressure"
+    ],
+    "correctIndex": 1,
+    "explanation": "Liquid charging is done into the liquid line through the charging valve, never into the compressor suction."
+  },
+  {
+    "id": "engine-ref-042",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Typical signs of an overcharged refrigeration system include:",
+    "options": [
+      "High condensing pressure, with liquid backing up in the condenser",
+      "Bubbles in the sight glass",
+      "High superheat at the evaporator",
+      "Very low discharge pressure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Excess refrigerant reduces the condenser's effective surface."
+  },
+  {
+    "id": "engine-ref-043",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Compared with electric defrosting, hot gas defrosting:",
+    "options": [
+      "Works only on air conditioning plants",
+      "Uses sea water sprayed on the coil",
+      "Uses hot discharge vapour from the compressor to melt ice from inside the evaporator coil",
+      "Needs no valves"
+    ],
+    "correctIndex": 2,
+    "explanation": "Defrosting from inside is fast and even, but needs careful control of liquid return to the compressor."
+  },
+  {
+    "id": "engine-ref-044",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "A refrigeration compressor starting and stopping very frequently (short cycling) may be caused by:",
+    "options": [
+      "A new filter drier",
+      "A clean condenser",
+      "A correctly charged system",
+      "Too small a differential on the LP switch, a faulty thermostat or a low refrigerant charge"
+    ],
+    "correctIndex": 3,
+    "explanation": "Short cycling increases wear on the compressor and motor starter."
+  },
+  {
+    "id": "engine-ref-045",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "The evaporating temperature in a refrigeration system can be found from:",
+    "options": [
+      "The cooling water inlet temperature",
+      "The compressor speed",
+      "The oil level",
+      "The suction pressure, using the refrigerant's pressure-temperature table"
+    ],
+    "correctIndex": 3,
+    "explanation": "Saturated refrigerant has a fixed relationship between pressure and temperature."
+  },
+  {
+    "id": "engine-ref-046",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "The sensing bulb of a thermostatic expansion valve should be fitted:",
+    "options": [
+      "Inside the cold room air stream",
+      "On the compressor discharge",
+      "On the suction line at the evaporator outlet, with good thermal contact and insulation",
+      "On the condenser"
+    ],
+    "correctIndex": 2,
+    "explanation": "Poor bulb contact gives wrong superheat readings and poor valve control."
+  },
+  {
+    "id": "engine-ref-047",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "In summer, the air conditioning plant removes moisture from the air by:",
+    "options": [
+      "Adding steam",
+      "Cooling the air below its dew point so that water condenses on the cooling coil",
+      "Increasing the fan speed only",
+      "Heating the air"
+    ],
+    "correctIndex": 1,
+    "explanation": "The air may then be reheated slightly to give a comfortable temperature and humidity."
+  },
+  {
+    "id": "engine-ref-048",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Comfortable relative humidity in ship accommodation is generally about:",
+    "options": [
+      "40 to 60%",
+      "90 to 100%",
+      "5 to 10%",
+      "75 to 95%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Too dry air irritates eyes and throats; too humid air feels stuffy and encourages mould."
+  },
+  {
+    "id": "engine-ref-049",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Air conditioning cooling coils, drip trays and humidifiers should be cleaned and disinfected regularly mainly to prevent:",
+    "options": [
+      "Loss of refrigerant",
+      "Growth of Legionella and other harmful bacteria",
+      "Overheating of the fan motor",
+      "Corrosion of the compressor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stagnant water in drip trays is a common breeding ground for bacteria."
+  },
+  {
+    "id": "engine-ref-050",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Oil collecting in an evaporator (oil logging) causes:",
+    "options": [
+      "Higher superheat with no other effect",
+      "Higher refrigerating capacity",
+      "Better lubrication of the expansion valve",
+      "Reduced heat transfer and lower plant capacity"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct pipe sizing, oil traps and oil separators help return oil to the compressor."
+  },
+  {
+    "id": "engine-ref-051",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Refrigerants exposed to an open flame or very hot surface can:",
+    "options": [
+      "Decompose and produce toxic gases",
+      "Become fresh water",
+      "Extinguish all fires safely",
+      "Turn into oxygen"
+    ],
+    "correctIndex": 0,
+    "explanation": "This is one reason why naked flames must not be used to find leaks and hot work near refrigerant lines needs care."
+  },
+  {
+    "id": "engine-ref-052",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "medium",
+    "question": "Heavy frost or sweating on the suction line all the way back to the compressor usually indicates:",
+    "options": [
+      "Correct normal operation in all plants",
+      "A shortage of refrigerant",
+      "Low superheat, with a risk of liquid refrigerant reaching the compressor",
+      "A high condensing pressure"
+    ],
+    "correctIndex": 2,
+    "explanation": "Check the expansion valve setting and bulb, and the evaporator fans."
+  },
+  {
+    "id": "engine-ref-053",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "hard",
+    "question": "The compressor crankcase heater is energised while the compressor is stopped to:",
+    "options": [
+      "Defrost the evaporator",
+      "Keep the motor windings dry only",
+      "Prevent refrigerant dissolving in the oil, which would cause oil foaming at start-up",
+      "Raise the condensing pressure"
+    ],
+    "correctIndex": 2,
+    "explanation": "Foaming oil leads to poor lubrication and possible liquid carry-over into the cylinders."
+  },
+  {
+    "id": "engine-ref-054",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "hard",
+    "question": "One ton of refrigeration (TR) is equal to about:",
+    "options": [
+      "3.5 kW",
+      "1 kW",
+      "0.75 kW",
+      "10 kW"
+    ],
+    "correctIndex": 0,
+    "explanation": "It is based on the heat needed to freeze one short ton of water at 0 °C in 24 hours."
+  },
+  {
+    "id": "engine-ref-055",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "hard",
+    "question": "Under MARPOL Annex VI, new installations containing hydrochlorofluorocarbons (HCFCs) such as R-22 have been prohibited on all ships since:",
+    "options": [
+      "1 January 2000",
+      "1 January 2030",
+      "1 January 1990",
+      "1 January 2020"
+    ],
+    "correctIndex": 3,
+    "explanation": "Existing HCFC systems may still be used but must be maintained without deliberate emissions."
+  },
+  {
+    "id": "engine-ref-056",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "hard",
+    "question": "Ammonia (R-717) refrigeration plants must not use:",
+    "options": [
+      "Shell-and-tube condensers",
+      "Copper or brass components in contact with the refrigerant",
+      "Screw compressors",
+      "Steel piping"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ammonia attacks copper alloys; it is also toxic, so leak detection and ventilation are essential."
+  },
+  {
+    "id": "engine-ref-057",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "hard",
+    "question": "The capacity of a screw refrigeration compressor is usually controlled by:",
+    "options": [
+      "A slide valve that varies the effective length of the rotors used for compression",
+      "Changing the oil level",
+      "Opening the safety valve",
+      "Throttling the condenser water"
+    ],
+    "correctIndex": 0,
+    "explanation": "This gives smooth, stepless capacity control from about 10 to 100%."
+  },
+  {
+    "id": "engine-ref-058",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "hard",
+    "question": "On a multi-cylinder reciprocating refrigeration compressor, capacity is often reduced by:",
+    "options": [
+      "Draining the oil",
+      "Unloading cylinders by holding their suction valves open",
+      "Reversing the motor",
+      "Closing the discharge valve"
+    ],
+    "correctIndex": 1,
+    "explanation": "Unloaded cylinders pump no gas, reducing capacity and allowing easier starting."
+  },
+  {
+    "id": "engine-ref-059",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "hard",
+    "question": "A filter drier that is cold or frosted on its outlet side indicates:",
+    "options": [
+      "An overcharged system",
+      "A normal clean drier",
+      "A restriction across the drier, which is partly blocked",
+      "A failed condenser fan"
+    ],
+    "correctIndex": 2,
+    "explanation": "The pressure drop causes flashing and cooling in the liquid line; the drier should be replaced."
+  },
+  {
+    "id": "engine-ref-060",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "hard",
+    "question": "A thermostatic expansion valve with an external equaliser is used when:",
+    "options": [
+      "The compressor has no unloaders",
+      "The evaporator is very small with no pressure drop",
+      "The plant uses a capillary tube",
+      "There is a significant pressure drop through the evaporator"
+    ],
+    "correctIndex": 3,
+    "explanation": "The equaliser line senses the pressure at the evaporator outlet, giving correct superheat control."
+  },
+  {
+    "id": "engine-ref-061",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "hard",
+    "question": "In a multi-room plant with one compressor, an evaporator pressure regulating (back-pressure) valve is fitted to the warmer rooms to:",
+    "options": [
+      "Bypass the expansion valve",
+      "Raise the condensing pressure",
+      "Keep a higher evaporating pressure, and temperature, in those evaporators",
+      "Stop the compressor"
+    ],
+    "correctIndex": 2,
+    "explanation": "This prevents warmer rooms such as vegetable rooms from being cooled too much or drying the produce."
+  },
+  {
+    "id": "engine-ref-062",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "hard",
+    "question": "Recovery cylinders for used refrigerant should be filled to no more than about:",
+    "options": [
+      "80% of their capacity by weight",
+      "95% of their capacity",
+      "50% of their capacity, always",
+      "100% of their capacity"
+    ],
+    "correctIndex": 0,
+    "explanation": "Space must be left for liquid expansion as temperature rises; overfilled cylinders can rupture."
+  },
+  {
+    "id": "engine-ref-063",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "hard",
+    "question": "A water-regulating valve on a water-cooled condenser:",
+    "options": [
+      "Controls the refrigerant charge",
+      "Opens only during defrosting",
+      "Regulates the room temperature directly",
+      "Adjusts the cooling water flow to keep the condensing pressure steady"
+    ],
+    "correctIndex": 3,
+    "explanation": "It reduces water consumption and stops the condensing pressure falling too low in cold sea water."
+  },
+  {
+    "id": "engine-ref-064",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "hard",
+    "question": "In a provision plant, 'pump-down' means:",
+    "options": [
+      "Draining the condenser cooling water",
+      "Closing the liquid line solenoid and letting the compressor remove refrigerant from the low side until it stops on the LP switch",
+      "Pumping oil out of the crankcase",
+      "Adding refrigerant to the low side"
+    ],
+    "correctIndex": 1,
+    "explanation": "It stores the refrigerant in the condenser and receiver, which reduces migration to the crankcase and helps maintenance."
+  },
+  {
+    "id": "engine-ref-065",
+    "department": "engine",
+    "category": "refrigeration-hvac",
+    "difficulty": "hard",
+    "question": "Flash gas in the liquid line before the expansion valve is caused by:",
+    "options": [
+      "Pressure drop or heat gain in the liquid line, and it reduces the capacity of the expansion valve",
+      "Low compressor discharge temperature",
+      "Correct refrigerant charge only",
+      "Too much subcooling"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bubbles in the sight glass may come from flash gas as well as from a refrigerant shortage."
   }
 ]

@@ -223,5 +223,755 @@
     ],
     "correctIndex": 0,
     "explanation": "Enclosed space accidents often kill rescuers too. Never enter without testing the atmosphere."
+  },
+  {
+    "id": "engine-saf-016",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "On discovering a fire in the engine room, the first action should be to:",
+    "options": [
+      "Open the engine room skylights",
+      "Go to the cabin for personal belongings",
+      "Raise the alarm",
+      "Finish the job you are doing"
+    ],
+    "correctIndex": 2,
+    "explanation": "Raising the alarm early brings the fire party and lets the bridge and engine control room act quickly."
+  },
+  {
+    "id": "engine-saf-017",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "EEBDs in the machinery spaces should be located:",
+    "options": [
+      "Only in the steering gear room",
+      "In the accommodation only",
+      "Along escape routes and at the main workstations, ready for immediate use",
+      "Locked in the chief engineer's office"
+    ],
+    "correctIndex": 2,
+    "explanation": "Engineers must know where they are and how to put one on quickly."
+  },
+  {
+    "id": "engine-saf-018",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "Oily rags in the engine room should be:",
+    "options": [
+      "Stored in cardboard boxes",
+      "Kept in closed metal containers and disposed of regularly",
+      "Thrown into the bilges",
+      "Left on top of hot machinery to dry"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oily rags can heat up and ignite by spontaneous combustion."
+  },
+  {
+    "id": "engine-saf-019",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "Insulation (lagging) on hot surfaces that becomes soaked with oil should be:",
+    "options": [
+      "Painted over",
+      "Left in place",
+      "Replaced, and the source of the leak repaired",
+      "Heated to dry it out"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oil-soaked lagging can ignite easily and burn fiercely."
+  },
+  {
+    "id": "engine-saf-020",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "If fuel oil is found spraying onto a hot exhaust pipe, the immediate action is to:",
+    "options": [
+      "Increase engine speed",
+      "Stop the leak by shutting the supply, raise the alarm and be ready to fight a fire",
+      "Wait until the end of the watch",
+      "Wipe the pipe with a rag while it leaks"
+    ],
+    "correctIndex": 1,
+    "explanation": "The leak must be stopped as quickly as possible; the engine may need to be stopped."
+  },
+  {
+    "id": "engine-saf-021",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "Suitable personal protective clothing in the engine room includes:",
+    "options": [
+      "Shorts and sandals",
+      "A boiler suit with long sleeves and safety shoes",
+      "A raincoat only",
+      "Loose clothing and jewellery"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hearing protection, gloves, a helmet and eye protection are added as the job requires."
+  },
+  {
+    "id": "engine-saf-022",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "When working near rotating machinery, you should:",
+    "options": [
+      "Wear loose gloves near rotating shafts",
+      "Remove the guards for a better view",
+      "Keep guards in place and avoid loose clothing, long hair and jewellery",
+      "Reach past moving parts to save time"
+    ],
+    "correctIndex": 2,
+    "explanation": "Clothing caught by a rotating shaft can cause severe injury in seconds."
+  },
+  {
+    "id": "engine-saf-023",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "Before using a chain block or other lifting gear in the engine room, check that:",
+    "options": [
+      "It has never been tested",
+      "It is the cheapest available",
+      "It is marked with its SWL, has been inspected and is suitable for the load",
+      "It can lift more than any load on board"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lifting points such as eyebolts and beams must also be certified and in good condition."
+  },
+  {
+    "id": "engine-saf-024",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "Oil collecting in the engine room bilges should be avoided because it:",
+    "options": [
+      "Helps cool the machinery",
+      "Increases the fire risk and can lead to pollution",
+      "Improves pump suction",
+      "Reduces corrosion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Leaks should be traced and repaired, and the bilges kept clean."
+  },
+  {
+    "id": "engine-saf-025",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "Compressed air must never be used to:",
+    "options": [
+      "Blow down air receivers",
+      "Blow dust off your clothing or skin",
+      "Start the main engine",
+      "Operate pneumatic tools"
+    ],
+    "correctIndex": 1,
+    "explanation": "Air can penetrate the skin and enter the bloodstream, or blow particles into the eyes."
+  },
+  {
+    "id": "engine-saf-026",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "Before using a new chemical on board, you should read its:",
+    "options": [
+      "Bunker delivery note",
+      "Oil Record Book",
+      "Safety Data Sheet (SDS)",
+      "Crew list"
+    ],
+    "correctIndex": 2,
+    "explanation": "The SDS gives the hazards, PPE, first aid, fire-fighting and spill measures."
+  },
+  {
+    "id": "engine-saf-027",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "The main engine can usually be stopped in an emergency from:",
+    "options": [
+      "The galley only",
+      "The forecastle only",
+      "The accommodation only",
+      "The bridge, the engine control room and the local control stand"
+    ],
+    "correctIndex": 3,
+    "explanation": "Emergency stops must be tested regularly."
+  },
+  {
+    "id": "engine-saf-028",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "When lighting an oil-fired boiler, you should:",
+    "options": [
+      "Never look directly into the furnace through an open sight port while the burner ignites",
+      "Light it before purging",
+      "Use a rag soaked in fuel as a torch",
+      "Look into the furnace at close range to check ignition"
+    ],
+    "correctIndex": 0,
+    "explanation": "A furnace blow-back can blast flame out of the openings."
+  },
+  {
+    "id": "engine-saf-029",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "Acetylene gas cylinders should be stored and used:",
+    "options": [
+      "In the engine room bilges",
+      "Lying down on their side",
+      "Next to oxygen cylinders with no separation",
+      "Upright, secured, and away from oxygen cylinders"
+    ],
+    "correctIndex": 3,
+    "explanation": "Acetylene cylinders contain a solvent that could be drawn out if the cylinder is used lying down."
+  },
+  {
+    "id": "engine-saf-030",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "The shipboard incinerator should be used:",
+    "options": [
+      "For any waste, including PVC and Annex I cargo residues",
+      "Only for permitted waste, by trained persons, following the maker's instructions",
+      "Unattended for long periods",
+      "With the door open"
+    ],
+    "correctIndex": 1,
+    "explanation": "Its operation is recorded, and some wastes may never be burned."
+  },
+  {
+    "id": "engine-saf-031",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "Fire doors in machinery space boundaries should be:",
+    "options": [
+      "Locked from both sides",
+      "Removed when in port",
+      "Kept closed or held open only by approved release devices, and never wedged open",
+      "Wedged open for ventilation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Closed fire doors keep fire and smoke from spreading between spaces."
+  },
+  {
+    "id": "engine-saf-032",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "SOLAS requires machinery spaces of category A to have:",
+    "options": [
+      "At least two means of escape, as widely separated as possible",
+      "No escape routes if the space is unmanned",
+      "An escape only through the funnel",
+      "One ladder only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Escape routes must be kept clear and marked."
+  },
+  {
+    "id": "engine-saf-033",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Insulation on hot surfaces in the engine room should be:",
+    "options": [
+      "Covered with an oil-resistant cladding so that leaking oil cannot soak into it",
+      "Made of combustible fibre",
+      "Removed to allow inspection at any time",
+      "Left uncovered"
+    ],
+    "correctIndex": 0,
+    "explanation": "Damaged cladding must be repaired."
+  },
+  {
+    "id": "engine-saf-034",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Hearing protection is required in engine room areas where noise levels exceed about:",
+    "options": [
+      "140 dB(A)",
+      "60 dB(A)",
+      "85 dB(A)",
+      "40 dB(A)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Long exposure above this level can cause permanent hearing loss."
+  },
+  {
+    "id": "engine-saf-035",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "When working at height in the engine room, for example above 2 m without guard rails, you should:",
+    "options": [
+      "Hold onto pipes for support",
+      "Wear a safety harness attached to a secure point, under a permit if required",
+      "Stand on a stack of boxes",
+      "Work without protection if it is quick"
+    ],
+    "correctIndex": 1,
+    "explanation": "Falls from height are a major cause of shipboard injuries."
+  },
+  {
+    "id": "engine-saf-036",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Fuel oil tank vent pipes are fitted with wire gauze (flame screens) to:",
+    "options": [
+      "Filter the fuel",
+      "Measure the tank pressure",
+      "Increase vapour release",
+      "Stop flames from entering the tank through the vent"
+    ],
+    "correctIndex": 3,
+    "explanation": "Screens must be kept clean and undamaged."
+  },
+  {
+    "id": "engine-saf-037",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "A periodically unattended (UMS) machinery space must have:",
+    "options": [
+      "Only portable extinguishers",
+      "An approved fixed fire detection and alarm system",
+      "A watchman at all times",
+      "No fire detection"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alarms are relayed to the bridge and the engineers' cabins."
+  },
+  {
+    "id": "engine-saf-038",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Remote stops for fuel oil pumps and machinery space ventilation fans are located:",
+    "options": [
+      "Outside the machinery space, so they can be used during a fire",
+      "Only next to the pumps",
+      "In the engine room bilges",
+      "Only in the engine control room"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stopping fuel supply and air is a key early action in an engine room fire."
+  },
+  {
+    "id": "engine-saf-039",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "High-expansion foam systems in machinery spaces work mainly by:",
+    "options": [
+      "Spraying a thin layer of water",
+      "Absorbing electricity",
+      "Filling the space with a large volume of foam that excludes air and cools the fire",
+      "Increasing the oxygen content"
+    ],
+    "correctIndex": 2,
+    "explanation": "The space must be evacuated before release."
+  },
+  {
+    "id": "engine-saf-040",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Water mist fire-fighting systems are effective because the fine droplets:",
+    "options": [
+      "Form a heavy foam blanket",
+      "Conduct electricity away",
+      "Add fuel to the fire",
+      "Absorb heat quickly and turn to steam, which also displaces oxygen near the fire"
+    ],
+    "correctIndex": 3,
+    "explanation": "They use little water and are often used for local protection of machinery."
+  },
+  {
+    "id": "engine-saf-041",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "When changing over and cleaning a fuel oil filter, you should:",
+    "options": [
+      "Open it while under pressure to save time",
+      "Make sure the element is isolated and depressurised, use a drip tray and keep oil away from hot surfaces",
+      "Let the oil drain onto the floor plates",
+      "Clean it with petrol near the boiler"
+    ],
+    "correctIndex": 1,
+    "explanation": "Filter covers that are not properly tightened are a common source of fuel spray fires."
+  },
+  {
+    "id": "engine-saf-042",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Starting air receivers are protected against excess pressure by:",
+    "options": [
+      "A drain valve",
+      "A pressure gauge only",
+      "A relief (safety) valve, and often a fusible plug",
+      "A non-return valve only"
+    ],
+    "correctIndex": 2,
+    "explanation": "A fire near the receiver could raise its pressure; the fusible plug melts to release the air."
+  },
+  {
+    "id": "engine-saf-043",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Sewage tanks and lines can contain:",
+    "options": [
+      "Pure oxygen",
+      "Nitrogen only",
+      "Only clean water",
+      "Toxic hydrogen sulphide and flammable methane, so they are treated as enclosed spaces"
+    ],
+    "correctIndex": 3,
+    "explanation": "Entry requires atmosphere testing, ventilation and a permit."
+  },
+  {
+    "id": "engine-saf-044",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "A portable gas detector should be checked before use by:",
+    "options": [
+      "A bump test or calibration check with a known test gas, as the maker recommends",
+      "Shaking it",
+      "Holding it in fresh air only",
+      "Checking it only once a year"
+    ],
+    "correctIndex": 0,
+    "explanation": "An uncalibrated detector may give dangerously wrong readings."
+  },
+  {
+    "id": "engine-saf-045",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "In gas welding equipment, hoses are colour-coded so that:",
+    "options": [
+      "The oxygen hose is red and the acetylene hose is green",
+      "Colours are chosen by the user",
+      "The oxygen hose is blue and the acetylene (fuel gas) hose is red",
+      "Both hoses are black"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct colours and different thread directions on fittings help prevent dangerous cross-connection."
+  },
+  {
+    "id": "engine-saf-046",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Flashback arrestors are fitted to gas welding equipment to:",
+    "options": [
+      "Light the torch",
+      "Increase the gas pressure",
+      "Mix the gases",
+      "Stop a flame travelling back through the hoses into the regulators and cylinders"
+    ],
+    "correctIndex": 3,
+    "explanation": "They are fitted at the regulators and often at the torch as well."
+  },
+  {
+    "id": "engine-saf-047",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "During electric arc welding, the welding return lead should be connected:",
+    "options": [
+      "As close as possible to the work",
+      "To the ship's switchboard",
+      "To the welding machine only",
+      "To any pipe in the engine room"
+    ],
+    "correctIndex": 0,
+    "explanation": "Return current flowing through other parts of the ship can damage bearings and electronic equipment."
+  },
+  {
+    "id": "engine-saf-048",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Engine room fire drills should include testing:",
+    "options": [
+      "The anchor windlass",
+      "Remote shut-offs for fuel and ventilation, and the closing of fire dampers and doors",
+      "The cargo pumps",
+      "Only the galley extinguishers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Drills should be realistic and cover different scenarios, such as a fuel spray fire."
+  },
+  {
+    "id": "engine-saf-049",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Flame detectors in machinery spaces are often placed near:",
+    "options": [
+      "The cargo holds",
+      "The galley",
+      "The accommodation corridors",
+      "Main and auxiliary engines, boilers and purifiers, where a fire could start quickly"
+    ],
+    "correctIndex": 3,
+    "explanation": "They react to infrared or ultraviolet radiation from flames, faster than heat detectors."
+  },
+  {
+    "id": "engine-saf-050",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Quick-closing valves on fuel oil tanks should be:",
+    "options": [
+      "Tested regularly from their remote position to confirm they close fully",
+      "Wired open",
+      "Tested only at dry-docking",
+      "Removed when not needed"
+    ],
+    "correctIndex": 0,
+    "explanation": "After testing they must be reset and the system checked before restarting machinery."
+  },
+  {
+    "id": "engine-saf-051",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Before working on a hydraulic or compressed air system, you must:",
+    "options": [
+      "Only stop the pump",
+      "Increase the pressure first",
+      "Isolate it and release any stored pressure",
+      "Rely on the relief valve"
+    ],
+    "correctIndex": 2,
+    "explanation": "Stored energy in accumulators and lines can cause serious injury."
+  },
+  {
+    "id": "engine-saf-052",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Machinery spaces with oil-fired boilers or internal combustion engines must have at least one:",
+    "options": [
+      "Fire hose with a jet nozzle only",
+      "Portable foam applicator unit",
+      "Sprinkler head",
+      "Water tender"
+    ],
+    "correctIndex": 1,
+    "explanation": "It allows the fire party to make foam from the fire main to tackle oil fires."
+  },
+  {
+    "id": "engine-saf-053",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "The auto-ignition temperature of heavy fuel oil is roughly:",
+    "options": [
+      "250 to 300 °C",
+      "100 °C",
+      "1,000 °C",
+      "60 °C"
+    ],
+    "correctIndex": 0,
+    "explanation": "Many hot surfaces such as exhaust manifolds are well above this temperature, which is why spray shields and insulation are vital."
+  },
+  {
+    "id": "engine-saf-054",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "Under SOLAS, oil fuel used on board must normally have a flash point of not less than:",
+    "options": [
+      "30 °C",
+      "60 °C",
+      "100 °C",
+      "43 °C for all uses"
+    ],
+    "correctIndex": 1,
+    "explanation": "A lower flash point (not less than 43 °C) may be allowed for emergency generators."
+  },
+  {
+    "id": "engine-saf-055",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "Under SOLAS, oil fuel in storage tanks must not be heated to within how many degrees below its flash point?",
+    "options": [
+      "50 °C",
+      "30 °C",
+      "2 °C",
+      "10 °C"
+    ],
+    "correctIndex": 3,
+    "explanation": "Heating closer to the flash point would create a flammable atmosphere in the tank."
+  },
+  {
+    "id": "engine-saf-056",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "After a machinery space fire has been extinguished with CO2, the space should be:",
+    "options": [
+      "Filled with water at once",
+      "Opened immediately to check the result",
+      "Kept closed long enough for hot surfaces to cool, then re-entered with breathing apparatus after ventilation",
+      "Entered without breathing apparatus once the alarm stops"
+    ],
+    "correctIndex": 2,
+    "explanation": "Opening too early lets air in and the fire may re-ignite."
+  },
+  {
+    "id": "engine-saf-057",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "Under the FSS Code, before CO2 is released into a space that people normally work in, an audible and visual pre-discharge alarm must operate for at least:",
+    "options": [
+      "2 minutes",
+      "10 minutes",
+      "20 seconds",
+      "2 seconds"
+    ],
+    "correctIndex": 2,
+    "explanation": "This gives anyone left in the space time to escape."
+  },
+  {
+    "id": "engine-saf-058",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "The fire main isolating valve outside the machinery space allows:",
+    "options": [
+      "Sea water to enter the bilges",
+      "The main fire pumps to be tested",
+      "Fuel to be shut off",
+      "The emergency fire pump to supply the fire main when the main fire pumps and machinery space piping are lost"
+    ],
+    "correctIndex": 3,
+    "explanation": "Without it, water from the emergency pump could escape through damaged pipes in the machinery space."
+  },
+  {
+    "id": "engine-saf-059",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "A crankcase explosion is often followed by a more violent secondary explosion because:",
+    "options": [
+      "Air drawn into the crankcase after the first explosion mixes with the remaining oil mist",
+      "Fuel leaks into the crankcase",
+      "The lube oil pump stops",
+      "The relief valves close too slowly"
+    ],
+    "correctIndex": 0,
+    "explanation": "Relief valves have flame arrestors and close again quickly to stop air entering."
+  },
+  {
+    "id": "engine-saf-060",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "On discovering a scavenge fire, appropriate actions usually include:",
+    "options": [
+      "Opening the scavenge doors immediately",
+      "Reducing engine load, cutting fuel to the affected cylinder and increasing its cylinder lubrication",
+      "Stopping all cylinder lubrication",
+      "Increasing engine speed"
+    ],
+    "correctIndex": 1,
+    "explanation": "The scavenge space must not be opened until the fire is out and the engine has cooled; a fixed system is used if it spreads."
+  },
+  {
+    "id": "engine-saf-061",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "Flame arrestors or bursting discs in the main engine starting air branch pipes protect against:",
+    "options": [
+      "A flame from a leaking cylinder starting valve travelling into the starting air manifold",
+      "Turbocharger surging",
+      "Sea water entering the engine",
+      "Low starting air pressure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hot cylinder gases meeting oily deposits in the starting air pipes can cause an explosion."
+  },
+  {
+    "id": "engine-saf-062",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "Hydrogen sulphide is especially dangerous because:",
+    "options": [
+      "It is harmless at any concentration",
+      "It is lighter than air and disperses at once",
+      "It is always visible as a yellow gas",
+      "At higher concentrations it paralyses the sense of smell, so its rotten-egg odour can no longer be detected"
+    ],
+    "correctIndex": 3,
+    "explanation": "Use a calibrated detector; never rely on smell."
+  },
+  {
+    "id": "engine-saf-063",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "In a cargo ship, one of the means of escape from the lower part of a category A machinery space must be:",
+    "options": [
+      "The shaft tunnel only, with no enclosure",
+      "A rope ladder through the skylight",
+      "A steel ladder in a protected enclosure that gives continuous fire shelter to a safe position outside",
+      "The engine room crane"
+    ],
+    "correctIndex": 2,
+    "explanation": "The protected enclosure must be fitted with self-closing fire doors and its own lighting and ventilation."
+  },
+  {
+    "id": "engine-saf-064",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "Most crankcase oil mist detectors work by:",
+    "options": [
+      "Detecting sound from the bearings",
+      "Measuring the obscuration or scattering of a light beam by oil mist in samples from the crankcase",
+      "Measuring oxygen in the crankcase",
+      "Measuring the oil temperature in the sump"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rising mist density between compartments or above the alarm level indicates a hot spot."
+  },
+  {
+    "id": "engine-saf-065",
+    "department": "engine",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "Acetylene should not be used at a working pressure above about:",
+    "options": [
+      "50 bar",
+      "1 bar (15 psi), because it can become unstable",
+      "10 bar",
+      "200 bar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acetylene is dissolved in a solvent inside the cylinder to store it safely."
   }
 ]

@@ -223,5 +223,755 @@
     ],
     "correctIndex": 0,
     "explanation": "Foam forms a blanket that smothers the fire and seals vapours."
+  },
+  {
+    "id": "deck-saf-016",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "Burning wood, paper and textiles is classed as a fire of Class:",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "correctIndex": 2,
+    "explanation": "Class A fires involve ordinary combustible solids and are best fought by cooling with water."
+  },
+  {
+    "id": "deck-saf-017",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "The most suitable extinguishing agent for a fire in bedding and wooden furniture in a cabin is:",
+    "options": [
+      "Dry sand",
+      "CO2 from a small portable extinguisher only",
+      "Water",
+      "Foam from a deck foam monitor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Water cools burning solids below their ignition temperature and soaks deep-seated material."
+  },
+  {
+    "id": "deck-saf-018",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "The main purpose of an immersion suit is to:",
+    "options": [
+      "Make a person sink more slowly only",
+      "Replace a lifejacket in all cases",
+      "Protect against fire in the engine room",
+      "Reduce loss of body heat for a person in cold water"
+    ],
+    "correctIndex": 3,
+    "explanation": "Immersion suits greatly increase survival time in cold water; some types must be worn with a lifejacket."
+  },
+  {
+    "id": "deck-saf-019",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "The fire tetrahedron adds which fourth element to fuel, heat and oxygen?",
+    "options": [
+      "Water vapour",
+      "Smoke",
+      "The uninhibited chemical chain reaction",
+      "Carbon dioxide"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dry powders work mainly by interrupting the chemical chain reaction."
+  },
+  {
+    "id": "deck-saf-020",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "Cooling, as a method of fire extinguishing, works by:",
+    "options": [
+      "Removing the fuel",
+      "Excluding oxygen",
+      "Adding more air",
+      "Removing heat from the fire"
+    ],
+    "correctIndex": 3,
+    "explanation": "Smothering excludes oxygen and starving removes fuel; cooling lowers the temperature below ignition point."
+  },
+  {
+    "id": "deck-saf-021",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "The lifebuoys on the bridge wings, intended for a man overboard, are fitted with:",
+    "options": [
+      "A radar reflector only",
+      "A rocket parachute flare",
+      "Self-igniting lights and self-activating smoke signals, with quick release",
+      "Only a buoyant line"
+    ],
+    "correctIndex": 2,
+    "explanation": "Their light and smoke help the ship find the person, by day and night."
+  },
+  {
+    "id": "deck-saf-022",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "A lifebuoy self-activating smoke signal must emit smoke of a highly visible colour for at least:",
+    "options": [
+      "60 minutes",
+      "3 minutes",
+      "15 minutes",
+      "1 minute"
+    ],
+    "correctIndex": 2,
+    "explanation": "LSA Code requirement; it must also work when floating in calm water."
+  },
+  {
+    "id": "deck-saf-023",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "Each SOLAS lifejacket must be fitted with:",
+    "options": [
+      "A whistle firmly secured by a cord, and a lifejacket light",
+      "A rocket parachute flare",
+      "A portable VHF radio",
+      "A smoke signal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Retro-reflective tape is also fitted to help rescuers find the wearer."
+  },
+  {
+    "id": "deck-saf-024",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "A lifejacket light must operate for at least:",
+    "options": [
+      "1 hour",
+      "30 minutes",
+      "24 hours",
+      "8 hours"
+    ],
+    "correctIndex": 3,
+    "explanation": "LSA Code: it may be flashing or steady and must be visible over the upper hemisphere."
+  },
+  {
+    "id": "deck-saf-025",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "The muster list on board shows:",
+    "options": [
+      "The ship's daily menu",
+      "The list of passengers' cabins only",
+      "The cargo stowage plan",
+      "Each crew member's emergency station and duties, and the alarm signals"
+    ],
+    "correctIndex": 3,
+    "explanation": "It must be posted in conspicuous places, including the bridge, engine room and accommodation."
+  },
+  {
+    "id": "deck-saf-026",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "The international shore connection is used to:",
+    "options": [
+      "Transfer fuel oil",
+      "Connect a shore or another ship's water supply to the ship's fire main, using a standard flange",
+      "Connect shore electrical power",
+      "Discharge sewage ashore"
+    ],
+    "correctIndex": 1,
+    "explanation": "It must be available on both sides of the ship, with gasket, bolts and nuts."
+  },
+  {
+    "id": "deck-saf-027",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "In addition to the copies on board, the fire control plan must also be kept:",
+    "options": [
+      "Only in the master's safe",
+      "Only at the company office",
+      "In a prominently marked weathertight enclosure outside the deckhouse, for shore fire-fighters",
+      "In the engine control room only"
+    ],
+    "correctIndex": 2,
+    "explanation": "It shows fire-retardant divisions, detection and extinguishing systems, ventilation controls and means of escape."
+  },
+  {
+    "id": "deck-saf-028",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "A SOLAS fire-fighter's outfit includes:",
+    "options": [
+      "Protective clothing, boots, gloves, helmet, safety lamp, axe and breathing apparatus with a lifeline",
+      "A fire blanket and bucket",
+      "A portable fire pump",
+      "A lifejacket and immersion suit only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cargo ships carry at least two outfits, stored so they are easily accessible and ready for use."
+  },
+  {
+    "id": "deck-saf-029",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "A lifeboat must carry enough fuel to run at a speed of 6 knots for at least:",
+    "options": [
+      "24 hours",
+      "6 hours",
+      "72 hours",
+      "2 hours"
+    ],
+    "correctIndex": 0,
+    "explanation": "LSA Code requirement; the engine must also be able to start in cold conditions."
+  },
+  {
+    "id": "deck-saf-030",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "The warning whistle on a breathing apparatus sounds when:",
+    "options": [
+      "The mask is fitted correctly",
+      "The wearer enters smoke",
+      "The cylinder pressure falls to a set level, warning the wearer to leave the hazardous area",
+      "The cylinder is full"
+    ],
+    "correctIndex": 2,
+    "explanation": "The wearer must withdraw at once and should plan the exit time from the gauge reading as well."
+  },
+  {
+    "id": "deck-saf-031",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "An EEBD must supply air or oxygen for at least:",
+    "options": [
+      "30 minutes",
+      "10 minutes",
+      "3 minutes",
+      "60 minutes"
+    ],
+    "correctIndex": 1,
+    "explanation": "It has a hood or full face mask and is only for escape, not for fire-fighting or entering oxygen-deficient spaces."
+  },
+  {
+    "id": "deck-saf-032",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "A rocket parachute flare must reach a height of at least 300 m and burn with a bright red light for at least:",
+    "options": [
+      "10 seconds",
+      "3 minutes",
+      "15 minutes",
+      "40 seconds"
+    ],
+    "correctIndex": 3,
+    "explanation": "LSA Code. It should be fired slightly downwind so it can be seen over the widest area."
+  },
+  {
+    "id": "deck-saf-033",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "A red hand flare must burn for at least:",
+    "options": [
+      "15 minutes",
+      "10 seconds",
+      "5 minutes",
+      "1 minute"
+    ],
+    "correctIndex": 3,
+    "explanation": "It is held downwind and away from the survival craft to avoid hot drips and fumes."
+  },
+  {
+    "id": "deck-saf-034",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "A buoyant smoke signal must emit orange smoke for at least:",
+    "options": [
+      "30 seconds",
+      "3 minutes",
+      "1 hour",
+      "1 minute"
+    ],
+    "correctIndex": 1,
+    "explanation": "Smoke signals are daytime signals and are most effective in light winds."
+  },
+  {
+    "id": "deck-saf-035",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "On-load release gear on a lifeboat allows the hooks to be released:",
+    "options": [
+      "Only by cutting the falls",
+      "Only from the ship's deck",
+      "With the boat's weight still on the falls, so it must be protected against accidental or premature operation",
+      "Only when the boat is fully waterborne"
+    ],
+    "correctIndex": 2,
+    "explanation": "Accidents with on-load hooks led to IMO requirements for improved release mechanisms and their regular servicing."
+  },
+  {
+    "id": "deck-saf-036",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "A fire-protected lifeboat for a tanker must have a water spray system and a self-contained air support system supplying air for at least:",
+    "options": [
+      "10 minutes",
+      "1 minute",
+      "60 minutes",
+      "3 hours"
+    ],
+    "correctIndex": 0,
+    "explanation": "The air supply keeps the engine running and protects the occupants while the boat clears burning oil."
+  },
+  {
+    "id": "deck-saf-037",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Occupants of a free-fall lifeboat sit:",
+    "options": [
+      "Anywhere, lying on the floor",
+      "Facing aft, strapped in with harnesses and with heads against the headrests",
+      "Facing forward, standing up",
+      "Facing the side, without harnesses"
+    ],
+    "correctIndex": 1,
+    "explanation": "This position spreads the impact forces when the boat enters the water."
+  },
+  {
+    "id": "deck-saf-038",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "To inflate a throw-over liferaft after it has been thrown into the water, you:",
+    "options": [
+      "Cut the painter immediately",
+      "Wait for the hydrostatic release to fire",
+      "Pull the painter line out fully and then give it a sharp tug",
+      "Open the container by hand"
+    ],
+    "correctIndex": 2,
+    "explanation": "The painter is attached to the ship before throwing so the raft stays alongside for boarding."
+  },
+  {
+    "id": "deck-saf-039",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "The weak link in a float-free liferaft arrangement:",
+    "options": [
+      "Releases the raft at 4 m depth",
+      "Holds the raft to the ship permanently",
+      "Inflates the raft",
+      "Breaks under the pull of the inflated raft so that it is not dragged down by the sinking ship"
+    ],
+    "correctIndex": 3,
+    "explanation": "The hydrostatic release frees the container; the painter inflates the raft, and the weak link then parts."
+  },
+  {
+    "id": "deck-saf-040",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "To right a capsized inflatable liferaft, one person should:",
+    "options": [
+      "Stand on the CO2 cylinder side, pull on the righting strap and lean back, preferably with the wind behind",
+      "Release all the air",
+      "Cut the canopy open",
+      "Swim under the raft and push up"
+    ],
+    "correctIndex": 0,
+    "explanation": "The wind then helps flip the raft; the person should move clear as it comes over."
+  },
+  {
+    "id": "deck-saf-041",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Inflatable liferafts must normally be serviced at an approved service station at intervals not exceeding:",
+    "options": [
+      "30 months",
+      "12 months",
+      "6 weeks",
+      "5 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Administration may extend the interval to 17 months in some cases."
+  },
+  {
+    "id": "deck-saf-042",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "A disposable hydrostatic release unit is normally:",
+    "options": [
+      "Kept for the life of the ship",
+      "Serviced every month by the crew",
+      "Replaced every 10 years",
+      "Replaced at the end of its 2-year service life, as shown by its expiry date"
+    ],
+    "correctIndex": 3,
+    "explanation": "Non-disposable units are serviced at the same intervals as the liferaft."
+  },
+  {
+    "id": "deck-saf-043",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Which type of fire detector is generally preferred in a galley?",
+    "options": [
+      "Heat detector",
+      "Flame detector for oil tanks",
+      "Smoke detector",
+      "Gas detector"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cooking smoke and steam could cause false alarms from smoke detectors."
+  },
+  {
+    "id": "deck-saf-044",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "An 'A-60' class division is a steel bulkhead or deck that:",
+    "options": [
+      "Is made of combustible material 60 mm thick",
+      "Is fitted only around cargo holds",
+      "Stops smoke and flame for the one-hour standard fire test and is insulated so the unexposed side stays within temperature limits for 60 minutes",
+      "Resists fire for 60 seconds"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lower ratings such as A-30, A-15 and A-0 have less (or no) insulation."
+  },
+  {
+    "id": "deck-saf-045",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "The painter of a lifeboat is used to:",
+    "options": [
+      "Steer the boat",
+      "Lower the boat from the davits",
+      "Hold the boat alongside the ship and in position while it is lowered and released",
+      "Inflate the boat's buoyancy tanks"
+    ],
+    "correctIndex": 2,
+    "explanation": "The painter is released from inside the boat once it is clear and under way."
+  },
+  {
+    "id": "deck-saf-046",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "In calm water, a lifeboat fully loaded with persons and equipment must reach an ahead speed of at least:",
+    "options": [
+      "12 knots",
+      "2 knots",
+      "20 knots",
+      "6 knots"
+    ],
+    "correctIndex": 3,
+    "explanation": "It must also make at least 2 knots when towing a fully loaded 25-person liferaft."
+  },
+  {
+    "id": "deck-saf-047",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "A fire in a deep fat fryer should be fought with:",
+    "options": [
+      "A fire blanket or wet chemical extinguisher, after switching off the heat",
+      "A jet of water",
+      "A wet cloth thrown into the pan",
+      "Fanning the flames out"
+    ],
+    "correctIndex": 0,
+    "explanation": "Water causes a violent steam explosion that spreads burning oil."
+  },
+  {
+    "id": "deck-saf-048",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Boundary cooling during a fire means:",
+    "options": [
+      "Spraying water directly into the seat of the fire",
+      "Cooling the bulkheads and decks around the fire to stop it spreading to adjacent spaces",
+      "Cooling the fire-fighters' breathing apparatus",
+      "Closing all fire doors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Boundaries on all six sides should be checked and cooled, including spaces above and below."
+  },
+  {
+    "id": "deck-saf-049",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "When fire-fighters approach a fire, a water spray (fog) pattern from the nozzle can be used to:",
+    "options": [
+      "Replace breathing apparatus",
+      "Reach a fire 50 metres away",
+      "Extinguish an electrical fire with the power on",
+      "Protect the team by absorbing heat and pushing back smoke"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dual-purpose nozzles give jet or spray; a jet reaches further and penetrates deeper."
+  },
+  {
+    "id": "deck-saf-050",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "Before fighting a fire in electrical equipment, you should if possible:",
+    "options": [
+      "Wait for it to burn out",
+      "Isolate the electrical supply",
+      "Open all doors to ventilate it",
+      "Spray it with water"
+    ],
+    "correctIndex": 1,
+    "explanation": "Once isolated, the fire can be treated according to the material burning."
+  },
+  {
+    "id": "deck-saf-051",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "During and after hot work, a fire watch should be kept:",
+    "options": [
+      "Only if a fire breaks out",
+      "Only at the start of the job",
+      "Throughout the work and for a period after it ends, with an extinguisher ready",
+      "Only if the work is on deck"
+    ],
+    "correctIndex": 2,
+    "explanation": "Smouldering material on the far side of a bulkhead may ignite some time after the work stops."
+  },
+  {
+    "id": "deck-saf-052",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "During an enclosed space entry, the attendant at the entrance should:",
+    "options": [
+      "Stay at the entrance, keep communication with those inside and raise the alarm, never entering without rescue support",
+      "Leave once the entrants are inside",
+      "Do other work nearby",
+      "Enter to help whenever someone feels unwell"
+    ],
+    "correctIndex": 0,
+    "explanation": "Many fatalities are would-be rescuers who entered without breathing apparatus."
+  },
+  {
+    "id": "deck-saf-053",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "Under SOLAS, enclosed space entry and rescue drills must be held at least:",
+    "options": [
+      "Once every two months",
+      "Once every five years",
+      "Once a year",
+      "Every week"
+    ],
+    "correctIndex": 0,
+    "explanation": "SOLAS regulation III/19, in force since 2015, after many enclosed space fatalities."
+  },
+  {
+    "id": "deck-saf-054",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "The Anderson turn in a man-overboard situation is most suitable when:",
+    "options": [
+      "The ship has a very large turning circle and the person is not seen",
+      "The person was lost several hours ago",
+      "The ship is at anchor",
+      "The person is still in sight and the ship can turn quickly"
+    ],
+    "correctIndex": 3,
+    "explanation": "The ship turns towards the side the person fell from with full rudder and comes round in a single turn."
+  },
+  {
+    "id": "deck-saf-055",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "The HELP position (Heat Escape Lessening Posture) in the water is used to:",
+    "options": [
+      "Signal to aircraft",
+      "Reduce body heat loss while waiting for rescue",
+      "Climb into a liferaft",
+      "Swim faster"
+    ],
+    "correctIndex": 1,
+    "explanation": "Knees are drawn up and arms held close to protect the areas that lose the most heat."
+  },
+  {
+    "id": "deck-saf-056",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "A thermal protective aid (TPA) in a survival craft is used to:",
+    "options": [
+      "Signal to rescuers",
+      "Store drinking water",
+      "Reduce heat loss from a person, for example a survivor who is wet and cold",
+      "Protect the craft from fire"
+    ],
+    "correctIndex": 2,
+    "explanation": "TPAs are made of waterproof material with low thermal conductance."
+  },
+  {
+    "id": "deck-saf-057",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "Lifeboat engines must be run ahead and astern at least:",
+    "options": [
+      "Weekly, for at least 3 minutes",
+      "Once a year",
+      "Only during lifeboat drills every 3 months",
+      "Monthly, for at least 1 hour"
+    ],
+    "correctIndex": 0,
+    "explanation": "SOLAS III/20 weekly inspection, provided the ambient temperature is above the minimum for starting."
+  },
+  {
+    "id": "deck-saf-058",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Survival craft, rescue boats and launching appliances must be visually inspected:",
+    "options": [
+      "Only during annual surveys",
+      "Only after use",
+      "Weekly, to ensure they are ready for use",
+      "Once every five years"
+    ],
+    "correctIndex": 2,
+    "explanation": "The general emergency alarm system is also tested weekly."
+  },
+  {
+    "id": "deck-saf-059",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "Lifeboat falls must be turned end for end at intervals of not more than 30 months and renewed:",
+    "options": [
+      "Every 12 months",
+      "When necessary due to deterioration, or at intervals of not more than 5 years, whichever is earlier",
+      "Every 10 years",
+      "Only after a failure"
+    ],
+    "correctIndex": 1,
+    "explanation": "SOLAS III/20.4."
+  },
+  {
+    "id": "deck-saf-060",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Under the European classification of fires, a fire involving flammable gases such as propane is Class:",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "correctIndex": 3,
+    "explanation": "The first action is to isolate the gas supply; extinguishing a gas fire while gas still escapes can lead to an explosion."
+  },
+  {
+    "id": "deck-saf-061",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "Dry powder extinguishers are suitable for:",
+    "options": [
+      "Cooling hot bulkheads",
+      "Flammable liquid and gas fires, and fires in electrical equipment",
+      "Only Class A fires in deep-seated material",
+      "Only metal fires with any powder"
+    ],
+    "correctIndex": 1,
+    "explanation": "Powder knocks down flames quickly but does not cool, so re-ignition is possible."
+  },
+  {
+    "id": "deck-saf-062",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "easy",
+    "question": "When escaping through a smoke-filled corridor without breathing apparatus, you should:",
+    "options": [
+      "Use the lift",
+      "Open all doors behind you",
+      "Stand up and run",
+      "Keep low, because hot smoke and gases rise"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cleaner, cooler air is near the deck; follow escape signs or low-location lighting."
+  },
+  {
+    "id": "deck-saf-063",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "On a cargo ship with lifeboats on both sides, the lifeboats on each side must be able to accommodate:",
+    "options": [
+      "The total number of persons on board",
+      "25% of the persons on board",
+      "Half the persons on board",
+      "Only the deck crew"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alternatively, one or more free-fall lifeboats at the stern can carry the total number of persons on board."
+  },
+  {
+    "id": "deck-saf-064",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "hard",
+    "question": "A rescue boat must be able to manoeuvre at speeds of up to 6 knots and maintain that speed for at least:",
+    "options": [
+      "24 hours",
+      "1 hour",
+      "4 hours",
+      "30 minutes"
+    ],
+    "correctIndex": 2,
+    "explanation": "LSA Code requirements for rescue boats, which must also be able to tow the largest liferaft."
+  },
+  {
+    "id": "deck-saf-065",
+    "department": "deck",
+    "category": "safety-firefighting",
+    "difficulty": "medium",
+    "question": "During a SOLAS fire drill, the fire pump should be started and:",
+    "options": [
+      "At least the two required jets of water used to show the system is in working order",
+      "Only the pressure gauge checked",
+      "The CO2 system discharged",
+      "Water used only on deck"
+    ],
+    "correctIndex": 0,
+    "explanation": "Drills also check fire-fighters' outfits, communication equipment, fire doors, dampers and ventilation shutdowns."
   }
 ]

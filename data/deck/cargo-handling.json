@@ -223,5 +223,755 @@
     ],
     "correctIndex": 0,
     "explanation": "Overweight stacks overload lashings and corner posts, especially in heavy rolling."
+  },
+  {
+    "id": "deck-crg-016",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "TEU stands for:",
+    "options": [
+      "Total Export Unit",
+      "Transport Equipment Unit",
+      "Twenty-foot Equivalent Unit",
+      "Tonnes per Equivalent Unit"
+    ],
+    "correctIndex": 2,
+    "explanation": "Container ship capacity is given in TEU; a 40-foot container counts as two TEU (one FEU)."
+  },
+  {
+    "id": "deck-crg-017",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "Dangerous goods of IMDG Class 1 are:",
+    "options": [
+      "Explosives",
+      "Flammable liquids",
+      "Toxic gases only",
+      "Corrosive substances"
+    ],
+    "correctIndex": 0,
+    "explanation": "Class 1 is divided into divisions 1.1 to 1.6 according to the type of hazard."
+  },
+  {
+    "id": "deck-crg-018",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "A package bearing the IMDG Class 8 label contains:",
+    "options": [
+      "Radioactive material",
+      "Infectious substances",
+      "Corrosive substances",
+      "Oxidising substances"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Class 8 label shows liquid dripping onto a hand and a metal bar."
+  },
+  {
+    "id": "deck-crg-019",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "Flammable liquids are carried under which IMDG class?",
+    "options": [
+      "Class 3",
+      "Class 5",
+      "Class 7",
+      "Class 9"
+    ],
+    "correctIndex": 0,
+    "explanation": "Class 5 covers oxidisers and organic peroxides, Class 7 radioactive material and Class 9 miscellaneous dangerous goods."
+  },
+  {
+    "id": "deck-crg-020",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "Twistlocks are used to:",
+    "options": [
+      "Close the hatch covers",
+      "Secure the gangway",
+      "Lock containers to each other or to the deck or hatch cover at their corner castings",
+      "Tighten lashing wires on timber cargo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Twistlocks resist lifting and sliding; lashing rods and turnbuckles resist racking and tipping in higher tiers."
+  },
+  {
+    "id": "deck-crg-021",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "Ullage in a cargo tank is:",
+    "options": [
+      "The depth of liquid measured from the tank bottom",
+      "The distance from a reference point at the top of the tank down to the liquid surface",
+      "The temperature of the cargo",
+      "The volume of vapour in the tank"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ullage tables convert the reading into volume, with corrections for trim and list."
+  },
+  {
+    "id": "deck-crg-022",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "A sounding of a tank measures:",
+    "options": [
+      "The tank's pressure",
+      "The density of the liquid",
+      "The empty space above the liquid",
+      "The depth of liquid from the bottom of the tank up to the surface"
+    ],
+    "correctIndex": 3,
+    "explanation": "Soundings are used mainly for ballast, fresh water and bunker tanks, and for bilges."
+  },
+  {
+    "id": "deck-crg-023",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "A Ro-Ro ship is designed to carry cargo that is:",
+    "options": [
+      "Driven or rolled on and off on its own wheels or on trailers",
+      "Lifted on with the ship's cranes only",
+      "Loaded as loose bulk",
+      "Pumped as a liquid"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vehicle decks need careful lashing, ventilation and fire protection."
+  },
+  {
+    "id": "deck-crg-024",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "A mate's receipt is:",
+    "options": [
+      "The document the master signs for bunkers",
+      "The receipt for port dues",
+      "A receipt signed on behalf of the ship for cargo received on board, noting its apparent condition",
+      "The crew's wage slip"
+    ],
+    "correctIndex": 2,
+    "explanation": "Remarks on the mate's receipt (for example damaged packaging) are normally transferred to the bill of lading."
+  },
+  {
+    "id": "deck-crg-025",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "A bill of lading serves as:",
+    "options": [
+      "The cargo insurance policy",
+      "A certificate of the ship's seaworthiness",
+      "The ship's register",
+      "A receipt for the goods, evidence of the contract of carriage and a document of title"
+    ],
+    "correctIndex": 3,
+    "explanation": "Because it is a document of title, cargo should normally be delivered only against an original bill of lading."
+  },
+  {
+    "id": "deck-crg-026",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "The cargo manifest is:",
+    "options": [
+      "A list of all the cargo carried on board",
+      "The ship's crew list",
+      "The stability calculation",
+      "The record of hatch cover tests"
+    ],
+    "correctIndex": 0,
+    "explanation": "Customs and port authorities require the manifest for the cargo being loaded or discharged."
+  },
+  {
+    "id": "deck-crg-027",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "A hold described as 'grain clean' must be:",
+    "options": [
+      "Filled with fresh water ballast",
+      "Just swept of large debris",
+      "Swept and washed, free of residues, loose rust, odours and insects, and dry",
+      "Painted with fresh coating"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hold cleanliness standards are agreed in the charter party and checked by surveyors before loading."
+  },
+  {
+    "id": "deck-crg-028",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "A draught survey is carried out to:",
+    "options": [
+      "Measure the hull's paint thickness",
+      "Determine the mass of bulk cargo loaded or discharged from the ship's draughts and her deductible weights",
+      "Find the ship's speed",
+      "Inspect the ballast tanks for corrosion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Draughts are read at both sides forward, aft and amidships and corrected for trim, hog/sag and water density."
+  },
+  {
+    "id": "deck-crg-029",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "A hygroscopic cargo is one that:",
+    "options": [
+      "Gives off flammable gas",
+      "Never needs ventilation",
+      "Absorbs and releases moisture, such as grain, cocoa or coffee",
+      "Is carried frozen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Moisture movement from hygroscopic cargoes can cause cargo sweat and ship's sweat."
+  },
+  {
+    "id": "deck-crg-030",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "Under the dew point rule, a hold carrying hygroscopic cargo should be ventilated when:",
+    "options": [
+      "It is raining",
+      "The outside air temperature is higher than the cargo temperature",
+      "The outside relative humidity is 100%",
+      "The dew point of the outside air is lower than the dew point of the air in the hold"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bringing in air with a lower dew point removes moisture without causing condensation in the hold."
+  },
+  {
+    "id": "deck-crg-031",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "The 'three degree rule' for ventilating hygroscopic cargo says to ventilate when:",
+    "options": [
+      "The outside air is at least 3 °C warmer than the cargo",
+      "The outside air temperature is at least 3 °C lower than the cargo temperature at loading",
+      "The ship's heading changes by 3°",
+      "The hold temperature changes by 3 °C per hour"
+    ],
+    "correctIndex": 1,
+    "explanation": "It is a practical rule used when hold dew points cannot be measured reliably."
+  },
+  {
+    "id": "deck-crg-032",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "Under the IMSBC Code, the Transportable Moisture Limit (TML) of a cargo is:",
+    "options": [
+      "The maximum moisture content considered safe for carriage of a cargo that may liquefy",
+      "The moisture at which the cargo self-heats",
+      "The amount of water the ship can carry as ballast",
+      "The minimum moisture needed to stop dust"
+    ],
+    "correctIndex": 0,
+    "explanation": "The shipper must declare that the moisture content is below the TML before loading Group A cargoes."
+  },
+  {
+    "id": "deck-crg-033",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "The 'can test' for a Group A solid bulk cargo is:",
+    "options": [
+      "The official method for setting the TML",
+      "A test of hatch cover weathertightness",
+      "A test of container lashing strength",
+      "A rough check on board or at the terminal that does not replace the shipper's laboratory test certificates"
+    ],
+    "correctIndex": 3,
+    "explanation": "If a sample shows free water or a fluid state, loading should be stopped and the cargo re-tested."
+  },
+  {
+    "id": "deck-crg-034",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "Which IMSBC Code cargo group covers solid bulk cargoes with a chemical hazard that could create a dangerous situation on board?",
+    "options": [
+      "Group A",
+      "Group B",
+      "Group D",
+      "Group C"
+    ],
+    "correctIndex": 1,
+    "explanation": "Group A cargoes may liquefy, Group C are neither liquefiable nor chemically hazardous, and some cargoes are in both A and B."
+  },
+  {
+    "id": "deck-crg-035",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "When loading a static accumulator oil into a tank that is not inerted, the initial loading rate should be limited so that:",
+    "options": [
+      "The linear velocity in the filling line is about 1 m/s until the inlet is well covered",
+      "The tank fills within 10 minutes",
+      "The pressure exceeds the P/V valve setting",
+      "The cargo splashes to cool the tank"
+    ],
+    "correctIndex": 0,
+    "explanation": "Low velocity at the start reduces splashing, turbulence and the build-up of static electricity."
+  },
+  {
+    "id": "deck-crg-036",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "'Topping off' a cargo tank means:",
+    "options": [
+      "Washing the top of the tank",
+      "Removing the tank lid",
+      "Reducing the loading rate and filling the tank carefully to its final ullage",
+      "Emptying the tank completely"
+    ],
+    "correctIndex": 2,
+    "explanation": "Adequate staff, clear communication with the terminal and close monitoring prevent overflows during topping off."
+  },
+  {
+    "id": "deck-crg-037",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "On a tanker, the independent cargo tank overfill alarm is normally set to activate at about:",
+    "options": [
+      "85% of tank capacity",
+      "98% of tank capacity",
+      "90% of tank capacity",
+      "100% of tank capacity"
+    ],
+    "correctIndex": 1,
+    "explanation": "The high-level alarm is typically set at about 95%; the overfill alarm is a separate, independent system."
+  },
+  {
+    "id": "deck-crg-038",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "The pressure/vacuum (P/V) valve on a cargo tank:",
+    "options": [
+      "Measures the cargo density",
+      "Injects inert gas automatically",
+      "Controls the cargo pump speed",
+      "Protects the tank from excessive pressure or vacuum, for example during temperature changes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Large volume changes during loading and discharge pass through the high-velocity vents or mast riser, not the P/V valve alone."
+  },
+  {
+    "id": "deck-crg-039",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "Before gas freeing an inerted cargo tank, it is purged with inert gas until the hydrocarbon content is below about:",
+    "options": [
+      "21% by volume",
+      "8% by volume",
+      "2% by volume",
+      "10% by volume"
+    ],
+    "correctIndex": 2,
+    "explanation": "Purging keeps the tank atmosphere outside the flammable range while air is later introduced during gas freeing."
+  },
+  {
+    "id": "deck-crg-040",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "Before a cargo tank is entered, the hydrocarbon gas reading should be:",
+    "options": [
+      "Less than 1% of the lower flammable limit (LFL)",
+      "Below the upper flammable limit",
+      "Below 8% by volume",
+      "Less than 50% of the LFL"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oxygen must also be 21% by volume and toxic gases below their occupational exposure limits."
+  },
+  {
+    "id": "deck-crg-041",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "Chemical tankers carrying noxious liquid substances in bulk must comply with the:",
+    "options": [
+      "IGC Code",
+      "IMSBC Code",
+      "IBC Code",
+      "CSS Code"
+    ],
+    "correctIndex": 2,
+    "explanation": "The International Bulk Chemical Code sets construction and equipment standards for chemical tankers."
+  },
+  {
+    "id": "deck-crg-042",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "Which code covers ships carrying liquefied gases in bulk?",
+    "options": [
+      "The IGC Code",
+      "The Grain Code",
+      "The IMDG Code",
+      "The IBC Code"
+    ],
+    "correctIndex": 0,
+    "explanation": "The International Gas Carrier Code covers LNG, LPG and other liquefied gas carriers."
+  },
+  {
+    "id": "deck-crg-043",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "In a container stack, heavier containers should generally be stowed:",
+    "options": [
+      "Only on deck",
+      "At the top of the stack",
+      "In any order",
+      "At the bottom of the stack"
+    ],
+    "correctIndex": 3,
+    "explanation": "Heavy containers on top raise G and increase lashing forces; stack weight limits must not be exceeded."
+  },
+  {
+    "id": "deck-crg-044",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "Which IMDG segregation term is the strictest?",
+    "options": [
+      "Separated by a complete compartment or hold from",
+      "Separated longitudinally by an intervening complete compartment or hold from",
+      "Away from",
+      "Separated from"
+    ],
+    "correctIndex": 1,
+    "explanation": "The four segregation terms increase in strictness from 'away from' to 'separated longitudinally by an intervening complete compartment or hold from'."
+  },
+  {
+    "id": "deck-crg-045",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "The EmS Guide supplied with the IMDG Code gives:",
+    "options": [
+      "Emergency procedures for fires and spillages involving dangerous goods",
+      "Lashing calculations for containers",
+      "Stowage factors for bulk cargoes",
+      "Ship stability criteria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Each dangerous goods entry has an EmS code, for example F-E, S-D, for the fire and spillage schedules."
+  },
+  {
+    "id": "deck-crg-046",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "The Medical First Aid Guide (MFAG) is used for:",
+    "options": [
+      "Calculating cargo quantities",
+      "First aid treatment of people affected by dangerous goods",
+      "Diagnosing illnesses of crew in general",
+      "Fire-fighting in cargo holds"
+    ],
+    "correctIndex": 1,
+    "explanation": "It is used together with the IMDG Code and the ship's medical guide."
+  },
+  {
+    "id": "deck-crg-047",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "A UN number in the IMDG Code is:",
+    "options": [
+      "The port's identification code",
+      "A container's serial number",
+      "The ship's IMO number",
+      "A four-digit number that identifies a dangerous substance or article"
+    ],
+    "correctIndex": 3,
+    "explanation": "For example UN 1203 identifies petrol (gasoline)."
+  },
+  {
+    "id": "deck-crg-048",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "The 'marine pollutant' mark on a package shows:",
+    "options": [
+      "A flame",
+      "A skull and crossbones",
+      "A fish and a tree",
+      "A black and white diamond with a number 9 only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Marine pollutants must also be declared and stowed in accordance with MARPOL Annex III."
+  },
+  {
+    "id": "deck-crg-049",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "Under ILO Convention 152 practice, ship's lifting appliances must be thoroughly examined at least:",
+    "options": [
+      "Once every 5 years only",
+      "Only when first installed",
+      "Once every 12 months, and tested and thoroughly examined at least once every 5 years",
+      "Once a month by the crew"
+    ],
+    "correctIndex": 2,
+    "explanation": "Results are recorded in the register of lifting appliances and cargo handling gear."
+  },
+  {
+    "id": "deck-crg-050",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "Timber load lines on the load line mark are shown by lines prefixed with the letter:",
+    "options": [
+      "T",
+      "L",
+      "W",
+      "S"
+    ],
+    "correctIndex": 1,
+    "explanation": "For example LS (timber summer) and LW (timber winter); they may be used only when a timber deck cargo is carried as required."
+  },
+  {
+    "id": "deck-crg-051",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "Under the BLU Code, the loading or unloading plan for a bulk carrier is:",
+    "options": [
+      "Prepared after loading is complete",
+      "Decided by the terminal alone",
+      "Not required for bulk cargoes",
+      "Agreed between the master and the terminal representative before operations start"
+    ],
+    "correctIndex": 3,
+    "explanation": "The plan includes the sequence, quantities, ballasting and any pauses needed for trimming or stress checks."
+  },
+  {
+    "id": "deck-crg-052",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "During bulk cargo loading, the approved loading sequence must be followed mainly to:",
+    "options": [
+      "Keep shear forces and bending moments within permissible limits",
+      "Increase the ship's speed",
+      "Reduce dust in the holds",
+      "Save time at the terminal"
+    ],
+    "correctIndex": 0,
+    "explanation": "High loading rates with unequal hold quantities can overstress the hull; the loading computer is used to check each step."
+  },
+  {
+    "id": "deck-crg-053",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "The main hazards of a coal cargo are:",
+    "options": [
+      "Methane emission and self-heating, so gas monitoring and surface ventilation are required",
+      "Corrosion of the cargo itself",
+      "Liquefaction only",
+      "Radiation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Methane, oxygen and carbon monoxide are monitored; rising CO can indicate self-heating."
+  },
+  {
+    "id": "deck-crg-054",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "The angle of repose of a granular bulk cargo is:",
+    "options": [
+      "The angle of the loading spout",
+      "The angle of heel at which the cargo shifts",
+      "The maximum slope angle at which the cargo surface stays stable without sliding",
+      "The angle of the hold's hopper tanks"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cargoes with a low angle of repose flow more easily and are more likely to shift."
+  },
+  {
+    "id": "deck-crg-055",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "Under the IMSBC Code, a non-cohesive cargo with an angle of repose of 30° or less:",
+    "options": [
+      "Is classed as a Group A cargo",
+      "Must always be carried in containers",
+      "Needs no trimming at all",
+      "Flows freely like grain and is carried in accordance with the provisions for stowage of grain"
+    ],
+    "correctIndex": 3,
+    "explanation": "Such cargoes can shift easily, so trimming and stability against shifting must be considered."
+  },
+  {
+    "id": "deck-crg-056",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "Before loading cargo, hold bilge wells should be:",
+    "options": [
+      "Sealed permanently",
+      "Cleaned, with strainers in place, and the bilge suction tested",
+      "Left as found from the last cargo",
+      "Filled with water"
+    ],
+    "correctIndex": 1,
+    "explanation": "Blocked bilges can lead to cargo damage, wet cargo or flooding going undetected."
+  },
+  {
+    "id": "deck-crg-057",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "Fresh air exchange is needed in a reefer container carrying fruit because:",
+    "options": [
+      "The fruit respires, producing heat, carbon dioxide and ethylene",
+      "It prevents the doors from icing",
+      "It increases the container's weight",
+      "The fruit needs extra oxygen to freeze"
+    ],
+    "correctIndex": 0,
+    "explanation": "The fresh air setting is given by the shipper; too little causes ripening and spoilage."
+  },
+  {
+    "id": "deck-crg-058",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "For a petroleum cargo, the mass in the tank is normally found by:",
+    "options": [
+      "Using the ship's draught only",
+      "Multiplying the ullage by the tank length",
+      "Converting the observed volume to standard volume at 15 °C with a volume correction factor, then multiplying by the density at 15 °C",
+      "Weighing the pump discharge"
+    ],
+    "correctIndex": 2,
+    "explanation": "A further factor converts mass in vacuum to weight in air for commercial figures."
+  },
+  {
+    "id": "deck-crg-059",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "LNG is normally carried at atmospheric pressure at a temperature of about:",
+    "options": [
+      "0 °C",
+      "-162 °C",
+      "-104 °C",
+      "-42 °C"
+    ],
+    "correctIndex": 1,
+    "explanation": "Some boil-off gas is produced and can be used as fuel or reliquefied."
+  },
+  {
+    "id": "deck-crg-060",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "LPG carriers are built in three main types:",
+    "options": [
+      "Open, closed and vented",
+      "Single hull, double hull and triple hull",
+      "Inerted, non-inerted and ventilated only",
+      "Fully pressurised, semi-refrigerated and fully refrigerated"
+    ],
+    "correctIndex": 3,
+    "explanation": "The type depends on the ship's size and on the temperatures and pressures at which the cargo is kept liquid."
+  },
+  {
+    "id": "deck-crg-061",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "In the container stowage position (bay-row-tier), the 'row' number shows:",
+    "options": [
+      "Its position along the ship",
+      "The container's athwartships position across the ship",
+      "Its vertical level",
+      "Its weight category"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rows are numbered from the centreline: odd numbers to starboard, even numbers to port."
+  },
+  {
+    "id": "deck-crg-062",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "hard",
+    "question": "In container bay numbering, an even bay number such as 06 usually indicates:",
+    "options": [
+      "A container stowed on deck only",
+      "A 20-foot reefer container",
+      "A 40-foot container occupying two adjacent 20-foot bays (05 and 07)",
+      "An empty container"
+    ],
+    "correctIndex": 2,
+    "explanation": "Odd bay numbers are used for 20-foot positions."
+  },
+  {
+    "id": "deck-crg-063",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "easy",
+    "question": "Before loading a salt-sensitive cargo after a sea water hold wash, the hold should be:",
+    "options": [
+      "Left wet with sea water",
+      "Filled with ballast",
+      "Painted immediately",
+      "Rinsed with fresh water and dried"
+    ],
+    "correctIndex": 3,
+    "explanation": "Salt residues can damage cargoes such as steel products and contaminate food cargoes."
+  },
+  {
+    "id": "deck-crg-064",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "The IMO CSS Code is a code of safe practice for:",
+    "options": [
+      "Cargo stowage and securing",
+      "Containers loaded on barges only",
+      "Ship security",
+      "Crew safety in enclosed spaces"
+    ],
+    "correctIndex": 0,
+    "explanation": "Its annexes cover non-standardised cargoes, and it is the basis for the ship's Cargo Securing Manual."
+  },
+  {
+    "id": "deck-crg-065",
+    "department": "deck",
+    "category": "cargo-handling",
+    "difficulty": "medium",
+    "question": "Before an oil tanker starts cargo transfer at a terminal, the ship and terminal should:",
+    "options": [
+      "Complete the ship/shore safety checklist together and agree on rates, communications and emergency stop procedures",
+      "Start pumping first and complete the paperwork later",
+      "Rely only on the terminal's checks",
+      "Agree only on the cargo quantity"
+    ],
+    "correctIndex": 0,
+    "explanation": "The ISGOTT ship/shore safety checklist is repeated at agreed intervals during the operation."
   }
 ]

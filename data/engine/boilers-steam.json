@@ -223,5 +223,755 @@
     ],
     "correctIndex": 1,
     "explanation": "Superheated steam carries more energy and is dry, which suits turbines."
+  },
+  {
+    "id": "engine-blr-016",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "A boiler in which hot combustion gases pass through tubes surrounded by water is called a:",
+    "options": [
+      "Fire-tube (smoke-tube) boiler",
+      "Once-through steam generator",
+      "Water-tube boiler",
+      "Thermal oil heater"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fire-tube boilers are simple and hold a large volume of water, but are limited to lower pressures."
+  },
+  {
+    "id": "engine-blr-017",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "A composite boiler can produce steam:",
+    "options": [
+      "Only from solar energy",
+      "Only from electric heaters",
+      "Only in port",
+      "Either by oil firing or by using the main engine exhaust gas"
+    ],
+    "correctIndex": 3,
+    "explanation": "At sea the exhaust gas section supplies steam; in port the oil-fired section is used."
+  },
+  {
+    "id": "engine-blr-018",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "An exhaust gas economiser (exhaust gas boiler) produces steam using:",
+    "options": [
+      "Heat from the cooling sea water",
+      "Electric heating elements",
+      "Waste heat from the main engine exhaust gas",
+      "The ship's refrigeration plant"
+    ],
+    "correctIndex": 2,
+    "explanation": "Using waste heat saves fuel that would otherwise be burned in the auxiliary boiler."
+  },
+  {
+    "id": "engine-blr-019",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "Steam on a typical motor ship is used mainly for:",
+    "options": [
+      "Heating fuel oil, tanks and accommodation",
+      "Charging the batteries",
+      "Cooling the generators",
+      "Driving the main engine"
+    ],
+    "correctIndex": 0,
+    "explanation": "On many tankers, steam also drives the cargo pump turbines."
+  },
+  {
+    "id": "engine-blr-020",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "Which of these is a boiler mounting?",
+    "options": [
+      "Main air compressor",
+      "Feed check valve",
+      "Sewage pump",
+      "Fuel oil purifier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mountings also include the main steam stop valve, safety valves, gauge glasses, blowdown valves and air vent."
+  },
+  {
+    "id": "engine-blr-021",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "When raising steam from cold, the boiler air vent is kept open until:",
+    "options": [
+      "Steam issues freely, showing that the air has been expelled",
+      "The water level reaches the top of the glass",
+      "The safety valves lift",
+      "The burner is shut down"
+    ],
+    "correctIndex": 0,
+    "explanation": "Air left in the boiler reduces heat transfer and the oxygen in it promotes corrosion."
+  },
+  {
+    "id": "engine-blr-022",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "The cascade (hot well) tank in a steam system:",
+    "options": [
+      "Stores fuel oil for the burner",
+      "Stores the boiler chemicals only",
+      "Collects returning condensate, lets oil be observed and removed, and supplies the feed pumps",
+      "Holds sea water ballast"
+    ],
+    "correctIndex": 2,
+    "explanation": "An observation tank or inspection window shows any oil carried back from leaking heating coils."
+  },
+  {
+    "id": "engine-blr-023",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "A bright, light orange flame with a clear exhaust usually shows that the boiler burner is:",
+    "options": [
+      "Short of air",
+      "About to flame out",
+      "Burning lubricating oil",
+      "Burning well with the correct air-fuel ratio"
+    ],
+    "correctIndex": 3,
+    "explanation": "A dark, smoky flame indicates too little air or poor atomisation; a very white flame with a clear funnel may mean too much air."
+  },
+  {
+    "id": "engine-blr-024",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "Hardness salts in boiler water, such as calcium and magnesium compounds, mainly cause:",
+    "options": [
+      "Better heat transfer",
+      "Scale on heating surfaces",
+      "Foaming only",
+      "Higher steam pressure"
+    ],
+    "correctIndex": 1,
+    "explanation": "Distilled feed water and chemical treatment keep hardness close to zero."
+  },
+  {
+    "id": "engine-blr-025",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "Scale on boiler tube heating surfaces is dangerous because it:",
+    "options": [
+      "Improves heat transfer",
+      "Lowers the furnace temperature",
+      "Protects the tube from all damage",
+      "Insulates the tube, so the metal overheats and may fail"
+    ],
+    "correctIndex": 3,
+    "explanation": "Even a thin layer of scale greatly raises tube metal temperature."
+  },
+  {
+    "id": "engine-blr-026",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "Latent heat of vaporisation is the heat needed to:",
+    "options": [
+      "Raise water temperature by 1 °C",
+      "Change water into steam at constant temperature",
+      "Melt ice",
+      "Superheat steam"
+    ],
+    "correctIndex": 1,
+    "explanation": "Most of the energy carried by steam is latent heat, released when it condenses in heaters."
+  },
+  {
+    "id": "engine-blr-027",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "A steam trap that has failed in the open position:",
+    "options": [
+      "Lets live steam pass into the condensate line, wasting steam and energy",
+      "Has no effect at all",
+      "Stops the boiler",
+      "Blocks all condensate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Traps should be checked regularly, for example with temperature or ultrasonic tests."
+  },
+  {
+    "id": "engine-blr-028",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "The forced draught fan on an oil-fired boiler:",
+    "options": [
+      "Removes condensate",
+      "Cools the safety valves",
+      "Supplies combustion air to the burner",
+      "Pumps fuel to the burner"
+    ],
+    "correctIndex": 2,
+    "explanation": "The air register and dampers control the air quantity for each firing rate."
+  },
+  {
+    "id": "engine-blr-029",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "Absolute pressure is equal to:",
+    "options": [
+      "Gauge pressure only",
+      "Gauge pressure minus atmospheric pressure",
+      "Gauge pressure plus atmospheric pressure",
+      "Atmospheric pressure only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Steam tables are usually based on absolute pressure, so 7 bar gauge is about 8 bar absolute."
+  },
+  {
+    "id": "engine-blr-030",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "Fitting an economiser or air preheater to an oil-fired boiler:",
+    "options": [
+      "Improves efficiency by recovering heat from the flue gases",
+      "Reduces the steam pressure",
+      "Removes the need for water treatment",
+      "Replaces the safety valves"
+    ],
+    "correctIndex": 0,
+    "explanation": "The flue gas must not be cooled below its acid dew point, or corrosion results."
+  },
+  {
+    "id": "engine-blr-031",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "easy",
+    "question": "Boiler feed pumps must deliver water at a pressure:",
+    "options": [
+      "Lower than the boiler pressure",
+      "Equal to the hot well pressure",
+      "Lower than atmospheric pressure",
+      "Higher than the boiler working pressure"
+    ],
+    "correctIndex": 3,
+    "explanation": "The feed check valve then opens and water enters the boiler."
+  },
+  {
+    "id": "engine-blr-032",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Boilers must have at least two independent means of showing the water level, usually:",
+    "options": [
+      "A single sounding pipe",
+      "Two gauge glasses, or one gauge glass and an approved remote level indicator",
+      "Only a low-level alarm",
+      "One thermometer and one pressure gauge"
+    ],
+    "correctIndex": 1,
+    "explanation": "If one gauge is out of service, the level can still be checked reliably."
+  },
+  {
+    "id": "engine-blr-033",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "The feed check valve on a boiler:",
+    "options": [
+      "Controls the steam outlet",
+      "Sets the safety valve pressure",
+      "Is a non-return valve that stops boiler water flowing back into the feed line",
+      "Drains the boiler"
+    ],
+    "correctIndex": 2,
+    "explanation": "It is fitted with a screw-down stop so the feed line can be isolated."
+  },
+  {
+    "id": "engine-blr-034",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Oil getting into the boiler, for example from a leaking fuel oil heating coil, is dangerous because it:",
+    "options": [
+      "Improves boiler efficiency",
+      "Raises the pH safely",
+      "Prevents scale with no side effects",
+      "Forms an insulating film on heating surfaces and causes foaming and overheating"
+    ],
+    "correctIndex": 3,
+    "explanation": "The source must be found and the boiler may need to be cleaned or boiled out."
+  },
+  {
+    "id": "engine-blr-035",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "In a pressure-jet burner, too little combustion air causes:",
+    "options": [
+      "Lower fuel consumption with no side effects",
+      "Smoke, soot deposits and incomplete combustion",
+      "Excessive flame cooling and white smoke only",
+      "Higher boiler efficiency"
+    ],
+    "correctIndex": 1,
+    "explanation": "Too much air also lowers efficiency by carrying heat out of the funnel; excess air is usually kept at about 10-20%."
+  },
+  {
+    "id": "engine-blr-036",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Routine boiler water tests on board usually include:",
+    "options": [
+      "Chloride, alkalinity (or pH), phosphate or hardness, and conductivity",
+      "Sulphur and cat fines",
+      "Viscosity and flash point",
+      "Octane number"
+    ],
+    "correctIndex": 0,
+    "explanation": "Results are logged and compared with the chemical supplier's limits."
+  },
+  {
+    "id": "engine-blr-037",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "A rising chloride level in boiler water most likely indicates:",
+    "options": [
+      "Sea water contamination, for example from a leaking condenser or cooler",
+      "Low firing rate",
+      "Too much hydrazine",
+      "Normal operation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Find and fix the leak, and increase blowdown to bring the chlorides down."
+  },
+  {
+    "id": "engine-blr-038",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Phosphate treatment of boiler water:",
+    "options": [
+      "Raises the steam temperature",
+      "Prevents oil contamination",
+      "Removes dissolved oxygen",
+      "Converts hardness salts into a soft sludge that can be removed by blowdown"
+    ],
+    "correctIndex": 3,
+    "explanation": "Phosphate also helps maintain alkalinity."
+  },
+  {
+    "id": "engine-blr-039",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Safety valve easing gear allows the valve to be:",
+    "options": [
+      "Set to a higher pressure",
+      "Lifted by hand from a remote, safe position",
+      "Removed while the boiler is under pressure",
+      "Locked shut"
+    ],
+    "correctIndex": 1,
+    "explanation": "It is used to test the valve and to release pressure in an emergency."
+  },
+  {
+    "id": "engine-blr-040",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "If the boiler water level falls to the low-low limit, the automatic control will:",
+    "options": [
+      "Open the safety valves",
+      "Open the bottom blowdown",
+      "Shut off the burner and give an alarm",
+      "Increase the firing rate"
+    ],
+    "correctIndex": 2,
+    "explanation": "The cause, such as a feed pump fault or a stuck feed valve, must be found before restarting."
+  },
+  {
+    "id": "engine-blr-041",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Soot blowing of a boiler or exhaust gas economiser should be carried out:",
+    "options": [
+      "Never while the boiler is in use",
+      "Only after an economiser fire",
+      "Only when the ship is in port",
+      "Regularly, at a good load, after informing the bridge because soot may fall on deck"
+    ],
+    "correctIndex": 3,
+    "explanation": "Regular soot blowing keeps heating surfaces clean and reduces fire risk."
+  },
+  {
+    "id": "engine-blr-042",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Heavy deposits in an exhaust gas economiser are usually removed by:",
+    "options": [
+      "Opening the safety valves",
+      "Water washing with the main engine stopped, following the maker's procedure",
+      "Running the engine at overload",
+      "Adding more fuel to the exhaust"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wash water is acidic, so the economiser must be dried afterwards to avoid corrosion."
+  },
+  {
+    "id": "engine-blr-043",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "The dryness fraction of wet steam is:",
+    "options": [
+      "The amount of oxygen in the steam",
+      "The temperature above saturation",
+      "The proportion of the mixture, by mass, that is dry vapour",
+      "The pressure in the drum"
+    ],
+    "correctIndex": 2,
+    "explanation": "A dryness fraction of 0.95 means 95% vapour and 5% water droplets."
+  },
+  {
+    "id": "engine-blr-044",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "A desuperheater in a steam system is used to:",
+    "options": [
+      "Reduce the temperature of superheated steam for services that need saturated or less hot steam",
+      "Raise the boiler pressure",
+      "Increase the superheat",
+      "Remove oil from condensate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Some boilers have an internal desuperheater coil in the water drum."
+  },
+  {
+    "id": "engine-blr-045",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "A boiler laid up for a long period may be protected by:",
+    "options": [
+      "Leaving it half full of untreated water",
+      "Filling it with fuel oil",
+      "Leaving all doors open in humid air",
+      "Wet lay-up, full of treated water, or dry lay-up with desiccant"
+    ],
+    "correctIndex": 3,
+    "explanation": "Both methods aim to prevent oxygen corrosion inside the boiler."
+  },
+  {
+    "id": "engine-blr-046",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Refractory in a boiler furnace should be inspected for:",
+    "options": [
+      "Lubricating oil level",
+      "Electrical insulation",
+      "Cracks, spalling and missing sections that could expose steelwork to the flame",
+      "Water hardness"
+    ],
+    "correctIndex": 2,
+    "explanation": "Damaged refractory can lead to casing overheating and leaks of hot gas."
+  },
+  {
+    "id": "engine-blr-047",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Compared with a steam heating system, a thermal oil heating system:",
+    "options": [
+      "Gives high temperatures at low pressure, but the oil is a fire hazard if it leaks",
+      "Needs boiler water treatment",
+      "Works only below 50 °C",
+      "Has no fire risk"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leak detection, low-level alarms and fire protection are important for thermal oil heaters."
+  },
+  {
+    "id": "engine-blr-048",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "A deaerator in a feed system:",
+    "options": [
+      "Adds oxygen to the feed water",
+      "Heats the feed water to drive off dissolved oxygen and other gases",
+      "Cools the condensate",
+      "Removes oil from fuel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chemical oxygen scavengers remove the remaining traces."
+  },
+  {
+    "id": "engine-blr-049",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Dissolved oxygen in boiler water mainly causes:",
+    "options": [
+      "Pitting corrosion of boiler and feed system surfaces",
+      "Scale formation",
+      "Higher steam temperatures",
+      "Foaming only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pitting can quickly perforate tubes, so oxygen is removed by deaeration and chemicals."
+  },
+  {
+    "id": "engine-blr-050",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "Common types of steam trap include:",
+    "options": [
+      "Ball and butterfly types",
+      "Centrifugal and gear types",
+      "Venturi and orifice types only",
+      "Thermostatic, thermodynamic and float types"
+    ],
+    "correctIndex": 3,
+    "explanation": "The type is chosen to suit the condensate load, pressure and application."
+  },
+  {
+    "id": "engine-blr-051",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "The vacuum in a steam turbine condenser is maintained mainly by:",
+    "options": [
+      "Heating the condenser",
+      "Condensing the exhaust steam, with an air ejector or vacuum pump removing air and non-condensable gases",
+      "Closing the cooling water valves",
+      "The boiler safety valves"
+    ],
+    "correctIndex": 1,
+    "explanation": "A falling vacuum reduces turbine efficiency and may trip the turbine."
+  },
+  {
+    "id": "engine-blr-052",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "medium",
+    "question": "The dissolved solids content (conductivity) of boiler water is mainly controlled by:",
+    "options": [
+      "Increasing the firing rate",
+      "Closing the feed check valve",
+      "Blowdown",
+      "Adding more phosphate"
+    ],
+    "correctIndex": 2,
+    "explanation": "High dissolved solids increase the risk of foaming and carry-over."
+  },
+  {
+    "id": "engine-blr-053",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "hard",
+    "question": "A rotary cup burner atomises the fuel by:",
+    "options": [
+      "Spinning a cup at high speed so the fuel forms a thin film that is broken up by primary air",
+      "Using steam injection only",
+      "Forcing fuel through a small nozzle at very high pressure only",
+      "Dripping fuel onto a hot plate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rotary cup burners have a wide turndown ratio and handle heavy fuels well."
+  },
+  {
+    "id": "engine-blr-054",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "hard",
+    "question": "Caustic embrittlement of boiler steel is caused by:",
+    "options": [
+      "High chloride levels only",
+      "Too much dissolved oxygen",
+      "Low pH in the boiler water",
+      "High concentrations of sodium hydroxide at stressed areas such as seams and tube ends"
+    ],
+    "correctIndex": 3,
+    "explanation": "It produces intergranular cracks; alkalinity must be kept within the recommended limits."
+  },
+  {
+    "id": "engine-blr-055",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "hard",
+    "question": "Hydrazine is increasingly replaced by other oxygen scavengers in boiler treatment mainly because:",
+    "options": [
+      "It increases scale",
+      "It is toxic and a suspected carcinogen, so it is hazardous to handle",
+      "It is too cheap",
+      "It does not remove oxygen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alternatives such as DEHA or carbohydrazide, or sulphite in low-pressure boilers, are often used."
+  },
+  {
+    "id": "engine-blr-056",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "hard",
+    "question": "In a safety valve accumulation test, with the main steam stop valve closed and the burner at full firing, the boiler pressure must not rise by more than:",
+    "options": [
+      "1 bar above atmospheric",
+      "50% of the working pressure",
+      "10% of the approved working pressure",
+      "25% of the working pressure"
+    ],
+    "correctIndex": 2,
+    "explanation": "The test confirms the safety valves can release all the steam the boiler can generate."
+  },
+  {
+    "id": "engine-blr-057",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "hard",
+    "question": "If the water level cannot be seen in the gauge glass and the level is unknown, the correct immediate action is to:",
+    "options": [
+      "Open the safety valves fully",
+      "Pump in cold feed water at once",
+      "Increase the firing rate",
+      "Shut off the fuel to the burner, and not add feed water until the boiler has been checked"
+    ],
+    "correctIndex": 3,
+    "explanation": "Feeding cold water onto overheated tubes can cause severe damage or an explosion."
+  },
+  {
+    "id": "engine-blr-058",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "hard",
+    "question": "In an exhaust gas economiser, an 'iron fire' can occur when the temperature exceeds about:",
+    "options": [
+      "200 °C",
+      "1,100 °C, when the steel itself starts to burn",
+      "600 °C",
+      "400 °C"
+    ],
+    "correctIndex": 1,
+    "explanation": "At such temperatures water should not be applied to the area except in very large amounts, as it may dissociate and feed the fire."
+  },
+  {
+    "id": "engine-blr-059",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "hard",
+    "question": "Saturated steam at about 7 bar gauge has a temperature of about:",
+    "options": [
+      "100 °C",
+      "120 °C",
+      "170 °C",
+      "250 °C"
+    ],
+    "correctIndex": 2,
+    "explanation": "7 bar gauge is about 8 bar absolute, and saturated steam at 8 bar abs is about 170 °C."
+  },
+  {
+    "id": "engine-blr-060",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "hard",
+    "question": "When raising steam in a boiler with a superheater, the superheater is protected from overheating by:",
+    "options": [
+      "Opening its drains and vents so steam flows through it",
+      "Firing at maximum rate",
+      "Closing all superheater valves",
+      "Keeping it full of cold water at all times"
+    ],
+    "correctIndex": 0,
+    "explanation": "Without steam flow, the superheater tubes have nothing to carry heat away."
+  },
+  {
+    "id": "engine-blr-061",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "hard",
+    "question": "If the burner management system fails to detect the main flame within the ignition safety time, it will:",
+    "options": [
+      "Open the safety valves",
+      "Raise the water level",
+      "Keep injecting fuel until ignition",
+      "Shut off fuel and lock out the burner, requiring a full purge before another attempt"
+    ],
+    "correctIndex": 3,
+    "explanation": "Repeated attempts without purging can fill the furnace with fuel vapour and cause an explosion."
+  },
+  {
+    "id": "engine-blr-062",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "hard",
+    "question": "Before a steam turbine (for example a cargo pump turbine) is run up, it should be:",
+    "options": [
+      "Warmed through slowly with drains open, and turned at low speed before loading",
+      "Run without lubrication",
+      "Started at full speed immediately",
+      "Filled with water"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uneven heating can cause rotor bowing, rubs and vibration."
+  },
+  {
+    "id": "engine-blr-063",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "hard",
+    "question": "If the steam-side connection of a gauge glass becomes blocked, the glass will:",
+    "options": [
+      "Show the true level",
+      "Become completely empty",
+      "Show a false high water level as steam trapped in it condenses",
+      "Show a false low level"
+    ],
+    "correctIndex": 2,
+    "explanation": "This is why gauge glasses are blown down regularly to check both connections."
+  },
+  {
+    "id": "engine-blr-064",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "hard",
+    "question": "To avoid acid corrosion on the gas side of an economiser, the metal temperature should be kept:",
+    "options": [
+      "Below 50 °C",
+      "Above the sulphuric acid dew point of the flue gas",
+      "Below the water's boiling point",
+      "Equal to sea water temperature"
+    ],
+    "correctIndex": 1,
+    "explanation": "This limits how much heat can be recovered from flue gas when burning high-sulphur fuel."
+  },
+  {
+    "id": "engine-blr-065",
+    "department": "engine",
+    "category": "boilers-steam",
+    "difficulty": "hard",
+    "question": "On a forced-circulation exhaust gas economiser, if the circulating pump stops while the main engine is running:",
+    "options": [
+      "The tubes may dry out and overheat, increasing the risk of damage and soot fire",
+      "The safety valve sets lower",
+      "Nothing happens",
+      "Steam production increases safely"
+    ],
+    "correctIndex": 0,
+    "explanation": "Standby pumps start automatically, and an alarm warns the engineers."
   }
 ]

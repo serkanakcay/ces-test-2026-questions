@@ -223,5 +223,755 @@
     ],
     "correctIndex": 2,
     "explanation": "Unlawful bypassing ('magic pipes') is prosecuted in many countries. Report concerns through the company's procedures."
+  },
+  {
+    "id": "engine-mar-016",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "The oily water separator (OWS) is used to:",
+    "options": [
+      "Separate fresh water from sea water",
+      "Treat sewage",
+      "Purify fuel oil for the main engine",
+      "Treat machinery space bilge water so its oil content is 15 ppm or less before discharge"
+    ],
+    "correctIndex": 3,
+    "explanation": "Separated oil goes to the sludge or bilge oil tank; the clean water passes the oil content meter."
+  },
+  {
+    "id": "engine-mar-017",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "The oil content meter of a 15 ppm bilge alarm measures:",
+    "options": [
+      "The engine's fuel consumption",
+      "The oil content of the OWS effluent in parts per million",
+      "The fuel tank level",
+      "The salinity of the bilge water"
+    ],
+    "correctIndex": 1,
+    "explanation": "If the reading exceeds 15 ppm, the alarm sounds and the discharge is stopped or recirculated."
+  },
+  {
+    "id": "engine-mar-018",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "The engine room sludge tank collects:",
+    "options": [
+      "Fresh water",
+      "Treated sewage",
+      "Clean ballast water",
+      "Oil residues such as purifier sludge, filter drains and drip tray oil"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sludge is landed ashore or burned in an approved incinerator or boiler."
+  },
+  {
+    "id": "engine-mar-019",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "To reduce the risk of an oil spill during bunkering, the ship should:",
+    "options": [
+      "Open the deck scuppers",
+      "Fill tanks to 100% quickly",
+      "Use a bunker checklist, keep good communication with the supplier and monitor tank levels and vents closely",
+      "Leave the manifold unattended"
+    ],
+    "correctIndex": 2,
+    "explanation": "Drip trays should be in place and SOPEP equipment ready at the manifold."
+  },
+  {
+    "id": "engine-mar-020",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "During bunkering, the ship's bunkering operation should be supervised by:",
+    "options": [
+      "The bunker barge crew only",
+      "Any crew member who is available",
+      "The cook",
+      "A designated responsible officer, usually the chief engineer or an engineer appointed by them"
+    ],
+    "correctIndex": 3,
+    "explanation": "The person in charge agrees the plan, rates and stop signals with the supplier before starting."
+  },
+  {
+    "id": "engine-mar-021",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "One good practice to reduce the amount of oily bilge water produced is to:",
+    "options": [
+      "Wash the engine room with large amounts of water every day",
+      "Repair leaks promptly and keep clean water drains separate from oily drains",
+      "Leave leaks until dry-dock",
+      "Pump all water into the bilges"
+    ],
+    "correctIndex": 1,
+    "explanation": "Less bilge water means less OWS operation and less waste to land ashore."
+  },
+  {
+    "id": "engine-mar-022",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "Using shore power while alongside (cold ironing) mainly helps to:",
+    "options": [
+      "Reduce cargo time",
+      "Reduce air emissions from the ship's generators in port",
+      "Clean the boiler",
+      "Increase the ship's speed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Some ports and regions now require shore power connection for certain ship types."
+  },
+  {
+    "id": "engine-mar-023",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "Reducing a ship's speed (slow steaming) lowers her CO2 emissions mainly because:",
+    "options": [
+      "CO2 is not produced at low speed",
+      "The engine burns cleaner fuel automatically",
+      "The exhaust gas is filtered",
+      "Fuel consumption, and therefore CO2 produced, falls sharply at lower speed"
+    ],
+    "correctIndex": 3,
+    "explanation": "CO2 emissions are directly proportional to the amount of fuel burned."
+  },
+  {
+    "id": "engine-mar-024",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "Oily bilge water in the engine room mainly comes from:",
+    "options": [
+      "The cargo holds",
+      "Rain water on deck",
+      "Leaks and drains from machinery, pumps, coolers and tanks",
+      "Sewage treatment"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bilge water often contains oil, water, detergents and solid particles."
+  },
+  {
+    "id": "engine-mar-025",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "A limit of 15 ppm means:",
+    "options": [
+      "15 % oil content",
+      "15 parts of oil per million parts of the mixture",
+      "15 litres of oil per hour",
+      "15 grams of oil per litre"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is equal to about 15 mg of oil per litre of water."
+  },
+  {
+    "id": "engine-mar-026",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "MARPOL Annex VI controls sulphur oxide (SOx) emissions mainly by:",
+    "options": [
+      "Banning diesel engines",
+      "Requiring catalytic converters on all ships",
+      "Limiting the engine's speed",
+      "Limiting the sulphur content of fuel oil, or by allowing approved equivalent methods"
+    ],
+    "correctIndex": 3,
+    "explanation": "The global limit is 0.50% and the ECA limit 0.10%."
+  },
+  {
+    "id": "engine-mar-027",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "Entries in Oil Record Book Part I must be:",
+    "options": [
+      "Made only by the shore office",
+      "Written only at the end of the voyage",
+      "Signed by the officer in charge of each operation, with each completed page signed by the master",
+      "Kept in pencil so they can be changed"
+    ],
+    "correctIndex": 2,
+    "explanation": "Entries are in the official language of the flag state and, on international voyages, also English, French or Spanish."
+  },
+  {
+    "id": "engine-mar-028",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "Examples of ozone-depleting substances controlled by MARPOL Annex VI include:",
+    "options": [
+      "CFC refrigerants and halon fire-extinguishing agents",
+      "Fresh water and steam",
+      "Carbon dioxide and nitrogen",
+      "Sodium hydroxide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Deliberate emissions are prohibited, and new installations containing them are banned."
+  },
+  {
+    "id": "engine-mar-029",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "NOx is formed in a diesel engine mainly because of:",
+    "options": [
+      "Sulphur in the fuel",
+      "High combustion temperatures causing nitrogen and oxygen in the air to combine",
+      "Low cylinder temperatures",
+      "Water in the lubricating oil"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is why NOx reduction methods such as EGR and water injection lower peak combustion temperatures."
+  },
+  {
+    "id": "engine-mar-030",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "When sludge or oily bilge water is landed ashore, the ship should obtain and keep:",
+    "options": [
+      "A waste delivery receipt from the reception facility, with the ORB entry",
+      "Only a verbal confirmation",
+      "A copy of the crew list",
+      "The bunker delivery note"
+    ],
+    "correctIndex": 0,
+    "explanation": "The receipt supports the ORB record during port state and flag inspections."
+  },
+  {
+    "id": "engine-mar-031",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "easy",
+    "question": "Under MARPOL Annex V, oily rags and used filters from the engine room are treated as:",
+    "options": [
+      "Food waste that may be discharged at sea",
+      "Sewage",
+      "Operational wastes, to be incinerated if permitted or landed ashore",
+      "Cargo residues"
+    ],
+    "correctIndex": 2,
+    "explanation": "They must not be thrown overboard."
+  },
+  {
+    "id": "engine-mar-032",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Among the conditions for discharging processed bilge water from the machinery space outside special areas, the ship must be:",
+    "options": [
+      "Within 3 nautical miles of land",
+      "In port with permission from the agent only",
+      "Stopped at anchor",
+      "En route, with the OWS and the 15 ppm alarm and stopping device in operation"
+    ],
+    "correctIndex": 3,
+    "explanation": "The discharge must not contain chemicals or other substances added to get around the rules."
+  },
+  {
+    "id": "engine-mar-033",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "If the oily water separator breaks down, the engineers should:",
+    "options": [
+      "Add detergent to the bilges",
+      "Fit a bypass pipe",
+      "Record the failure in the Oil Record Book, keep oily bilge water on board and arrange repair",
+      "Discharge bilge water directly overboard"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bypassing the OWS is a serious offence."
+  },
+  {
+    "id": "engine-mar-034",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Detergents and emulsifying cleaners should not be allowed to drain into the bilges because they:",
+    "options": [
+      "Form stable emulsions that the OWS cannot separate properly",
+      "Improve the OWS performance",
+      "Reduce bilge corrosion",
+      "Evaporate the oil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Use OWS-friendly cleaning products and keep chemicals out of the bilge system."
+  },
+  {
+    "id": "engine-mar-035",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "The standard discharge connection on deck is used to:",
+    "options": [
+      "Take fresh water from shore",
+      "Connect the ship's sludge and oily bilge lines to shore reception facility hoses, using a standard flange",
+      "Discharge sewage overboard",
+      "Supply fuel to the ship"
+    ],
+    "correctIndex": 1,
+    "explanation": "MARPOL Annex I gives the standard flange dimensions so any reception facility can connect."
+  },
+  {
+    "id": "engine-mar-036",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Ships using separate fuels to comply with a SOx ECA must carry:",
+    "options": [
+      "A scrubber manual only",
+      "A ballast water plan",
+      "No documentation",
+      "A written fuel changeover procedure showing how the change is carried out"
+    ],
+    "correctIndex": 3,
+    "explanation": "The procedure should allow enough time for the system to be fully flushed of high-sulphur fuel."
+  },
+  {
+    "id": "engine-mar-037",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "When entering a SOx ECA, the changeover to compliant fuel must be:",
+    "options": [
+      "Fully completed before the ship enters the ECA",
+      "Done within 24 hours after entry",
+      "Done only in the next port",
+      "Started when the ship is inside the ECA"
+    ],
+    "correctIndex": 0,
+    "explanation": "When leaving the ECA, the changeover to higher-sulphur fuel should start only after exit."
+  },
+  {
+    "id": "engine-mar-038",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "MARPOL Annex VI NOx limits apply to marine diesel engines with a power output of more than:",
+    "options": [
+      "13 kW",
+      "130 kW",
+      "1,300 kW",
+      "13,000 kW"
+    ],
+    "correctIndex": 1,
+    "explanation": "Engines used only for emergencies, such as emergency generators and lifeboat engines, are excluded."
+  },
+  {
+    "id": "engine-mar-039",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Tier II NOx limits apply globally to diesel engines installed on ships constructed on or after:",
+    "options": [
+      "1 January 2020",
+      "1 January 1990",
+      "1 January 2000",
+      "1 January 2011"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tier I applies from 2000, and Tier III applies only in NOx ECAs."
+  },
+  {
+    "id": "engine-mar-040",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "An International Air Pollution Prevention (IAPP) Certificate is required for ships of:",
+    "options": [
+      "10,000 GT and above only",
+      "50 GT and above",
+      "400 GT and above on international voyages",
+      "Passenger ships only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Its supplement records the ship's ODS systems, engines, fuel arrangements and incinerators."
+  },
+  {
+    "id": "engine-mar-041",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Ships with rechargeable systems containing ozone-depleting substances must keep:",
+    "options": [
+      "Only the Oil Record Book",
+      "A Garbage Record Book only",
+      "No record at all",
+      "An ODS record book, recording recharges, repairs, discharges and supply to reception facilities"
+    ],
+    "correctIndex": 3,
+    "explanation": "The ODS record book may also be part of an electronic record system."
+  },
+  {
+    "id": "engine-mar-042",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Under MARPOL Annex VI, halon fire-extinguishing systems:",
+    "options": [
+      "May be refilled and vented freely",
+      "Are required for engine rooms",
+      "May not be fitted as new installations, though existing ones may remain until replaced",
+      "Must be fitted on all new ships"
+    ],
+    "correctIndex": 2,
+    "explanation": "Halons have very high ozone depletion potential."
+  },
+  {
+    "id": "engine-mar-043",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "A closed-loop exhaust gas scrubber usually neutralises the sulphur with:",
+    "options": [
+      "Urea",
+      "Fresh water dosed with caustic soda (sodium hydroxide)",
+      "Untreated sea water passed straight overboard",
+      "Lubricating oil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Open-loop systems use the natural alkalinity of sea water instead."
+  },
+  {
+    "id": "engine-mar-044",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "'Methane slip' in LNG-fuelled engines refers to:",
+    "options": [
+      "Unburned methane escaping with the exhaust, which is a strong greenhouse gas",
+      "Loss of engine speed",
+      "Steam leaking from the boiler",
+      "Leaks of fuel oil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Reducing methane slip is important to keep LNG's climate benefit."
+  },
+  {
+    "id": "engine-mar-045",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "A bunker delivery note must show, among other things:",
+    "options": [
+      "The crew list of the barge",
+      "The quantity, density and sulphur content of the fuel delivered",
+      "The ship's draught",
+      "The weather at the bunkering port"
+    ],
+    "correctIndex": 1,
+    "explanation": "The supplier also declares that the fuel meets the relevant sulphur limit."
+  },
+  {
+    "id": "engine-mar-046",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "The MARPOL fuel sample should be taken:",
+    "options": [
+      "At the ship's receiving manifold, by continuous drip throughout the delivery",
+      "From the barge's tank before delivery only",
+      "From the engine's fuel filter",
+      "From the ship's tank after a week"
+    ],
+    "correctIndex": 0,
+    "explanation": "The sample is sealed and signed by the supplier's representative and the ship's officer."
+  },
+  {
+    "id": "engine-mar-047",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "The Energy Efficiency Design Index (EEDI) applies to:",
+    "options": [
+      "Only fishing vessels",
+      "Only ships in dry dock",
+      "Only ships older than 20 years",
+      "New ships, setting a minimum design energy efficiency level"
+    ],
+    "correctIndex": 3,
+    "explanation": "Required EEDI values have become stricter in phases since 2013."
+  },
+  {
+    "id": "engine-mar-048",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "To meet EEXI requirements, many existing ships have fitted:",
+    "options": [
+      "Extra cargo tanks",
+      "Additional boilers",
+      "Engine or shaft power limitation (EPL/ShaPoLi) that caps the available power in normal operation",
+      "Larger main engines"
+    ],
+    "correctIndex": 2,
+    "explanation": "The limit can be overridden only in emergencies, and such use must be recorded and reported."
+  },
+  {
+    "id": "engine-mar-049",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "Since October 2020, MARPOL allows the Oil Record Book to be kept:",
+    "options": [
+      "Only on loose sheets of paper",
+      "As an approved electronic record book",
+      "Only by the shore office",
+      "Only for ships under 400 GT"
+    ],
+    "correctIndex": 1,
+    "explanation": "The electronic system must be approved by the Administration and keep entries secure from alteration."
+  },
+  {
+    "id": "engine-mar-050",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "If a ship's exhaust gas cleaning system breaks down, the ship should:",
+    "options": [
+      "Continue burning high-sulphur fuel with no report",
+      "Stop the main engine at sea for the rest of the voyage",
+      "Take corrective action as required, such as changing to compliant fuel, and inform the flag and port state authorities",
+      "Discharge the scrubber washwater into the bilge"
+    ],
+    "correctIndex": 2,
+    "explanation": "IMO guidance and local rules describe what to do when an EGCS is not working."
+  },
+  {
+    "id": "engine-mar-051",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "SOx emissions from ships contribute mainly to:",
+    "options": [
+      "Acid rain and fine particulate matter that harms human health",
+      "Increased ocean salinity",
+      "Ballast water invasive species",
+      "Ozone layer depletion"
+    ],
+    "correctIndex": 0,
+    "explanation": "This is why emission limits are strictest near populated coasts."
+  },
+  {
+    "id": "engine-mar-052",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "medium",
+    "question": "A SOPEP locker on deck typically contains:",
+    "options": [
+      "Lifejackets and immersion suits",
+      "Fire hoses and nozzles",
+      "Spare engine parts",
+      "Absorbent materials, scoops, empty drums, plugs for scuppers and protective equipment"
+    ],
+    "correctIndex": 3,
+    "explanation": "It is used to contain and clean up small spills on deck before oil reaches the sea."
+  },
+  {
+    "id": "engine-mar-053",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "In the Antarctic area, discharge of oil or oily mixtures from any ship is:",
+    "options": [
+      "Prohibited",
+      "Allowed more than 50 miles from ice",
+      "Allowed below 15 ppm",
+      "Allowed only from the machinery space"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Antarctic area has the strictest MARPOL Annex I rules."
+  },
+  {
+    "id": "engine-mar-054",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "In Oil Record Book Part I, bunkering of fuel or bulk lubricating oil is recorded under code:",
+    "options": [
+      "A",
+      "D",
+      "H",
+      "C"
+    ],
+    "correctIndex": 2,
+    "explanation": "Each entry uses a code letter and item number set out in the ORB instructions."
+  },
+  {
+    "id": "engine-mar-055",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "Which ORB Part I code is used to record the collection, transfer and disposal of oil residues (sludge)?",
+    "options": [
+      "G",
+      "H",
+      "A",
+      "C"
+    ],
+    "correctIndex": 3,
+    "explanation": "Code D covers non-automatic discharge or disposal of bilge water."
+  },
+  {
+    "id": "engine-mar-056",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "Under the IMO performance standard for 15 ppm bilge alarms (MEPC.107(49)), the alarm must record date, time and alarm status, and keep the data for at least:",
+    "options": [
+      "10 years",
+      "18 months",
+      "24 hours",
+      "1 month"
+    ],
+    "correctIndex": 1,
+    "explanation": "These records help inspectors verify OWS operation against the Oil Record Book."
+  },
+  {
+    "id": "engine-mar-057",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "A sludge tank on a ship built to current MARPOL requirements must have:",
+    "options": [
+      "No discharge connection to the bilge system, the OWS or overboard, except approved arrangements such as a screw-down valve to drain water",
+      "A connection to the fresh water system",
+      "An open vent into the engine room",
+      "A direct overboard discharge valve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sludge may only leave through the standard discharge connection or to an approved incinerator or boiler."
+  },
+  {
+    "id": "engine-mar-058",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "Under the MARPOL Annex VI amendments in force from 2022-2023, ships must have designated sampling points for:",
+    "options": [
+      "Sewage effluent",
+      "Ballast water only",
+      "Boiler water",
+      "The fuel oil in use, so that in-use samples can be taken and tested"
+    ],
+    "correctIndex": 3,
+    "explanation": "Port state officers can then check whether the fuel being burned meets the sulphur limit."
+  },
+  {
+    "id": "engine-mar-059",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "If a ship cannot obtain compliant fuel despite its best efforts, MARPOL Annex VI expects the ship to:",
+    "options": [
+      "Burn lubricating oil instead",
+      "Submit a Fuel Oil Non-Availability Report (FONAR) to the flag state and the port of destination",
+      "Stop at sea until compliant fuel arrives",
+      "Use any available fuel without telling anyone"
+    ],
+    "correctIndex": 1,
+    "explanation": "The FONAR records the attempts made to buy compliant fuel; it does not automatically excuse non-compliance."
+  },
+  {
+    "id": "engine-mar-060",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "Each marine diesel engine certified under the NOx Technical Code must have on board:",
+    "options": [
+      "Only the maker's sales brochure",
+      "A garbage management plan",
+      "An approved Technical File and, where used, a Record Book of Engine Parameters",
+      "The ship's stability booklet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Changes to NOx-critical components or settings must stay within the Technical File and be recorded."
+  },
+  {
+    "id": "engine-mar-061",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "MARPOL Annex VI NOx emission limits (in g/kWh) for each Tier depend on:",
+    "options": [
+      "The engine's rated speed (rpm)",
+      "The sulphur content of the fuel",
+      "The number of cylinders only",
+      "The ship's gross tonnage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Slow-speed engines are allowed higher NOx in g/kWh than high-speed engines."
+  },
+  {
+    "id": "engine-mar-062",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "Under the IMO standard for shipboard incinerators, waste should not be fed in continuous operation until the combustion chamber flue gas outlet temperature reaches at least about:",
+    "options": [
+      "200 °C",
+      "1,500 °C",
+      "850 °C",
+      "450 °C"
+    ],
+    "correctIndex": 2,
+    "explanation": "High temperature ensures complete combustion and limits harmful emissions."
+  },
+  {
+    "id": "engine-mar-063",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "The washwater from an exhaust gas cleaning system must be monitored for:",
+    "options": [
+      "Salinity only",
+      "Sulphur content of the fuel",
+      "Oxygen content only",
+      "pH, PAH (polycyclic aromatic hydrocarbons) and turbidity"
+    ],
+    "correctIndex": 3,
+    "explanation": "Some ports and coastal states also restrict or ban open-loop washwater discharge."
+  },
+  {
+    "id": "engine-mar-064",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "Inside an Annex I special area other than the Antarctic, machinery space bilge water may be discharged only if:",
+    "options": [
+      "The master agrees and logs it",
+      "It is processed through approved equipment to 15 ppm or less, with an automatic stopping device, while the ship is en route",
+      "The ship is more than 3 nautical miles from land with no equipment",
+      "It is mixed with ballast water"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oil-free water may also be discharged; all discharges must be recorded."
+  },
+  {
+    "id": "engine-mar-065",
+    "department": "engine",
+    "category": "marpol-environment",
+    "difficulty": "hard",
+    "question": "Since 1 July 2024, MARPOL Annex I has restricted the use and carriage as fuel of heavy fuel oil by ships operating in:",
+    "options": [
+      "The Red Sea",
+      "The Caribbean Sea",
+      "Arctic waters",
+      "The Mediterranean Sea"
+    ],
+    "correctIndex": 2,
+    "explanation": "Some ships may use waivers or exemptions until 2029; HFO has long been banned in the Antarctic area."
   }
 ]

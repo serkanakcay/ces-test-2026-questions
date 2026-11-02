@@ -223,5 +223,755 @@
     ],
     "correctIndex": 0,
     "explanation": "Check suction joints, valve glands and strainer covers when a pump fails to deliver."
+  },
+  {
+    "id": "engine-pmp-016",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "In a centrifugal pump, the impeller gives the liquid velocity, and the volute casing:",
+    "options": [
+      "Seals the shaft",
+      "Primes the pump",
+      "Filters the liquid",
+      "Converts much of that velocity into pressure"
+    ],
+    "correctIndex": 3,
+    "explanation": "The gradually widening volute slows the liquid down, raising its pressure."
+  },
+  {
+    "id": "engine-pmp-017",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "A positive displacement pump should be started with its discharge valve:",
+    "options": [
+      "Open",
+      "Removed",
+      "Half closed",
+      "Closed"
+    ],
+    "correctIndex": 0,
+    "explanation": "Starting against a closed discharge causes a rapid pressure rise; the relief valve is only a last safeguard."
+  },
+  {
+    "id": "engine-pmp-018",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "Bilge suctions in the machinery space are fitted with mud boxes or strainers in order to:",
+    "options": [
+      "Measure the bilge level",
+      "Separate oil from water",
+      "Heat the bilge water",
+      "Stop debris from blocking or damaging the bilge pump and valves"
+    ],
+    "correctIndex": 3,
+    "explanation": "Strainers and mud boxes must be cleaned regularly and their covers properly refitted."
+  },
+  {
+    "id": "engine-pmp-019",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "Ballast pumps on most ships are of the:",
+    "options": [
+      "Screw type for heavy fuel",
+      "Reciprocating hand-pump type",
+      "Centrifugal type, with a priming arrangement",
+      "Gear type"
+    ],
+    "correctIndex": 2,
+    "explanation": "Centrifugal pumps handle large volumes of water at moderate head."
+  },
+  {
+    "id": "engine-pmp-020",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "A butterfly valve is:",
+    "options": [
+      "A quarter-turn valve with a rotating disc, often used on large-diameter water pipes",
+      "A safety valve for air receivers",
+      "A screw-down valve for steam only",
+      "A non-return valve for fuel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Butterfly valves are compact and light, but less suitable for fine throttling of high-pressure fluids."
+  },
+  {
+    "id": "engine-pmp-021",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "Gland packing on a pump shaft should normally be adjusted so that:",
+    "options": [
+      "Liquid runs freely from the gland",
+      "A slight drip of liquid continues, to lubricate and cool the packing",
+      "No liquid at all leaks",
+      "The shaft cannot turn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Over-tightened packing overheats and scores the shaft sleeve."
+  },
+  {
+    "id": "engine-pmp-022",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "An ejector (eductor) creates suction by:",
+    "options": [
+      "A reciprocating piston",
+      "A rotating impeller",
+      "Gravity only",
+      "Using a high-velocity jet of water, steam or air, with no moving parts"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ejectors are used for bilge and ballast stripping and to create vacuum in fresh water generators."
+  },
+  {
+    "id": "engine-pmp-023",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "A fuel oil overflow tank is provided to:",
+    "options": [
+      "Store lubricating oil",
+      "Hold sludge from the purifiers",
+      "Collect oil that overflows from tanks during filling or transfer",
+      "Store fresh water"
+    ],
+    "correctIndex": 2,
+    "explanation": "Overflow tank level alarms warn the crew before oil can escape through vents."
+  },
+  {
+    "id": "engine-pmp-024",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "A hydrophore (pressure set) fresh water system works by:",
+    "options": [
+      "Keeping an air cushion in a pressure tank, with the pump started and stopped by pressure switches",
+      "Using the main sea water pump",
+      "Using gravity from a tank on the mast",
+      "Running the pump continuously at full speed"
+    ],
+    "correctIndex": 0,
+    "explanation": "If the air cushion is lost, the pump starts and stops too frequently."
+  },
+  {
+    "id": "engine-pmp-025",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "Expansion bellows or loops are fitted in steam pipelines to:",
+    "options": [
+      "Drain condensate",
+      "Allow the pipe to expand and contract with temperature changes without overstressing",
+      "Reduce the pressure",
+      "Increase the flow"
+    ],
+    "correctIndex": 1,
+    "explanation": "Without them, thermal expansion could crack flanges, valves or pipe supports."
+  },
+  {
+    "id": "engine-pmp-026",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "The most common cause of hydraulic system failures is:",
+    "options": [
+      "Contamination of the oil by dirt, water or air",
+      "Too much clean oil",
+      "Low ambient humidity",
+      "Using the correct filters"
+    ],
+    "correctIndex": 0,
+    "explanation": "Good filtration and regular oil analysis are key to reliable hydraulic systems."
+  },
+  {
+    "id": "engine-pmp-027",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "A Bourdon tube pressure gauge works because:",
+    "options": [
+      "A float rises in a liquid",
+      "A spring is compressed by temperature",
+      "An electric current changes with pressure",
+      "The curved tube tends to straighten as the pressure inside it rises, moving the pointer"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gauges should be fitted with isolating cocks so they can be changed without stopping the system."
+  },
+  {
+    "id": "engine-pmp-028",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "Running a centrifugal pump fitted with a mechanical seal while it is dry:",
+    "options": [
+      "Has no effect",
+      "Cleans the impeller",
+      "Can quickly overheat and damage the seal faces",
+      "Improves the seal's life"
+    ],
+    "correctIndex": 2,
+    "explanation": "The seal faces depend on a thin film of liquid for lubrication and cooling."
+  },
+  {
+    "id": "engine-pmp-029",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "Duplex filters are used in fuel and lubricating oil systems so that:",
+    "options": [
+      "Filters never need cleaning",
+      "Two different oils can be mixed",
+      "The pressure is doubled",
+      "One side can be cleaned while the other stays in service, without stopping the flow"
+    ],
+    "correctIndex": 3,
+    "explanation": "The changeover valve must be operated carefully to avoid air locks or loss of pressure."
+  },
+  {
+    "id": "engine-pmp-030",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "easy",
+    "question": "Before opening a pump for maintenance, you must:",
+    "options": [
+      "Open the casing while it is still under pressure",
+      "Close and secure the suction and discharge valves, isolate and lock off the motor, and drain the pump",
+      "Only stop the motor at the local switch",
+      "Leave the valves open to drain the system"
+    ],
+    "correctIndex": 1,
+    "explanation": "A permit to work and checks for residual pressure and temperature are also needed."
+  },
+  {
+    "id": "engine-pmp-031",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "A centrifugal pump is normally started with its discharge valve closed or nearly closed because:",
+    "options": [
+      "It cannot run with the valve open",
+      "It prevents cavitation completely",
+      "Power demand is lowest at low flow, which reduces the motor starting load",
+      "It increases the suction lift"
+    ],
+    "correctIndex": 2,
+    "explanation": "The valve is opened gradually once the pump is up to speed; running too long at shut-off overheats the liquid."
+  },
+  {
+    "id": "engine-pmp-032",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "An air vessel on the discharge side of a reciprocating pump:",
+    "options": [
+      "Smooths out pressure and flow pulsations",
+      "Increases the suction lift",
+      "Removes air from the liquid",
+      "Primes the pump"
+    ],
+    "correctIndex": 0,
+    "explanation": "It acts as a cushion, absorbing peaks and releasing liquid during the suction stroke."
+  },
+  {
+    "id": "engine-pmp-033",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Bilge suction valves are usually of the screw-down non-return type in order to:",
+    "options": [
+      "Allow oil to be pumped to the sea",
+      "Allow each suction to be closed, while preventing back-flow into the compartment",
+      "Increase the pump capacity",
+      "Reduce the noise of the pump"
+    ],
+    "correctIndex": 1,
+    "explanation": "This stops flooding from spreading between compartments through the bilge system."
+  },
+  {
+    "id": "engine-pmp-034",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "A globe valve is preferred to a gate valve when:",
+    "options": [
+      "The flow needs to be throttled or finely controlled",
+      "A full, unrestricted bore is needed",
+      "Only on/off service is needed",
+      "The valve must be quarter-turn"
+    ],
+    "correctIndex": 0,
+    "explanation": "The flow changes direction through a globe valve, which gives good control but more pressure drop."
+  },
+  {
+    "id": "engine-pmp-035",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "A gate valve is best used:",
+    "options": [
+      "For throttling at half open",
+      "As a non-return valve",
+      "As a pressure relief valve",
+      "Fully open or fully closed, giving a straight-through flow with little pressure drop"
+    ],
+    "correctIndex": 3,
+    "explanation": "Throttling with a gate valve causes vibration and wear of the gate and seats."
+  },
+  {
+    "id": "engine-pmp-036",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Under the ISO 14726 pipe colour code, the basic identification colour for sea water pipes is:",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Green",
+      "Brown"
+    ],
+    "correctIndex": 2,
+    "explanation": "For example, fresh water is blue and fuel oil is brown."
+  },
+  {
+    "id": "engine-pmp-037",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Spray shields or anti-splash tape around fuel oil pipe flanges are fitted to:",
+    "options": [
+      "Insulate the pipe",
+      "Prevent fuel spraying onto hot surfaces if a joint leaks",
+      "Identify the pipe contents",
+      "Reduce vibration"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fuel spray onto hot exhausts is a leading cause of engine room fires."
+  },
+  {
+    "id": "engine-pmp-038",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "For a centrifugal pump running at constant speed, as the flow rate increases, the head developed:",
+    "options": [
+      "Becomes zero immediately",
+      "Increases",
+      "Stays exactly the same",
+      "Decreases"
+    ],
+    "correctIndex": 3,
+    "explanation": "This is shown by the pump's head-flow characteristic curve."
+  },
+  {
+    "id": "engine-pmp-039",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Wear rings in a centrifugal pump are fitted to:",
+    "options": [
+      "Reduce internal leakage from the discharge side back to the suction",
+      "Seal the shaft",
+      "Hold the impeller on the shaft",
+      "Prime the pump"
+    ],
+    "correctIndex": 0,
+    "explanation": "As wear rings wear, the clearance increases and pump efficiency falls."
+  },
+  {
+    "id": "engine-pmp-040",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Bilge and ballast centrifugal pumps are often fitted with a vacuum pump or air ejector to:",
+    "options": [
+      "Clean the strainers",
+      "Increase the discharge pressure",
+      "Remove air from the suction line so the pump can prime itself",
+      "Cool the pump bearings"
+    ],
+    "correctIndex": 2,
+    "explanation": "Automatic priming units allow the pump to draw liquid from below its own level."
+  },
+  {
+    "id": "engine-pmp-041",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Tank air pipes are fitted with automatic closing heads (for example ball floats) on deck to:",
+    "options": [
+      "Release oil vapour into the engine room",
+      "Measure the tank level",
+      "Let air in and out of the tank but stop sea water entering in heavy weather",
+      "Prevent air entering the tank at all"
+    ],
+    "correctIndex": 2,
+    "explanation": "Air pipes prevent over-pressure or vacuum in the tank during filling and emptying."
+  },
+  {
+    "id": "engine-pmp-042",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "In a central cooling system:",
+    "options": [
+      "Sea water circulates through every engine cooler",
+      "Fresh water cools the sea water",
+      "No sea water is used at all",
+      "Sea water cools the central cooler, which cools a fresh water circuit serving the engine coolers"
+    ],
+    "correctIndex": 3,
+    "explanation": "This limits sea water piping to a small part of the system, reducing corrosion and fouling."
+  },
+  {
+    "id": "engine-pmp-043",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Compared with shell-and-tube coolers, plate heat exchangers:",
+    "options": [
+      "Are always larger",
+      "Are compact and efficient and easy to open for cleaning, but rely on many gaskets",
+      "Cannot be cleaned",
+      "Work only with steam"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gasket failures may cause leaks between circuits, so pressure tests are done after maintenance."
+  },
+  {
+    "id": "engine-pmp-044",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Sacrificial zinc or soft iron anodes are fitted in sea water coolers to:",
+    "options": [
+      "Protect the cooler from galvanic corrosion",
+      "Increase heat transfer",
+      "Measure the water flow",
+      "Filter the sea water"
+    ],
+    "correctIndex": 0,
+    "explanation": "The anode corrodes instead of the more valuable cooler metals and must be renewed when wasted."
+  },
+  {
+    "id": "engine-pmp-045",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "A fresh water generator works under vacuum so that:",
+    "options": [
+      "Sea water boils at a low temperature, using waste heat such as engine jacket water",
+      "The water is sterilised by pressure",
+      "Salt is removed by freezing",
+      "No heating is needed at all"
+    ],
+    "correctIndex": 0,
+    "explanation": "Typical boiling temperatures are around 40-60 °C."
+  },
+  {
+    "id": "engine-pmp-046",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "When the salinometer of a fresh water generator detects high salinity in the distillate:",
+    "options": [
+      "The distillate is sent to the drinking water tank anyway",
+      "The generator stops the main engine",
+      "Sea water is added to dilute it",
+      "An alarm sounds and the distillate is dumped instead of being sent to the storage tanks"
+    ],
+    "correctIndex": 3,
+    "explanation": "High salinity may be caused by priming in the evaporator or a leaking condenser."
+  },
+  {
+    "id": "engine-pmp-047",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Drinking water produced or stored on board is usually disinfected by:",
+    "options": [
+      "Adding sea water",
+      "Chlorination or UV treatment, with residual chlorine checked regularly",
+      "Heating it to 40 °C",
+      "Filtering through cloth only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Drinking water tanks should also be cleaned and inspected at regular intervals."
+  },
+  {
+    "id": "engine-pmp-048",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Most shipboard sewage treatment plants work by:",
+    "options": [
+      "Mixing it with ballast water",
+      "Simple storage until the ship is at sea",
+      "Aerobic biological treatment, followed by settling and disinfection",
+      "Burning the sewage"
+    ],
+    "correctIndex": 2,
+    "explanation": "Air blowers keep bacteria alive; chlorine or UV disinfects the effluent."
+  },
+  {
+    "id": "engine-pmp-049",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Under SOLAS, emergency steering drills must be carried out at least:",
+    "options": [
+      "Once every three months",
+      "Once a week",
+      "Only at dry-docking",
+      "Once a year"
+    ],
+    "correctIndex": 0,
+    "explanation": "The drill includes direct control from the steering gear compartment and the communications procedure with the bridge."
+  },
+  {
+    "id": "engine-pmp-050",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "A compound gauge on a pump suction is used because it can show:",
+    "options": [
+      "The pump's speed",
+      "Both vacuum and positive pressure",
+      "Only very high pressures",
+      "Only temperatures"
+    ],
+    "correctIndex": 1,
+    "explanation": "Suction pressure can be below or above atmospheric depending on the tank level."
+  },
+  {
+    "id": "engine-pmp-051",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "Most ballast water treatment systems use:",
+    "options": [
+      "Freezing the ballast",
+      "Adding oil to the ballast",
+      "Filtration followed by UV treatment or electrochlorination",
+      "Heating the ballast to boiling point"
+    ],
+    "correctIndex": 2,
+    "explanation": "They must be type-approved to meet the D-2 performance standard."
+  },
+  {
+    "id": "engine-pmp-052",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "medium",
+    "question": "A progressive cavity (mono) pump must not run dry because:",
+    "options": [
+      "It loses its prime permanently",
+      "Its relief valve will open",
+      "Its impeller will overspeed",
+      "The rubber stator depends on the pumped liquid for lubrication and quickly overheats"
+    ],
+    "correctIndex": 3,
+    "explanation": "These pumps are often used for sludge and sewage."
+  },
+  {
+    "id": "engine-pmp-053",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "hard",
+    "question": "In machinery spaces, an emergency bilge suction is normally connected to:",
+    "options": [
+      "The fuel oil transfer pump",
+      "The largest available power pump other than the bilge pumps, usually the main sea water cooling pump, through a non-return valve",
+      "The fresh water hydrophore pump",
+      "The sewage pump"
+    ],
+    "correctIndex": 1,
+    "explanation": "This gives a large pumping capacity if the machinery space floods."
+  },
+  {
+    "id": "engine-pmp-054",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "hard",
+    "question": "The head developed by a centrifugal pump varies with impeller speed approximately as:",
+    "options": [
+      "The square root of the speed",
+      "The speed itself",
+      "The cube of the speed",
+      "The square of the speed"
+    ],
+    "correctIndex": 3,
+    "explanation": "By the affinity laws, flow varies with speed, head with speed squared and power with speed cubed."
+  },
+  {
+    "id": "engine-pmp-055",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "hard",
+    "question": "The operating point of a centrifugal pump is found where:",
+    "options": [
+      "The pump's head-flow curve meets the system resistance curve",
+      "The motor current is lowest",
+      "The NPSH required is zero",
+      "The suction and discharge pressures are equal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Throttling a valve changes the system curve and moves the operating point."
+  },
+  {
+    "id": "engine-pmp-056",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "hard",
+    "question": "In a lube oil cooler, the oil pressure is usually kept higher than the sea water pressure so that:",
+    "options": [
+      "Heat transfer is doubled",
+      "The sea water pump uses less power",
+      "A tube leak lets oil into the water rather than sea water into the oil",
+      "The cooler needs no anodes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sea water in the lube oil would cause corrosion and bearing damage."
+  },
+  {
+    "id": "engine-pmp-057",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "hard",
+    "question": "In an electro-hydraulic steering gear, the variable-delivery pump:",
+    "options": [
+      "Delivers a fixed flow in one direction only",
+      "Supplies fuel to the main engine",
+      "Changes the amount and direction of oil flow to the rams, controlled by the hunting gear",
+      "Runs only when the rudder is amidships"
+    ],
+    "correctIndex": 2,
+    "explanation": "When the rudder reaches the ordered angle, the hunting gear returns the pump to no delivery."
+  },
+  {
+    "id": "engine-pmp-058",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "hard",
+    "question": "SOLAS requires the main steering gear to move the rudder from 35° on one side to 30° on the other in not more than:",
+    "options": [
+      "60 seconds at any speed",
+      "28 seconds, at the deepest seagoing draught and maximum ahead service speed",
+      "28 seconds with the ship stopped",
+      "10 seconds at half speed"
+    ],
+    "correctIndex": 1,
+    "explanation": "The auxiliary steering gear must move the rudder from 15° on one side to 15° on the other in 60 seconds at half speed or 7 knots."
+  },
+  {
+    "id": "engine-pmp-059",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "hard",
+    "question": "Under SOLAS, the steering gear must be checked and tested by the ship's crew:",
+    "options": [
+      "After arrival in port only",
+      "Once a month at sea",
+      "Only at the annual survey",
+      "Within 12 hours before departure"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tests include the main and auxiliary steering gear, remote controls, power units, rudder indicators and alarms."
+  },
+  {
+    "id": "engine-pmp-060",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "hard",
+    "question": "New or repaired pressure piping is commonly hydraulically tested to about:",
+    "options": [
+      "1.5 times its design pressure",
+      "Its normal working pressure only",
+      "Ten times its design pressure",
+      "Half its design pressure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Class rules set the exact test pressure for each pipe class."
+  },
+  {
+    "id": "engine-pmp-061",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "hard",
+    "question": "Overboard discharges from spaces below the freeboard deck must normally be fitted with:",
+    "options": [
+      "A gate valve on deck",
+      "Only a blank flange",
+      "A simple open pipe",
+      "An automatic non-return valve with a positive means of closing from above the freeboard deck"
+    ],
+    "correctIndex": 3,
+    "explanation": "This is required by the Load Line Convention to stop sea water flooding back into the ship."
+  },
+  {
+    "id": "engine-pmp-062",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "hard",
+    "question": "A centrifugal pump discharging against very low system resistance, with its discharge valve wide open, may:",
+    "options": [
+      "Run far out on its curve and overload its motor",
+      "Need no NPSH",
+      "Produce its maximum head",
+      "Stop pumping completely"
+    ],
+    "correctIndex": 0,
+    "explanation": "Power absorbed by a centrifugal pump rises with flow, so very high flow can trip the motor overload."
+  },
+  {
+    "id": "engine-pmp-063",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "hard",
+    "question": "Which change will increase the NPSH available at a pump suction?",
+    "options": [
+      "Heating the liquid",
+      "Partly closing the suction valve",
+      "Raising the liquid level in the suction tank above the pump",
+      "Using a smaller, longer suction pipe"
+    ],
+    "correctIndex": 2,
+    "explanation": "Higher static head, cooler liquid and lower suction losses all increase NPSHa."
+  },
+  {
+    "id": "engine-pmp-064",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "hard",
+    "question": "A minimum flow (recirculation) line on a centrifugal pump is provided to:",
+    "options": [
+      "Increase the pump's maximum flow",
+      "Prevent the liquid overheating when the pump runs near zero delivery",
+      "Prime the pump",
+      "Reduce motor voltage"
+    ],
+    "correctIndex": 1,
+    "explanation": "At shut-off, nearly all the input power becomes heat in the small volume of liquid in the casing."
+  },
+  {
+    "id": "engine-pmp-065",
+    "department": "engine",
+    "category": "pumps-piping",
+    "difficulty": "hard",
+    "question": "If the diameter of a pipe is doubled while the flow velocity stays the same, the volume flow rate becomes about:",
+    "options": [
+      "Unchanged",
+      "Eight times greater",
+      "Four times greater",
+      "Twice as great"
+    ],
+    "correctIndex": 2,
+    "explanation": "Flow = area x velocity, and the area of a circle increases with the square of the diameter."
   }
 ]

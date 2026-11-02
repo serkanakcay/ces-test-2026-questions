@@ -223,5 +223,755 @@
     ],
     "correctIndex": 3,
     "explanation": "Torrey Canyon (1967) led towards MARPOL; Herald of Free Enterprise (1987) led towards the ISM Code."
+  },
+  {
+    "id": "deck-law-016",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "Under the ISM Code, the Safety Management Certificate (SMC) is issued to:",
+    "options": [
+      "The classification society",
+      "The master personally",
+      "The company",
+      "The ship"
+    ],
+    "correctIndex": 3,
+    "explanation": "The SMC shows that the company and its shipboard management operate in line with the approved SMS; the DOC is issued to the company."
+  },
+  {
+    "id": "deck-law-017",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "The ISM Code is made mandatory by SOLAS chapter:",
+    "options": [
+      "IX",
+      "XII",
+      "V",
+      "II-2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chapter IX, Management for the Safe Operation of Ships."
+  },
+  {
+    "id": "deck-law-018",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "Which SOLAS chapter contains the special measures to enhance maritime security that make the ISPS Code mandatory?",
+    "options": [
+      "XI-2",
+      "III",
+      "VI",
+      "IX"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chapter XI-2 also requires the Ship Security Alert System."
+  },
+  {
+    "id": "deck-law-019",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "Under the ISPS Code, the CSO is the:",
+    "options": [
+      "Chief Security Officer on board",
+      "Coast Security Observer",
+      "Cargo Safety Officer",
+      "Company Security Officer, responsible ashore for the security of the company's ships"
+    ],
+    "correctIndex": 3,
+    "explanation": "The CSO ensures ship security assessments and plans are developed, approved and kept up to date."
+  },
+  {
+    "id": "deck-law-020",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "In the ISPS Code, PFSO stands for:",
+    "options": [
+      "Port Flag State Official",
+      "Port Fire Safety Officer",
+      "Port Facility Security Officer",
+      "Public Ferry Security Operator"
+    ],
+    "correctIndex": 2,
+    "explanation": "The PFSO is responsible for the port facility security plan and liaises with the ship's SSO."
+  },
+  {
+    "id": "deck-law-021",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "ISPS security level 3 applies when:",
+    "options": [
+      "The ship is in dry dock",
+      "There is a heightened but general risk",
+      "A security incident is probable or imminent, for a limited period",
+      "Normal operations continue"
+    ],
+    "correctIndex": 2,
+    "explanation": "Level 1 is normal, level 2 heightened; at level 3 the ship may follow specific instructions from those responding to the threat."
+  },
+  {
+    "id": "deck-law-022",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "A Ship Security Plan must be:",
+    "options": [
+      "Approved by the port facility",
+      "Written by the master and kept secret from the company",
+      "Displayed publicly on the gangway",
+      "Approved by the Administration or a Recognised Security Organisation on its behalf"
+    ],
+    "correctIndex": 3,
+    "explanation": "The plan is kept on board and protected from unauthorised access; some parts are confidential."
+  },
+  {
+    "id": "deck-law-023",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "The International Ship Security Certificate (ISSC) is valid for a maximum of:",
+    "options": [
+      "10 years",
+      "5 years, subject to an intermediate verification",
+      "The life of the ship",
+      "1 year"
+    ],
+    "correctIndex": 1,
+    "explanation": "An interim ISSC, valid for up to 6 months, may be issued for example on a change of flag or company."
+  },
+  {
+    "id": "deck-law-024",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "Under the ISPS Code, security drills on board should be carried out at least:",
+    "options": [
+      "Once every three months",
+      "Once every five years",
+      "Once a week",
+      "Only when the security level changes"
+    ],
+    "correctIndex": 0,
+    "explanation": "A drill is also needed within one week if more than 25% of the crew has changed and they have not taken part in a drill in the past three months."
+  },
+  {
+    "id": "deck-law-025",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "hard",
+    "question": "Under the ISPS Code, security exercises involving the company and ship should be carried out:",
+    "options": [
+      "Every month",
+      "Only after an incident",
+      "At least once each calendar year, with no more than 18 months between exercises",
+      "Once every five years"
+    ],
+    "correctIndex": 2,
+    "explanation": "Exercises may be full-scale, tabletop or combined with other exercises such as search and rescue."
+  },
+  {
+    "id": "deck-law-026",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "The Continuous Synopsis Record (CSR) carried on board shows:",
+    "options": [
+      "The ship's history, such as her flag, names, owners, managers and classification society",
+      "Maintenance records of the engine",
+      "The crew's sea service",
+      "The ship's cargo history"
+    ],
+    "correctIndex": 0,
+    "explanation": "It is required by SOLAS chapter XI-1 and is updated by the flag state whenever details change."
+  },
+  {
+    "id": "deck-law-027",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "A ship's IMO number:",
+    "options": [
+      "Changes each time the ship is sold",
+      "Is permanent and stays the same if she changes flag, name or owner",
+      "Is issued by the port of call",
+      "Is the same as her MMSI"
+    ],
+    "correctIndex": 1,
+    "explanation": "It is marked permanently on the hull or superstructure and inside the ship."
+  },
+  {
+    "id": "deck-law-028",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "hard",
+    "question": "Under the ISM Code, internal safety audits on board and ashore must be carried out at intervals not exceeding:",
+    "options": [
+      "5 years",
+      "30 months",
+      "1 month",
+      "12 months"
+    ],
+    "correctIndex": 3,
+    "explanation": "In exceptional circumstances the interval may be exceeded by not more than 3 months."
+  },
+  {
+    "id": "deck-law-029",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "Under the ISM Code, the master periodically:",
+    "options": [
+      "Reviews the Safety Management System and reports its deficiencies to the shore management",
+      "Audits the classification society",
+      "Issues the Document of Compliance",
+      "Approves the company's SMS manual on behalf of the flag"
+    ],
+    "correctIndex": 0,
+    "explanation": "This master's review is one of the master's ISM responsibilities, together with implementing the company's policy on board."
+  },
+  {
+    "id": "deck-law-030",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "hard",
+    "question": "An interim Safety Management Certificate may be issued to a new ship, or on change of company, and is valid for:",
+    "options": [
+      "12 months, with no extension",
+      "5 years",
+      "1 month only",
+      "Up to 6 months, which may exceptionally be extended by another 6 months"
+    ],
+    "correctIndex": 3,
+    "explanation": "An interim DOC issued to a new company is valid for up to 12 months."
+  },
+  {
+    "id": "deck-law-031",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "Under the ISM Code, a 'major non-conformity' is:",
+    "options": [
+      "A delay in a planned maintenance job only",
+      "An identifiable deviation that poses a serious threat to people or the ship, or a serious risk to the environment, requiring immediate corrective action",
+      "An observation made by the crew",
+      "Any minor error in a record"
+    ],
+    "correctIndex": 1,
+    "explanation": "A major non-conformity must be downgraded through corrective action before the ship can continue normal operations."
+  },
+  {
+    "id": "deck-law-032",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "hard",
+    "question": "Under STCW, the minimum 10 hours of rest in 24 hours may be divided into no more than two periods, one of at least:",
+    "options": [
+      "4 hours, with no limit on the interval",
+      "8 hours, with intervals up to 18 hours",
+      "6 hours, and the interval between consecutive rest periods must not exceed 14 hours",
+      "2 hours, with intervals up to 24 hours"
+    ],
+    "correctIndex": 2,
+    "explanation": "Musters and drills should be held in a way that minimises disturbance of rest periods."
+  },
+  {
+    "id": "deck-law-033",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "hard",
+    "question": "STCW requires a limit for alcohol for masters, officers and watchkeepers of not more than:",
+    "options": [
+      "No limit when off watch",
+      "0.05% blood alcohol content (BAC) or 0.25 mg/l alcohol in the breath",
+      "0.08% blood alcohol content only",
+      "0.5% blood alcohol content"
+    ],
+    "correctIndex": 1,
+    "explanation": "Many companies apply stricter policies, often zero alcohol on board."
+  },
+  {
+    "id": "deck-law-034",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "STCW certificates of competency must normally be revalidated at intervals not exceeding:",
+    "options": [
+      "Five years",
+      "Thirty months",
+      "Ten years",
+      "One year"
+    ],
+    "correctIndex": 0,
+    "explanation": "Revalidation requires continued medical fitness and proof of professional competence, such as approved sea service."
+  },
+  {
+    "id": "deck-law-035",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "hard",
+    "question": "The major revision of the STCW Convention and Code adopted in 2010 is known as the:",
+    "options": [
+      "Geneva Protocol",
+      "Hong Kong Amendments",
+      "London Amendments",
+      "Manila Amendments"
+    ],
+    "correctIndex": 3,
+    "explanation": "They entered into force in 2012, with transitional arrangements until 2017, and added items such as ECDIS and leadership training."
+  },
+  {
+    "id": "deck-law-036",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "Under the MLC, a Seafarers' Employment Agreement must be:",
+    "options": [
+      "An oral agreement only",
+      "Signed only by the master",
+      "Signed by both the seafarer and the shipowner or their representative, with a copy kept by the seafarer",
+      "Kept only at the company office"
+    ],
+    "correctIndex": 2,
+    "explanation": "It sets out wages, hours, leave, repatriation and other terms of employment."
+  },
+  {
+    "id": "deck-law-037",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "Under the MLC, the minimum age for working on board a ship is:",
+    "options": [
+      "21 years",
+      "14 years",
+      "16 years",
+      "18 years"
+    ],
+    "correctIndex": 2,
+    "explanation": "Seafarers under 18 may not do night work or work likely to harm their health or safety, except as allowed by the Convention."
+  },
+  {
+    "id": "deck-law-038",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "hard",
+    "question": "Under the MLC, the maximum continuous period a seafarer may serve on board before being entitled to repatriation is:",
+    "options": [
+      "There is no maximum",
+      "24 months",
+      "18 months",
+      "Less than 12 months"
+    ],
+    "correctIndex": 3,
+    "explanation": "The exact period is set by national law or collective agreements within this limit."
+  },
+  {
+    "id": "deck-law-039",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "A ship of 500 GT or more on international voyages must carry, under the MLC:",
+    "options": [
+      "A Maritime Labour Certificate and a Declaration of Maritime Labour Compliance",
+      "An ISSC only",
+      "A Ship Sanitation Certificate only",
+      "A Minimum Safe Manning Document only"
+    ],
+    "correctIndex": 0,
+    "explanation": "DMLC Part I is drawn up by the flag state and Part II by the shipowner."
+  },
+  {
+    "id": "deck-law-040",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "Under the MLC, seafarers must have access to:",
+    "options": [
+      "No complaint procedure while at sea",
+      "On-board complaint procedures that allow complaints to be made without fear of victimisation",
+      "Complaints through the port agent only",
+      "Only the company's lawyer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Seafarers may also complain directly to the master, to an external authority or to port state control."
+  },
+  {
+    "id": "deck-law-041",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "hard",
+    "question": "Under the MLC, the limits on hours of WORK (as an alternative to minimum rest hours) are:",
+    "options": [
+      "Not more than 16 hours in 24 and 90 hours in 7 days",
+      "Not more than 12 hours in 24 and 60 hours in 7 days",
+      "Not more than 10 hours in 24 and 77 hours in 7 days",
+      "Not more than 14 hours in any 24-hour period and 72 hours in any 7-day period"
+    ],
+    "correctIndex": 3,
+    "explanation": "Flag states set either maximum hours of work or minimum hours of rest; records must be kept on board."
+  },
+  {
+    "id": "deck-law-042",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "Under the MLC, a seafarer's medical certificate is valid for a maximum of:",
+    "options": [
+      "6 months",
+      "2 years, or 1 year for seafarers under 18",
+      "10 years",
+      "5 years for all seafarers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Colour vision certificates may be valid for up to 6 years."
+  },
+  {
+    "id": "deck-law-043",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "hard",
+    "question": "Under the 2014 amendments to the MLC, shipowners must have financial security to cover:",
+    "options": [
+      "Abandonment of seafarers and contractual claims for death or long-term disability",
+      "Port dues",
+      "Cargo damage claims",
+      "Hull repairs after collision"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ships must carry a certificate showing this financial security is in place."
+  },
+  {
+    "id": "deck-law-044",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "Under UNCLOS, the contiguous zone may extend up to:",
+    "options": [
+      "12 nautical miles",
+      "200 nautical miles",
+      "24 nautical miles from the baseline",
+      "350 nautical miles"
+    ],
+    "correctIndex": 2,
+    "explanation": "In the contiguous zone the coastal state may enforce customs, fiscal, immigration and sanitary laws."
+  },
+  {
+    "id": "deck-law-045",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "How far from the baseline may a coastal state's Exclusive Economic Zone extend under UNCLOS?",
+    "options": [
+      "24 nautical miles",
+      "12 nautical miles",
+      "500 nautical miles",
+      "200 nautical miles"
+    ],
+    "correctIndex": 3,
+    "explanation": "In the EEZ the coastal state has sovereign rights over natural resources, while other states keep freedom of navigation."
+  },
+  {
+    "id": "deck-law-046",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "Innocent passage through a territorial sea must be:",
+    "options": [
+      "Approved in advance by the coastal state's navy",
+      "Continuous and expeditious, and not prejudicial to the peace, good order or security of the coastal state",
+      "Made only in daylight",
+      "Made only by warships"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stopping and anchoring are allowed only when incidental to ordinary navigation, due to force majeure or distress, or to help others in danger."
+  },
+  {
+    "id": "deck-law-047",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "On the high seas, a ship is mainly subject to the jurisdiction of:",
+    "options": [
+      "The state of the crew's nationality",
+      "The state of the next port of call",
+      "Her flag state",
+      "The International Maritime Organization"
+    ],
+    "correctIndex": 2,
+    "explanation": "The flag state is responsible for the ship's compliance with international conventions."
+  },
+  {
+    "id": "deck-law-048",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "The Paris MoU and Tokyo MoU are:",
+    "options": [
+      "Regional agreements on port state control between maritime authorities",
+      "Ship classification societies",
+      "Insurance clubs",
+      "Tanker safety codes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Members share inspection data and target ships with higher risk profiles for inspection."
+  },
+  {
+    "id": "deck-law-049",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "A classification society mainly:",
+    "options": [
+      "Sets freight rates",
+      "Employs the ship's crew",
+      "Charters ships to cargo owners",
+      "Sets technical rules for the ship's structure and machinery and surveys ships against them"
+    ],
+    "correctIndex": 3,
+    "explanation": "Many classification societies also act as Recognised Organisations for flag states."
+  },
+  {
+    "id": "deck-law-050",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "A Recognised Organisation (RO) is:",
+    "options": [
+      "A trade union for seafarers",
+      "An insurance company for cargo",
+      "A body authorised by the flag state to carry out statutory surveys and issue certificates on its behalf",
+      "A port state control authority"
+    ],
+    "correctIndex": 2,
+    "explanation": "The RO Code sets the standards these organisations must meet."
+  },
+  {
+    "id": "deck-law-051",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "hard",
+    "question": "Under the 1989 Salvage Convention, 'special compensation' (Article 14) may be paid to a salvor who:",
+    "options": [
+      "Towed a ship under a fixed-price contract",
+      "Worked to prevent or minimise environmental damage, even if the salvage itself was unsuccessful",
+      "Saved only the crew",
+      "Rescued cargo without environmental risk"
+    ],
+    "correctIndex": 1,
+    "explanation": "This modifies the traditional 'no cure, no pay' principle to encourage salvors to deal with pollution threats."
+  },
+  {
+    "id": "deck-law-052",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "General average is:",
+    "options": [
+      "A sacrifice or expense made intentionally for the common safety, shared by all parties in the voyage",
+      "A fine paid to port authorities",
+      "Average cargo damage across all voyages",
+      "The average speed of the ship"
+    ],
+    "correctIndex": 0,
+    "explanation": "General average is usually adjusted under the York-Antwerp Rules."
+  },
+  {
+    "id": "deck-law-053",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "A P&I Club mainly insures a shipowner against:",
+    "options": [
+      "Currency changes",
+      "Loss of freight only",
+      "Third-party liabilities such as crew injury, pollution and cargo claims",
+      "Damage to the ship's hull and machinery"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hull and machinery insurance covers physical damage to the ship itself."
+  },
+  {
+    "id": "deck-law-054",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "Under a bareboat (demise) charter, the charterer:",
+    "options": [
+      "Hires only cargo space for one voyage",
+      "Pays for the ship by the day while the owner employs the crew",
+      "Buys the ship outright",
+      "Takes over the ship and is responsible for crewing, operating and maintaining her"
+    ],
+    "correctIndex": 3,
+    "explanation": "The charterer becomes the 'disponent owner' for the charter period."
+  },
+  {
+    "id": "deck-law-055",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "Demurrage is:",
+    "options": [
+      "Money paid by the charterer to the shipowner when the agreed laytime is exceeded",
+      "A port tax on cargo",
+      "Payment for a voyage",
+      "A reward for fast loading"
+    ],
+    "correctIndex": 0,
+    "explanation": "Despatch, if agreed, is paid by the owner when loading or discharging is completed in less than the laytime."
+  },
+  {
+    "id": "deck-law-056",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "The master tenders a Notice of Readiness (NOR) when:",
+    "options": [
+      "The pilot boards",
+      "The ship has arrived at the agreed place and is ready in all respects to load or discharge",
+      "Cargo operations are complete",
+      "The ship leaves the loading port"
+    ],
+    "correctIndex": 1,
+    "explanation": "Laytime usually begins to count after a valid NOR is tendered, according to the charter party."
+  },
+  {
+    "id": "deck-law-057",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "hard",
+    "question": "A master's note of protest is made in order to:",
+    "options": [
+      "Refuse a pilot",
+      "Complain about the port's food",
+      "Request extra crew",
+      "Record formally an event, such as heavy weather, that may have caused damage or loss for which the ship is not responsible"
+    ],
+    "correctIndex": 3,
+    "explanation": "It is made before a notary or consul and supports the shipowner's position in later claims."
+  },
+  {
+    "id": "deck-law-058",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "The official log book records:",
+    "options": [
+      "Events required by law, such as drills, disciplinary matters, births and deaths on board",
+      "Personal letters of the crew",
+      "Engine fuel consumption only",
+      "Only the ship's speed"
+    ],
+    "correctIndex": 0,
+    "explanation": "Its entries may be used as evidence in legal proceedings."
+  },
+  {
+    "id": "deck-law-059",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "SOLAS chapter V deals with:",
+    "options": [
+      "Life-saving appliances",
+      "Carriage of grain",
+      "Safety of navigation",
+      "Fire protection"
+    ],
+    "correctIndex": 2,
+    "explanation": "It covers matters such as navigational equipment, voyage planning, manning and bridge visibility."
+  },
+  {
+    "id": "deck-law-060",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "Life-saving appliances and arrangements are covered by SOLAS chapter:",
+    "options": [
+      "XI-2",
+      "III",
+      "VII",
+      "V"
+    ],
+    "correctIndex": 1,
+    "explanation": "Technical details are given in the LSA Code."
+  },
+  {
+    "id": "deck-law-061",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "The International Convention on Load Lines (1966) sets:",
+    "options": [
+      "Minimum freeboards for ships according to season and sea area",
+      "Container lashing standards",
+      "Maximum crew numbers",
+      "Fuel sulphur limits"
+    ],
+    "correctIndex": 0,
+    "explanation": "It also sets conditions of assignment such as watertight closures, guard rails and freeing ports."
+  },
+  {
+    "id": "deck-law-062",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "medium",
+    "question": "The Minimum Safe Manning Document is issued by:",
+    "options": [
+      "The ship's master",
+      "The port state",
+      "The manning agency",
+      "The flag state Administration"
+    ],
+    "correctIndex": 3,
+    "explanation": "It states the minimum number and grades of qualified seafarers needed to operate the ship safely."
+  },
+  {
+    "id": "deck-law-063",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "hard",
+    "question": "Under UNCLOS, piracy is defined as illegal acts of violence or detention for private ends committed:",
+    "options": [
+      "Only by warships",
+      "Only in ports",
+      "On the high seas or in a place outside the jurisdiction of any state",
+      "Only in a state's territorial sea"
+    ],
+    "correctIndex": 2,
+    "explanation": "Similar acts within a state's territorial sea are called armed robbery against ships."
+  },
+  {
+    "id": "deck-law-064",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "hard",
+    "question": "Under the ISPS Code, the Ship Security Assessment (SSA) is carried out:",
+    "options": [
+      "By port state control during inspection",
+      "Under the responsibility of the Company Security Officer, by persons with appropriate skills",
+      "Only by the flag state's navy",
+      "By the ship's cook"
+    ],
+    "correctIndex": 1,
+    "explanation": "The SSA includes an on-scene security survey and is the basis for the Ship Security Plan."
+  },
+  {
+    "id": "deck-law-065",
+    "department": "deck",
+    "category": "ism-isps-maritime-law",
+    "difficulty": "easy",
+    "question": "Under a Ship Security Plan, typical restricted areas on board include:",
+    "options": [
+      "The open main deck",
+      "The bridge, engine room and steering gear compartment",
+      "The crew mess room only",
+      "The gangway"
+    ],
+    "correctIndex": 1,
+    "explanation": "Access to restricted areas is controlled and they should be clearly marked."
   }
 ]

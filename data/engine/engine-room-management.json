@@ -223,5 +223,755 @@
     ],
     "correctIndex": 3,
     "explanation": "STCW management level means Chief and Second Engineer, with overall responsibility for the machinery."
+  },
+  {
+    "id": "engine-mgt-016",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "The engine room log book is used to record:",
+    "options": [
+      "Personal notes of the engineers",
+      "Machinery readings, operations and important events during each watch",
+      "Only the cargo plan",
+      "Only the crew's overtime"
+    ],
+    "correctIndex": 1,
+    "explanation": "It is a legal record and must be filled in accurately and on time."
+  },
+  {
+    "id": "engine-mgt-017",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "The engineer on watch should call the chief engineer without delay when:",
+    "options": [
+      "Never during the night",
+      "Machinery damage or a serious fault occurs, or they are in any doubt",
+      "Every hour as routine",
+      "Only at the end of the watch"
+    ],
+    "correctIndex": 1,
+    "explanation": "Standing orders list the situations in which the chief engineer must be informed."
+  },
+  {
+    "id": "engine-mgt-018",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "The engineer on watch must inform the bridge promptly when:",
+    "options": [
+      "The ship's stores are delivered",
+      "A routine filter is changed with no effect on operation",
+      "A machinery fault may reduce speed, cause a shutdown or affect the steering",
+      "The engineers change cabins"
+    ],
+    "correctIndex": 2,
+    "explanation": "Early warning allows the bridge to take navigational precautions."
+  },
+  {
+    "id": "engine-mgt-019",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "A fuel oil purifier separates water and solids from the oil by:",
+    "options": [
+      "Gravity in a settling tank only",
+      "Heating the oil to boiling point",
+      "Filtering through cloth",
+      "Centrifugal force in a rapidly rotating bowl"
+    ],
+    "correctIndex": 3,
+    "explanation": "The heavier water and solids are thrown outwards and discharged separately from the clean oil."
+  },
+  {
+    "id": "engine-mgt-020",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "Fuel oil settling tanks should be drained regularly to:",
+    "options": [
+      "Increase the fuel temperature",
+      "Remove water and sludge that have settled at the bottom",
+      "Check the tank vent",
+      "Add more fuel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Settling is the first stage of fuel treatment before purification."
+  },
+  {
+    "id": "engine-mgt-021",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "A permit-to-work system is typically used for:",
+    "options": [
+      "Hot work, enclosed space entry, electrical isolation and work at height",
+      "Changing a light bulb in a cabin",
+      "Reading the logbook",
+      "Taking meals"
+    ],
+    "correctIndex": 0,
+    "explanation": "Permits make sure hazards are identified, controls are in place and the work is authorised."
+  },
+  {
+    "id": "engine-mgt-022",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "A toolbox talk before a job is held to:",
+    "options": [
+      "Order spare parts",
+      "Write the logbook",
+      "Brief the team on the task, hazards, controls and each person's role",
+      "Count the tools"
+    ],
+    "correctIndex": 2,
+    "explanation": "It is a short meeting at the work site and anyone can raise concerns."
+  },
+  {
+    "id": "engine-mgt-023",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "Reporting near misses is important because:",
+    "options": [
+      "It replaces risk assessment",
+      "It is required only after injuries",
+      "It is a way to blame individuals",
+      "It helps the ship and company learn and fix hazards before an accident happens"
+    ],
+    "correctIndex": 3,
+    "explanation": "A good safety culture encourages open reporting without fear of blame."
+  },
+  {
+    "id": "engine-mgt-024",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "Records of seafarers' hours of rest are kept mainly to:",
+    "options": [
+      "Plan cargo operations",
+      "Show compliance with rest requirements and help manage fatigue",
+      "Calculate the ship's speed",
+      "Record fuel consumption"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fatigue is a major factor in accidents; port state inspectors check these records."
+  },
+  {
+    "id": "engine-mgt-025",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "A newly joined engineer should receive:",
+    "options": [
+      "No training until the next port",
+      "A watch alone on the first day without briefing",
+      "Familiarisation with the machinery, safety equipment and their emergency duties before taking on those duties",
+      "Only the crew list"
+    ],
+    "correctIndex": 2,
+    "explanation": "Familiarisation is required by STCW and the company's safety management system."
+  },
+  {
+    "id": "engine-mgt-026",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "When ordering spare parts, the engineer should give:",
+    "options": [
+      "The ship's IMO number only",
+      "The maker's part number, drawing reference and the equipment's type and serial number",
+      "Only a description such as 'small valve'",
+      "The price expected"
+    ],
+    "correctIndex": 1,
+    "explanation": "Accurate information avoids the wrong parts being delivered."
+  },
+  {
+    "id": "engine-mgt-027",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "Closed-loop communication means that:",
+    "options": [
+      "The receiver repeats the message back and the sender confirms it is correct",
+      "Radios are switched off",
+      "Messages are written down only",
+      "Only the chief engineer speaks"
+    ],
+    "correctIndex": 0,
+    "explanation": "It reduces misunderstandings, especially during manoeuvring and emergencies."
+  },
+  {
+    "id": "engine-mgt-028",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "After a major overhaul of a diesel generator, it should be:",
+    "options": [
+      "Run without lubrication for a few minutes",
+      "Put on full load immediately",
+      "Left stopped until the next port",
+      "Run in gradually, with temperatures, pressures and leaks checked before full load"
+    ],
+    "correctIndex": 3,
+    "explanation": "The maker's running-in programme should be followed."
+  },
+  {
+    "id": "engine-mgt-029",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "In an emergency, the general order of priorities is:",
+    "options": [
+      "The cargo first",
+      "The ship first, then the cargo, then the crew",
+      "The schedule first",
+      "Safety of life, then protection of the environment, then the ship and property"
+    ],
+    "correctIndex": 3,
+    "explanation": "This order guides decisions in the company's emergency procedures."
+  },
+  {
+    "id": "engine-mgt-030",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "When the bridge rings 'Finished With Engines' (FWE), it means:",
+    "options": [
+      "The ship is about to manoeuvre",
+      "The main engine is no longer required and may be shut down following the procedure",
+      "The engine must be started immediately",
+      "The engine room must be evacuated"
+    ],
+    "correctIndex": 1,
+    "explanation": "The engine room then secures the main engine and adjusts auxiliary machinery for port."
+  },
+  {
+    "id": "engine-mgt-031",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "easy",
+    "question": "In fuel reports, 'ROB' means:",
+    "options": [
+      "Received On Bunkering",
+      "Rate Of Burning",
+      "Remaining On Board",
+      "Reserve Oil Balance"
+    ],
+    "correctIndex": 2,
+    "explanation": "ROB figures for fuel, lube oil and water are reported regularly to the company."
+  },
+  {
+    "id": "engine-mgt-032",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "If the relieving engineer is clearly not fit to take over the watch, the engineer on watch should:",
+    "options": [
+      "Not hand over the watch and inform the chief engineer",
+      "Hand over and leave anyway",
+      "Ask the bridge to take over the engine room",
+      "Stay on watch without telling anyone"
+    ],
+    "correctIndex": 0,
+    "explanation": "STCW watchkeeping principles say the watch must not be handed over to someone unable to carry out their duties."
+  },
+  {
+    "id": "engine-mgt-033",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "The difference between a purifier and a clarifier is that:",
+    "options": [
+      "A purifier works without rotation",
+      "A clarifier removes only water",
+      "There is no difference",
+      "A purifier removes water and solids, while a clarifier removes mainly solids"
+    ],
+    "correctIndex": 3,
+    "explanation": "A clarifier has no water outlet, and is often used after a purifier for extra solids removal."
+  },
+  {
+    "id": "engine-mgt-034",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "The water seal in a purifier bowl is needed to:",
+    "options": [
+      "Add water to the fuel",
+      "Lubricate the bowl spindle",
+      "Form the oil/water interface and stop oil escaping through the water outlet",
+      "Cool the bowl"
+    ],
+    "correctIndex": 2,
+    "explanation": "The seal water is added each time before the oil feed starts."
+  },
+  {
+    "id": "engine-mgt-035",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Oil coming out of the purifier's water (heavy phase) outlet usually means:",
+    "options": [
+      "The fuel is too clean",
+      "The water seal has been lost or the interface is in the wrong position",
+      "The purifier is working perfectly",
+      "The sludge tank is full"
+    ],
+    "correctIndex": 1,
+    "explanation": "Possible causes include a wrong gravity disc, too high a feed temperature or too high a throughput."
+  },
+  {
+    "id": "engine-mgt-036",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Heavy fuel oil is usually heated before purification to about:",
+    "options": [
+      "98 °C",
+      "150 °C",
+      "60 °C",
+      "40 °C"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lower viscosity and a greater density difference between oil and water improve separation."
+  },
+  {
+    "id": "engine-mgt-037",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "During bunkering, the engineers should:",
+    "options": [
+      "Take tank soundings before and after, monitor rates and tank levels, and witness the drip sample",
+      "Fill all tanks to 100%",
+      "Only check the bunker delivery note at the end",
+      "Leave the operation to the barge crew"
+    ],
+    "correctIndex": 0,
+    "explanation": "Accurate measurement protects against short delivery and overflows."
+  },
+  {
+    "id": "engine-mgt-038",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Mixing a newly delivered fuel with fuel already in a tank should be avoided because:",
+    "options": [
+      "It reduces the sulphur content",
+      "It always improves the fuel quality",
+      "The two fuels may be incompatible and form sludge",
+      "It is required by MARPOL"
+    ],
+    "correctIndex": 2,
+    "explanation": "New bunkers are normally kept in separate tanks until the fuel analysis results are known."
+  },
+  {
+    "id": "engine-mgt-039",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Bunker samples are sent to a laboratory mainly to:",
+    "options": [
+      "Test the bunker barge's engines",
+      "Calculate freight",
+      "Check the ship's draught",
+      "Check that the fuel meets the ordered specification before it is used"
+    ],
+    "correctIndex": 3,
+    "explanation": "The results also help set purifier temperatures and gravity discs and identify problems such as cat fines."
+  },
+  {
+    "id": "engine-mgt-040",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "When calculating the quantity of bunkers received, measured volumes are corrected to:",
+    "options": [
+      "100 °C",
+      "A standard temperature of 15 °C using volume correction factors and the fuel density",
+      "The temperature of the engine room",
+      "The temperature of the sea"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fuel expands when hot, so uncorrected volumes give misleading quantities."
+  },
+  {
+    "id": "engine-mgt-041",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "An increase in the viscosity of main engine system oil may be caused by:",
+    "options": [
+      "Oxidation or contamination with heavy fuel oil or insoluble material",
+      "Too much clean oil being added",
+      "Lower engine load",
+      "Dilution with distillate fuel"
+    ],
+    "correctIndex": 0,
+    "explanation": "A fall in viscosity often indicates fuel dilution."
+  },
+  {
+    "id": "engine-mgt-042",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Infrared thermography is useful in the engine room for finding:",
+    "options": [
+      "The water content in fuel",
+      "The sulphur content of exhaust",
+      "Hot spots, such as loose connections in switchboards and overheating bearings",
+      "The salinity of feed water"
+    ],
+    "correctIndex": 2,
+    "explanation": "It allows inspection of live equipment without contact."
+  },
+  {
+    "id": "engine-mgt-043",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Management of change (MoC) means that before changing equipment, procedures or organisation:",
+    "options": [
+      "Only the cost is considered",
+      "Only the crew is told after the change",
+      "Changes are made immediately without records",
+      "The risks of the change are assessed and the change is approved and communicated"
+    ],
+    "correctIndex": 3,
+    "explanation": "Unplanned changes have caused many serious accidents."
+  },
+  {
+    "id": "engine-mgt-044",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Engine Room Resource Management (ERM) focuses on:",
+    "options": [
+      "Engine design calculations",
+      "Teamwork, communication, situational awareness and leadership in the engine department",
+      "Ordering resources from suppliers",
+      "Reducing crew numbers"
+    ],
+    "correctIndex": 1,
+    "explanation": "STCW includes ERM training for engineering officers."
+  },
+  {
+    "id": "engine-mgt-045",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Before the engine room is left unattended (UMS) for the night, the duty engineer should check that:",
+    "options": [
+      "All alarms are switched off",
+      "Tanks are filled, bilges are pumped, alarms and fire detection are working and standby equipment is ready",
+      "The main engine is stopped",
+      "The fire pumps are isolated"
+    ],
+    "correctIndex": 1,
+    "explanation": "Many companies use a UMS checklist that is signed in the log."
+  },
+  {
+    "id": "engine-mgt-046",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "In preparation for a dry-docking, the engine department should:",
+    "options": [
+      "Order no spare parts",
+      "Cancel all surveys",
+      "Prepare a detailed repair specification and plan the work with the shore and the shipyard",
+      "Wait until the ship is in dock to decide what to do"
+    ],
+    "correctIndex": 2,
+    "explanation": "Good planning reduces dock time and cost."
+  },
+  {
+    "id": "engine-mgt-047",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "The emergency generator is commonly tested:",
+    "options": [
+      "Only after a blackout",
+      "Only at the annual survey",
+      "Never at sea",
+      "Regularly, typically weekly, including start-up and periodic on-load tests"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tests confirm automatic starting, the changeover to the emergency switchboard and fuel supply."
+  },
+  {
+    "id": "engine-mgt-048",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "The main difference between a main engine slowdown and a shutdown is that:",
+    "options": [
+      "A slowdown reduces engine load for less serious faults, while a shutdown stops the engine for critical faults",
+      "A shutdown is only an alarm",
+      "There is no difference",
+      "A slowdown stops the engine immediately"
+    ],
+    "correctIndex": 0,
+    "explanation": "Typical shutdowns are overspeed and very low lubricating oil pressure."
+  },
+  {
+    "id": "engine-mgt-049",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Engine room ventilation is usually arranged to:",
+    "options": [
+      "Supply enough combustion and cooling air and keep the space at a slight positive pressure",
+      "Stop all air flow when engines run",
+      "Supply air only to the accommodation",
+      "Keep the engine room under strong vacuum"
+    ],
+    "correctIndex": 0,
+    "explanation": "Too little air raises engine room temperatures and affects engine performance."
+  },
+  {
+    "id": "engine-mgt-050",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Large main engine cylinder head and main bearing studs are usually tightened with:",
+    "options": [
+      "An impact wrench at any torque",
+      "Hydraulic tightening tools at the pressure stated by the maker",
+      "By hand only",
+      "A hammer and a spanner"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct stud tension prevents leaks and component failure."
+  },
+  {
+    "id": "engine-mgt-051",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "The officer in charge of an engineering watch should not be given duties that:",
+    "options": [
+      "Involve reading gauges",
+      "Are part of the watch routine",
+      "Involve logbook entries",
+      "Interfere with the supervision of the machinery on watch"
+    ],
+    "correctIndex": 3,
+    "explanation": "STCW principles require the watchkeeper to give full attention to the watch."
+  },
+  {
+    "id": "engine-mgt-052",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "medium",
+    "question": "Lubricating oil samples for laboratory analysis should be taken:",
+    "options": [
+      "From a new drum of oil",
+      "From the bottom of the sump tank when the engine is stopped",
+      "From a running system at the same sampling point each time, after flushing the sample line",
+      "From the drip tray"
+    ],
+    "correctIndex": 2,
+    "explanation": "Consistent sampling gives results that can be compared to show trends."
+  },
+  {
+    "id": "engine-mgt-053",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "hard",
+    "question": "To improve the removal of catalytic fines in a fuel purifier, the throughput should be:",
+    "options": [
+      "Varied randomly",
+      "Reduced, ideally close to the engine's actual fuel consumption",
+      "Stopped completely",
+      "Increased to the maximum rated capacity"
+    ],
+    "correctIndex": 1,
+    "explanation": "Longer residence time in the bowl gives better separation of small particles."
+  },
+  {
+    "id": "engine-mgt-054",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "hard",
+    "question": "If a purifier's gravity disc is too large in diameter for the fuel being treated:",
+    "options": [
+      "The bowl will not rotate",
+      "More water will remain in the cleaned oil but no oil is lost",
+      "The interface moves outwards and oil may escape through the water outlet",
+      "Separation improves greatly"
+    ],
+    "correctIndex": 2,
+    "explanation": "A disc that is too small moves the interface inwards and leaves water in the cleaned oil."
+  },
+  {
+    "id": "engine-mgt-055",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "hard",
+    "question": "SOLAS requires at least two fuel oil service tanks for each type of fuel, each able to supply the propulsion and generator plant for at least:",
+    "options": [
+      "8 hours at maximum continuous rating",
+      "3 days",
+      "1 hour",
+      "24 hours"
+    ],
+    "correctIndex": 0,
+    "explanation": "This allows one tank to be filled or cleaned while the other is in use."
+  },
+  {
+    "id": "engine-mgt-056",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "hard",
+    "question": "Water content in main engine system oil above about what level should be investigated?",
+    "options": [
+      "0.001%",
+      "10%",
+      "5%",
+      "0.2%"
+    ],
+    "correctIndex": 3,
+    "explanation": "Water can come from coolers, condensation or purifier faults and leads to corrosion and bearing damage."
+  },
+  {
+    "id": "engine-mgt-057",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "hard",
+    "question": "Under a Continuous Survey Machinery (CSM) scheme, the classification society:",
+    "options": [
+      "Never surveys machinery",
+      "Surveys only the main engine",
+      "Surveys all machinery only once at the end of 5 years",
+      "Surveys machinery items in rotation so that every item is examined within the 5-year cycle"
+    ],
+    "correctIndex": 3,
+    "explanation": "This spreads survey work over time and allows it to be done with routine maintenance."
+  },
+  {
+    "id": "engine-mgt-058",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "hard",
+    "question": "Under some CSM schemes, certain machinery items may be examined by the chief engineer when:",
+    "options": [
+      "The item is new",
+      "The flag state requests it by email",
+      "He is authorised by the classification society, with the survey later confirmed by a surveyor",
+      "The ship is in dry dock only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Records of the overhaul and findings must be kept for the surveyor."
+  },
+  {
+    "id": "engine-mgt-059",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "hard",
+    "question": "Main engine safety shutdowns can often be overridden from the bridge in an emergency, except for:",
+    "options": [
+      "Overspeed",
+      "High exhaust temperature",
+      "Low cooling water pressure",
+      "Oil mist slowdown"
+    ],
+    "correctIndex": 0,
+    "explanation": "Overriding a shutdown accepts the risk of engine damage to keep the ship safe; overspeed protection always remains."
+  },
+  {
+    "id": "engine-mgt-060",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "hard",
+    "question": "A main engine develops 10,000 kW with an SFOC of 175 g/kWh. Its fuel consumption per day is about:",
+    "options": [
+      "4.2 tonnes",
+      "42 tonnes",
+      "175 tonnes",
+      "17.5 tonnes"
+    ],
+    "correctIndex": 1,
+    "explanation": "10,000 kW x 175 g/kWh = 1,750 kg/h; x 24 h = 42,000 kg."
+  },
+  {
+    "id": "engine-mgt-061",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "hard",
+    "question": "The spot test (blotter test) of a fuel oil checks for:",
+    "options": [
+      "Flash point",
+      "Sulphur content",
+      "Instability or incompatibility shown by asphaltene sludge on the filter paper",
+      "Water content"
+    ],
+    "correctIndex": 2,
+    "explanation": "A uniform spot shows a stable fuel; a dark central ring shows sludge precipitation."
+  },
+  {
+    "id": "engine-mgt-062",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "hard",
+    "question": "Under STCW, management-level certificates for chief and second engineers under Regulation III/2 are required on ships with main propulsion power of:",
+    "options": [
+      "3,000 kW or more",
+      "10,000 kW or more",
+      "750 kW or more only",
+      "500 kW or more"
+    ],
+    "correctIndex": 0,
+    "explanation": "Regulation III/3 covers ships between 750 kW and 3,000 kW."
+  },
+  {
+    "id": "engine-mgt-063",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "hard",
+    "question": "A high CCAI value for a residual fuel indicates:",
+    "options": [
+      "Lower density",
+      "Poorer ignition quality, with a risk of ignition delay and rough combustion",
+      "Better ignition quality",
+      "Higher sulphur"
+    ],
+    "correctIndex": 1,
+    "explanation": "CCAI is calculated from density and viscosity; medium-speed engines are more sensitive to poor ignition quality."
+  },
+  {
+    "id": "engine-mgt-064",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "hard",
+    "question": "Under ISO 8217, the limit for total sediment (aged) in residual marine fuels is:",
+    "options": [
+      "1.0% m/m",
+      "0.50% m/m",
+      "5.0% m/m",
+      "0.10% m/m"
+    ],
+    "correctIndex": 3,
+    "explanation": "Higher sediment indicates an unstable fuel that may block filters and purifiers."
+  },
+  {
+    "id": "engine-mgt-065",
+    "department": "engine",
+    "category": "engine-room-management",
+    "difficulty": "hard",
+    "question": "In UMS operation, if a machinery alarm is not acknowledged in the engine room within a set time, the alarm system will:",
+    "options": [
+      "Extend the alarm to all engineers' cabins and public spaces",
+      "Cancel the alarm automatically",
+      "Stop the main engine at once",
+      "Switch off the fire detection"
+    ],
+    "correctIndex": 0,
+    "explanation": "The escalation makes sure someone responds if the duty engineer cannot."
   }
 ]

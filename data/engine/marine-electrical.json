@@ -223,5 +223,755 @@
     ],
     "correctIndex": 2,
     "explanation": "Frequency and kW load-sharing are controlled by the prime mover's governor. Voltage and kVAr sharing are controlled by the AVR."
+  },
+  {
+    "id": "engine-ele-016",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "In a DC circuit, electrical power is calculated as:",
+    "options": [
+      "Current divided by resistance",
+      "Resistance multiplied by time",
+      "Voltage multiplied by current (P = V x I)",
+      "Voltage divided by current"
+    ],
+    "correctIndex": 2,
+    "explanation": "Power is measured in watts; for example 24 V x 5 A = 120 W."
+  },
+  {
+    "id": "engine-ele-017",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "The unit of electrical resistance is the:",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Watt",
+      "Ohm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Resistance opposes current flow; one ohm passes one ampere when one volt is applied."
+  },
+  {
+    "id": "engine-ele-018",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "A fuse protects a circuit by:",
+    "options": [
+      "Storing energy",
+      "Raising the voltage",
+      "Melting and breaking the circuit when the current is too high",
+      "Changing AC into DC"
+    ],
+    "correctIndex": 2,
+    "explanation": "A blown fuse must be replaced with one of the correct rating, never a higher one or a wire link."
+  },
+  {
+    "id": "engine-ele-019",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "Compared with a fuse, a circuit breaker:",
+    "options": [
+      "Cannot protect against short circuits",
+      "Works only on DC",
+      "Must be replaced after every trip",
+      "Can be reset after it trips, once the fault is cleared"
+    ],
+    "correctIndex": 3,
+    "explanation": "Circuit breakers can also give adjustable protection settings."
+  },
+  {
+    "id": "engine-ele-020",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "To measure current in a circuit, an ammeter is connected:",
+    "options": [
+      "Between the circuit and earth",
+      "In parallel with the load",
+      "In series with the load",
+      "Across the supply terminals with no load"
+    ],
+    "correctIndex": 2,
+    "explanation": "A voltmeter is connected in parallel across the component being measured."
+  },
+  {
+    "id": "engine-ele-021",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "A continuity or resistance test with a multimeter must be done:",
+    "options": [
+      "Only with the motor running",
+      "Only on a circuit that is isolated and proved dead",
+      "With the fuse removed from the meter",
+      "On a live circuit to get accurate readings"
+    ],
+    "correctIndex": 1,
+    "explanation": "Applying a resistance range to a live circuit can damage the meter and endanger the user."
+  },
+  {
+    "id": "engine-ele-022",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "A frequency of 60 Hz means the AC supply completes:",
+    "options": [
+      "60 cycles per minute",
+      "60 revolutions per hour",
+      "60 volts per second",
+      "60 cycles per second"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ships use 50 or 60 Hz; equipment must match the supply frequency."
+  },
+  {
+    "id": "engine-ele-023",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "The direction of rotation of a three-phase induction motor can be reversed by:",
+    "options": [
+      "Swapping any two of the three supply lines",
+      "Swapping all three supply lines",
+      "Reducing the voltage",
+      "Reversing the earth connection"
+    ],
+    "correctIndex": 0,
+    "explanation": "This reverses the direction of the rotating magnetic field."
+  },
+  {
+    "id": "engine-ele-024",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "A transformer can be used to change voltage only on:",
+    "options": [
+      "Any supply without restriction",
+      "Direct current (DC) supplies",
+      "Alternating current (AC) supplies",
+      "Battery circuits"
+    ],
+    "correctIndex": 2,
+    "explanation": "A transformer depends on a changing magnetic flux, which steady DC does not produce."
+  },
+  {
+    "id": "engine-ele-025",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "On many ships, lighting and small power circuits are supplied at 220 V through:",
+    "options": [
+      "Batteries only",
+      "The emergency generator only",
+      "Step-down transformers from the 440 V main supply",
+      "A step-up transformer"
+    ],
+    "correctIndex": 2,
+    "explanation": "Separate transformer supplies also help isolate earth faults on lighting circuits."
+  },
+  {
+    "id": "engine-ele-026",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "Before electrical maintenance on a motor, the supply should be:",
+    "options": [
+      "Isolated, locked off and tagged, under a permit to work",
+      "Left on so the motor can be tested",
+      "Switched off at the local push-button only",
+      "Isolated only if the motor is running"
+    ],
+    "correctIndex": 0,
+    "explanation": "The circuit must then be proved dead before work starts."
+  },
+  {
+    "id": "engine-ele-027",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "If someone is receiving an electric shock, the first action is to:",
+    "options": [
+      "Wait for the breaker to trip",
+      "Switch off the supply, or separate the casualty using insulating material, before touching them",
+      "Grab the casualty with bare hands",
+      "Pour water on the casualty"
+    ],
+    "correctIndex": 1,
+    "explanation": "Then check breathing and start CPR if needed, and call for medical help."
+  },
+  {
+    "id": "engine-ele-028",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "A diode allows current to flow:",
+    "options": [
+      "In both directions equally",
+      "Only in DC motors",
+      "Only when it is cold",
+      "In one direction only"
+    ],
+    "correctIndex": 3,
+    "explanation": "Diodes are used in rectifiers, alternator excitation systems and protection circuits."
+  },
+  {
+    "id": "engine-ele-029",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "A rectifier converts:",
+    "options": [
+      "Frequency into voltage",
+      "AC into DC",
+      "High voltage into low voltage AC",
+      "DC into AC"
+    ],
+    "correctIndex": 1,
+    "explanation": "Battery chargers and many electronic supplies use rectifiers."
+  },
+  {
+    "id": "engine-ele-030",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "An insulation resistance tester reading of zero between a motor winding and earth indicates:",
+    "options": [
+      "An earth fault in the winding or cable",
+      "A disconnected motor",
+      "Perfect insulation",
+      "Normal operation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Good insulation gives a high reading, usually several megohms."
+  },
+  {
+    "id": "engine-ele-031",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "easy",
+    "question": "In a power management system, a standby generator is usually started automatically when:",
+    "options": [
+      "The engine room temperature falls",
+      "The bridge requests it by telephone only",
+      "The ship arrives in port",
+      "The running generators are heavily loaded or one of them fails"
+    ],
+    "correctIndex": 3,
+    "explanation": "The PMS starts, synchronises and loads the standby set, and may shed non-essential loads."
+  },
+  {
+    "id": "engine-ele-032",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "Before connecting shore power, the ship's staff must check that:",
+    "options": [
+      "The shore cable is as long as possible",
+      "The ship's generators are still connected in parallel with shore",
+      "The shore supply voltage, frequency and phase sequence match the ship's system",
+      "Only the voltage is correct"
+    ],
+    "correctIndex": 2,
+    "explanation": "An interlock normally prevents shore power from being connected in parallel with the ship's generators."
+  },
+  {
+    "id": "engine-ele-033",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "The emergency switchboard is normally located:",
+    "options": [
+      "In the cargo hold",
+      "Near the emergency generator, above the uppermost continuous deck and outside the machinery spaces",
+      "Next to the main switchboard in the engine room",
+      "In the double bottom"
+    ],
+    "correctIndex": 1,
+    "explanation": "This keeps emergency power available if the main machinery spaces are lost to fire or flooding."
+  },
+  {
+    "id": "engine-ele-034",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "As a general guide, the insulation resistance of a 440 V motor should be at least:",
+    "options": [
+      "1 ohm",
+      "1 kilohm",
+      "100 ohms",
+      "1 megohm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Values should be compared with previous readings; a falling trend shows deteriorating insulation."
+  },
+  {
+    "id": "engine-ele-035",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "For testing the insulation of 440 V equipment, an insulation tester is normally set to:",
+    "options": [
+      "6,600 V DC",
+      "24 V AC",
+      "500 V DC",
+      "50 V AC"
+    ],
+    "correctIndex": 2,
+    "explanation": "Electronic equipment that could be damaged by the test voltage must be disconnected first."
+  },
+  {
+    "id": "engine-ele-036",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "Insulation resistance readings tend to fall when:",
+    "options": [
+      "The windings are hot or damp",
+      "The windings are clean and dry",
+      "The supply frequency rises",
+      "The motor is new"
+    ],
+    "correctIndex": 0,
+    "explanation": "Readings should be corrected to a standard temperature to compare them fairly."
+  },
+  {
+    "id": "engine-ele-037",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "The slip of an induction motor is:",
+    "options": [
+      "The voltage drop in the cable",
+      "The power factor",
+      "The difference between synchronous speed and rotor speed, usually given as a percentage",
+      "The movement of the motor on its bed"
+    ],
+    "correctIndex": 2,
+    "explanation": "The rotor must run slower than the rotating field so that current is induced in it."
+  },
+  {
+    "id": "engine-ele-038",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "The synchronous speed of a 4-pole induction motor on a 60 Hz supply is:",
+    "options": [
+      "1,800 rpm",
+      "3,600 rpm",
+      "1,500 rpm",
+      "900 rpm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Synchronous speed = 120 x f / poles = 120 x 60 / 4 = 1,800 rpm."
+  },
+  {
+    "id": "engine-ele-039",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "'Single phasing' of a running three-phase motor means:",
+    "options": [
+      "The motor runs on a single-phase supply by design",
+      "One supply phase has been lost, so the motor overheats and may stall",
+      "The motor runs faster",
+      "All three phases are balanced"
+    ],
+    "correctIndex": 1,
+    "explanation": "Overload and phase-failure protection should trip the motor before the windings burn out."
+  },
+  {
+    "id": "engine-ele-040",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "Power factor is the ratio of:",
+    "options": [
+      "Frequency to speed",
+      "Voltage to current",
+      "kVA to kW",
+      "True power (kW) to apparent power (kVA)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Inductive loads such as motors lower the power factor."
+  },
+  {
+    "id": "engine-ele-041",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "A low power factor on the ship's supply means that:",
+    "options": [
+      "The voltage always rises",
+      "More current is needed to deliver the same true power, increasing losses and loading the generators",
+      "Less current flows for the same load",
+      "The frequency falls"
+    ],
+    "correctIndex": 1,
+    "explanation": "Generators are rated in kVA, so a low power factor limits the useful kW they can supply."
+  },
+  {
+    "id": "engine-ele-042",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "The undervoltage release on a generator circuit breaker:",
+    "options": [
+      "Trips the breaker if the voltage collapses and prevents closing until the generator voltage has built up",
+      "Raises the generator voltage",
+      "Measures the power factor",
+      "Controls the engine speed"
+    ],
+    "correctIndex": 0,
+    "explanation": "It stops a dead or failing generator being connected to the busbar."
+  },
+  {
+    "id": "engine-ele-043",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "hard",
+    "question": "During manual synchronising, the incoming generator's breaker is usually closed when the synchroscope pointer is:",
+    "options": [
+      "Stopped at the 6 o'clock position",
+      "Spinning rapidly in the 'slow' direction",
+      "Moving slowly in the 'fast' direction, just before the 12 o'clock position",
+      "Moving quickly in either direction"
+    ],
+    "correctIndex": 2,
+    "explanation": "A slightly faster incoming machine picks up a little load at once instead of being motored."
+  },
+  {
+    "id": "engine-ele-044",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "After a generator has been synchronised and connected, load is transferred to it by:",
+    "options": [
+      "Increasing its excitation only",
+      "Opening the other generator's breaker immediately",
+      "Changing the busbar frequency to 50 Hz",
+      "Adjusting the governors to increase its fuel and reduce that of the other set"
+    ],
+    "correctIndex": 3,
+    "explanation": "kW load sharing depends on the prime mover; reactive load sharing depends on excitation."
+  },
+  {
+    "id": "engine-ele-045",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "A shaft generator driven by the main engine usually needs a frequency converter because:",
+    "options": [
+      "Its output frequency changes with main engine speed",
+      "Its voltage is too low for any use",
+      "It produces DC only",
+      "It runs at a fixed speed always"
+    ],
+    "correctIndex": 0,
+    "explanation": "With a converter, the shaft generator can supply the ship's network across a range of engine speeds."
+  },
+  {
+    "id": "engine-ele-046",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "The specific gravity of the electrolyte in a fully charged lead-acid cell is about:",
+    "options": [
+      "1.00",
+      "1.26 to 1.28",
+      "1.10",
+      "1.50"
+    ],
+    "correctIndex": 1,
+    "explanation": "Specific gravity falls as the cell discharges, so a hydrometer shows the state of charge."
+  },
+  {
+    "id": "engine-ele-047",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "The electrolyte in a nickel-cadmium battery is:",
+    "options": [
+      "Sodium chloride solution",
+      "Dilute sulphuric acid",
+      "Distilled water only",
+      "Potassium hydroxide solution, so tools and hydrometers used on lead-acid batteries must not be shared"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mixing the two electrolytes damages both types of battery."
+  },
+  {
+    "id": "engine-ele-048",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "High-voltage systems on ships commonly operate at:",
+    "options": [
+      "110 kV",
+      "24 V",
+      "6.6 kV or 11 kV",
+      "440 V"
+    ],
+    "correctIndex": 2,
+    "explanation": "High voltage reduces current, cable size and fault levels on ships with large electrical loads."
+  },
+  {
+    "id": "engine-ele-049",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "Electrical equipment marked 'Ex' is designed for use in:",
+    "options": [
+      "Wet areas only",
+      "Hazardous areas where flammable gas or vapour may be present",
+      "The accommodation",
+      "Refrigerated spaces"
+    ],
+    "correctIndex": 1,
+    "explanation": "Types include flameproof (Ex d) and intrinsically safe (Ex i) equipment."
+  },
+  {
+    "id": "engine-ele-050",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "In an IP rating such as IP56, the second digit indicates protection against:",
+    "options": [
+      "Water",
+      "Electric shock",
+      "Fire",
+      "Dust and solid objects"
+    ],
+    "correctIndex": 0,
+    "explanation": "The first digit shows protection against solid objects and dust."
+  },
+  {
+    "id": "engine-ele-051",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "Impressed current cathodic protection (ICCP) protects the hull by:",
+    "options": [
+      "Heating the hull plates",
+      "Earthing the hull to the main switchboard neutral",
+      "Painting the hull with zinc",
+      "Passing a controlled DC current from anodes through the sea water to the hull"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sacrificial anodes of zinc or aluminium give a similar protection without a power supply."
+  },
+  {
+    "id": "engine-ele-052",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "A variable frequency drive (VFD) controls the speed of an induction motor by:",
+    "options": [
+      "Changing the number of poles",
+      "Reversing two phases",
+      "Changing the frequency, and voltage, of the supply to the motor",
+      "Adding resistance to the rotor"
+    ],
+    "correctIndex": 2,
+    "explanation": "VFDs save energy on pumps and fans and reduce starting currents."
+  },
+  {
+    "id": "engine-ele-053",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "medium",
+    "question": "Before working on equipment containing capacitors, you should:",
+    "options": [
+      "Charge the capacitors fully",
+      "Remove only the fuses",
+      "Make sure the capacitors have been safely discharged",
+      "Work quickly while the supply is on"
+    ],
+    "correctIndex": 2,
+    "explanation": "Capacitors can hold a dangerous charge after the supply is disconnected."
+  },
+  {
+    "id": "engine-ele-054",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "hard",
+    "question": "Under SOLAS, where a transitional source of emergency power is required, it must supply its loads for:",
+    "options": [
+      "30 minutes",
+      "36 hours",
+      "5 minutes",
+      "18 hours"
+    ],
+    "correctIndex": 0,
+    "explanation": "It bridges the gap until the emergency generator is running and connected."
+  },
+  {
+    "id": "engine-ele-055",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "hard",
+    "question": "On a cargo ship, the emergency source of electrical power must be able to supply its essential services for:",
+    "options": [
+      "36 hours",
+      "18 hours",
+      "1 hour",
+      "3 hours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Passenger ships require 36 hours."
+  },
+  {
+    "id": "engine-ele-056",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "hard",
+    "question": "When two alternators run in parallel, kW load sharing is controlled by the governors, while reactive (kVAr) load sharing is controlled by:",
+    "options": [
+      "The reverse power relays",
+      "The preferential trips",
+      "The busbar frequency",
+      "The excitation, through the automatic voltage regulators"
+    ],
+    "correctIndex": 3,
+    "explanation": "Unequal excitation causes a circulating reactive current between the machines."
+  },
+  {
+    "id": "engine-ele-057",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "hard",
+    "question": "A 440 V three-phase motor draws 100 A at a power factor of 0.8. Its input power is about:",
+    "options": [
+      "61 kW",
+      "76 kW",
+      "35 kW",
+      "44 kW"
+    ],
+    "correctIndex": 0,
+    "explanation": "P = √3 x V x I x pf = 1.732 x 440 x 100 x 0.8 ≈ 61,000 W."
+  },
+  {
+    "id": "engine-ele-058",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "hard",
+    "question": "Ship high-voltage systems are commonly earthed through:",
+    "options": [
+      "A fuse in the neutral",
+      "A solid copper bar with no resistance",
+      "A neutral earthing resistor, which limits the earth fault current",
+      "The ship's sacrificial anodes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Limiting fault current reduces damage, while protection can still detect and clear the fault."
+  },
+  {
+    "id": "engine-ele-059",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "hard",
+    "question": "Residual current devices (RCDs) used to protect people typically trip at a leakage current of about:",
+    "options": [
+      "3 A",
+      "300 A",
+      "1 mA",
+      "30 mA"
+    ],
+    "correctIndex": 3,
+    "explanation": "Currents of a few tens of milliamps through the body can cause ventricular fibrillation."
+  },
+  {
+    "id": "engine-ele-060",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "hard",
+    "question": "In a brushless alternator, the main field current is supplied by:",
+    "options": [
+      "Carbon brushes and slip rings",
+      "An AC exciter on the shaft whose output is rectified by rotating diodes",
+      "The ship's batteries",
+      "A separate DC generator in the switchboard"
+    ],
+    "correctIndex": 1,
+    "explanation": "Removing brushes and slip rings reduces maintenance; a failed rotating diode affects excitation."
+  },
+  {
+    "id": "engine-ele-061",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "hard",
+    "question": "A self-excited alternator that fails to build up voltage after a long idle period may have lost its:",
+    "options": [
+      "Residual magnetism, which can be restored by 'flashing' the field with a DC source",
+      "Synchroscope",
+      "Cooling water",
+      "Earth connection"
+    ],
+    "correctIndex": 0,
+    "explanation": "Voltage build-up starts from the small voltage produced by residual magnetism in the rotor."
+  },
+  {
+    "id": "engine-ele-062",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "hard",
+    "question": "SOLAS requires steering gear motor circuits to have:",
+    "options": [
+      "An earth fault trip only",
+      "Short-circuit protection and an overload alarm, but no overload trip",
+      "An overload trip that stops the motor at 100% load",
+      "No protection at all"
+    ],
+    "correctIndex": 1,
+    "explanation": "Steering must not be lost because of an overload; the alarm warns the engineers instead."
+  },
+  {
+    "id": "engine-ele-063",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "hard",
+    "question": "Large numbers of variable frequency drives on board can cause:",
+    "options": [
+      "Loss of insulation in all cables",
+      "A permanent rise in supply frequency",
+      "Harmonic distortion of the supply, leading to extra heating and interference with other equipment",
+      "Improved generator efficiency with no side effects"
+    ],
+    "correctIndex": 2,
+    "explanation": "Filters, multi-pulse drives or active front ends are used to reduce harmonics."
+  },
+  {
+    "id": "engine-ele-064",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "hard",
+    "question": "On an insulated neutral system that already has one earth fault, the main danger is:",
+    "options": [
+      "The frequency rising",
+      "Batteries overcharging",
+      "Generators going out of synchronism",
+      "A second earth fault on another phase, causing a phase-to-phase short circuit"
+    ],
+    "correctIndex": 3,
+    "explanation": "The first earth fault should be located and cleared as soon as possible."
+  },
+  {
+    "id": "engine-ele-065",
+    "department": "engine",
+    "category": "marine-electrical",
+    "difficulty": "hard",
+    "question": "SOLAS requires the emergency generator to be capable of being started readily in a cold condition down to a temperature of:",
+    "options": [
+      "10 °C",
+      "0 °C",
+      "-30 °C",
+      "25 °C"
+    ],
+    "correctIndex": 1,
+    "explanation": "If this cannot be ensured, heating arrangements must be provided."
   }
 ]

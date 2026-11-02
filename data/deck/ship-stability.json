@@ -238,5 +238,740 @@
     ],
     "correctIndex": 0,
     "explanation": "The buoyancy force acts vertically upwards through B. B moves as the ship heels or changes draught."
+  },
+  {
+    "id": "deck-stb-017",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "A ship's displacement is:",
+    "options": [
+      "The mass of cargo on board",
+      "Her total mass, equal to the mass of water she displaces",
+      "The mass of the empty ship only",
+      "The volume of the cargo holds"
+    ],
+    "correctIndex": 1,
+    "explanation": "By Archimedes' principle a floating ship displaces her own mass of water."
+  },
+  {
+    "id": "deck-stb-018",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "Lightweight (lightship displacement) is the mass of the ship:",
+    "options": [
+      "Fully loaded to her summer marks",
+      "Complete and ready for sea, but without cargo, fuel, water, stores, crew and their effects",
+      "Including ballast water",
+      "With cargo but without fuel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lightweight is found from the inclining experiment and changes only when the ship's structure or fixed equipment changes."
+  },
+  {
+    "id": "deck-stb-019",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "Deadweight is:",
+    "options": [
+      "The volume of the ship below the main deck",
+      "The difference between the loaded displacement and the lightweight",
+      "The mass of the hull steel",
+      "The mass of ballast only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Deadweight covers cargo, fuel, fresh water, ballast, stores, crew and effects."
+  },
+  {
+    "id": "deck-stb-020",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "A ship with a small GM is described as 'tender'. She will:",
+    "options": [
+      "Roll quickly and violently",
+      "Always lie at an angle of loll",
+      "Never roll",
+      "Roll slowly and easily, with a long rolling period"
+    ],
+    "correctIndex": 3,
+    "explanation": "A tender ship is comfortable but has less margin against capsizing; a stiff ship has a large GM and a short, jerky roll."
+  },
+  {
+    "id": "deck-stb-021",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "KM is:",
+    "options": [
+      "The moment to change trim",
+      "The height of the centre of gravity above the keel",
+      "The height of the metacentre above the keel, read from hydrostatic data for the ship's draught",
+      "The distance from the keel to the waterline"
+    ],
+    "correctIndex": 2,
+    "explanation": "GM is found by subtracting KG from KM."
+  },
+  {
+    "id": "deck-stb-022",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "Freeboard is the vertical distance from the waterline to the:",
+    "options": [
+      "Top of the hatch coaming",
+      "Bottom of the keel",
+      "Top of the mast",
+      "Upper edge of the deck line at the side, amidships"
+    ],
+    "correctIndex": 3,
+    "explanation": "Minimum freeboards are set by the Load Line Convention and shown by the load line marks."
+  },
+  {
+    "id": "deck-stb-023",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "On a load line mark, 'TF' stands for:",
+    "options": [
+      "Tropical Fresh water load line",
+      "Total Freeboard",
+      "Tropical Fuel line",
+      "Timber Freeboard"
+    ],
+    "correctIndex": 0,
+    "explanation": "TF is the highest line on the mark; a ship loaded to TF in fresh water rises to the T line in sea water."
+  },
+  {
+    "id": "deck-stb-024",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "Reserve buoyancy is:",
+    "options": [
+      "The volume of the double bottom tanks",
+      "The volume of the enclosed watertight hull above the waterline",
+      "The volume of the underwater hull",
+      "The buoyancy given by lifejackets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reserve buoyancy helps a ship stay afloat after damage and rise to waves; freeboard rules preserve it."
+  },
+  {
+    "id": "deck-stb-025",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "The difference between heel and list is that:",
+    "options": [
+      "Heel is caused by external forces such as wind and waves, list by internal causes such as off-centre weights",
+      "Heel is permanent and list is temporary",
+      "They are the same thing",
+      "List happens only in port"
+    ],
+    "correctIndex": 0,
+    "explanation": "A list remains until the internal cause is corrected; heel disappears when the external force is removed."
+  },
+  {
+    "id": "deck-stb-026",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "Loading a weight low in the ship, below the existing centre of gravity, will:",
+    "options": [
+      "Raise G and reduce GM",
+      "Have no effect on GM",
+      "Lower G and increase GM",
+      "Always cause an angle of loll"
+    ],
+    "correctIndex": 2,
+    "explanation": "G moves towards the centre of gravity of the added weight."
+  },
+  {
+    "id": "deck-stb-027",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "A ship is 'hogging' when:",
+    "options": [
+      "She is listed to port",
+      "She is trimmed by the head",
+      "Her midships section sags lower than her ends",
+      "Her midships section is higher than her ends, with buoyancy concentrated amidships"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hogging occurs with heavy weights at the ends or a wave crest amidships; the deck is in tension."
+  },
+  {
+    "id": "deck-stb-028",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "A shipboard loading computer (loadicator) is used to:",
+    "options": [
+      "Record cargo documents for customs",
+      "Calculate stability, shear forces and bending moments for a planned loading condition",
+      "Measure tank soundings",
+      "Control the ballast pumps automatically"
+    ],
+    "correctIndex": 1,
+    "explanation": "The approved loading instrument must be checked regularly against the test conditions in the stability booklet."
+  },
+  {
+    "id": "deck-stb-029",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "Hydrostatic tables or curves give, for each draught:",
+    "options": [
+      "The ship's position and course",
+      "Engine fuel consumption",
+      "Values such as displacement, TPC, MCTC, KM and LCF",
+      "Cargo stowage factors"
+    ],
+    "correctIndex": 2,
+    "explanation": "They are calculated for the ship's hull form, usually for even-keel conditions in sea water."
+  },
+  {
+    "id": "deck-stb-030",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "Metric draught marks are numerals:",
+    "options": [
+      "Engraved only on the rudder",
+      "5 cm high, painted only amidships",
+      "1 m high, with the top of each numeral at the draught",
+      "10 cm high, with the bottom of each numeral at the draught it indicates"
+    ],
+    "correctIndex": 3,
+    "explanation": "Reading the waterline against the numerals gives the draught to the nearest few centimetres."
+  },
+  {
+    "id": "deck-stb-031",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "KM 7.80 m, solid KG 7.10 m and free surface correction 0.15 m. What is the fluid GM?",
+    "options": [
+      "0.55 m",
+      "0.40 m",
+      "0.70 m",
+      "0.85 m"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fluid KG = 7.10 + 0.15 = 7.25 m, so GM = 7.80 - 7.25 = 0.55 m."
+  },
+  {
+    "id": "deck-stb-032",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "A slack rectangular tank is divided by a centreline longitudinal bulkhead into two equal tanks. The free surface effect becomes:",
+    "options": [
+      "Twice the original",
+      "One quarter of the original",
+      "Unchanged",
+      "One half of the original"
+    ],
+    "correctIndex": 1,
+    "explanation": "The free surface moment depends on the cube of the tank breadth: 2 x (b/2)³ = b³/4."
+  },
+  {
+    "id": "deck-stb-033",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "The free surface moment of a slack rectangular tank depends mainly on:",
+    "options": [
+      "The tank's depth only",
+      "The tank's length, the cube of its breadth and the density of the liquid",
+      "The amount of liquid in the tank",
+      "The height of the tank above the keel"
+    ],
+    "correctIndex": 1,
+    "explanation": "As long as the tank is slack, the effect does not depend on how much liquid it contains or where it is vertically."
+  },
+  {
+    "id": "deck-stb-034",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "In a ship of 10,000 t displacement, a 50 t weight is lifted from the tank top to a deck 10 m higher. KG rises by:",
+    "options": [
+      "0.05 m",
+      "0.50 m",
+      "5.0 m",
+      "0.005 m"
+    ],
+    "correctIndex": 0,
+    "explanation": "GG1 = w x d / W = 50 x 10 / 10,000 = 0.05 m."
+  },
+  {
+    "id": "deck-stb-035",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "A ship of 9,000 t has GM 0.90 m. A 30 t weight is moved 12 m to starboard. The resulting list is about:",
+    "options": [
+      "5.2° to port",
+      "4.0° to starboard",
+      "2.5° to starboard",
+      "1.5° to starboard"
+    ],
+    "correctIndex": 2,
+    "explanation": "GG1 = 30 x 12 / 9,000 = 0.04 m; tan(list) = 0.04 / 0.90 = 0.044, giving about 2.5°."
+  },
+  {
+    "id": "deck-stb-036",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "When a weight is lifted off the deck by the ship's own derrick, its centre of gravity acts:",
+    "options": [
+      "At its original position on deck",
+      "At the keel",
+      "At the ship's centreline",
+      "At the derrick head, the point of suspension, as soon as it is lifted"
+    ],
+    "correctIndex": 3,
+    "explanation": "This raises G at once, so lifting heavy weights with the ship's gear must be checked for list and stability."
+  },
+  {
+    "id": "deck-stb-037",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "As GM increases, the ship's natural rolling period:",
+    "options": [
+      "Decreases",
+      "Stays the same",
+      "Becomes infinite",
+      "Increases"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rolling period is roughly proportional to the radius of gyration divided by the square root of GM."
+  },
+  {
+    "id": "deck-stb-038",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "An inclining experiment is carried out mainly to find:",
+    "options": [
+      "The strength of the hull",
+      "The maximum speed",
+      "The lightship displacement and the height of the centre of gravity (KG)",
+      "The fuel consumption"
+    ],
+    "correctIndex": 2,
+    "explanation": "It is done on completion of a new ship and after major alterations, and the results go into the stability booklet."
+  },
+  {
+    "id": "deck-stb-039",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "During an inclining experiment, which condition is important for accurate results?",
+    "options": [
+      "Cargo operations continuing",
+      "All tanks half full",
+      "Strong wind on the beam to start the heel",
+      "Moorings slack, tanks empty or pressed full, and as few people and loose weights on board as possible"
+    ],
+    "correctIndex": 3,
+    "explanation": "Free surfaces, tight mooring lines, wind or moving people would all distort the measured angle of heel."
+  },
+  {
+    "id": "deck-stb-040",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "In an inclining experiment, 20 t is moved 15 m across a ship of 5,000 t, and the pendulums show tan(heel) = 0.05. What is GM?",
+    "options": [
+      "0.06 m",
+      "1.2 m",
+      "2.4 m",
+      "0.6 m"
+    ],
+    "correctIndex": 1,
+    "explanation": "GM = w x d / (W x tan θ) = 20 x 15 / (5,000 x 0.05) = 300 / 250 = 1.2 m."
+  },
+  {
+    "id": "deck-stb-041",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "The range of stability is:",
+    "options": [
+      "The difference between summer and winter draughts",
+      "The distance from G to M",
+      "The range of heel angles over which the righting lever GZ is positive",
+      "The angle at which the deck edge immerses"
+    ],
+    "correctIndex": 2,
+    "explanation": "Beyond the angle of vanishing stability the ship will capsize."
+  },
+  {
+    "id": "deck-stb-042",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "The angle of vanishing stability is:",
+    "options": [
+      "The angle of heel at which the righting lever GZ returns to zero",
+      "The angle at which GZ is greatest",
+      "The angle of loll",
+      "The angle at which the bilge keel leaves the water"
+    ],
+    "correctIndex": 0,
+    "explanation": "Heeled beyond this angle, the ship has a capsizing lever instead of a righting lever."
+  },
+  {
+    "id": "deck-stb-043",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "On a GZ curve, the point of inflection (where the curve changes from concave up to concave down) usually indicates the approximate angle of:",
+    "options": [
+      "Vanishing stability",
+      "Maximum GZ",
+      "Loll",
+      "Deck edge immersion"
+    ],
+    "correctIndex": 3,
+    "explanation": "As the deck edge immerses, the waterplane stops growing and the rate of increase of GZ begins to fall."
+  },
+  {
+    "id": "deck-stb-044",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "Under the IMO Intact Stability Code general criteria, the area under the GZ curve up to 30° must not be less than:",
+    "options": [
+      "0.150 metre-radians",
+      "0.055 metre-radians",
+      "0.090 metre-radians",
+      "0.030 metre-radians"
+    ],
+    "correctIndex": 1,
+    "explanation": "Other criteria: 0.090 m-rad up to 40° (or the flooding angle), 0.030 m-rad between 30° and 40°."
+  },
+  {
+    "id": "deck-stb-045",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "The IS Code general criteria require the righting lever GZ to be at least 0.20 m at an angle of heel equal to or greater than:",
+    "options": [
+      "10°",
+      "15°",
+      "60°",
+      "30°"
+    ],
+    "correctIndex": 3,
+    "explanation": "The maximum GZ should also occur at an angle preferably exceeding 30° and not less than 25°."
+  },
+  {
+    "id": "deck-stb-046",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "Dynamical stability at a given angle of heel is:",
+    "options": [
+      "The GZ value at that angle",
+      "The rolling period",
+      "The work needed to heel the ship to that angle, equal to displacement x area under the GZ curve",
+      "The ship's speed in waves"
+    ],
+    "correctIndex": 2,
+    "explanation": "It shows the ship's ability to resist heeling energy from wind gusts or waves."
+  },
+  {
+    "id": "deck-stb-047",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "The metacentric radius BM is equal to:",
+    "options": [
+      "The second moment of the waterplane area about the centreline divided by the underwater volume (I / V)",
+      "KM minus KG",
+      "Displacement multiplied by GM",
+      "The ship's beam divided by her draught"
+    ],
+    "correctIndex": 0,
+    "explanation": "Because I depends on the cube of the breadth, a wider ship has a much larger BM."
+  },
+  {
+    "id": "deck-stb-048",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "A 100 t weight is moved 40 m aft in a ship with MCTC 200 t-m/cm. The change of trim is:",
+    "options": [
+      "20 cm by the head",
+      "20 cm by the stern",
+      "2 cm by the stern",
+      "40 cm by the stern"
+    ],
+    "correctIndex": 1,
+    "explanation": "Change of trim = trimming moment / MCTC = 100 x 40 / 200 = 20 cm, towards the stern since the weight moved aft."
+  },
+  {
+    "id": "deck-stb-049",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "Loading a weight vertically above the centre of flotation causes:",
+    "options": [
+      "A large change of trim by the head",
+      "A list to port",
+      "Parallel sinkage with no change of trim",
+      "No change of draught"
+    ],
+    "correctIndex": 2,
+    "explanation": "The ship trims about the centre of flotation, so a weight added there produces no trimming moment."
+  },
+  {
+    "id": "deck-stb-050",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "A ship with TPC 25 loads 300 t. Her bodily sinkage is:",
+    "options": [
+      "7.5 cm",
+      "120 cm",
+      "25 cm",
+      "12 cm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sinkage = weight / TPC = 300 / 25 = 12 cm."
+  },
+  {
+    "id": "deck-stb-051",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "When a ship moves from sea water into fresh water without any change in her mass, her draught:",
+    "options": [
+      "Increases only at the bow",
+      "Increases",
+      "Decreases",
+      "Stays the same"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fresh water is less dense, so a larger volume must be displaced to support the same mass."
+  },
+  {
+    "id": "deck-stb-052",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "A ship's FWA is 200 mm. She is loading in dock water of density 1.010 t/m³. Her dock water allowance is:",
+    "options": [
+      "120 mm",
+      "80 mm",
+      "200 mm",
+      "150 mm"
+    ],
+    "correctIndex": 0,
+    "explanation": "DWA = FWA x (1025 - 1010) / 25 = 200 x 15 / 25 = 120 mm."
+  },
+  {
+    "id": "deck-stb-053",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "A ship has a summer displacement of 20,000 t and TPC 25. Her fresh water allowance is:",
+    "options": [
+      "500 mm",
+      "200 mm",
+      "800 mm",
+      "50 mm"
+    ],
+    "correctIndex": 1,
+    "explanation": "FWA (mm) = displacement / (4 x TPC) = 20,000 / 100 = 200 mm."
+  },
+  {
+    "id": "deck-stb-054",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "In the 'lost buoyancy' method of damage stability, the flooded compartment is treated as:",
+    "options": [
+      "An added weight of water raising the displacement",
+      "Having no effect on stability",
+      "No longer part of the buoyant hull, with displacement and KG unchanged",
+      "A full tank with free surface"
+    ],
+    "correctIndex": 2,
+    "explanation": "The intact part of the hull must make up the lost buoyancy, so the ship sinks and KM changes; the added-weight method gives the same final draught."
+  },
+  {
+    "id": "deck-stb-055",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "Permeability of a compartment is:",
+    "options": [
+      "The percentage of its volume that can be occupied by water if it is flooded",
+      "Its resistance to fire",
+      "The thickness of its bulkheads",
+      "The rate at which water can be pumped out"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cargo, machinery and stores occupy part of a space, so it cannot fill completely when bilged."
+  },
+  {
+    "id": "deck-stb-056",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "Synchronous rolling occurs when:",
+    "options": [
+      "The ship is stopped in calm water",
+      "The ship heads directly into the wind",
+      "GM is very large",
+      "The ship's natural rolling period equals the apparent period of the waves"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rolling builds up to dangerous angles; changing course or speed alters the encounter period."
+  },
+  {
+    "id": "deck-stb-057",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "Parametric rolling is most likely in head or following seas when the wave encounter period is about:",
+    "options": [
+      "Ten times the natural rolling period",
+      "Half the ship's natural rolling period",
+      "Unrelated to the rolling period",
+      "Equal to twice the natural rolling period"
+    ],
+    "correctIndex": 1,
+    "explanation": "The periodic change in waterplane and GM as crests pass can build up large rolls, especially in container ships with flared hulls."
+  },
+  {
+    "id": "deck-stb-058",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "Under the International Grain Code, the initial metacentric height after correction for free surface must not be less than:",
+    "options": [
+      "0.15 m",
+      "1.00 m",
+      "0.05 m",
+      "0.30 m"
+    ],
+    "correctIndex": 3,
+    "explanation": "Other criteria limit the heel caused by an assumed grain shift and require a minimum residual dynamic stability."
+  },
+  {
+    "id": "deck-stb-059",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "easy",
+    "question": "Bilge keels are fitted mainly to:",
+    "options": [
+      "Protect the propeller",
+      "Increase the ship's speed",
+      "Reduce the amplitude of rolling",
+      "Increase GM"
+    ],
+    "correctIndex": 2,
+    "explanation": "They add damping by resisting the flow of water around the bilge as the ship rolls."
+  },
+  {
+    "id": "deck-stb-060",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "During dry-docking, the most critical moment for stability is:",
+    "options": [
+      "Just before the ship settles on the blocks fore and aft, when the upthrust on the keel is at its greatest before full support",
+      "After the dock is fully pumped out",
+      "When she first enters the dock",
+      "When the dock gate is opened"
+    ],
+    "correctIndex": 0,
+    "explanation": "The upthrust at the keel acts like removing weight low down (a virtual rise of G), reducing effective GM; adequate GM and minimal trim are needed."
+  },
+  {
+    "id": "deck-stb-061",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "Ice building up on deck and superstructure in cold weather:",
+    "options": [
+      "Raises G and adds top weight, reducing stability",
+      "Only affects the ship's appearance",
+      "Lowers G and improves stability",
+      "Has no effect on stability"
+    ],
+    "correctIndex": 0,
+    "explanation": "Removing ice early, especially from high positions, is an important stability precaution in freezing spray."
+  },
+  {
+    "id": "deck-stb-062",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "During a steady turn at speed, a conventional ship will usually heel:",
+    "options": [
+      "Not at all",
+      "Outwards, away from the centre of the turn",
+      "Alternately to each side",
+      "Inwards, towards the centre of the turn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Centrifugal force acting at G, above the centre of lateral resistance, heels the ship outwards in the steady turn; a large rudder angle at high speed with low GM can give dangerous heel."
+  },
+  {
+    "id": "deck-stb-063",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "A ship is likely to 'sag' when:",
+    "options": [
+      "She is in dry dock",
+      "She is trimmed by the stern",
+      "Heavy weights are at the bow and stern",
+      "Heavy weights are concentrated amidships or a wave trough is amidships with crests at the ends"
+    ],
+    "correctIndex": 3,
+    "explanation": "In sagging the deck is in compression and the bottom in tension, the opposite of hogging."
+  },
+  {
+    "id": "deck-stb-064",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "medium",
+    "question": "Increasing the beam of a ship, with other dimensions unchanged, generally:",
+    "options": [
+      "Raises KG by the same amount",
+      "Has no effect on stability",
+      "Increases BM and KM considerably, improving initial stability",
+      "Reduces KM"
+    ],
+    "correctIndex": 2,
+    "explanation": "The waterplane second moment depends on the cube of the breadth."
+  },
+  {
+    "id": "deck-stb-065",
+    "department": "deck",
+    "category": "ship-stability",
+    "difficulty": "hard",
+    "question": "Under the IS Code, which of these is a general intact stability criterion?",
+    "options": [
+      "The range of stability must be at least 15°",
+      "GM must never exceed 0.5 m",
+      "GZ must be at least 1.0 m at 10°",
+      "The area under the GZ curve between 30° and 40° must be at least 0.030 metre-radians"
+    ],
+    "correctIndex": 3,
+    "explanation": "The 40° limit is replaced by the flooding angle if that is less than 40°."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "version": 1,
-  "updatedAt": "2026-11-01",
-  "contentHash": "3a67b1ef9f8bca4c",
-  "totalQuestions": 245,
+  "version": 2,
+  "updatedAt": "2026-11-02",
+  "contentHash": "3432ab2c4dca6278",
+  "totalQuestions": 1040,
   "departments": [
     {
       "id": "deck",
@@ -12,56 +12,56 @@
           "id": "navigation",
           "name": "Navigation",
           "icon": "location.north.line",
-          "count": 16,
+          "count": 65,
           "file": "deck/navigation.json"
         },
         {
           "id": "colregs",
           "name": "COLREGs",
           "icon": "arrow.triangle.swap",
-          "count": 16,
+          "count": 65,
           "file": "deck/colregs.json"
         },
         {
           "id": "ship-stability",
           "name": "Ship Stability",
           "icon": "scalemass",
-          "count": 16,
+          "count": 65,
           "file": "deck/ship-stability.json"
         },
         {
           "id": "cargo-handling",
           "name": "Cargo Handling",
           "icon": "shippingbox",
-          "count": 15,
+          "count": 65,
           "file": "deck/cargo-handling.json"
         },
         {
           "id": "safety-firefighting",
           "name": "Safety & Firefighting",
           "icon": "flame",
-          "count": 15,
+          "count": 65,
           "file": "deck/safety-firefighting.json"
         },
         {
           "id": "gmdss-communication",
           "name": "GMDSS/Communication",
           "icon": "antenna.radiowaves.left.and.right",
-          "count": 16,
+          "count": 65,
           "file": "deck/gmdss-communication.json"
         },
         {
           "id": "marpol-environment",
           "name": "MARPOL & Environment",
           "icon": "leaf",
-          "count": 15,
+          "count": 65,
           "file": "deck/marpol-environment.json"
         },
         {
           "id": "ism-isps-maritime-law",
           "name": "ISM/ISPS & Maritime Law",
           "icon": "building.columns",
-          "count": 15,
+          "count": 65,
           "file": "deck/ism-isps-maritime-law.json"
         }
       ]
@@ -74,56 +74,56 @@
           "id": "main-auxiliary-engines",
           "name": "Main & Auxiliary Engines",
           "icon": "engine.combustion",
-          "count": 16,
+          "count": 65,
           "file": "engine/main-auxiliary-engines.json"
         },
         {
           "id": "marine-electrical",
           "name": "Marine Electrical",
           "icon": "bolt",
-          "count": 15,
+          "count": 65,
           "file": "engine/marine-electrical.json"
         },
         {
           "id": "pumps-piping",
           "name": "Pumps & Piping",
           "icon": "drop",
-          "count": 15,
+          "count": 65,
           "file": "engine/pumps-piping.json"
         },
         {
           "id": "refrigeration-hvac",
           "name": "Refrigeration & HVAC",
           "icon": "snowflake",
-          "count": 15,
+          "count": 65,
           "file": "engine/refrigeration-hvac.json"
         },
         {
           "id": "boilers-steam",
           "name": "Boilers & Steam",
           "icon": "cloud",
-          "count": 15,
+          "count": 65,
           "file": "engine/boilers-steam.json"
         },
         {
           "id": "safety-firefighting",
           "name": "Safety & Firefighting",
           "icon": "flame",
-          "count": 15,
+          "count": 65,
           "file": "engine/safety-firefighting.json"
         },
         {
           "id": "marpol-environment",
           "name": "MARPOL & Environment",
           "icon": "leaf",
-          "count": 15,
+          "count": 65,
           "file": "engine/marpol-environment.json"
         },
         {
           "id": "engine-room-management",
           "name": "Engine Room Management",
           "icon": "gearshape.2",
-          "count": 15,
+          "count": 65,
           "file": "engine/engine-room-management.json"
         }
       ]
