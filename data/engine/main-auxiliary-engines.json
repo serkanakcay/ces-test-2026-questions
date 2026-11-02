@@ -8,7 +8,7 @@
     "options": [
       "Intake, compression, power, exhaust",
       "Intake, power, compression, exhaust",
-      "Compression, intake, exhaust, power",
+      "Compression, intake, exhaust, power, with the power stroke last",
       "Power, intake, compression, exhaust"
     ],
     "correctIndex": 0,
@@ -36,10 +36,10 @@
     "difficulty": "medium",
     "question": "Most modern large slow-speed two-stroke main engines use:",
     "options": [
-      "Four-stroke valve timing",
-      "Uniflow scavenging with an exhaust valve in the cylinder head",
-      "Natural aspiration",
-      "Loop scavenging with no exhaust valve"
+      "Four-stroke valve timing with inlet and exhaust cam followers",
+      "Uniflow scavenging with a cylinder head exhaust valve",
+      "Natural aspiration with no scavenge blowers or turbocharger",
+      "Loop scavenging with ports and no exhaust valve at all"
     ],
     "correctIndex": 1,
     "explanation": "Air enters through ports at the bottom of the liner and leaves through the exhaust valve at the top, giving efficient scavenging."
@@ -66,10 +66,10 @@
     "difficulty": "medium",
     "question": "In a crosshead engine, the crosshead allows:",
     "options": [
-      "The engine to run without lubrication",
-      "The piston to rotate",
-      "The fuel pump to change timing",
-      "The piston rod to move in a straight vertical line, so a stuffing box can separate the crankcase from the scavenge space"
+      "The engine to run without cylinder lubrication for short periods",
+      "The piston to rotate freely in the liner, spreading the wear evenly around the bore",
+      "The fuel pump to change its timing as the engine load changes",
+      "The piston rod to move in a straight line, so a stuffing box can seal the crankcase"
     ],
     "correctIndex": 3,
     "explanation": "Side thrust is taken by the guides, and scavenge-space contamination is kept out of the crankcase oil."
@@ -81,10 +81,10 @@
     "difficulty": "hard",
     "question": "The main purpose of a crankcase oil mist detector is to:",
     "options": [
-      "Monitor exhaust smoke",
-      "Detect water in fuel oil",
-      "Measure lubricating oil viscosity",
-      "Detect a rising oil mist concentration early to prevent a crankcase explosion"
+      "Monitor the exhaust smoke density at the funnel of the ship",
+      "Detect water in the fuel oil before it reaches the engine",
+      "Measure the viscosity of the lubricating oil in the sump and warn of dilution",
+      "Detect a rising oil mist level early to prevent a crankcase explosion"
     ],
     "correctIndex": 3,
     "explanation": "Oil mist forms at hot spots such as overheating bearings. On an alarm, slow down and stop, and do not open the crankcase until it has cooled."
@@ -96,10 +96,10 @@
     "difficulty": "medium",
     "question": "Crankcase explosion relief valves are designed to:",
     "options": [
-      "Release lubricating oil when it is too hot",
-      "Relieve explosion pressure and stop flames coming out of the crankcase",
-      "Admit air to the crankcase",
-      "Drain water from the sump"
+      "Release lubricating oil from the sump when it becomes too hot, protecting the bearings",
+      "Relieve explosion pressure and stop flames leaving the crankcase",
+      "Admit fresh air into the crankcase to dilute the oil mist",
+      "Drain condensed water from the bottom of the sump tank"
     ],
     "correctIndex": 1,
     "explanation": "They are spring-loaded, self-closing and fitted with flame arresters, so a secondary explosion is less likely."
@@ -111,10 +111,10 @@
     "difficulty": "medium",
     "question": "If fuel injection timing is too late, the likely result is:",
     "options": [
-      "No effect on performance",
-      "Higher maximum pressure and lower exhaust temperature",
-      "Lower maximum cylinder pressure, higher exhaust temperature and higher fuel consumption",
-      "Faster engine start"
+      "No effect on the performance of the engine at normal load",
+      "Higher peak cylinder pressure and a lower exhaust temperature with less fuel burned",
+      "Lower peak cylinder pressure, higher exhaust temperature and fuel use",
+      "Faster engine starting and a lower fuel consumption at idle"
     ],
     "correctIndex": 2,
     "explanation": "Late injection makes combustion continue into the expansion stroke, sending more heat to the exhaust."
@@ -126,10 +126,10 @@
     "difficulty": "medium",
     "question": "Typical signs of a scavenge fire include:",
     "options": [
-      "A drop in fuel oil viscosity",
-      "Low cooling water temperature",
-      "High scavenge air temperature, high exhaust temperature in the affected unit and sparks or smoke from scavenge drains",
-      "Higher engine rpm with no change in load"
+      "A drop in fuel oil viscosity and a rise in the lubricating oil pressure at the engine",
+      "Low cooling water temperature and low scavenge air pressure",
+      "High scavenge and exhaust temperatures and sparks from scavenge drains",
+      "Higher engine rpm with no change in the load or the fuel setting"
     ],
     "correctIndex": 2,
     "explanation": "Reduce speed, cut fuel to the unit, increase cylinder lubrication and use the fixed extinguishing system if the fire spreads."
@@ -141,9 +141,9 @@
     "difficulty": "medium",
     "question": "Crankshaft deflection readings are taken to assess:",
     "options": [
-      "Fuel injector condition",
-      "Turbocharger efficiency",
-      "Piston ring wear",
+      "Fuel injector condition and the spray pattern of the nozzles",
+      "Turbocharger efficiency and the condition of the turbine blades",
+      "Piston ring wear and the condition of the cylinder liners",
       "Main bearing alignment and wear"
     ],
     "correctIndex": 3,
@@ -156,10 +156,10 @@
     "difficulty": "easy",
     "question": "The main purpose of a charge air cooler is to:",
     "options": [
-      "Heat the air for easier starting",
-      "Cool the lubricating oil",
-      "Raise the density of the charge air so more oxygen enters each cylinder",
-      "Clean the exhaust gas"
+      "Heat the air for easier starting of the engine in cold weather",
+      "Cool the lubricating oil leaving the main engine sump tank",
+      "Raise the density of the charge air so more oxygen enters",
+      "Clean the exhaust gas before it enters the turbocharger turbine"
     ],
     "correctIndex": 2,
     "explanation": "Cooler, denser air allows more fuel to be burned efficiently and lowers thermal load."
@@ -186,10 +186,10 @@
     "difficulty": "hard",
     "question": "A common cause of a starting air line explosion is:",
     "options": [
-      "A low fuel oil level",
-      "Low ambient temperature",
-      "A leaking cylinder starting valve letting hot combustion gas into a line with oil deposits",
-      "Too much cooling water"
+      "A low fuel oil level in the service tank during manoeuvring",
+      "Low ambient temperature in the engine room at start-up",
+      "A leaking starting valve passing hot gas to an oily line",
+      "Too much cooling water entering the starting air receiver"
     ],
     "correctIndex": 2,
     "explanation": "Prevent it by draining the lines, keeping oil out of the compressed air and maintaining start valves. Flame arresters or bursting discs are fitted."
@@ -201,10 +201,10 @@
     "difficulty": "medium",
     "question": "The compression ratio of a diesel engine is:",
     "options": [
-      "Bore divided by stroke",
-      "Maximum pressure divided by atmospheric pressure",
-      "Fuel volume divided by air volume",
-      "Total cylinder volume at BDC divided by the clearance volume at TDC"
+      "Cylinder bore divided by the length of the piston stroke",
+      "Maximum cylinder pressure divided by the pressure of the atmospheric air",
+      "The volume of fuel injected divided by the volume of air",
+      "Total cylinder volume at BDC divided by clearance volume at TDC"
     ],
     "correctIndex": 3,
     "explanation": "A high compression ratio gives the temperature needed for compression ignition."
@@ -216,10 +216,10 @@
     "difficulty": "easy",
     "question": "The main function of an engine governor is to:",
     "options": [
-      "Measure fuel consumption",
-      "Start the engine automatically",
-      "Keep engine speed steady as load changes by adjusting the fuel supply",
-      "Control cooling water temperature"
+      "Measure the fuel consumption and send it to the bridge computer",
+      "Start the engine automatically when the standby generator is needed",
+      "Keep engine speed steady as load changes by adjusting the fuel",
+      "Control the cooling water temperature by operating the thermostat"
     ],
     "correctIndex": 2,
     "explanation": "It also provides overspeed protection together with a separate overspeed trip."
@@ -261,10 +261,10 @@
     "difficulty": "easy",
     "question": "A large slow-speed two-stroke main engine is usually connected to the propeller:",
     "options": [
-      "Directly through the shafting, without a reduction gearbox",
-      "By belts and pulleys",
-      "Through an electric motor only",
-      "Through a high-ratio reduction gearbox"
+      "Directly through the shafting, with no reduction gearbox",
+      "By chain and sprocket drive with a flexible coupling",
+      "Through an electric motor and a frequency converter only",
+      "Through a high-ratio reduction gearbox and a clutch on the thrust shaft"
     ],
     "correctIndex": 0,
     "explanation": "Slow-speed engines run at propeller speed, typically around 60-130 rpm."
@@ -277,9 +277,9 @@
     "question": "Medium-speed four-stroke diesel engines are most commonly used on merchant ships as:",
     "options": [
       "Generator (auxiliary) engines, and sometimes geared main engines",
-      "Boiler feed pumps",
-      "Steering gear pumps",
-      "Emergency air compressors only"
+      "Boiler feed pumps and fuel transfer pumps in the engine room and workshop",
+      "Steering gear pumps, driven directly from the engine shaft",
+      "Emergency air compressors and fire pumps only on large ships"
     ],
     "correctIndex": 0,
     "explanation": "Their compact size and higher speed suit alternator drives."
@@ -291,10 +291,10 @@
     "difficulty": "easy",
     "question": "The main job of a fuel injector is to:",
     "options": [
-      "Cool the cylinder head",
-      "Measure the fuel quantity in the tank",
-      "Heat the fuel to its flash point",
-      "Atomise the fuel and spray it into the combustion chamber in the right pattern"
+      "Cool the cylinder head by spraying the fuel onto the valve seats",
+      "Measure the fuel quantity remaining in the service tank",
+      "Heat the fuel to its flash point before it enters the cylinder",
+      "Atomise the fuel and spray it into the combustion chamber"
     ],
     "correctIndex": 3,
     "explanation": "Good atomisation and penetration are needed for complete combustion."
@@ -306,10 +306,10 @@
     "difficulty": "easy",
     "question": "Piston rings mainly serve to:",
     "options": [
-      "Cool the exhaust gas",
-      "Seal the combustion gases and transfer heat from the piston to the liner",
-      "Hold the piston to the connecting rod",
-      "Inject cylinder oil"
+      "Cool the exhaust gas as it leaves the cylinder through the valve",
+      "Seal the combustion gases and pass heat from the piston to the liner",
+      "Hold the piston firmly to the connecting rod at its small end bearing",
+      "Inject cylinder oil into the combustion space at each stroke"
     ],
     "correctIndex": 1,
     "explanation": "Worn or stuck rings cause blow-by, loss of compression and possible scavenge fires."
@@ -322,9 +322,9 @@
     "question": "Heat from the main engine jacket cooling water is often used to:",
     "options": [
       "Produce fresh water in the fresh water generator",
-      "Drive the turbocharger",
-      "Charge the batteries",
-      "Heat the fuel oil storage tanks to 150 °C"
+      "Drive the turbocharger turbine in place of exhaust gas",
+      "Charge the ship's batteries through a heat exchanger",
+      "Heat the fuel oil storage tanks to a temperature of 150 °C"
     ],
     "correctIndex": 0,
     "explanation": "The low-pressure evaporator boils sea water at reduced temperature using jacket water heat."
@@ -336,10 +336,10 @@
     "difficulty": "easy",
     "question": "The turning gear interlock on a main engine:",
     "options": [
-      "Stops the engine if the bridge telegraph moves",
-      "Starts the auxiliary blowers",
-      "Locks the propeller during sea trials",
-      "Prevents the engine from being started while the turning gear is engaged"
+      "Stops the engine if the bridge telegraph moves from the ordered position",
+      "Starts the auxiliary blowers before the engine is turned on air",
+      "Locks the propeller shaft during sea trials and shaft alignment",
+      "Prevents the engine being started while the turning gear is engaged"
     ],
     "correctIndex": 3,
     "explanation": "Starting with the turning gear engaged could cause serious damage and injury."
@@ -351,10 +351,10 @@
     "difficulty": "easy",
     "question": "The main thrust bearing:",
     "options": [
-      "Cools the stern tube",
+      "Cools the stern tube bearing with a flow of sea water",
       "Transmits the propeller thrust to the ship's hull",
-      "Lubricates the crossheads",
-      "Supports the weight of the flywheel only"
+      "Lubricates the crossheads and the guide shoes of the engine",
+      "Supports the weight of the flywheel and of the crankshaft only"
     ],
     "correctIndex": 1,
     "explanation": "It is usually built into the aft end of a slow-speed engine's bedplate."
@@ -366,10 +366,10 @@
     "difficulty": "easy",
     "question": "Black smoke from a diesel engine's exhaust usually indicates:",
     "options": [
-      "Too much cooling water",
-      "Water in the lubricating oil",
-      "Incomplete combustion, for example from overload, poor atomisation or too little air",
-      "Perfect combustion"
+      "Too much cooling water leaking into the combustion space",
+      "Water in the lubricating oil, which burns in the cylinders as steam and vapour",
+      "Incomplete combustion, e.g. overload, poor atomisation or lack of air",
+      "Perfect combustion with the correct air to fuel ratio"
     ],
     "correctIndex": 2,
     "explanation": "Check injectors, turbocharger and air coolers, and the engine load."
@@ -382,9 +382,9 @@
     "question": "Specific fuel oil consumption (SFOC) of a diesel engine is usually expressed in:",
     "options": [
       "Grams per kilowatt-hour (g/kWh)",
-      "Litres per hour",
-      "Kilowatts per tonne",
-      "Tonnes per nautical mile"
+      "Litres per hour, measured at the fuel flow meter",
+      "Kilowatts per tonne of fuel, as shown on the data sheet",
+      "Tonnes per nautical mile, as shown in the voyage report"
     ],
     "correctIndex": 0,
     "explanation": "Large two-stroke engines have SFOC values of roughly 160-180 g/kWh."
@@ -426,10 +426,10 @@
     "difficulty": "easy",
     "question": "Before starting a main engine after maintenance, it is turned over with the indicator cocks open in order to:",
     "options": [
-      "Charge the starting air receivers",
-      "Check that no water, oil or fuel has collected in the cylinders",
-      "Warm up the engine",
-      "Test the overspeed trip"
+      "Charge the starting air receivers to the working pressure of the engine",
+      "Check that no water, oil or fuel is lying in the cylinders",
+      "Warm up the engine and the lubricating oil in the system",
+      "Test the overspeed trip and the emergency shutdown"
     ],
     "correctIndex": 1,
     "explanation": "Liquid in a cylinder cannot be compressed and could cause serious damage if the engine were started on fuel."
@@ -441,10 +441,10 @@
     "difficulty": "medium",
     "question": "On a crosshead two-stroke engine, cylinder lubrication is provided by:",
     "options": [
-      "Fuel oil acting as a lubricant",
-      "Splash from the crankcase",
-      "Separate cylinder oil injected through quills in the liner by lubricators",
-      "Grease applied during overhaul only"
+      "Fuel oil acting as a lubricant on the liner surface",
+      "Splash from the crankcase, thrown up by the crankshaft and crank webs",
+      "Separate cylinder oil injected through the liner by lubricators",
+      "Grease applied by hand to the liner during each overhaul"
     ],
     "correctIndex": 2,
     "explanation": "The stuffing box keeps the cylinder and crankcase oils separate."
@@ -471,10 +471,10 @@
     "difficulty": "medium",
     "question": "Engine jacket cooling water is commonly treated with:",
     "options": [
-      "A nitrite-based or similar corrosion inhibitor, with regular checks of concentration and chlorides",
-      "Detergent to remove oil",
-      "Sea water to reduce scale",
-      "Hydrazine only"
+      "A nitrite-based corrosion inhibitor, with regular tests of its strength",
+      "Detergent, to remove oil from the water jackets and the cooler",
+      "Sea water, to reduce the formation of scale in the engine water jackets",
+      "Hydrazine only, as it is used in boilers and steam systems"
     ],
     "correctIndex": 0,
     "explanation": "Rising chlorides suggest sea water contamination, for example from a leaking cooler."
@@ -486,10 +486,10 @@
     "difficulty": "medium",
     "question": "On a crosshead engine, main and crankpin bearings are lubricated by:",
     "options": [
-      "Cylinder oil from the lubricators",
-      "System oil pumped from the sump tank and circulated through the engine",
-      "Grease nipples",
-      "Fuel oil"
+      "Cylinder oil supplied from the lubricators on the engine",
+      "System oil pumped from the sump tank through the engine",
+      "Grease applied by grease nipples at each main bearing",
+      "Fuel oil taken from the day tank and filtered at the engine"
     ],
     "correctIndex": 1,
     "explanation": "The system oil also cools the pistons on many engines, via telescopic pipes or the crosshead."
@@ -501,10 +501,10 @@
     "difficulty": "medium",
     "question": "Heavy fuel oil is heated before injection mainly to:",
     "options": [
-      "Remove its sulphur",
-      "Raise its flash point",
-      "Lower its viscosity to the value recommended by the engine maker",
-      "Increase its density"
+      "Remove its sulphur by heating it in the settling tank",
+      "Raise its flash point to above 60 °C for safe handling",
+      "Lower its viscosity to the value the engine maker recommends",
+      "Increase its density to improve the combustion in the cylinder"
     ],
     "correctIndex": 2,
     "explanation": "A viscosity controller usually regulates the heater to give around 10-15 cSt at the injectors."
@@ -516,10 +516,10 @@
     "difficulty": "medium",
     "question": "A viscosity controller in the fuel system:",
     "options": [
-      "Adjusts the fuel heater to keep the viscosity at the injection pumps constant",
-      "Measures the fuel tank level",
-      "Stops the engine on high viscosity",
-      "Mixes water into the fuel"
+      "Adjusts the fuel heater to keep viscosity at the pumps constant",
+      "Measures the fuel tank level and sends a signal to the transfer pump",
+      "Stops the engine automatically when the viscosity becomes too high",
+      "Mixes a small quantity of water into the fuel to lower viscosity"
     ],
     "correctIndex": 0,
     "explanation": "Controlling viscosity rather than temperature compensates for differences between bunker deliveries."
@@ -531,10 +531,10 @@
     "difficulty": "medium",
     "question": "Catalytic fines (aluminium and silicon particles) in fuel oil mainly cause:",
     "options": [
-      "Cold corrosion",
-      "Lower fuel density",
-      "Excessive smoke only",
-      "Abrasive wear of fuel pumps, injectors, piston rings and liners"
+      "Cold corrosion of the cylinder liner surfaces",
+      "A lower fuel density and a lower calorific value",
+      "Excessive smoke at low load and during manoeuvring operations only",
+      "Abrasive wear of fuel pumps, injectors, rings and liners"
     ],
     "correctIndex": 3,
     "explanation": "Good settling, purifying and filtering remove most cat fines before the fuel reaches the engine."
@@ -561,10 +561,10 @@
     "difficulty": "medium",
     "question": "Turbocharger surging is:",
     "options": [
-      "Normal operation at full load",
-      "Overheating of the turbocharger bearings",
-      "An unstable reversal of air flow through the compressor, often with a loud barking noise",
-      "A leak in the exhaust manifold"
+      "Normal operation of the turbocharger at full engine load",
+      "Overheating of the turbocharger bearings due to loss of oil",
+      "An unstable reversal of air flow through the compressor, often with a bang",
+      "A leak in the exhaust manifold of the engine, close to the turbine inlet"
     ],
     "correctIndex": 2,
     "explanation": "Causes include fouled turbines or nozzles, dirty air coolers, sudden load changes and damaged blading."
@@ -576,10 +576,10 @@
     "difficulty": "medium",
     "question": "Auxiliary blowers on a two-stroke main engine run at low load because:",
     "options": [
-      "The turbocharger cannot supply enough scavenge air at low engine load",
-      "They drive the camshaft",
-      "They cool the exhaust valves",
-      "They pump cooling water"
+      "The turbocharger cannot supply enough scavenge air at low load",
+      "They drive the camshaft when the engine speed is low",
+      "They cool the exhaust valves at low load and during air starting",
+      "They pump cooling water to the charge air coolers"
     ],
     "correctIndex": 0,
     "explanation": "They start and stop automatically depending on the scavenge air pressure."
@@ -591,10 +591,10 @@
     "difficulty": "medium",
     "question": "A direct-reversible two-stroke engine is reversed by:",
     "options": [
-      "Reversing the turbocharger",
-      "Changing the fuel injection and starting air timing to the astern position, then starting it in the opposite direction",
-      "Changing the propeller pitch",
-      "Engaging a reverse gearbox"
+      "Reversing the turbocharger so that it drives the engine astern",
+      "Changing injection and starting air timing to astern, then starting in reverse",
+      "Changing the pitch of the propeller blades while the engine runs",
+      "Engaging a reverse gearbox between the engine and the propeller shaft"
     ],
     "correctIndex": 1,
     "explanation": "On camshaft engines this is done by shifting cams or the camshaft; electronic engines change timing by software."
@@ -606,10 +606,10 @@
     "difficulty": "medium",
     "question": "During air starting, the cylinder starting valves are opened in firing order by:",
     "options": [
-      "The turbocharger",
+      "The turbocharger, which supplies the scavenge air",
       "The starting air distributor",
-      "The governor",
-      "The fuel pumps"
+      "The governor, which controls the engine speed",
+      "The fuel pumps, which are driven by the camshaft"
     ],
     "correctIndex": 1,
     "explanation": "Air is admitted shortly after TDC on the power stroke to turn the engine until it fires on fuel."
@@ -621,10 +621,10 @@
     "difficulty": "medium",
     "question": "An indicator diagram (pressure-volume) of a cylinder is used to:",
     "options": [
-      "Test the cooling water quality",
-      "Check bearing clearances",
-      "Measure the fuel tank level",
-      "Assess cylinder power and check compression and maximum combustion pressures"
+      "Test the quality of the cooling water in the jacket system",
+      "Check the bearing clearances in the crankcase of the engine",
+      "Measure the fuel level in the service tank of the engine and the settling tank",
+      "Assess cylinder power and check compression and peak pressures"
     ],
     "correctIndex": 3,
     "explanation": "Electronic pressure analysers now do the same job and help balance the cylinders."
@@ -636,10 +636,10 @@
     "difficulty": "medium",
     "question": "Main bearing shells on large diesel engines are commonly lined with:",
     "options": [
-      "Rubber",
-      "Cast iron",
+      "Rubber, bonded to a steel backing for damping",
+      "Cast iron, bolted into the bedplate of the engine",
       "White metal (tin-based bearing alloy)",
-      "Aluminium oxide ceramic"
+      "Aluminium oxide ceramic, fitted in the form of thin liners"
     ],
     "correctIndex": 2,
     "explanation": "White metal is soft enough to embed small particles and conform to the journal."
@@ -652,9 +652,9 @@
     "question": "On many two-stroke engines, the pistons are cooled by:",
     "options": [
       "System oil supplied through telescopic pipes or the crosshead",
-      "Fuel oil",
-      "Sea water through the piston rod",
-      "Scavenge air only"
+      "Fuel oil circulated through the piston from the booster pump",
+      "Sea water supplied through the piston rod from the jacket system",
+      "Scavenge air only, blown over the piston crown by the blowers"
     ],
     "correctIndex": 0,
     "explanation": "Some older designs used water cooling; oil cooling avoids water leaks into the crankcase."
@@ -667,9 +667,9 @@
     "question": "In an oil-lubricated stern tube, the aft seal prevents:",
     "options": [
       "Sea water entering and oil leaking out into the sea",
-      "Air entering the engine",
-      "Exhaust gas reaching the propeller",
-      "Fuel leaking into the shaft"
+      "Air entering the engine through the shaft from the tunnel",
+      "Exhaust gas reaching the propeller from the stern of the ship",
+      "Fuel leaking into the shaft from the engine room bilge"
     ],
     "correctIndex": 0,
     "explanation": "Oil leakage from stern tube seals is a pollution concern; environmentally acceptable lubricants are required in some areas."
@@ -681,10 +681,10 @@
     "difficulty": "medium",
     "question": "A 'barred speed range' marked on a main engine tachometer exists to:",
     "options": [
-      "Save fuel",
+      "Save fuel by keeping the engine away from its most efficient speed range",
       "Avoid running continuously at speeds that cause harmful torsional vibration",
-      "Limit the bridge's control",
-      "Protect the boiler"
+      "Limit the bridge's control of the engine in restricted waters",
+      "Protect the boiler from overload when the main engine speed is low"
     ],
     "correctIndex": 1,
     "explanation": "The engine may pass quickly through the barred range but must not be operated within it."
@@ -696,10 +696,10 @@
     "difficulty": "medium",
     "question": "Electronically controlled two-stroke engines (such as ME or RT-flex types) differ from conventional engines mainly because they:",
     "options": [
-      "Have no turbocharger",
-      "Use petrol instead of fuel oil",
-      "Are four-stroke engines",
-      "Have no mechanical camshaft; injection and exhaust valve timing are controlled electronically"
+      "Have no turbocharger because the cylinders are supercharged by blowers",
+      "Use petrol instead of fuel oil for ignition in the cylinders",
+      "Are four-stroke engines with camshaft driven fuel pumps",
+      "Have no camshaft; injection and valve timing are electronic"
     ],
     "correctIndex": 3,
     "explanation": "Timing can be optimised for each load, improving fuel consumption and emissions."
@@ -711,10 +711,10 @@
     "difficulty": "medium",
     "question": "A higher exhaust temperature on one cylinder than on the others may be caused by:",
     "options": [
-      "A correctly adjusted fuel pump",
-      "A clean air cooler",
+      "A correctly adjusted fuel pump and a well maintained injector",
+      "A clean air cooler and a low scavenge air temperature",
       "A faulty fuel injector or a leaking exhaust valve",
-      "Low jacket water salinity"
+      "Low jacket water salinity and a low cooling water temperature"
     ],
     "correctIndex": 2,
     "explanation": "Compare cylinder pressures and inspect the injector and valve to find the cause."
@@ -726,9 +726,9 @@
     "difficulty": "medium",
     "question": "Lubricating oil being burned in the cylinders usually shows as:",
     "options": [
-      "No smoke at all",
-      "Pure white steam",
-      "Thick black smoke",
+      "No visible smoke at all",
+      "Pure white steam from the funnel",
+      "Thick black smoke from the funnel",
       "Blue-grey exhaust smoke"
     ],
     "correctIndex": 3,
@@ -741,10 +741,10 @@
     "difficulty": "medium",
     "question": "Fuel injectors are tested on a test rig for:",
     "options": [
-      "Colour of the nozzle",
-      "Electrical insulation",
+      "The colour of the nozzle tip after a period of operation",
+      "Electrical insulation of the injector solenoid and cable",
       "Opening pressure, spray pattern and leakage (dribbling)",
-      "Water content of the fuel"
+      "The water content of the fuel which is delivered to the nozzle"
     ],
     "correctIndex": 2,
     "explanation": "Faulty injectors cause poor combustion, deposits and high exhaust temperatures."
@@ -756,10 +756,10 @@
     "difficulty": "medium",
     "question": "Main air compressors are usually two-stage with an intercooler because:",
     "options": [
-      "Cooling the air between stages reduces the work needed and keeps temperatures safe",
-      "It heats the air for starting",
-      "It reduces the air pressure",
-      "It removes the need for drains"
+      "Cooling between stages cuts the work needed and keeps temperatures safe",
+      "It heats the air to the temperature required for starting",
+      "It reduces the air pressure to a safe level for the receiver",
+      "It removes the need for drains between the compressor stages and the receiver"
     ],
     "correctIndex": 0,
     "explanation": "Drains after each cooler remove condensed water and oil."
@@ -771,10 +771,10 @@
     "difficulty": "medium",
     "question": "A dribbling (leaking) fuel injector nozzle causes:",
     "options": [
-      "Increased compression pressure",
-      "Poor combustion, carbon deposits around the nozzle and higher exhaust temperature",
-      "Better fuel economy",
-      "Lower cylinder temperatures"
+      "Increased compression pressure and a faster rate of ignition",
+      "Poor combustion, nozzle carbon deposits and higher exhaust temperature",
+      "Better fuel economy, a cleaner exhaust and a lower exhaust gas temperature",
+      "Lower cylinder temperatures and a cleaner exhaust"
     ],
     "correctIndex": 1,
     "explanation": "Fuel that dribbles after the end of injection burns late and incompletely."
@@ -786,10 +786,10 @@
     "difficulty": "hard",
     "question": "Using a high-BN cylinder oil with very low sulphur fuel for a long time can cause:",
     "options": [
-      "Lower cylinder oil consumption with no side effects",
-      "Hard calcium deposits on the piston crown, leading to bore polishing and liner wear",
-      "Fuel pump seizure",
-      "Cold corrosion of the liner"
+      "Lower cylinder oil consumption with no other effects on the engine",
+      "Hard calcium deposits on the piston crown, bore polishing and liner wear",
+      "Fuel pump seizure, because of a lack of lubrication of the plunger",
+      "Cold corrosion of the liner, caused by acid condensing at low temperature"
     ],
     "correctIndex": 1,
     "explanation": "The cylinder oil BN should be matched to the sulphur content of the fuel and the feed rate adjusted."
@@ -801,10 +801,10 @@
     "difficulty": "hard",
     "question": "Cold corrosion of cylinder liners is caused by:",
     "options": [
-      "Sulphuric acid condensing on the liner surface when its temperature is below the acid dew point",
-      "High exhaust temperatures",
-      "Sea water leaking into the scavenge space",
-      "Too much cylinder oil"
+      "Sulphuric acid condensing on a liner below the acid dew point",
+      "High exhaust temperatures which burn the oil film on the liner",
+      "Sea water leaking into the scavenge space from the air cooler",
+      "Too much cylinder oil being fed to the liner by the lubricators"
     ],
     "correctIndex": 0,
     "explanation": "It is more likely at low load with high-sulphur fuel; jacket temperature and cylinder oil BN help control it."
@@ -816,10 +816,10 @@
     "difficulty": "hard",
     "question": "When a distillate fuel such as MGO is used in an engine designed for HFO, a fuel cooler may be needed to:",
     "options": [
-      "Prevent wax forming in the tank",
-      "Raise the fuel's sulphur content",
-      "Keep the fuel viscosity above the minimum needed at the injection pumps",
-      "Increase the fuel's flash point"
+      "Prevent wax from forming in the tank in cold weather",
+      "Raise the fuel's sulphur content to meet the requirements of the ECA rules",
+      "Keep the fuel viscosity above the minimum at the injection pumps",
+      "Increase the fuel's flash point to the level required by SOLAS"
     ],
     "correctIndex": 2,
     "explanation": "Very low viscosity increases internal leakage and the risk of fuel pump seizure; makers typically specify a minimum of about 2-3 cSt."
@@ -846,9 +846,9 @@
     "difficulty": "hard",
     "question": "Low compression pressure in one cylinder, with normal scavenge pressure, most likely indicates:",
     "options": [
-      "High jacket water temperature",
-      "Fuel injection timing too early",
-      "A dirty turbocharger air filter",
+      "High jacket water temperature caused by a failed thermostat",
+      "Fuel injection timing which is too early for the load of the engine",
+      "A dirty turbocharger air filter which restricts the intake air",
       "Leaking piston rings, a leaking exhaust valve or excessive liner wear"
     ],
     "correctIndex": 3,
@@ -876,10 +876,10 @@
     "difficulty": "hard",
     "question": "After an engine is stopped because of a high oil mist alarm, the crankcase doors should not be opened until:",
     "options": [
-      "The engine has cooled for a sufficient time, typically at least 20 minutes, to avoid air reaching a hot spot",
-      "The engine has stopped turning",
-      "The lube oil pump has been stopped for 1 minute",
-      "The scavenge drains have been opened"
+      "The engine has cooled for enough time, typically 20 minutes or more",
+      "The engine has stopped turning and the turning gear has been engaged",
+      "The lube oil pump has been stopped for at least one minute",
+      "The scavenge drains have been opened and the air blowers stopped"
     ],
     "correctIndex": 0,
     "explanation": "Opening too soon can let in air and cause a crankcase explosion; keep people away from the relief valves."
@@ -891,10 +891,10 @@
     "difficulty": "hard",
     "question": "Cylinder liner wear in a two-stroke engine is usually greatest:",
     "options": [
-      "At the bottom of the liner",
-      "Near the top of the liner, around the position of the top piston ring at TDC",
-      "Evenly along the whole length",
-      "Around the scavenge ports only"
+      "At the bottom of the liner, near the scavenge ports of the cylinder",
+      "Near the top of the liner, at the top ring position at TDC",
+      "Evenly along the whole length of the liner surface",
+      "Around the scavenge ports only, where the ring edges pass"
     ],
     "correctIndex": 1,
     "explanation": "High temperature, pressure and poor lubrication near TDC cause the most wear; it is measured with a liner gauge at set positions."
@@ -906,10 +906,10 @@
     "difficulty": "hard",
     "question": "Indicated power of a two-stroke cylinder depends on mean indicated pressure, piston area, stroke and:",
     "options": [
-      "Engine speed in revolutions per unit time, since there is one power stroke per revolution",
-      "Half the engine speed",
-      "The cooling water temperature",
-      "The fuel's sulphur content"
+      "Engine speed, as there is one power stroke per revolution",
+      "Half the engine speed, as there is one power stroke per two revolutions",
+      "The cooling water temperature at the outlet of the jacket",
+      "The sulphur content of the fuel which is burned in the cylinder"
     ],
     "correctIndex": 0,
     "explanation": "For a four-stroke engine the number of power strokes is half the revolutions."
@@ -921,7 +921,7 @@
     "difficulty": "hard",
     "question": "According to the propeller law, if main engine speed is reduced by 10%, the power required falls to about:",
     "options": [
-      "81% of the original",
+      "81% of the original (using speed squared)",
       "90% of the original",
       "50% of the original",
       "73% of the original"
@@ -936,10 +936,10 @@
     "difficulty": "hard",
     "question": "Variable Injection Timing (VIT) on a main engine is used to:",
     "options": [
-      "Control the turbocharger speed",
-      "Advance fuel injection at part load to keep a high maximum pressure and improve fuel economy",
-      "Change the engine's direction",
-      "Delay injection at all loads to reduce wear"
+      "Control the speed of the turbocharger at part load",
+      "Advance injection at part load to keep high peak pressure and save fuel",
+      "Change the engine's direction of rotation by moving the cam",
+      "Delay the injection at all loads to reduce wear on the liner and rings"
     ],
     "correctIndex": 1,
     "explanation": "At high load the timing is retarded to stop the maximum pressure exceeding its limit."
@@ -951,7 +951,7 @@
     "difficulty": "hard",
     "question": "The overspeed trip on a diesel generator engine typically operates at about:",
     "options": [
-      "200% of rated speed",
+      "200% of rated speed (maximum)",
       "150% of rated speed",
       "110-115% of rated speed",
       "90% of rated speed"
@@ -966,10 +966,10 @@
     "difficulty": "hard",
     "question": "On a crosshead engine, the piston rod stuffing box:",
     "options": [
-      "Seals the stern tube",
-      "Holds the crosshead bearing",
-      "Seals the scavenge space from the crankcase and scrapes oil and dirt from the piston rod",
-      "Seals the fuel pump plunger"
+      "Seals the stern tube from the sea water outside the hull of the ship",
+      "Holds the crosshead bearing to the piston rod of the engine",
+      "Seals the scavenge space from the crankcase and scrapes the piston rod",
+      "Seals the plunger of the fuel injection pump of the cylinder"
     ],
     "correctIndex": 2,
     "explanation": "Leaking stuffing boxes let cylinder oil and combustion residues contaminate the system oil."

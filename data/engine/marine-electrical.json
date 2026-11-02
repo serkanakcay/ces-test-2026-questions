@@ -9,7 +9,7 @@
       "R = V x I",
       "V = I x R",
       "P = V / I",
-      "V = I / R"
+      "V = I / R, which gives current in amperes for a known voltage"
     ],
     "correctIndex": 1,
     "explanation": "Voltage equals current multiplied by resistance."
@@ -37,9 +37,9 @@
     "question": "Before an incoming generator is connected in parallel, which conditions must match the busbar?",
     "options": [
       "Voltage, frequency and phase sequence, and the voltages must be in phase",
-      "Only the current",
+      "Only the current, because the voltage and frequency adjust themselves automatically",
       "The power factor and kW load",
-      "Only the voltage"
+      "Only the voltage, as frequency and phase are set by the governor"
     ],
     "correctIndex": 0,
     "explanation": "A synchroscope or synchronising lamps are used to close the breaker at the moment the voltages are in phase."
@@ -52,8 +52,8 @@
     "question": "When synchronising, the synchroscope pointer turns clockwise ('fast'). This means:",
     "options": [
       "The phase sequence is wrong",
-      "The generators are already in phase",
-      "The incoming generator's frequency is lower than the busbar frequency",
+      "The generators are already in phase and may be connected at once",
+      "The incoming generator's frequency is lower than the busbar frequency, so it is slow",
       "The incoming generator's frequency is higher than the busbar frequency"
     ],
     "correctIndex": 3,
@@ -68,8 +68,8 @@
     "options": [
       "It cannot have earth faults",
       "A single earth fault does not trip the supply, so essential services continue",
-      "It uses less copper",
-      "It needs no protection devices"
+      "It uses less copper because only two cables are needed per circuit",
+      "It needs no protection devices, because the neutral point is not connected to the hull"
     ],
     "correctIndex": 1,
     "explanation": "The earth fault must still be found and repaired quickly, as a second fault on another phase would cause a short circuit."
@@ -98,7 +98,7 @@
     "options": [
       "An insulation resistance tester (megger)",
       "A hydrometer",
-      "An ammeter",
+      "An ammeter clamped round the cable of the motor while it is running",
       "A tachometer"
     ],
     "correctIndex": 0,
@@ -112,8 +112,8 @@
     "question": "A preferential trip system:",
     "options": [
       "Disconnects non-essential loads when a generator is overloaded",
-      "Trips the generator when it starts",
-      "Starts the emergency generator",
+      "Trips the generator when it starts, and then trips the standby generator in turn",
+      "Starts the emergency generator when the main supply is lost",
       "Disconnects the steering gear first"
     ],
     "correctIndex": 0,
@@ -126,9 +126,9 @@
     "difficulty": "medium",
     "question": "A reverse power relay on an alternator protects against:",
     "options": [
-      "Overvoltage",
-      "An earth fault",
-      "Low frequency",
+      "Overvoltage on the busbar caused by a fault in the automatic voltage regulator",
+      "An earth fault on the stator winding, which is detected by the earth leakage relay",
+      "Low frequency on the busbar when the load is above the rating of the generator",
       "The alternator motoring if its prime mover fails while running in parallel"
     ],
     "correctIndex": 3,
@@ -141,7 +141,7 @@
     "difficulty": "hard",
     "question": "Under SOLAS, the emergency generator must start automatically and supply its loads within:",
     "options": [
-      "5 minutes",
+      "5 minutes of the main supply failing, with manual start allowed",
       "45 seconds of the main supply failing",
       "10 seconds, without exception",
       "2 minutes"
@@ -156,7 +156,7 @@
     "difficulty": "medium",
     "question": "The synchronous speed of an induction motor depends on:",
     "options": [
-      "Supply voltage only",
+      "Supply voltage only, with no effect from the frequency or poles",
       "Cable length",
       "Load on the shaft only",
       "Supply frequency and number of poles"
@@ -188,8 +188,8 @@
     "options": [
       "Prove it dead with an approved tester and apply earthing, under a permit to work",
       "Ask the bridge for permission only",
-      "Test it by touching the conductors with a tool",
-      "Start work at once because the breaker is open"
+      "Test it by touching the conductors with an insulated tool, then start work at once",
+      "Start work at once because the circuit breaker has been opened and tagged"
     ],
     "correctIndex": 0,
     "explanation": "HV work needs a formal safety procedure: isolation, locking, proving dead, earthing and a sanction-to-test or permit to work."
@@ -203,7 +203,7 @@
     "options": [
       "The batteries release carbon dioxide",
       "Hydrogen gas is released and can form an explosive mixture",
-      "The batteries need oxygen to charge",
+      "The batteries need oxygen from the air for the charging reaction",
       "The batteries need to be cooled by sea air"
     ],
     "correctIndex": 1,
@@ -217,9 +217,9 @@
     "question": "The automatic voltage regulator (AVR) of an alternator:",
     "options": [
       "Trips the breaker on overload",
-      "Controls frequency",
+      "Controls the generator frequency by adjusting the governor setting",
       "Keeps output voltage constant as load changes by controlling excitation",
-      "Controls engine speed"
+      "Controls the engine speed by moving the fuel rack of the prime mover when loaded"
     ],
     "correctIndex": 2,
     "explanation": "Frequency and kW load-sharing are controlled by the prime mover's governor. Voltage and kVAr sharing are controlled by the AVR."
@@ -234,7 +234,7 @@
       "Current divided by resistance",
       "Resistance multiplied by time",
       "Voltage multiplied by current (P = V x I)",
-      "Voltage divided by current"
+      "Voltage divided by current, which is the resistance of the circuit"
     ],
     "correctIndex": 2,
     "explanation": "Power is measured in watts; for example 24 V x 5 A = 120 W."
@@ -261,10 +261,10 @@
     "difficulty": "easy",
     "question": "A fuse protects a circuit by:",
     "options": [
-      "Storing energy",
-      "Raising the voltage",
+      "Storing energy in a coil until the current reaches a value that opens the contacts",
+      "Raising the voltage so that the current in the circuit is reduced",
       "Melting and breaking the circuit when the current is too high",
-      "Changing AC into DC"
+      "Changing AC into DC at the point where the current in the circuit exceeds its rating"
     ],
     "correctIndex": 2,
     "explanation": "A blown fuse must be replaced with one of the correct rating, never a higher one or a wire link."
@@ -278,7 +278,7 @@
     "options": [
       "Cannot protect against short circuits",
       "Works only on DC",
-      "Must be replaced after every trip",
+      "Must be replaced after every trip, because its contacts are burnt away",
       "Can be reset after it trips, once the fault is cleared"
     ],
     "correctIndex": 3,
@@ -309,7 +309,7 @@
       "Only with the motor running",
       "Only on a circuit that is isolated and proved dead",
       "With the fuse removed from the meter",
-      "On a live circuit to get accurate readings"
+      "On a live circuit, to get accurate readings of the circuit resistance"
     ],
     "correctIndex": 1,
     "explanation": "Applying a resistance range to a live circuit can damage the meter and endanger the user."
@@ -337,7 +337,7 @@
     "question": "The direction of rotation of a three-phase induction motor can be reversed by:",
     "options": [
       "Swapping any two of the three supply lines",
-      "Swapping all three supply lines",
+      "Swapping all three supply lines, which keeps the same field direction",
       "Reducing the voltage",
       "Reversing the earth connection"
     ],
@@ -352,7 +352,7 @@
     "question": "A transformer can be used to change voltage only on:",
     "options": [
       "Any supply without restriction",
-      "Direct current (DC) supplies",
+      "Direct current (DC) supplies such as battery circuits, as well as AC",
       "Alternating current (AC) supplies",
       "Battery circuits"
     ],
@@ -367,7 +367,7 @@
     "question": "On many ships, lighting and small power circuits are supplied at 220 V through:",
     "options": [
       "Batteries only",
-      "The emergency generator only",
+      "The emergency generator only, through a separate emergency transformer",
       "Step-down transformers from the 440 V main supply",
       "A step-up transformer"
     ],
@@ -382,7 +382,7 @@
     "question": "Before electrical maintenance on a motor, the supply should be:",
     "options": [
       "Isolated, locked off and tagged, under a permit to work",
-      "Left on so the motor can be tested",
+      "Left on so that the motor can be tested after the work is done",
       "Switched off at the local push-button only",
       "Isolated only if the motor is running"
     ],
@@ -396,10 +396,10 @@
     "difficulty": "easy",
     "question": "If someone is receiving an electric shock, the first action is to:",
     "options": [
-      "Wait for the breaker to trip",
-      "Switch off the supply, or separate the casualty using insulating material, before touching them",
-      "Grab the casualty with bare hands",
-      "Pour water on the casualty"
+      "Wait for the breaker to trip, since the current will clear itself in a short time",
+      "Switch off the supply, or separate the casualty with insulating material",
+      "Grab the casualty with bare hands and pull them clear of the equipment at once, then switch off",
+      "Pour water on the casualty to cool the burns and to wash away any contact"
     ],
     "correctIndex": 1,
     "explanation": "Then check breathing and start CPR if needed, and call for medical help."
@@ -443,7 +443,7 @@
     "options": [
       "An earth fault in the winding or cable",
       "A disconnected motor",
-      "Perfect insulation",
+      "Perfect insulation, since there is no leakage current to earth",
       "Normal operation"
     ],
     "correctIndex": 0,
@@ -458,7 +458,7 @@
     "options": [
       "The engine room temperature falls",
       "The bridge requests it by telephone only",
-      "The ship arrives in port",
+      "The ship arrives in port and shore power is connected to the board",
       "The running generators are heavily loaded or one of them fails"
     ],
     "correctIndex": 3,
@@ -471,8 +471,8 @@
     "difficulty": "medium",
     "question": "Before connecting shore power, the ship's staff must check that:",
     "options": [
-      "The shore cable is as long as possible",
-      "The ship's generators are still connected in parallel with shore",
+      "The shore cable is as long as possible to reduce voltage drop",
+      "The ship's generators are still connected in parallel with the shore supply when changing over",
       "The shore supply voltage, frequency and phase sequence match the ship's system",
       "Only the voltage is correct"
     ],
@@ -486,10 +486,10 @@
     "difficulty": "medium",
     "question": "The emergency switchboard is normally located:",
     "options": [
-      "In the cargo hold",
-      "Near the emergency generator, above the uppermost continuous deck and outside the machinery spaces",
-      "Next to the main switchboard in the engine room",
-      "In the double bottom"
+      "In the cargo hold, so that it is near the cargo gear and the deck machinery of the ship",
+      "Near the emergency generator, above the uppermost continuous deck, outside machinery spaces",
+      "Next to the main switchboard in the engine room, in the same compartment, for easy changeover",
+      "In the double bottom, below the main switchboard of the ship"
     ],
     "correctIndex": 1,
     "explanation": "This keeps emergency power available if the main machinery spaces are lost to fire or flooding."
@@ -502,7 +502,7 @@
     "question": "As a general guide, the insulation resistance of a 440 V motor should be at least:",
     "options": [
       "1 ohm",
-      "1 kilohm",
+      "1 kilohm, measured with the megger at 500 V for one minute",
       "100 ohms",
       "1 megohm"
     ],
@@ -546,10 +546,10 @@
     "difficulty": "medium",
     "question": "The slip of an induction motor is:",
     "options": [
-      "The voltage drop in the cable",
-      "The power factor",
+      "The voltage drop in the supply cable when the motor is started on full load",
+      "The power factor of the motor, which falls as the load on the shaft is reduced",
       "The difference between synchronous speed and rotor speed, usually given as a percentage",
-      "The movement of the motor on its bed"
+      "The movement of the motor on its bedplate, caused by the starting torque and vibration"
     ],
     "correctIndex": 2,
     "explanation": "The rotor must run slower than the rotating field so that current is induced in it."
@@ -563,7 +563,7 @@
     "options": [
       "1,800 rpm",
       "3,600 rpm",
-      "1,500 rpm",
+      "1,500 rpm, which is the synchronous speed on a 50 Hz supply",
       "900 rpm"
     ],
     "correctIndex": 0,
@@ -576,7 +576,7 @@
     "difficulty": "medium",
     "question": "'Single phasing' of a running three-phase motor means:",
     "options": [
-      "The motor runs on a single-phase supply by design",
+      "The motor runs on a single-phase supply by design, so it uses less current from the board",
       "One supply phase has been lost, so the motor overheats and may stall",
       "The motor runs faster",
       "All three phases are balanced"
@@ -592,7 +592,7 @@
     "question": "Power factor is the ratio of:",
     "options": [
       "Frequency to speed",
-      "Voltage to current",
+      "Voltage to current, which is the impedance of the circuit",
       "kVA to kW",
       "True power (kW) to apparent power (kVA)"
     ],
@@ -606,10 +606,10 @@
     "difficulty": "medium",
     "question": "A low power factor on the ship's supply means that:",
     "options": [
-      "The voltage always rises",
-      "More current is needed to deliver the same true power, increasing losses and loading the generators",
-      "Less current flows for the same load",
-      "The frequency falls"
+      "The voltage always rises, so that the insulation of the cables is under stress",
+      "More current is needed for the same true power, increasing losses and generator loading",
+      "Less current flows for the same load, which reduces the losses in the cables and generators",
+      "The frequency falls, so that the speed of the motors and the generators is reduced"
     ],
     "correctIndex": 1,
     "explanation": "Generators are rated in kVA, so a low power factor limits the useful kW they can supply."
@@ -621,10 +621,10 @@
     "difficulty": "medium",
     "question": "The undervoltage release on a generator circuit breaker:",
     "options": [
-      "Trips the breaker if the voltage collapses and prevents closing until the generator voltage has built up",
-      "Raises the generator voltage",
-      "Measures the power factor",
-      "Controls the engine speed"
+      "Trips the breaker if the voltage collapses and prevents closing until the voltage has built up",
+      "Raises the generator voltage when it falls below the set value and holds the breaker closed",
+      "Measures the power factor of the generator and sends the signal to the governor",
+      "Controls the engine speed by moving the fuel rack when the voltage is not correct"
     ],
     "correctIndex": 0,
     "explanation": "It stops a dead or failing generator being connected to the busbar."
@@ -636,8 +636,8 @@
     "difficulty": "hard",
     "question": "During manual synchronising, the incoming generator's breaker is usually closed when the synchroscope pointer is:",
     "options": [
-      "Stopped at the 6 o'clock position",
-      "Spinning rapidly in the 'slow' direction",
+      "Stopped at the 6 o'clock position, with the phases opposite",
+      "Spinning rapidly in the 'slow' direction, with the pointer passing the 12 o'clock position",
       "Moving slowly in the 'fast' direction, just before the 12 o'clock position",
       "Moving quickly in either direction"
     ],
@@ -651,7 +651,7 @@
     "difficulty": "medium",
     "question": "After a generator has been synchronised and connected, load is transferred to it by:",
     "options": [
-      "Increasing its excitation only",
+      "Increasing its excitation only, so that it takes the kW load directly from the other set",
       "Opening the other generator's breaker immediately",
       "Changing the busbar frequency to 50 Hz",
       "Adjusting the governors to increase its fuel and reduce that of the other set"
@@ -668,7 +668,7 @@
     "options": [
       "Its output frequency changes with main engine speed",
       "Its voltage is too low for any use",
-      "It produces DC only",
+      "It produces DC only, which must be converted to AC for use",
       "It runs at a fixed speed always"
     ],
     "correctIndex": 0,
@@ -681,7 +681,7 @@
     "difficulty": "medium",
     "question": "The specific gravity of the electrolyte in a fully charged lead-acid cell is about:",
     "options": [
-      "1.00",
+      "1.00, which is the specific gravity of pure water at 15 °C",
       "1.26 to 1.28",
       "1.10",
       "1.50"
@@ -696,10 +696,10 @@
     "difficulty": "medium",
     "question": "The electrolyte in a nickel-cadmium battery is:",
     "options": [
-      "Sodium chloride solution",
-      "Dilute sulphuric acid",
-      "Distilled water only",
-      "Potassium hydroxide solution, so tools and hydrometers used on lead-acid batteries must not be shared"
+      "Sodium chloride solution, as in sea water batteries, which is renewed every year",
+      "Dilute sulphuric acid, as in lead-acid batteries, so the same tools may be used on both",
+      "Distilled water only, which is topped up from the engine room fresh water tank",
+      "Potassium hydroxide solution, so tools used on lead-acid batteries must not be shared"
     ],
     "correctIndex": 3,
     "explanation": "Mixing the two electrolytes damages both types of battery."
@@ -714,7 +714,7 @@
       "110 kV",
       "24 V",
       "6.6 kV or 11 kV",
-      "440 V"
+      "440 V, the same as the main distribution voltage on ships"
     ],
     "correctIndex": 2,
     "explanation": "High voltage reduces current, cable size and fault levels on ships with large electrical loads."
@@ -726,10 +726,10 @@
     "difficulty": "medium",
     "question": "Electrical equipment marked 'Ex' is designed for use in:",
     "options": [
-      "Wet areas only",
+      "Wet areas only, such as washdown areas and the open deck",
       "Hazardous areas where flammable gas or vapour may be present",
       "The accommodation",
-      "Refrigerated spaces"
+      "Refrigerated spaces such as cold rooms, where moisture and ice can affect the equipment"
     ],
     "correctIndex": 1,
     "explanation": "Types include flameproof (Ex d) and intrinsically safe (Ex i) equipment."
@@ -756,9 +756,9 @@
     "difficulty": "medium",
     "question": "Impressed current cathodic protection (ICCP) protects the hull by:",
     "options": [
-      "Heating the hull plates",
+      "Heating the hull plates with an electric current to prevent marine growth on the hull",
       "Earthing the hull to the main switchboard neutral",
-      "Painting the hull with zinc",
+      "Painting the hull with a zinc-rich primer before each docking",
       "Passing a controlled DC current from anodes through the sea water to the hull"
     ],
     "correctIndex": 3,
@@ -771,10 +771,10 @@
     "difficulty": "medium",
     "question": "A variable frequency drive (VFD) controls the speed of an induction motor by:",
     "options": [
-      "Changing the number of poles",
-      "Reversing two phases",
+      "Changing the number of poles of the stator winding by contactors",
+      "Reversing two phases of the supply, so that the speed is changed by the torque",
       "Changing the frequency, and voltage, of the supply to the motor",
-      "Adding resistance to the rotor"
+      "Adding resistance to the rotor circuit by slip rings and a bank of resistors"
     ],
     "correctIndex": 2,
     "explanation": "VFDs save energy on pumps and fans and reduce starting currents."
@@ -786,7 +786,7 @@
     "difficulty": "medium",
     "question": "Before working on equipment containing capacitors, you should:",
     "options": [
-      "Charge the capacitors fully",
+      "Charge the capacitors fully, so that they cannot discharge later",
       "Remove only the fuses",
       "Make sure the capacitors have been safely discharged",
       "Work quickly while the supply is on"
@@ -804,7 +804,7 @@
       "30 minutes",
       "36 hours",
       "5 minutes",
-      "18 hours"
+      "18 hours, which is the duration for the emergency source"
     ],
     "correctIndex": 0,
     "explanation": "It bridges the gap until the emergency generator is running and connected."
@@ -816,7 +816,7 @@
     "difficulty": "hard",
     "question": "On a cargo ship, the emergency source of electrical power must be able to supply its essential services for:",
     "options": [
-      "36 hours",
+      "36 hours, which is the duration required on passenger ships",
       "18 hours",
       "1 hour",
       "3 hours"
@@ -833,7 +833,7 @@
     "options": [
       "The reverse power relays",
       "The preferential trips",
-      "The busbar frequency",
+      "The busbar frequency, which is set by the turbocharger speed",
       "The excitation, through the automatic voltage regulators"
     ],
     "correctIndex": 3,
@@ -862,9 +862,9 @@
     "question": "Ship high-voltage systems are commonly earthed through:",
     "options": [
       "A fuse in the neutral",
-      "A solid copper bar with no resistance",
+      "A solid copper bar with no resistance, as on shore systems",
       "A neutral earthing resistor, which limits the earth fault current",
-      "The ship's sacrificial anodes"
+      "The ship's sacrificial anodes, which provide a path to the hull for any fault current"
     ],
     "correctIndex": 2,
     "explanation": "Limiting fault current reduces damage, while protection can still detect and clear the fault."
@@ -876,7 +876,7 @@
     "difficulty": "hard",
     "question": "Residual current devices (RCDs) used to protect people typically trip at a leakage current of about:",
     "options": [
-      "3 A",
+      "3 A, which is the setting used for fire protection circuits",
       "300 A",
       "1 mA",
       "30 mA"
@@ -891,9 +891,9 @@
     "difficulty": "hard",
     "question": "In a brushless alternator, the main field current is supplied by:",
     "options": [
-      "Carbon brushes and slip rings",
+      "Carbon brushes and slip rings supplied with direct current",
       "An AC exciter on the shaft whose output is rectified by rotating diodes",
-      "The ship's batteries",
+      "The ship's batteries, through a charging circuit controlled by the voltage regulator",
       "A separate DC generator in the switchboard"
     ],
     "correctIndex": 1,
@@ -907,9 +907,9 @@
     "question": "A self-excited alternator that fails to build up voltage after a long idle period may have lost its:",
     "options": [
       "Residual magnetism, which can be restored by 'flashing' the field with a DC source",
-      "Synchroscope",
-      "Cooling water",
-      "Earth connection"
+      "Synchroscope failure, which stops the alternator from taking the field current",
+      "Cooling water, which has stopped flowing through the air cooler of the alternator",
+      "The earth connection of the neutral point, which has to be re-made by an electrician"
     ],
     "correctIndex": 0,
     "explanation": "Voltage build-up starts from the small voltage produced by residual magnetism in the rotor."
@@ -923,8 +923,8 @@
     "options": [
       "An earth fault trip only",
       "Short-circuit protection and an overload alarm, but no overload trip",
-      "An overload trip that stops the motor at 100% load",
-      "No protection at all"
+      "An overload trip that stops the motor when the load reaches 100%",
+      "No protection at all, since steering gear must never be stopped by any protective device"
     ],
     "correctIndex": 1,
     "explanation": "Steering must not be lost because of an overload; the alarm warns the engineers instead."
@@ -938,8 +938,8 @@
     "options": [
       "Loss of insulation in all cables",
       "A permanent rise in supply frequency",
-      "Harmonic distortion of the supply, leading to extra heating and interference with other equipment",
-      "Improved generator efficiency with no side effects"
+      "Harmonic distortion of the supply, causing extra heating and interference",
+      "Improved generator efficiency with no side effects on other equipment on the same supply"
     ],
     "correctIndex": 2,
     "explanation": "Filters, multi-pulse drives or active front ends are used to reduce harmonics."
@@ -951,9 +951,9 @@
     "difficulty": "hard",
     "question": "On an insulated neutral system that already has one earth fault, the main danger is:",
     "options": [
-      "The frequency rising",
-      "Batteries overcharging",
-      "Generators going out of synchronism",
+      "The frequency rising above the limits set by the governor, tripping the generator breaker",
+      "Batteries overcharging, because the earth fault current flows through the charger",
+      "Generators going out of synchronism, as the voltage of one phase has fallen to earth",
       "A second earth fault on another phase, causing a phase-to-phase short circuit"
     ],
     "correctIndex": 3,

@@ -6,9 +6,9 @@
     "difficulty": "easy",
     "question": "VHF channel 16 is used for:",
     "options": [
-      "Ship-to-ship routine chat",
-      "Weather forecasts only",
-      "Port operations only",
+      "Routine ship-to-ship conversations between bridge watchkeepers",
+      "Broadcasting weather forecasts and navigational warnings to ships",
+      "Port operations and berthing messages between ships and tugs",
       "Distress, urgency and safety calls, and calling"
     ],
     "correctIndex": 3,
@@ -36,10 +36,10 @@
     "difficulty": "medium",
     "question": "Sea area A1 is defined as an area:",
     "options": [
-      "Within MF coast station coverage",
-      "Within radiotelephone range of at least one VHF coast station with continuous DSC alerting",
-      "In polar regions beyond satellite coverage",
-      "Within Inmarsat coverage only"
+      "Within the radiotelephone range of at least one MF coast station with DSC",
+      "Within radiotelephone range of at least one VHF coast station with DSC",
+      "In the polar regions beyond the coverage of the geostationary satellites",
+      "Within the coverage of Inmarsat geostationary satellites only, outside VHF range"
     ],
     "correctIndex": 1,
     "explanation": "A1 is typically about 20-30 NM from the coast station. A2 is MF coverage, A3 is satellite coverage and A4 is the remaining (polar) areas."
@@ -126,10 +126,10 @@
     "difficulty": "hard",
     "question": "A VHF DSC distress alert has been sent by mistake. What should you do?",
     "options": [
-      "Send another distress alert",
-      "Switch off the radio and say nothing",
-      "Wait for a coast station to call you back",
-      "Cancel it on the DSC equipment if possible, then make an 'all stations' voice cancellation on channel 16"
+      "Send another distress alert on the same channel to confirm the false alert",
+      "Switch off the radio at once and say nothing, as the alert will clear itself",
+      "Wait for a coast station to call you back and then explain what has happened",
+      "Cancel it on the DSC equipment if possible, then make an all-stations voice call"
     ],
     "correctIndex": 3,
     "explanation": "Acting promptly and openly stops a needless SAR response. Note the event in the radio log."
@@ -141,10 +141,10 @@
     "difficulty": "medium",
     "question": "Sea area A3 is the area outside A1 and A2 that is within coverage of:",
     "options": [
-      "A VHF coast station",
-      "Only HF coast stations",
-      "A recognised mobile satellite service (for example Inmarsat geostationary satellites)",
-      "NAVTEX stations"
+      "A VHF coast station with continuous DSC alerting capability on channel 70",
+      "Only HF coast stations, with continuous DSC watch on the HF distress frequencies",
+      "A recognised mobile satellite service, such as Inmarsat",
+      "NAVTEX stations broadcasting on 518 kHz within a range of 400 miles"
     ],
     "correctIndex": 2,
     "explanation": "Satellite coverage roughly between 70°N and 70°S."
@@ -171,10 +171,10 @@
     "difficulty": "hard",
     "question": "On an X-band radar display, an active SART first appears as:",
     "options": [
-      "A single bright spot",
-      "A ring of light around own ship",
+      "A single bright spot at the SART's position, blinking on every sweep",
+      "A ring of light around own ship, increasing in diameter with each sweep",
       "A line of 12 dots extending outward from the SART's position",
-      "A flashing red cross"
+      "A flashing red cross at the SART's position, with its range shown beside it"
     ],
     "correctIndex": 2,
     "explanation": "As the rescue ship comes within about 1 NM, the dots become arcs and then concentric circles."
@@ -216,10 +216,10 @@
     "difficulty": "medium",
     "question": "Which records must be kept in the GMDSS radio log?",
     "options": [
-      "Only weather reports",
+      "Only weather reports received from NAVTEX and the satellite EGC service",
       "Distress, urgency and safety traffic, and equipment tests",
-      "Only routine commercial calls",
-      "Crew private calls"
+      "Only routine commercial calls to and from coast stations and other ships",
+      "Crew private calls, together with the duration and cost of each of them"
     ],
     "correctIndex": 1,
     "explanation": "The log must be available for inspection by the Administration and port state."
@@ -261,10 +261,10 @@
     "difficulty": "medium",
     "question": "Sea area A2 is the area, excluding A1, within radiotelephone coverage of at least one:",
     "options": [
-      "MF coast station with continuous DSC alerting",
-      "VHF coast station",
-      "Geostationary satellite only",
-      "HF coast station with NAVTEX"
+      "An MF coast station with continuous DSC alerting",
+      "A VHF coast station with continuous DSC alerting on channel 70",
+      "A geostationary satellite coast earth station with an Inmarsat service",
+      "An HF coast station with a NAVTEX transmitter and a DSC watch"
     ],
     "correctIndex": 0,
     "explanation": "A2 typically extends to about 100-150 nautical miles from the MF station."
@@ -276,10 +276,10 @@
     "difficulty": "medium",
     "question": "Sea area A4 covers:",
     "options": [
-      "All areas outside sea areas A1, A2 and A3, essentially the polar regions",
-      "Inland waterways",
-      "The area within 20 miles of a port",
-      "Coastal waters within VHF range"
+      "All areas outside A1, A2 and A3, essentially the polar regions",
+      "Inland waterways and lakes where the ship is covered by VHF only",
+      "The area within 20 nautical miles of a port with a pilot station",
+      "Coastal waters within the range of at least one VHF coast station"
     ],
     "correctIndex": 0,
     "explanation": "In A4, HF radio or a satellite service with polar coverage is needed."
@@ -292,9 +292,9 @@
     "question": "A ship's MMSI is:",
     "options": [
       "A nine-digit Maritime Mobile Service Identity used for DSC and AIS",
-      "The serial number of the VHF set",
-      "Her radio call sign in letters",
-      "The ship's IMO number"
+      "The serial number of the VHF set, entered by the maker at manufacture",
+      "Her radio call sign in letters and figures, as given by the flag state",
+      "The ship's seven-digit IMO number, used as the DSC identity at sea"
     ],
     "correctIndex": 0,
     "explanation": "The MMSI must be programmed into the DSC equipment, AIS and EPIRB as required."
@@ -306,10 +306,10 @@
     "difficulty": "medium",
     "question": "The first three digits of a ship station MMSI are the:",
     "options": [
-      "Number of the coast station",
-      "Ship's year of build",
+      "Number of the coast station that issued the identity to the ship",
+      "Ship's year of build and the code of the building yard",
       "Maritime Identification Digits (MID), showing the flag country",
-      "Sea area code"
+      "Sea area code, showing the area where the ship is trading"
     ],
     "correctIndex": 2,
     "explanation": "Each country has one or more MIDs allocated by the ITU."
@@ -337,9 +337,9 @@
     "question": "VHF channel 13 is mainly used for:",
     "options": [
       "Bridge-to-bridge communications on navigation safety",
-      "Public correspondence with coast stations",
-      "DSC distress alerting",
-      "NAVTEX broadcasts"
+      "Public correspondence with coast stations through telephone links",
+      "DSC distress alerting and calling on the VHF band",
+      "NAVTEX broadcasts of navigational warnings and weather"
     ],
     "correctIndex": 0,
     "explanation": "Many port and VTS areas also use channel 13 for ship movement communications."
@@ -366,10 +366,10 @@
     "difficulty": "easy",
     "question": "Using low power (1 W) on VHF is good practice for:",
     "options": [
-      "All distress calls",
-      "Calling a coast station 40 miles away",
-      "Testing the EPIRB",
-      "Short-range communications, such as in port, to avoid interfering with other stations"
+      "All distress calls, since low power uses less of the battery",
+      "Calling a coast station at a distance of 40 nautical miles from the ship",
+      "Testing the EPIRB, when the beacon is switched on in port",
+      "Short-range communications, such as in port, to avoid interfering"
     ],
     "correctIndex": 3,
     "explanation": "Full power (25 W) is used when range is needed, including for distress traffic."
@@ -381,10 +381,10 @@
     "difficulty": "medium",
     "question": "'SEELONCE MAYDAY' means that:",
     "options": [
-      "Radio silence has been imposed by the station controlling distress traffic",
-      "The distress is over",
-      "The ship has abandoned ship",
-      "Restricted working may resume"
+      "Radio silence has been imposed by the station controlling the distress traffic",
+      "The distress is over and normal working may resume on the frequency",
+      "The ship in distress has been abandoned and the crew are in the water",
+      "Restricted working may resume, but distress traffic is not yet over"
     ],
     "correctIndex": 0,
     "explanation": "Only the station in distress or the controlling station may impose it."
@@ -411,10 +411,10 @@
     "difficulty": "hard",
     "question": "'PRUDONCE' in distress traffic means:",
     "options": [
-      "The distress is cancelled",
-      "All ships must proceed to the position",
-      "Complete silence is imposed",
-      "Restricted working may resume on the frequency, but distress traffic is not yet over"
+      "The distress is cancelled and normal working may resume at once",
+      "All ships must proceed to the distress position without delay",
+      "Complete silence is imposed on the frequency by the controlling station",
+      "Restricted working may resume, but distress traffic is not yet over"
     ],
     "correctIndex": 3,
     "explanation": "Stations may use the frequency for essential traffic while keeping clear of continuing distress communications."
@@ -426,10 +426,10 @@
     "difficulty": "medium",
     "question": "A MAYDAY RELAY message is transmitted by:",
     "options": [
-      "Only a rescue coordination centre",
-      "An EPIRB automatically",
+      "Only a rescue coordination centre, on behalf of the ship in distress",
+      "An EPIRB, automatically, when it has been activated by water",
       "A station that is not itself in distress, passing on a distress message",
-      "The ship in distress only"
+      "The ship in distress, when she has no other means of alerting"
     ],
     "correctIndex": 2,
     "explanation": "For example when the ship in distress cannot transmit, or when the distress alert has not been acknowledged."
@@ -486,9 +486,9 @@
     "difficulty": "medium",
     "question": "In addition to the 406 MHz alert, most satellite EPIRBs transmit a signal on:",
     "options": [
-      "518 kHz, for NAVTEX",
-      "156.8 MHz, for VHF channel 16",
-      "2182 kHz, for radiotelephony",
+      "518 kHz, for NAVTEX broadcasts of navigational warnings",
+      "156.8 MHz, for VHF channel 16 distress and safety calling",
+      "2182 kHz, for radiotelephony distress calls and homing signals",
       "121.5 MHz, used for homing by search and rescue units"
     ],
     "correctIndex": 3,
@@ -501,10 +501,10 @@
     "difficulty": "easy",
     "question": "A float-free satellite EPIRB is designed to:",
     "options": [
-      "Be fixed permanently inside the wheelhouse",
+      "Be fixed permanently inside the wheelhouse, switched on by the officer of the watch",
       "Release and activate automatically if the ship sinks",
-      "Work only when switched on by hand",
-      "Transmit only on VHF channel 16"
+      "Work only when switched on by hand, after the ship has been abandoned",
+      "Transmit only on VHF channel 16, as a back-up to the DSC controller"
     ],
     "correctIndex": 1,
     "explanation": "Its hydrostatic release frees it at a depth of a few metres so it floats to the surface."
@@ -531,10 +531,10 @@
     "difficulty": "medium",
     "question": "Distress alerts from a 406 MHz EPIRB are relayed:",
     "options": [
-      "Via Cospas-Sarsat satellites and ground stations to a Mission Control Centre and then to the responsible RCC",
-      "Directly to nearby ships on VHF channel 70",
-      "To the ship's owner only",
-      "Only by NAVTEX"
+      "Via Cospas-Sarsat satellites and ground stations to a Mission Control Centre",
+      "Directly to nearby ships on VHF channel 70, by DSC with the ship's MMSI",
+      "To the ship's owner only, who then informs the coastguard",
+      "Only by NAVTEX, from the nearest coast station within its range"
     ],
     "correctIndex": 0,
     "explanation": "MEOSAR satellites now give near-instant detection and independent location."
@@ -546,10 +546,10 @@
     "difficulty": "medium",
     "question": "Registering the EPIRB with the national authority is important because:",
     "options": [
-      "It allows the RCC to identify the ship and its contacts as soon as an alert is received",
-      "It increases the beacon's power",
-      "It is needed for the EPIRB to switch on",
-      "It changes the transmission frequency"
+      "It allows the RCC to identify the ship and its contacts at once",
+      "It increases the beacon's transmitting power to the maximum allowed",
+      "It is needed for the EPIRB to switch on when it is activated",
+      "It changes the transmission frequency to the one allocated to the ship"
     ],
     "correctIndex": 0,
     "explanation": "Registration details must be updated if the ship changes name, owner or flag."
@@ -561,10 +561,10 @@
     "difficulty": "hard",
     "question": "On AIS-capable displays such as ECDIS or radar, an active AIS-SART is shown as:",
     "options": [
-      "A red triangle",
-      "A line of 12 dots",
+      "A red triangle with an exclamation mark inside it, flashing",
+      "A line of 12 dots extending away from the position of the SART",
       "A circle with a cross inside it",
-      "A flashing square"
+      "A flashing square with the MMSI of the SART shown beside it"
     ],
     "correctIndex": 2,
     "explanation": "An AIS-SART sends its GNSS position in AIS messages, so it appears on AIS displays rather than as radar echoes."
@@ -591,10 +591,10 @@
     "difficulty": "hard",
     "question": "As a rescue ship comes within about 1 nautical mile of a radar SART, its display changes from 12 dots to:",
     "options": [
-      "Nothing at all",
+      "Nothing at all, because the SART stops transmitting at close range",
       "Arcs and then concentric circles centred on the SART",
-      "A single bright dot",
-      "A straight line along the heading marker"
+      "A single bright dot, which grows brighter as the ship approaches",
+      "A straight line along the heading marker, from own ship to the SART"
     ],
     "correctIndex": 1,
     "explanation": "This happens because the SART responds to the radar's side lobes at close range; reducing gain can help locate it precisely."
@@ -607,9 +607,9 @@
     "question": "A radar SART battery must allow it to operate for 96 hours in standby and then:",
     "options": [
       "8 hours while being interrogated by radar",
-      "1 hour of transmission",
-      "30 minutes of transmission",
-      "48 hours of transmission"
+      "1 hour of transmission, after which the battery must be replaced",
+      "30 minutes of transmission, with a battery warning on the SART",
+      "48 hours of transmission, with the beacon flashing as a homing signal"
     ],
     "correctIndex": 0,
     "explanation": "The battery expiry date must be checked as part of regular GMDSS inspections."
@@ -651,10 +651,10 @@
     "difficulty": "medium",
     "question": "The typical range of a NAVTEX station is about:",
     "options": [
-      "Unlimited, worldwide",
-      "2,000 nautical miles",
+      "Unlimited, worldwide, because the broadcasts are relayed by satellite",
+      "2,000 nautical miles, by using the HF band at night",
       "250 to 400 nautical miles",
-      "20 nautical miles"
+      "20 nautical miles, as for a VHF coast station in sea area A1"
     ],
     "correctIndex": 2,
     "explanation": "Ships beyond NAVTEX coverage receive maritime safety information by EGC satellite services."
@@ -666,10 +666,10 @@
     "difficulty": "medium",
     "question": "In sea area A3, maritime safety information is mainly received through:",
     "options": [
-      "NAVTEX only",
+      "NAVTEX only, as broadcast by the coast stations on 518 kHz",
       "The satellite Enhanced Group Call (EGC) service, such as SafetyNET",
-      "VHF channel 16 only",
-      "The AIS"
+      "VHF channel 16 only, with broadcasts at fixed times of the day",
+      "The AIS, with text messages from the shore stations"
     ],
     "correctIndex": 1,
     "explanation": "EGC receivers can be set to the ship's NAVAREA and coastal areas of interest."
@@ -711,10 +711,10 @@
     "difficulty": "hard",
     "question": "On receiving a VHF DSC distress alert, a ship in the area should normally:",
     "options": [
-      "Ignore it unless she sees the ship",
-      "Relay the alert by DSC to all ships at once",
-      "Acknowledge immediately by DSC",
-      "Listen on channel 16, allow a short time for a coast station to acknowledge, and acknowledge by radiotelephone if appropriate"
+      "Ignore it unless she sees the ship in distress or hears the voice call",
+      "Relay the alert by DSC to all ships, in order to get help to the position",
+      "Acknowledge immediately by DSC, so that the alert stops repeating",
+      "Listen on channel 16, allow time for a coast station to acknowledge, then acknowledge by voice"
     ],
     "correctIndex": 3,
     "explanation": "Ships should not acknowledge by DSC unless instructed by an RCC or coast station, to avoid stopping repeated alerts and confusing the situation."
@@ -726,10 +726,10 @@
     "difficulty": "medium",
     "question": "Which of the following is one of the functional requirements of GMDSS?",
     "options": [
-      "Ordering spare parts",
+      "Ordering spare parts and provisions through the company's agent",
       "Transmitting and receiving signals for locating",
-      "Broadcasting entertainment",
-      "Sending crew emails"
+      "Broadcasting entertainment and news programmes to the crew mess",
+      "Sending crew emails and private messages through the satellite terminal"
     ],
     "correctIndex": 1,
     "explanation": "Others include distress alerting, SAR coordination, on-scene communications, MSI, general and bridge-to-bridge communications."
@@ -756,10 +756,10 @@
     "difficulty": "hard",
     "question": "For ships sailing in sea areas A3 and A4, the availability of GMDSS equipment must be ensured by:",
     "options": [
-      "At least two of: duplication of equipment, shore-based maintenance and at-sea electronic maintenance capability",
-      "A spare VHF handheld only",
-      "Shore-based maintenance alone",
-      "Keeping the equipment switched off when not used"
+      "At least two of: duplication, shore-based maintenance and at-sea electronic maintenance",
+      "A spare VHF handheld only, kept in the chart room",
+      "Shore-based maintenance alone, carried out at each port of call",
+      "Keeping the equipment switched off when it is not in use, to save wear"
     ],
     "correctIndex": 0,
     "explanation": "In sea areas A1 and A2, one of these methods is enough."
@@ -801,9 +801,9 @@
     "difficulty": "medium",
     "question": "Cargo ships of 500 GT and above must carry at least:",
     "options": [
-      "Four EPIRBs",
-      "One SART for the whole ship",
-      "A radar SART in each liferaft",
+      "Four EPIRBs, two on each side of the ship in float-free brackets",
+      "One SART for the whole ship, kept on the bridge in a bracket",
+      "A radar SART in each liferaft, in addition to the lifeboat radios",
       "One search and rescue locating device (SART or AIS-SART) on each side"
     ],
     "correctIndex": 3,
@@ -831,10 +831,10 @@
     "difficulty": "medium",
     "question": "To obtain radio medical advice from a TMAS for an injured crew member, the ship normally sends:",
     "options": [
-      "A distress alert by DSC",
+      "A distress alert by DSC, followed by a MAYDAY call on channel 16",
       "An urgency message (PAN PAN), usually through a coast station",
-      "A routine AIS message",
-      "A security message on NAVTEX"
+      "A routine AIS message sent to the nearest port authority",
+      "A security message on NAVTEX, addressed to the TMAS"
     ],
     "correctIndex": 1,
     "explanation": "Medical advice calls carry urgency priority unless the situation is grave and imminent."
@@ -906,10 +906,10 @@
     "difficulty": "easy",
     "question": "Maritime Safety Information (MSI) includes:",
     "options": [
-      "Port tariffs",
+      "Port tariffs and charges at the ports on the ship's route",
       "Navigational and meteorological warnings, forecasts and other urgent safety messages",
-      "Commercial cargo bookings",
-      "Crew wage information"
+      "Commercial cargo bookings and orders for the next voyage",
+      "Crew wage information and details of the allotment to families"
     ],
     "correctIndex": 1,
     "explanation": "MSI is broadcast by NAVTEX and by satellite EGC services."
@@ -952,9 +952,9 @@
     "question": "Before transmitting on a VHF working channel, the operator should:",
     "options": [
       "Listen to make sure the channel is not already in use",
-      "Switch to channel 70",
-      "Transmit a long test tone",
-      "Turn the squelch fully off and transmit at once"
+      "Switch to channel 70 to announce the call to the other ships",
+      "Transmit a long test tone to check the antenna and the squelch",
+      "Turn the squelch fully off and transmit at once, to get the channel"
     ],
     "correctIndex": 0,
     "explanation": "This avoids interfering with other traffic, especially distress or safety communications."

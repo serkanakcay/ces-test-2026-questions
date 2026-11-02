@@ -6,10 +6,10 @@
     "difficulty": "easy",
     "question": "Stowage factor is:",
     "options": [
-      "The maximum number of tiers of containers",
+      "The maximum mass of cargo the tank top may carry per square metre of its area",
       "The volume occupied by one tonne of cargo, including normal broken stowage",
-      "The weight of cargo per hold",
-      "The density of sea water"
+      "The mass of cargo that can be stowed in one cubic metre of hold space",
+      "The ratio of a cargo's mass to the volume of water it displaces"
     ],
     "correctIndex": 1,
     "explanation": "Usually expressed in m³/t or ft³/LT; used to work out how much cargo a space can hold."
@@ -21,10 +21,10 @@
     "difficulty": "medium",
     "question": "Broken stowage is:",
     "options": [
-      "Space in a cargo compartment lost because of the shape of packages and the structure",
-      "Cargo damaged during loading",
-      "An unsafe stowage method",
-      "Cargo stowed on deck"
+      "Space in a hold lost because of the shape of packages and the ship's structure",
+      "Cargo space left empty because the hold was not filled to capacity by the shipper",
+      "Deck space reserved for lashing gear, dunnage and other securing equipment on board",
+      "Space between the cargo and hatch coaming kept clear for ventilation and hold access"
     ],
     "correctIndex": 0,
     "explanation": "It is usually given as a percentage and is higher for irregular packages and shaped holds."
@@ -36,10 +36,10 @@
     "difficulty": "easy",
     "question": "The IMDG Code applies to:",
     "options": [
-      "Solid bulk cargoes",
-      "Crude oil in bulk",
-      "Dangerous goods carried in packaged form",
-      "Grain in bulk"
+      "Dangerous solid cargoes carried in bulk in the holds of bulk carriers",
+      "Hazardous liquid chemicals carried in bulk in the tanks of chemical tankers",
+      "Dangerous goods carried in packaged form, including in containers",
+      "Liquefied gases carried in bulk in the cargo tanks of gas carriers"
     ],
     "correctIndex": 2,
     "explanation": "The International Maritime Dangerous Goods Code covers classification, packing, marking, labelling and segregation of packaged dangerous goods."
@@ -66,10 +66,10 @@
     "difficulty": "hard",
     "question": "Under the IMSBC Code, Group A cargoes are those that:",
     "options": [
-      "Have chemical hazards only",
-      "May liquefy if shipped at a moisture content above their Transportable Moisture Limit",
-      "Are always carried in containers",
-      "Are neither liquefiable nor chemically hazardous"
+      "Have chemical hazards that could create danger for the ship or crew on board",
+      "May liquefy if their moisture content exceeds the Transportable Moisture Limit",
+      "Are packaged goods that must be stowed and segregated under the IMDG Code rules",
+      "Are neither liquefiable nor chemically hazardous in any condition at sea"
     ],
     "correctIndex": 1,
     "explanation": "Group A cargoes (for example some mineral concentrates) need a TML certificate and moisture declaration before loading."
@@ -81,10 +81,10 @@
     "difficulty": "medium",
     "question": "Ship's sweat (condensation on the steel structure) is most likely when:",
     "options": [
-      "The hold is completely dry",
+      "The hold is kept tightly closed and fully ventilated by dry outside air",
       "The ship moves from a warm region to a cold region with warm, moist air in the hold",
-      "The ship moves from a cold region to a warm region with cold cargo",
-      "The cargo is stowed on deck"
+      "The ship moves from a cold region to a warm region while the cargo is still cold",
+      "The steel structure is warmer than the dew point of the air in the hold throughout"
     ],
     "correctIndex": 1,
     "explanation": "Warm humid air in the hold meets steel cooled by the colder sea and air, below the dew point, so moisture condenses on the structure."
@@ -111,10 +111,10 @@
     "difficulty": "easy",
     "question": "The SWL marked on lifting gear is:",
     "options": [
-      "The breaking load of the wire",
-      "The maximum load the gear is certified to lift safely",
-      "The weight of the gear itself",
-      "The test load used at proof testing"
+      "The minimum breaking load of the wire or chain, as shown on its certificate",
+      "The maximum load the gear is certified to lift safely in service",
+      "The weight of the gear itself, to be added to the load when calculating",
+      "The test load applied to the gear at proof testing, which is above the working load"
     ],
     "correctIndex": 1,
     "explanation": "Gear is proof tested above its SWL, and it must never be loaded beyond it."
@@ -141,9 +141,9 @@
     "difficulty": "hard",
     "question": "Crude oil washing (COW) is carried out:",
     "options": [
-      "At sea after discharge, using hot fresh water",
-      "Only in dry dock",
-      "During loading, using sea water",
+      "At sea after discharge, using hot fresh water drawn from the ship's evaporator",
+      "During ballast passage, using a chemical detergent solution recirculated through the slop tank",
+      "During loading, using heated sea water sprayed through the fixed tank washing machines",
       "During discharge, using the crude oil cargo itself as the washing medium"
     ],
     "correctIndex": 3,
@@ -156,9 +156,9 @@
     "difficulty": "medium",
     "question": "Every ship carrying cargo units must have a Cargo Securing Manual that is:",
     "options": [
-      "Optional for container ships",
-      "Written by the charterer for each voyage",
-      "Issued by the port state",
+      "Optional for container ships that carry fewer than 500 TEU of cargo",
+      "Written by the charterer for each voyage and carried by the master only for that voyage",
+      "Issued by the port state at the first port of call and valid for that call",
       "Approved by the Administration and specific to the ship"
     ],
     "correctIndex": 3,
@@ -171,9 +171,9 @@
     "difficulty": "medium",
     "question": "Before a reefer container is loaded, a pre-trip inspection (PTI) confirms that:",
     "options": [
-      "The customs seal is broken",
-      "The container is empty",
-      "The cargo has been weighed",
+      "The customs seal has been broken and replaced by the shipping line's own lock",
+      "The container is empty, clean and free of any residues from earlier cargo",
+      "The cargo inside has been weighed and its mass matches the declared figure on the manifest",
       "The refrigeration unit works correctly and holds the set temperature"
     ],
     "correctIndex": 3,
@@ -186,10 +186,10 @@
     "difficulty": "hard",
     "question": "Under SOLAS, a packed container may not be loaded unless:",
     "options": [
-      "It is stowed below deck",
-      "It has been opened for inspection by the crew",
+      "It is stowed below deck in a hold fitted with cell guides at the time",
+      "It has been opened for inspection by the ship's crew at the loading terminal",
       "Its Verified Gross Mass (VGM) has been provided to the master or terminal",
-      "It has been fumigated"
+      "It has been fumigated and carries a valid fumigation certificate from the shipper"
     ],
     "correctIndex": 2,
     "explanation": "SOLAS Ch. VI Reg. 2 places the VGM requirement on the shipper."
@@ -202,9 +202,9 @@
     "question": "The main purpose of dunnage is to:",
     "options": [
       "Protect cargo, help ventilation and drainage, and prevent shifting",
-      "Increase the ship's GM",
-      "Count the cargo",
-      "Seal the hatch covers"
+      "Increase the ship's GM by adding weight low down in the holds of the vessel",
+      "Count and tally the cargo as it is loaded by marking each separate package",
+      "Seal the hatch covers against water entering when the ship is in heavy weather"
     ],
     "correctIndex": 0,
     "explanation": "Dunnage can be timber, mats, airbags or other materials placed between cargo and structure."
@@ -217,9 +217,9 @@
     "question": "Container stack weights must not exceed the limit given in the:",
     "options": [
       "Ship's Cargo Securing Manual and stowage/stability documentation",
-      "Bill of lading",
-      "Charter party",
-      "Crew list"
+      "Bill of lading signed for the container by the shipper and the carrier",
+      "Charter party agreed between the shipowner and the charterer of the ship",
+      "Container's own CSC safety approval plate fixed to its door frame by the owner"
     ],
     "correctIndex": 0,
     "explanation": "Overweight stacks overload lashings and corner posts, especially in heavy rolling."
@@ -291,10 +291,10 @@
     "difficulty": "easy",
     "question": "Twistlocks are used to:",
     "options": [
-      "Close the hatch covers",
-      "Secure the gangway",
+      "Close and seal the hatch covers against water entering the cargo hold in heavy weather",
+      "Secure the gangway and accommodation ladder to the ship's side when she is at anchor",
       "Lock containers to each other or to the deck or hatch cover at their corner castings",
-      "Tighten lashing wires on timber cargo"
+      "Tighten lashing wires on timber cargo stowed on deck, without using any corner fittings"
     ],
     "correctIndex": 2,
     "explanation": "Twistlocks resist lifting and sliding; lashing rods and turnbuckles resist racking and tipping in higher tiers."
@@ -306,10 +306,10 @@
     "difficulty": "easy",
     "question": "Ullage in a cargo tank is:",
     "options": [
-      "The depth of liquid measured from the tank bottom",
+      "The depth of liquid measured from the bottom of the tank up to its surface",
       "The distance from a reference point at the top of the tank down to the liquid surface",
-      "The temperature of the cargo",
-      "The volume of vapour in the tank"
+      "The distance from the liquid surface down to the bottom of the tank at its lowest point",
+      "The volume of cargo vapour above the liquid, measured at the tank's ullage opening"
     ],
     "correctIndex": 1,
     "explanation": "Ullage tables convert the reading into volume, with corrections for trim and list."
@@ -321,9 +321,9 @@
     "difficulty": "easy",
     "question": "A sounding of a tank measures:",
     "options": [
-      "The tank's pressure",
-      "The density of the liquid",
-      "The empty space above the liquid",
+      "The pressure of the vapour in the tank, read from the tank pressure gauge",
+      "The density of the liquid in the tank, found by comparing it with fresh water",
+      "The empty space above the liquid, measured from the top of the tank down",
       "The depth of liquid from the bottom of the tank up to the surface"
     ],
     "correctIndex": 3,
@@ -337,9 +337,9 @@
     "question": "A Ro-Ro ship is designed to carry cargo that is:",
     "options": [
       "Driven or rolled on and off on its own wheels or on trailers",
-      "Lifted on with the ship's cranes only",
-      "Loaded as loose bulk",
-      "Pumped as a liquid"
+      "Lifted on and off by the ship's own cranes or by shore cranes in slings",
+      "Loaded as loose bulk through the hatches by grabs, conveyors or loading spouts",
+      "Pumped into the ship's tanks through hoses connected at a loading manifold"
     ],
     "correctIndex": 0,
     "explanation": "Vehicle decks need careful lashing, ventilation and fire protection."
@@ -351,10 +351,10 @@
     "difficulty": "medium",
     "question": "A mate's receipt is:",
     "options": [
-      "The document the master signs for bunkers",
-      "The receipt for port dues",
-      "A receipt signed on behalf of the ship for cargo received on board, noting its apparent condition",
-      "The crew's wage slip"
+      "The document the master signs for bunkers received, stating quantity and density",
+      "The receipt for port dues paid by the agent on behalf of the shipowner",
+      "A receipt signed for cargo received on board, noting its apparent condition",
+      "The crew's wage slip for the month, showing earnings and any deductions made"
     ],
     "correctIndex": 2,
     "explanation": "Remarks on the mate's receipt (for example damaged packaging) are normally transferred to the bill of lading."
@@ -366,9 +366,9 @@
     "difficulty": "medium",
     "question": "A bill of lading serves as:",
     "options": [
-      "The cargo insurance policy",
-      "A certificate of the ship's seaworthiness",
-      "The ship's register",
+      "The cargo insurance policy covering loss or damage to the goods during carriage by sea",
+      "A certificate stating the ship's seaworthiness, issued by the classification society for the voyage",
+      "The ship's register, showing her owner, tonnage and flag at the port of registry",
       "A receipt for the goods, evidence of the contract of carriage and a document of title"
     ],
     "correctIndex": 3,
@@ -382,9 +382,9 @@
     "question": "The cargo manifest is:",
     "options": [
       "A list of all the cargo carried on board",
-      "The ship's crew list",
-      "The stability calculation",
-      "The record of hatch cover tests"
+      "A list of the ship's crew members with their nationalities and ranks, for the port",
+      "The stability calculation for the loaded condition, with the final GM and trim",
+      "The record of hatch cover tests made during the voyage by the ship's officers"
     ],
     "correctIndex": 0,
     "explanation": "Customs and port authorities require the manifest for the cargo being loaded or discharged."
@@ -396,10 +396,10 @@
     "difficulty": "medium",
     "question": "A hold described as 'grain clean' must be:",
     "options": [
-      "Filled with fresh water ballast",
-      "Just swept of large debris",
+      "Washed with sea water and left damp, so that dust does not rise during loading",
+      "Swept clean of large debris only, with any remaining cargo dust left in the hold",
       "Swept and washed, free of residues, loose rust, odours and insects, and dry",
-      "Painted with fresh coating"
+      "Painted with a fresh coating of hold paint that is still wet when loading begins"
     ],
     "correctIndex": 2,
     "explanation": "Hold cleanliness standards are agreed in the charter party and checked by surveyors before loading."
@@ -411,10 +411,10 @@
     "difficulty": "medium",
     "question": "A draught survey is carried out to:",
     "options": [
-      "Measure the hull's paint thickness",
-      "Determine the mass of bulk cargo loaded or discharged from the ship's draughts and her deductible weights",
-      "Find the ship's speed",
-      "Inspect the ballast tanks for corrosion"
+      "Measure the thickness of the hull's paint and plating at the load line marks",
+      "Determine the mass of bulk cargo loaded or discharged from the ship's draughts",
+      "Find the ship's true speed through the water by comparing her draughts with the log",
+      "Inspect the ballast tanks for corrosion by comparing the draughts forward and aft"
     ],
     "correctIndex": 1,
     "explanation": "Draughts are read at both sides forward, aft and amidships and corrected for trim, hog/sag and water density."
@@ -426,10 +426,10 @@
     "difficulty": "medium",
     "question": "A hygroscopic cargo is one that:",
     "options": [
-      "Gives off flammable gas",
-      "Never needs ventilation",
+      "Gives off flammable gas when it is wetted, as some coals and metal ores do",
+      "Never needs ventilation because it cannot take up moisture from the surrounding air",
       "Absorbs and releases moisture, such as grain, cocoa or coffee",
-      "Is carried frozen"
+      "Is carried frozen at a set temperature, in refrigerated holds or containers"
     ],
     "correctIndex": 2,
     "explanation": "Moisture movement from hygroscopic cargoes can cause cargo sweat and ship's sweat."
@@ -441,9 +441,9 @@
     "difficulty": "hard",
     "question": "Under the dew point rule, a hold carrying hygroscopic cargo should be ventilated when:",
     "options": [
-      "It is raining",
-      "The outside air temperature is higher than the cargo temperature",
-      "The outside relative humidity is 100%",
+      "The outside air is saturated with moisture, as in rain, fog or heavy spray",
+      "The outside air temperature is higher than the temperature of the cargo in the hold",
+      "The outside relative humidity is higher than the relative humidity inside the hold",
       "The dew point of the outside air is lower than the dew point of the air in the hold"
     ],
     "correctIndex": 3,
@@ -456,10 +456,10 @@
     "difficulty": "hard",
     "question": "The 'three degree rule' for ventilating hygroscopic cargo says to ventilate when:",
     "options": [
-      "The outside air is at least 3 °C warmer than the cargo",
+      "The outside air is at least 3 °C warmer than the cargo at the time of loading",
       "The outside air temperature is at least 3 °C lower than the cargo temperature at loading",
-      "The ship's heading changes by 3°",
-      "The hold temperature changes by 3 °C per hour"
+      "The outside air dew point is at least 3 °C above the dew point in the hold",
+      "The hold temperature has risen by 3 °C during the previous 24 hours at sea"
     ],
     "correctIndex": 1,
     "explanation": "It is a practical rule used when hold dew points cannot be measured reliably."
@@ -472,9 +472,9 @@
     "question": "Under the IMSBC Code, the Transportable Moisture Limit (TML) of a cargo is:",
     "options": [
       "The maximum moisture content considered safe for carriage of a cargo that may liquefy",
-      "The moisture at which the cargo self-heats",
-      "The amount of water the ship can carry as ballast",
-      "The minimum moisture needed to stop dust"
+      "The moisture content at which a cargo begins to self-heat and give off gas",
+      "The amount of water the ship may carry as ballast while the cargo is aboard",
+      "The minimum moisture content needed to stop dust rising from a dry bulk cargo"
     ],
     "correctIndex": 0,
     "explanation": "The shipper must declare that the moisture content is below the TML before loading Group A cargoes."
@@ -486,10 +486,10 @@
     "difficulty": "hard",
     "question": "The 'can test' for a Group A solid bulk cargo is:",
     "options": [
-      "The official method for setting the TML",
-      "A test of hatch cover weathertightness",
-      "A test of container lashing strength",
-      "A rough check on board or at the terminal that does not replace the shipper's laboratory test certificates"
+      "The official laboratory method for setting the TML of a Group A cargo before shipment",
+      "A test of hatch cover weathertightness using a hose or ultrasonic equipment on board",
+      "A test of container lashing strength carried out by the terminal before departure",
+      "A rough check on board or at the terminal that does not replace the shipper's laboratory test"
     ],
     "correctIndex": 3,
     "explanation": "If a sample shows free water or a fluid state, loading should be stopped and the cargo re-tested."
@@ -517,9 +517,9 @@
     "question": "When loading a static accumulator oil into a tank that is not inerted, the initial loading rate should be limited so that:",
     "options": [
       "The linear velocity in the filling line is about 1 m/s until the inlet is well covered",
-      "The tank fills within 10 minutes",
-      "The pressure exceeds the P/V valve setting",
-      "The cargo splashes to cool the tank"
+      "The tank is filled within 10 minutes so that vapour has no time to build up",
+      "The tank pressure is allowed to rise above the P/V valve setting during the filling",
+      "The cargo splashes into the tank, so the falling oil cools the tank atmosphere"
     ],
     "correctIndex": 0,
     "explanation": "Low velocity at the start reduces splashing, turbulence and the build-up of static electricity."
@@ -531,10 +531,10 @@
     "difficulty": "easy",
     "question": "'Topping off' a cargo tank means:",
     "options": [
-      "Washing the top of the tank",
-      "Removing the tank lid",
+      "Washing the top of the tank with a water spray to remove cargo residues after loading",
+      "Removing the tank lid or ullage plug so that vapour can escape during the final filling",
       "Reducing the loading rate and filling the tank carefully to its final ullage",
-      "Emptying the tank completely"
+      "Emptying the tank completely by stripping, then refilling it with the cargo of the next port"
     ],
     "correctIndex": 2,
     "explanation": "Adequate staff, clear communication with the terminal and close monitoring prevent overflows during topping off."
@@ -561,9 +561,9 @@
     "difficulty": "medium",
     "question": "The pressure/vacuum (P/V) valve on a cargo tank:",
     "options": [
-      "Measures the cargo density",
-      "Injects inert gas automatically",
-      "Controls the cargo pump speed",
+      "Measures the density of the cargo and sends a signal to the cargo control room",
+      "Injects inert gas automatically into the tank whenever the oxygen level starts to rise",
+      "Controls the speed of the cargo pump according to the tank pressure on discharge",
       "Protects the tank from excessive pressure or vacuum, for example during temperature changes"
     ],
     "correctIndex": 3,
@@ -667,9 +667,9 @@
     "question": "The EmS Guide supplied with the IMDG Code gives:",
     "options": [
       "Emergency procedures for fires and spillages involving dangerous goods",
-      "Lashing calculations for containers",
-      "Stowage factors for bulk cargoes",
-      "Ship stability criteria"
+      "Lashing calculations for dangerous goods stowed in containers on the hatch covers",
+      "Stowage factors and densities for dangerous goods carried in bulk in the holds",
+      "Stability criteria for ships carrying dangerous goods on deck or in containers"
     ],
     "correctIndex": 0,
     "explanation": "Each dangerous goods entry has an EmS code, for example F-E, S-D, for the fire and spillage schedules."
@@ -681,10 +681,10 @@
     "difficulty": "medium",
     "question": "The Medical First Aid Guide (MFAG) is used for:",
     "options": [
-      "Calculating cargo quantities",
+      "Calculation of cargo quantities and segregation for dangerous goods in containers",
       "First aid treatment of people affected by dangerous goods",
-      "Diagnosing illnesses of crew in general",
-      "Fire-fighting in cargo holds"
+      "Diagnosis of illnesses among the crew when no doctor is available on board",
+      "Fire-fighting methods for dangerous goods stowed in the cargo holds of the ship"
     ],
     "correctIndex": 1,
     "explanation": "It is used together with the IMDG Code and the ship's medical guide."
@@ -696,9 +696,9 @@
     "difficulty": "easy",
     "question": "A UN number in the IMDG Code is:",
     "options": [
-      "The port's identification code",
-      "A container's serial number",
-      "The ship's IMO number",
+      "The port's identification code, used by the terminal to book the cargo",
+      "A container's serial number, painted on its doors and top rails by the owner",
+      "The ship's seven-digit IMO number, shown on the dangerous goods manifest",
       "A four-digit number that identifies a dangerous substance or article"
     ],
     "correctIndex": 3,
@@ -726,10 +726,10 @@
     "difficulty": "hard",
     "question": "Under ILO Convention 152 practice, ship's lifting appliances must be thoroughly examined at least:",
     "options": [
-      "Once every 5 years only",
-      "Only when first installed",
+      "Once every 5 years only, at the time of the ship's renewal survey of class",
+      "Only when first installed and after any repair affecting the gear's strength",
       "Once every 12 months, and tested and thoroughly examined at least once every 5 years",
-      "Once a month by the crew"
+      "Once a month by the crew, with no examination by a competent person ashore"
     ],
     "correctIndex": 2,
     "explanation": "Results are recorded in the register of lifting appliances and cargo handling gear."
@@ -756,9 +756,9 @@
     "difficulty": "medium",
     "question": "Under the BLU Code, the loading or unloading plan for a bulk carrier is:",
     "options": [
-      "Prepared after loading is complete",
-      "Decided by the terminal alone",
-      "Not required for bulk cargoes",
+      "Prepared by the ship after loading is complete, to record what was loaded",
+      "Decided by the terminal alone, as the master is not involved in bulk loading",
+      "Not required for bulk cargoes that are loaded in a single continuous operation",
       "Agreed between the master and the terminal representative before operations start"
     ],
     "correctIndex": 3,
@@ -772,9 +772,9 @@
     "question": "During bulk cargo loading, the approved loading sequence must be followed mainly to:",
     "options": [
       "Keep shear forces and bending moments within permissible limits",
-      "Increase the ship's speed",
-      "Reduce dust in the holds",
-      "Save time at the terminal"
+      "Increase the ship's speed by keeping the stern deeper than the bow on sailing",
+      "Reduce the amount of dust that rises from the cargo in the holds while loading",
+      "Save time at the terminal by loading the nearest holds of the ship first"
     ],
     "correctIndex": 0,
     "explanation": "High loading rates with unequal hold quantities can overstress the hull; the loading computer is used to check each step."
@@ -786,10 +786,10 @@
     "difficulty": "hard",
     "question": "The main hazards of a coal cargo are:",
     "options": [
-      "Methane emission and self-heating, so gas monitoring and surface ventilation are required",
-      "Corrosion of the cargo itself",
-      "Liquefaction only",
-      "Radiation"
+      "Methane emission and self-heating, so gas monitoring and ventilation are required",
+      "Corrosion of the cargo by sea water entering the holds through the hatch covers",
+      "Liquefaction at high moisture content, which makes the cargo move like a liquid",
+      "Radiation from natural isotopes, which requires dosimeters for the crew on watch"
     ],
     "correctIndex": 0,
     "explanation": "Methane, oxygen and carbon monoxide are monitored; rising CO can indicate self-heating."
@@ -801,10 +801,10 @@
     "difficulty": "medium",
     "question": "The angle of repose of a granular bulk cargo is:",
     "options": [
-      "The angle of the loading spout",
-      "The angle of heel at which the cargo shifts",
+      "The angle of the loading spout, measured from the vertical at the hatch opening",
+      "The angle of heel at which the cargo begins to shift across the hold",
       "The maximum slope angle at which the cargo surface stays stable without sliding",
-      "The angle of the hold's hopper tanks"
+      "The angle of the hold's hopper tank slopes, measured from the tank top"
     ],
     "correctIndex": 2,
     "explanation": "Cargoes with a low angle of repose flow more easily and are more likely to shift."
@@ -816,10 +816,10 @@
     "difficulty": "hard",
     "question": "Under the IMSBC Code, a non-cohesive cargo with an angle of repose of 30° or less:",
     "options": [
-      "Is classed as a Group A cargo",
-      "Must always be carried in containers",
-      "Needs no trimming at all",
-      "Flows freely like grain and is carried in accordance with the provisions for stowage of grain"
+      "Is classed as a Group A cargo, because it may liquefy at its moisture content",
+      "Must always be carried in containers, because it cannot be shipped in bulk at all",
+      "Needs no trimming at all, as it levels itself completely in the hold on loading",
+      "Flows freely like grain and is carried in accordance with the provisions for grain"
     ],
     "correctIndex": 3,
     "explanation": "Such cargoes can shift easily, so trimming and stability against shifting must be considered."
@@ -831,10 +831,10 @@
     "difficulty": "easy",
     "question": "Before loading cargo, hold bilge wells should be:",
     "options": [
-      "Sealed permanently",
+      "Sealed with cement or plugs so that no water can enter the bilge system",
       "Cleaned, with strainers in place, and the bilge suction tested",
-      "Left as found from the last cargo",
-      "Filled with water"
+      "Left as found from the last cargo, since residues cannot affect the next cargo",
+      "Filled with fresh water, so that the sounding pipes can be checked for leaks"
     ],
     "correctIndex": 1,
     "explanation": "Blocked bilges can lead to cargo damage, wet cargo or flooding going undetected."
@@ -847,9 +847,9 @@
     "question": "Fresh air exchange is needed in a reefer container carrying fruit because:",
     "options": [
       "The fruit respires, producing heat, carbon dioxide and ethylene",
-      "It prevents the doors from icing",
-      "It increases the container's weight",
-      "The fruit needs extra oxygen to freeze"
+      "It prevents the container doors from icing up when the unit is in defrost",
+      "It increases the container's weight, which improves its stability in the stack",
+      "The fruit needs extra oxygen from outside air so that it freezes more slowly"
     ],
     "correctIndex": 0,
     "explanation": "The fresh air setting is given by the shipper; too little causes ripening and spoilage."
@@ -861,10 +861,10 @@
     "difficulty": "hard",
     "question": "For a petroleum cargo, the mass in the tank is normally found by:",
     "options": [
-      "Using the ship's draught only",
-      "Multiplying the ullage by the tank length",
-      "Converting the observed volume to standard volume at 15 °C with a volume correction factor, then multiplying by the density at 15 °C",
-      "Weighing the pump discharge"
+      "Using the ship's draught and the hydrostatic tables only, without tank measurements",
+      "Multiplying the ullage by the tank length and the cargo's density at the loading port",
+      "Converting the observed volume to standard volume at 15 °C, then multiplying by density",
+      "Weighing the cargo on the shore scale as it passes the shore pump at the terminal"
     ],
     "correctIndex": 2,
     "explanation": "A further factor converts mass in vacuum to weight in air for commercial figures."
@@ -891,9 +891,9 @@
     "difficulty": "medium",
     "question": "LPG carriers are built in three main types:",
     "options": [
-      "Open, closed and vented",
-      "Single hull, double hull and triple hull",
-      "Inerted, non-inerted and ventilated only",
+      "Open, closed and vented types, according to the cargo tank venting arrangement",
+      "Single hull, double hull and triple hull types, according to the hull construction",
+      "Inerted, non-inerted and ventilated types, according to the tank atmosphere used",
       "Fully pressurised, semi-refrigerated and fully refrigerated"
     ],
     "correctIndex": 3,
@@ -906,10 +906,10 @@
     "difficulty": "medium",
     "question": "In the container stowage position (bay-row-tier), the 'row' number shows:",
     "options": [
-      "Its position along the ship",
+      "Its position along the length of the ship, counted from the bow aft",
       "The container's athwartships position across the ship",
-      "Its vertical level",
-      "Its weight category"
+      "Its vertical level, counted upwards from the hatch cover or the deck",
+      "Its weight category, as marked on the container by its owner or lessor"
     ],
     "correctIndex": 1,
     "explanation": "Rows are numbered from the centreline: odd numbers to starboard, even numbers to port."
@@ -921,10 +921,10 @@
     "difficulty": "hard",
     "question": "In container bay numbering, an even bay number such as 06 usually indicates:",
     "options": [
-      "A container stowed on deck only",
-      "A 20-foot reefer container",
+      "A container stowed on deck only, outboard of the hatch coaming of the ship",
+      "A 20-foot refrigerated container plugged into a socket on the deck at that bay",
       "A 40-foot container occupying two adjacent 20-foot bays (05 and 07)",
-      "An empty container"
+      "An empty container stowed in the lowest tier of the bay under the deck cargo"
     ],
     "correctIndex": 2,
     "explanation": "Odd bay numbers are used for 20-foot positions."
@@ -966,10 +966,10 @@
     "difficulty": "medium",
     "question": "Before an oil tanker starts cargo transfer at a terminal, the ship and terminal should:",
     "options": [
-      "Complete the ship/shore safety checklist together and agree on rates, communications and emergency stop procedures",
-      "Start pumping first and complete the paperwork later",
-      "Rely only on the terminal's checks",
-      "Agree only on the cargo quantity"
+      "Complete the ship/shore safety checklist and agree rates, communications and emergency stops",
+      "Start pumping at once and complete the paperwork once the flow has been established",
+      "Rely on the terminal's own checks, as the ship's officers cannot inspect the shore lines",
+      "Agree only on the quantity of cargo and leave the other details to the pumpman"
     ],
     "correctIndex": 0,
     "explanation": "The ISGOTT ship/shore safety checklist is repeated at agreed intervals during the operation."

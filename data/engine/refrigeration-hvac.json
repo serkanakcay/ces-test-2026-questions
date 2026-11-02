@@ -6,7 +6,7 @@
     "difficulty": "easy",
     "question": "The four main components of a vapour compression refrigeration cycle are:",
     "options": [
-      "Boiler, turbine, condenser and pump",
+      "Boiler, turbine, condenser and feed pump, as used in a steam power plant",
       "Pump, heater, valve and tank",
       "Compressor, boiler, cooler and filter",
       "Compressor, condenser, expansion valve and evaporator"
@@ -22,7 +22,7 @@
     "question": "In the evaporator, the refrigerant:",
     "options": [
       "Is compressed to high pressure",
-      "Rejects heat and condenses",
+      "Rejects heat to the cooling water and condenses at high pressure",
       "Is filtered and dried",
       "Absorbs heat and boils at low pressure"
     ],
@@ -36,9 +36,9 @@
     "difficulty": "medium",
     "question": "A thermostatic expansion valve (TEV) controls:",
     "options": [
-      "Compressor speed",
-      "Oil level in the crankcase",
-      "Condenser cooling water flow",
+      "Compressor speed, by sensing the room temperature and changing the drive frequency",
+      "Oil level in the crankcase, by opening when the level falls below the sight glass",
+      "Condenser cooling water flow, by sensing the condensing pressure of the plant",
       "Refrigerant flow to the evaporator to keep a set superheat at the outlet"
     ],
     "correctIndex": 3,
@@ -66,10 +66,10 @@
     "difficulty": "medium",
     "question": "Low compressor suction pressure may be caused by:",
     "options": [
-      "High room temperature",
-      "Too much refrigerant",
+      "High room temperature, which raises the load on the evaporator and the pressure",
+      "Too much refrigerant in the system, which backs up liquid into the condenser",
       "Low refrigerant charge, an iced evaporator or a blocked expansion valve",
-      "Too much condenser cooling water"
+      "Too much cooling water through the condenser, which lowers the condensing pressure"
     ],
     "correctIndex": 2,
     "explanation": "Not enough refrigerant reaches the evaporator, so suction pressure falls."
@@ -81,10 +81,10 @@
     "difficulty": "medium",
     "question": "High compressor discharge pressure is often caused by:",
     "options": [
-      "A frozen evaporator",
+      "A frozen evaporator, which cuts the amount of vapour reaching the compressor",
       "Fouled condenser tubes, low cooling water flow or air in the system",
-      "A low refrigerant charge",
-      "Low room temperature"
+      "A low refrigerant charge, which leaves part of the condenser empty of liquid",
+      "Low room temperature, which reduces the heat load on the refrigeration plant"
     ],
     "correctIndex": 1,
     "explanation": "Condensing pressure rises when heat cannot be rejected effectively."
@@ -98,7 +98,7 @@
     "options": [
       "The top of the condenser or receiver",
       "The compressor crankcase",
-      "The bottom of the evaporator",
+      "The bottom of the evaporator, where the heavier refrigerant liquid collects",
       "The expansion valve"
     ],
     "correctIndex": 0,
@@ -113,7 +113,7 @@
     "options": [
       "Ice blocking the expansion valve, and acid that corrodes parts",
       "Improved oil lubrication",
-      "Better cooling",
+      "Better cooling, because the water increases the heat transfer in the evaporator",
       "Lower discharge pressure"
     ],
     "correctIndex": 0,
@@ -128,7 +128,7 @@
     "options": [
       "The oil level is high",
       "The condenser is too cold",
-      "The system is overcharged",
+      "The system is overcharged and the liquid line is completely full of refrigerant",
       "The system is short of refrigerant"
     ],
     "correctIndex": 3,
@@ -141,9 +141,9 @@
     "difficulty": "hard",
     "question": "Superheat at the evaporator outlet is:",
     "options": [
-      "The temperature difference across the compressor",
-      "The liquid temperature below saturation",
-      "The temperature of the condenser cooling water",
+      "The temperature difference between the suction and the discharge of the compressor",
+      "The liquid temperature below saturation at the same pressure in the condenser",
+      "The temperature of the condenser cooling water above the refrigerant condensing point",
       "The temperature of the vapour above its saturation temperature at the same pressure"
     ],
     "correctIndex": 3,
@@ -158,7 +158,7 @@
     "options": [
       "Ice reduces heat transfer and airflow",
       "It cleans the condenser",
-      "Ice improves cooling",
+      "Ice improves cooling by insulating the coil from the warm air in the room",
       "Defrosting adds refrigerant"
     ],
     "correctIndex": 0,
@@ -189,7 +189,7 @@
       "Reduce the discharge temperature without risk",
       "Damage valves and other parts, since liquid cannot be compressed",
       "Lubricate the cylinders",
-      "Improve compressor efficiency"
+      "Improve compressor efficiency by cooling the cylinders and valves with liquid"
     ],
     "correctIndex": 1,
     "explanation": "It usually comes from a flooding expansion valve, low superheat or an overcharge."
@@ -203,8 +203,8 @@
     "options": [
       "A secondary refrigerant that carries heat from the cargo spaces to the evaporator",
       "Condenser cooling water",
-      "Lubricating oil",
-      "The main refrigerant in the compressor"
+      "Lubricating oil that is circulated through the compressor and returned to the crankcase",
+      "The main refrigerant in the compressor, which is evaporated in the cooling coil"
     ],
     "correctIndex": 0,
     "explanation": "Indirect systems keep the main refrigerant out of the cargo spaces."
@@ -216,9 +216,9 @@
     "difficulty": "medium",
     "question": "An oil separator in the compressor discharge line:",
     "options": [
-      "Controls the condenser pressure",
-      "Removes moisture",
-      "Adds oil to the refrigerant",
+      "Controls the condenser pressure by passing hot gas to the receiver in cold weather",
+      "Removes moisture from the refrigerant before it enters the expansion valve",
+      "Adds oil to the refrigerant to lubricate the expansion valve and the evaporator",
       "Removes lubricating oil from the hot gas and returns it to the crankcase"
     ],
     "correctIndex": 3,
@@ -234,7 +234,7 @@
       "Removes moisture from the refrigerant",
       "Raises the pressure and temperature of the refrigerant vapour",
       "Reduces the refrigerant pressure",
-      "Turns liquid refrigerant into vapour at low pressure"
+      "Turns liquid refrigerant into vapour at low pressure by absorbing heat from the room"
     ],
     "correctIndex": 1,
     "explanation": "Raising the pressure allows the refrigerant to condense at a temperature above that of the cooling medium."
@@ -246,7 +246,7 @@
     "difficulty": "easy",
     "question": "In the condenser, the refrigerant:",
     "options": [
-      "Absorbs heat from the cold room",
+      "Absorbs heat from the cold room and changes from liquid to vapour at low pressure",
       "Is compressed",
       "Gives up heat and changes from vapour to liquid",
       "Is filtered"
@@ -261,10 +261,10 @@
     "difficulty": "easy",
     "question": "As the refrigerant passes through the expansion valve, its pressure:",
     "options": [
-      "Rises and its temperature falls to zero",
+      "Rises and its temperature falls to zero, as the liquid refrigerant freezes in the valve",
       "Falls sharply, so it can boil at a low temperature in the evaporator",
-      "Stays the same",
-      "Rises sharply"
+      "Stays the same, but its temperature falls as the refrigerant liquid is cooled by it",
+      "Rises sharply, so that the refrigerant can condense at a high temperature"
     ],
     "correctIndex": 1,
     "explanation": "Part of the liquid flashes to vapour, cooling the rest."
@@ -277,7 +277,7 @@
     "question": "The liquid receiver in a refrigeration plant:",
     "options": [
       "Cools the compressor",
-      "Stores refrigerant vapour for the compressor",
+      "Stores refrigerant vapour for the compressor suction when the load is low",
       "Stores liquid refrigerant leaving the condenser",
       "Separates oil from the vapour"
     ],
@@ -291,7 +291,7 @@
     "difficulty": "easy",
     "question": "A filter drier in the liquid line is fitted to:",
     "options": [
-      "Increase the refrigerant pressure",
+      "Increase the refrigerant pressure before it enters the expansion valve and evaporator",
       "Measure the refrigerant flow",
       "Remove moisture and dirt from the refrigerant",
       "Add oil to the system"
@@ -308,7 +308,7 @@
     "options": [
       "-18 to -20 °C",
       "0 °C",
-      "+2 to +4 °C",
+      "+2 to +4 °C, as used for dairy produce and vegetables",
       "-60 °C"
     ],
     "correctIndex": 0,
@@ -324,7 +324,7 @@
       "Opens the expansion valve",
       "Stops the compressor if the discharge pressure becomes too high",
       "Adds refrigerant automatically",
-      "Starts the compressor when the room warms up"
+      "Starts the compressor when the room warms up above the thermostat setting"
     ],
     "correctIndex": 1,
     "explanation": "It protects against conditions such as a cooling water failure or a fouled condenser; it usually needs a manual reset."
@@ -353,7 +353,7 @@
     "options": [
       "A megger",
       "An electronic leak detector or soap solution",
-      "A naked flame held at the joints",
+      "A naked flame held at the joints, which changes colour if refrigerant is present",
       "A hydrometer"
     ],
     "correctIndex": 1,
@@ -367,7 +367,7 @@
     "question": "Large ship reefer and provision plants commonly use which types of compressor?",
     "options": [
       "Reciprocating or screw compressors",
-      "Centrifugal fans only",
+      "Centrifugal fans only, which compress the refrigerant in a single stage",
       "Gear pumps",
       "Jet ejectors"
     ],
@@ -384,7 +384,7 @@
       "A capillary tube",
       "A steam trap",
       "A safety valve",
-      "A gate valve"
+      "A gate valve, which is set by hand to give the correct refrigerant flow"
     ],
     "correctIndex": 0,
     "explanation": "The fixed restriction of the long, thin tube meters the refrigerant flow."
@@ -399,7 +399,7 @@
       "Only the engine room temperature",
       "Only fresh air supply",
       "Air temperature, humidity, cleanliness and circulation",
-      "Only air temperature"
+      "Only air temperature, which is controlled by the room thermostat of each cabin"
     ],
     "correctIndex": 2,
     "explanation": "Good air conditioning keeps the accommodation comfortable in all climates."
@@ -411,10 +411,10 @@
     "difficulty": "easy",
     "question": "Relative humidity is:",
     "options": [
-      "The temperature of the air",
-      "The amount of water vapour in the air compared with the maximum it could hold at that temperature, as a percentage",
-      "The air pressure",
-      "The amount of oxygen in the air"
+      "The temperature of the air as measured by the dry bulb thermometer, in degrees Celsius",
+      "The amount of water vapour in the air compared with the most it could hold at that temperature",
+      "The air pressure inside the room, measured as a ratio of the atmospheric pressure",
+      "The amount of oxygen in the air compared with the amount in fresh outside air"
     ],
     "correctIndex": 1,
     "explanation": "Air at 100% relative humidity is saturated, and further cooling causes condensation."
@@ -426,9 +426,9 @@
     "difficulty": "easy",
     "question": "Relative humidity on board is commonly measured with:",
     "options": [
-      "A barometer",
-      "A megger",
-      "A manometer",
+      "A barometer, which shows the pressure of the air and the water vapour in it",
+      "A megger, which gives the moisture in the air by the resistance of the paper element",
+      "A manometer, which gives the humidity as a difference in height of liquid in a U-tube",
       "A wet and dry bulb thermometer (psychrometer) or an electronic hygrometer"
     ],
     "correctIndex": 3,
@@ -441,10 +441,10 @@
     "difficulty": "easy",
     "question": "When handling liquid refrigerant, you should wear:",
     "options": [
-      "Only ear defenders",
-      "No protection is needed",
+      "Only ear defenders, since the noise of the escaping liquid is the main danger",
+      "No protection is needed, because refrigerant liquid evaporates at once on the skin",
       "Gloves and eye protection, because contact can cause frostbite",
-      "A lifejacket"
+      "A lifejacket and a safety harness, because the liquid is stored at a high pressure"
     ],
     "correctIndex": 2,
     "explanation": "Liquid refrigerant evaporates very quickly at atmospheric pressure, absorbing heat from the skin."
@@ -457,9 +457,9 @@
     "question": "A large refrigerant leak in an enclosed space such as a cold room is dangerous because:",
     "options": [
       "Most refrigerant vapour is heavier than air and can displace oxygen",
-      "It increases oxygen levels",
-      "It is always explosive",
-      "It makes the air too warm"
+      "It increases oxygen levels in the cold room and so raises the risk of a fire",
+      "It is always explosive, whatever the type of refrigerant and the amount that escapes",
+      "It makes the air too warm for the people working inside the cold room"
     ],
     "correctIndex": 0,
     "explanation": "Ventilate the space and check the atmosphere before entry."
@@ -474,7 +474,7 @@
       "Stops all air circulation",
       "Heats the air and adds moisture, for example with steam humidifiers",
       "Uses only recirculated air with no heating",
-      "Cools the air below its dew point"
+      "Cools the air below its dew point to remove moisture and then reheats it"
     ],
     "correctIndex": 1,
     "explanation": "Cold outside air heated without humidification becomes very dry."
@@ -486,7 +486,7 @@
     "difficulty": "medium",
     "question": "A moisture indicator in the liquid-line sight glass:",
     "options": [
-      "Shows the refrigerant pressure",
+      "Shows the refrigerant pressure in the liquid line, as a colour on the glass",
       "Shows the oil level",
       "Changes colour if the refrigerant contains too much moisture",
       "Measures the room temperature"
@@ -501,10 +501,10 @@
     "difficulty": "medium",
     "question": "In a multi-room provision plant, the liquid solenoid valve for each room:",
     "options": [
-      "Is always open",
-      "Closes when the room thermostat is satisfied, stopping refrigerant flow to that evaporator",
-      "Controls the condenser water",
-      "Opens to release refrigerant to atmosphere"
+      "Is always open, and the room temperature is controlled by the suction valve at the compressor",
+      "Closes when the room thermostat is satisfied, stopping flow to that evaporator",
+      "Controls the condenser water flow according to the pressure of the refrigerant vapour",
+      "Opens to release refrigerant to the atmosphere when the room is warmer than the thermostat setting"
     ],
     "correctIndex": 1,
     "explanation": "When all rooms are satisfied, the suction pressure falls and the compressor stops on its LP switch."
@@ -517,9 +517,9 @@
     "question": "The oil pressure differential switch on a refrigeration compressor:",
     "options": [
       "Stops the compressor if the oil pressure above crankcase pressure becomes too low",
-      "Starts the condenser pump",
-      "Controls the defrost cycle",
-      "Measures the refrigerant charge"
+      "Starts the condenser cooling water pump when the compressor oil pressure falls",
+      "Controls the defrost cycle by timing the heating of the evaporator at fixed intervals",
+      "Measures the refrigerant charge by comparing the liquid line and suction pressures"
     ],
     "correctIndex": 0,
     "explanation": "A time delay lets oil pressure build up during start-up."
@@ -531,9 +531,9 @@
     "difficulty": "medium",
     "question": "Subcooling of liquid refrigerant before the expansion valve:",
     "options": [
-      "Causes liquid slugging",
-      "Raises the evaporator temperature",
-      "Reduces the plant's capacity",
+      "Causes liquid slugging in the compressor by sending liquid with the vapour to the suction",
+      "Raises the evaporator temperature by returning warm liquid refrigerant to the coil",
+      "Reduces the plant's capacity by lowering the pressure of the liquid refrigerant before the valve",
       "Increases the refrigerating effect and helps prevent flash gas in the liquid line"
     ],
     "correctIndex": 3,
@@ -546,7 +546,7 @@
     "difficulty": "medium",
     "question": "The coefficient of performance (COP) of a refrigeration plant is:",
     "options": [
-      "The compressor speed divided by the motor power",
+      "The compressor speed divided by the motor power rating of the plant under load",
       "The refrigerating effect divided by the work input to the compressor",
       "The condenser pressure divided by the suction pressure",
       "The room temperature divided by the ambient temperature"
@@ -562,7 +562,7 @@
     "question": "Deliberate release of ozone-depleting refrigerants such as R-22 to the atmosphere is:",
     "options": [
       "Prohibited under MARPOL Annex VI",
-      "Allowed at sea beyond 12 miles",
+      "Allowed at sea beyond 12 miles from the nearest land, if it is recorded in the log",
       "Allowed if recorded in the log",
       "Allowed during maintenance"
     ],
@@ -578,7 +578,7 @@
     "options": [
       "Flammability",
       "Boiling point",
-      "Toxicity",
+      "Toxicity, which makes it unsuitable for use in cold rooms with people working",
       "Global warming potential (GWP)"
     ],
     "correctIndex": 3,
@@ -591,10 +591,10 @@
     "difficulty": "medium",
     "question": "Carbon dioxide (R-744) used as a refrigerant requires:",
     "options": [
-      "No compressor",
-      "No safety valves",
+      "No compressor is needed, because the carbon dioxide circulates by the heat of the room",
+      "No safety valves, because the pressure in the system is always below the atmospheric",
       "Equipment designed for much higher working pressures than conventional refrigerants",
-      "Copper pipework only at low pressure"
+      "Copper pipework only at low pressure, as with the conventional halocarbon refrigerants"
     ],
     "correctIndex": 2,
     "explanation": "CO2 has very low GWP and no ODP, but some systems operate above 100 bar."
@@ -622,7 +622,7 @@
     "question": "Typical signs of an overcharged refrigeration system include:",
     "options": [
       "High condensing pressure, with liquid backing up in the condenser",
-      "Bubbles in the sight glass",
+      "Bubbles in the sight glass, with a low discharge pressure at the compressor",
       "High superheat at the evaporator",
       "Very low discharge pressure"
     ],
@@ -637,9 +637,9 @@
     "question": "Compared with electric defrosting, hot gas defrosting:",
     "options": [
       "Works only on air conditioning plants",
-      "Uses sea water sprayed on the coil",
+      "Uses sea water sprayed on the coil to melt the ice from the outside, with a drain",
       "Uses hot discharge vapour from the compressor to melt ice from inside the evaporator coil",
-      "Needs no valves"
+      "Needs no valves, because the heat comes from an electric element fitted inside the coil"
     ],
     "correctIndex": 2,
     "explanation": "Defrosting from inside is fast and even, but needs careful control of liquid return to the compressor."
@@ -651,9 +651,9 @@
     "difficulty": "medium",
     "question": "A refrigeration compressor starting and stopping very frequently (short cycling) may be caused by:",
     "options": [
-      "A new filter drier",
-      "A clean condenser",
-      "A correctly charged system",
+      "A new filter drier, a correctly set thermostat and an LP switch with a wide differential",
+      "A clean condenser and a well adjusted differential on the low pressure switch",
+      "A correctly charged system with a clean condenser and a well-set thermostat",
       "Too small a differential on the LP switch, a faulty thermostat or a low refrigerant charge"
     ],
     "correctIndex": 3,
@@ -666,9 +666,9 @@
     "difficulty": "medium",
     "question": "The evaporating temperature in a refrigeration system can be found from:",
     "options": [
-      "The cooling water inlet temperature",
-      "The compressor speed",
-      "The oil level",
+      "The cooling water inlet temperature, using the sea water table of the condenser",
+      "The compressor speed, taken from the tachometer reading on the motor shaft",
+      "The oil level in the crankcase sight glass of the compressor, read when it is running",
       "The suction pressure, using the refrigerant's pressure-temperature table"
     ],
     "correctIndex": 3,
@@ -681,10 +681,10 @@
     "difficulty": "medium",
     "question": "The sensing bulb of a thermostatic expansion valve should be fitted:",
     "options": [
-      "Inside the cold room air stream",
-      "On the compressor discharge",
-      "On the suction line at the evaporator outlet, with good thermal contact and insulation",
-      "On the condenser"
+      "Inside the cold room air stream, close to the evaporator, to sense the room temperature",
+      "On the compressor discharge line, close to the discharge valve for the best reading",
+      "On the suction line at the evaporator outlet, with good contact and insulation",
+      "On the condenser outlet, in contact with the liquid line leaving the receiver"
     ],
     "correctIndex": 2,
     "explanation": "Poor bulb contact gives wrong superheat readings and poor valve control."
@@ -696,10 +696,10 @@
     "difficulty": "medium",
     "question": "In summer, the air conditioning plant removes moisture from the air by:",
     "options": [
-      "Adding steam",
+      "Adding steam to the air in the duct so that the water vapour condenses on the coil",
       "Cooling the air below its dew point so that water condenses on the cooling coil",
       "Increasing the fan speed only",
-      "Heating the air"
+      "Heating the air to a higher temperature, so that the relative humidity falls"
     ],
     "correctIndex": 1,
     "explanation": "The air may then be reheated slightly to give a comfortable temperature and humidity."
@@ -726,7 +726,7 @@
     "difficulty": "medium",
     "question": "Air conditioning cooling coils, drip trays and humidifiers should be cleaned and disinfected regularly mainly to prevent:",
     "options": [
-      "Loss of refrigerant",
+      "Loss of refrigerant through the evaporator coil, which corrodes with the bacteria",
       "Growth of Legionella and other harmful bacteria",
       "Overheating of the fan motor",
       "Corrosion of the compressor"
@@ -742,7 +742,7 @@
     "question": "Oil collecting in an evaporator (oil logging) causes:",
     "options": [
       "Higher superheat with no other effect",
-      "Higher refrigerating capacity",
+      "Higher refrigerating capacity, because the oil improves the heat transfer in the coil",
       "Better lubrication of the expansion valve",
       "Reduced heat transfer and lower plant capacity"
     ],
@@ -759,7 +759,7 @@
       "Decompose and produce toxic gases",
       "Become fresh water",
       "Extinguish all fires safely",
-      "Turn into oxygen"
+      "Turn into oxygen, which supports the combustion and feeds the fire"
     ],
     "correctIndex": 0,
     "explanation": "This is one reason why naked flames must not be used to find leaks and hot work near refrigerant lines needs care."
@@ -772,7 +772,7 @@
     "question": "Heavy frost or sweating on the suction line all the way back to the compressor usually indicates:",
     "options": [
       "Correct normal operation in all plants",
-      "A shortage of refrigerant",
+      "A shortage of refrigerant, so that the evaporator is starved of liquid and gives high superheat",
       "Low superheat, with a risk of liquid refrigerant reaching the compressor",
       "A high condensing pressure"
     ],
@@ -786,8 +786,8 @@
     "difficulty": "hard",
     "question": "The compressor crankcase heater is energised while the compressor is stopped to:",
     "options": [
-      "Defrost the evaporator",
-      "Keep the motor windings dry only",
+      "Defrost the evaporator before the start, so that the ice cannot damage the compressor valves",
+      "Keep the motor windings dry only, so that the insulation resistance stays high",
       "Prevent refrigerant dissolving in the oil, which would cause oil foaming at start-up",
       "Raise the condensing pressure"
     ],
@@ -816,7 +816,7 @@
     "difficulty": "hard",
     "question": "Under MARPOL Annex VI, new installations containing hydrochlorofluorocarbons (HCFCs) such as R-22 have been prohibited on all ships since:",
     "options": [
-      "1 January 2000",
+      "1 January 2000, the date from which the Protocol of 1997 took effect",
       "1 January 2030",
       "1 January 1990",
       "1 January 2020"
@@ -834,7 +834,7 @@
       "Shell-and-tube condensers",
       "Copper or brass components in contact with the refrigerant",
       "Screw compressors",
-      "Steel piping"
+      "Steel piping, because it is attacked by the ammonia vapour in the system"
     ],
     "correctIndex": 1,
     "explanation": "Ammonia attacks copper alloys; it is also toxic, so leak detection and ventilation are essential."
@@ -847,9 +847,9 @@
     "question": "The capacity of a screw refrigeration compressor is usually controlled by:",
     "options": [
       "A slide valve that varies the effective length of the rotors used for compression",
-      "Changing the oil level",
-      "Opening the safety valve",
-      "Throttling the condenser water"
+      "Changing the oil level in the crankcase, so that the compression ratio is altered",
+      "Opening the safety valve to blow off some of the discharge gas into the atmosphere",
+      "Throttling the condenser water, so that the condensing pressure rises as the load falls"
     ],
     "correctIndex": 0,
     "explanation": "This gives smooth, stepless capacity control from about 10 to 100%."
@@ -863,7 +863,7 @@
     "options": [
       "Draining the oil",
       "Unloading cylinders by holding their suction valves open",
-      "Reversing the motor",
+      "Reversing the motor so that the compressor runs backwards to reduce the capacity",
       "Closing the discharge valve"
     ],
     "correctIndex": 1,
@@ -877,7 +877,7 @@
     "question": "A filter drier that is cold or frosted on its outlet side indicates:",
     "options": [
       "An overcharged system",
-      "A normal clean drier",
+      "A normal clean drier, because it is cooled by the liquid flowing through it",
       "A restriction across the drier, which is partly blocked",
       "A failed condenser fan"
     ],
@@ -892,7 +892,7 @@
     "question": "A thermostatic expansion valve with an external equaliser is used when:",
     "options": [
       "The compressor has no unloaders",
-      "The evaporator is very small with no pressure drop",
+      "The evaporator is very small with no pressure drop, and the superheat is low",
       "The plant uses a capillary tube",
       "There is a significant pressure drop through the evaporator"
     ],
@@ -906,10 +906,10 @@
     "difficulty": "hard",
     "question": "In a multi-room plant with one compressor, an evaporator pressure regulating (back-pressure) valve is fitted to the warmer rooms to:",
     "options": [
-      "Bypass the expansion valve",
-      "Raise the condensing pressure",
+      "Bypass the expansion valve, so that liquid refrigerant flows straight to the compressor",
+      "Raise the condensing pressure by reducing the flow of cooling water to the condenser",
       "Keep a higher evaporating pressure, and temperature, in those evaporators",
-      "Stop the compressor"
+      "Stop the compressor when the room temperature falls below the thermostat setting"
     ],
     "correctIndex": 2,
     "explanation": "This prevents warmer rooms such as vegetable rooms from being cooled too much or drying the produce."
@@ -924,7 +924,7 @@
       "80% of their capacity by weight",
       "95% of their capacity",
       "50% of their capacity, always",
-      "100% of their capacity"
+      "100% of their capacity by weight, to make the best use of each cylinder"
     ],
     "correctIndex": 0,
     "explanation": "Space must be left for liquid expansion as temperature rises; overfilled cylinders can rupture."
@@ -936,7 +936,7 @@
     "difficulty": "hard",
     "question": "A water-regulating valve on a water-cooled condenser:",
     "options": [
-      "Controls the refrigerant charge",
+      "Controls the refrigerant charge by letting liquid out of the receiver to the condenser",
       "Opens only during defrosting",
       "Regulates the room temperature directly",
       "Adjusts the cooling water flow to keep the condensing pressure steady"
@@ -951,10 +951,10 @@
     "difficulty": "hard",
     "question": "In a provision plant, 'pump-down' means:",
     "options": [
-      "Draining the condenser cooling water",
-      "Closing the liquid line solenoid and letting the compressor remove refrigerant from the low side until it stops on the LP switch",
-      "Pumping oil out of the crankcase",
-      "Adding refrigerant to the low side"
+      "Draining the condenser cooling water and the refrigerant from the high side to a storage tank",
+      "Closing the liquid solenoid and running the compressor until the LP switch stops it",
+      "Pumping oil out of the crankcase and returning it to the oil separator by a transfer line",
+      "Adding refrigerant to the low side of the plant until the suction pressure is correct"
     ],
     "correctIndex": 1,
     "explanation": "It stores the refrigerant in the condenser and receiver, which reduces migration to the crankcase and helps maintenance."
@@ -966,10 +966,10 @@
     "difficulty": "hard",
     "question": "Flash gas in the liquid line before the expansion valve is caused by:",
     "options": [
-      "Pressure drop or heat gain in the liquid line, and it reduces the capacity of the expansion valve",
-      "Low compressor discharge temperature",
-      "Correct refrigerant charge only",
-      "Too much subcooling"
+      "Pressure drop or heat gain in the liquid line, reducing the expansion valve capacity",
+      "A low compressor discharge temperature, which cools the liquid in the receiver",
+      "A correct refrigerant charge only, and so the sight glass should always show clear liquid",
+      "Too much subcooling of the liquid, so that the refrigerant boils in the liquid line outright"
     ],
     "correctIndex": 0,
     "explanation": "Bubbles in the sight glass may come from flash gas as well as from a refrigerant shortage."

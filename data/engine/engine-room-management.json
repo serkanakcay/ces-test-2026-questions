@@ -21,10 +21,10 @@
     "difficulty": "medium",
     "question": "Before taking over an engine room watch, the incoming engineer should:",
     "options": [
-      "Only sign the log",
-      "Accept the watch without checking if relieving a senior engineer",
-      "Wait until the watch has started to check things",
-      "Check machinery status, standing and special orders, alarms, tank levels and work in progress"
+      "Only sign the log and read the previous watch's entries, then take over the machinery",
+      "Accept the watch without checking if relieving a senior engineer on the previous watch",
+      "Wait until the watch has started and then check things at the first round of the space",
+      "Check machinery status, standing and special orders, alarms, tank levels and work in hand"
     ],
     "correctIndex": 3,
     "explanation": "STCW Code section A-VIII/2 sets out what to check when taking over a watch."
@@ -36,9 +36,9 @@
     "difficulty": "easy",
     "question": "The Chief Engineer's standing orders are:",
     "options": [
-      "Port state control reports",
-      "The crew roster only",
-      "Purchase orders for spares",
+      "Port state control reports on the deficiencies found at the last inspection of the ship",
+      "The crew roster for the engine department, with the watch list for each week",
+      "Purchase orders for spares, signed by the chief engineer and sent to the superintendent",
       "Written instructions to watchkeeping engineers on how to run the engine room safely"
     ],
     "correctIndex": 3,
@@ -52,9 +52,9 @@
     "question": "A Planned Maintenance System (PMS) schedules maintenance based on:",
     "options": [
       "Running hours or calendar intervals, plus manufacturer and class requirements",
-      "The crew's spare time",
-      "Only breakdowns",
-      "The voyage cargo"
+      "The crew's spare time and the weather, so that the work is done when the ship is quiet",
+      "Only breakdowns, so that each job is planned after the machinery has failed in service",
+      "The voyage cargo and the ports of call, with maintenance only done alongside in port"
     ],
     "correctIndex": 0,
     "explanation": "PMS is part of the ISM Safety Management System and is checked during audits."
@@ -66,10 +66,10 @@
     "difficulty": "medium",
     "question": "Condition-based maintenance uses:",
     "options": [
-      "Monitoring data such as vibration analysis, oil analysis and temperatures to decide when maintenance is needed",
-      "Maintenance only after failure",
-      "Fixed intervals only",
-      "Random inspections"
+      "Monitoring data such as vibration, oil analysis and temperatures to decide when to maintain",
+      "Maintenance only after failure, when the machinery has stopped or has been damaged",
+      "Fixed intervals only, taken from the maker's manual, whatever the condition of the machinery",
+      "Random inspections made by the duty engineer whenever there is time between the rounds"
     ],
     "correctIndex": 0,
     "explanation": "It can reduce unnecessary overhauls and find faults before they cause failures."
@@ -96,10 +96,10 @@
     "difficulty": "medium",
     "question": "The 'dead man' alarm in the engine room:",
     "options": [
-      "Raises an alarm if an engineer alone in the machinery space does not acknowledge it within a set time",
-      "Stops the main engine",
-      "Monitors bilge level",
-      "Detects fire"
+      "Raises an alarm if an engineer alone in the machinery space does not acknowledge in time",
+      "Stops the main engine if the engineer on watch does not reply to the bridge in time",
+      "Monitors the bilge level and starts the bilge pump when the high level alarm is reached",
+      "Detects fire in the machinery space and sounds the general alarm to the bridge and accommodation"
     ],
     "correctIndex": 0,
     "explanation": "It is used during UMS when an engineer attends an alarm alone."
@@ -112,7 +112,7 @@
     "question": "STCW requirements for engine room watchkeeping are mainly found in:",
     "options": [
       "The ISPS Code part B",
-      "SOLAS chapter V",
+      "SOLAS chapter V, which sets the requirements for the bridge watchkeeping arrangements",
       "STCW Code section A-VIII/2",
       "MARPOL Annex VI"
     ],
@@ -126,7 +126,7 @@
     "difficulty": "medium",
     "question": "Fuel oil purifier gravity disc size is chosen based on:",
     "options": [
-      "Engine power",
+      "Engine power, as the larger engines need a larger gravity disc in the purifier bowl",
       "Fuel density at the separating temperature",
       "The ship's draught",
       "Ambient temperature only"
@@ -141,10 +141,10 @@
     "difficulty": "hard",
     "question": "After a blackout, the first priority is to:",
     "options": [
-      "Shut down all generators",
-      "Restore power safely by starting and connecting a generator, while emergency power keeps essential services running",
-      "Leave the engine room",
-      "Restart the main engine before anything else"
+      "Shut down all generators and wait for the main engine to be restarted by the bridge",
+      "Restore power by starting and connecting a generator, while emergency power runs essential services",
+      "Leave the engine room and muster, until the cause of the blackout has been found by the bridge",
+      "Restart the main engine before anything else, so that the ship regains steering and speed"
     ],
     "correctIndex": 1,
     "explanation": "Inform the bridge, find the cause, restore auxiliaries in sequence and restart the main engine when it is safe."
@@ -156,10 +156,10 @@
     "difficulty": "medium",
     "question": "A shipboard risk assessment combines:",
     "options": [
-      "The time the job takes",
-      "The number of crew on board",
+      "The time the job takes with the number of engineers needed to carry it out safely",
+      "The number of crew on board with the hours of rest that remain for each of them",
       "The likelihood of a hazard causing harm with how severe the harm would be",
-      "Only the cost of the job"
+      "Only the cost of the job, compared with the cost of delaying the voyage by the repair"
     ],
     "correctIndex": 2,
     "explanation": "Control measures should reduce risk to an acceptable level before work starts."
@@ -171,7 +171,7 @@
     "difficulty": "medium",
     "question": "Regular lubricating oil analysis can detect:",
     "options": [
-      "Fuel sulphur content",
+      "Fuel sulphur content, which is needed to select the correct cylinder oil for the engine",
       "Sea water salinity",
       "Exhaust gas NOx content",
       "Wear metals, water, fuel dilution and contamination"
@@ -187,9 +187,9 @@
     "question": "Critical spare parts on board should be:",
     "options": [
       "Identified, stocked at the required minimum and checked in the inventory",
-      "Stored in the accommodation",
-      "Thrown away after inspection",
-      "Ordered only after a failure"
+      "Stored in the accommodation, close to the chief engineer's office, in a locked cupboard",
+      "Thrown away after inspection, once they have passed their shelf life in the store",
+      "Ordered only after a failure, because the stock levels are checked once a year"
     ],
     "correctIndex": 0,
     "explanation": "Critical equipment is identified under the ISM Code. Spares support safe operation."
@@ -201,10 +201,10 @@
     "difficulty": "medium",
     "question": "When the bridge requests 'stand by engines' for port entry, the engine room should:",
     "options": [
-      "Reduce engine room staffing",
-      "Stop all auxiliary machinery",
-      "Make sure enough generators are online, prepare the main engine and steering gear, and man the engine room",
-      "Switch to UMS mode"
+      "Reduce engine room staffing, so that the crew can rest before the manoeuvring watch",
+      "Stop all auxiliary machinery that is not needed, to save fuel while the ship is manoeuvring",
+      "Make sure enough generators are online, prepare the main engine and steering, and man the engine room",
+      "Switch to UMS mode, so that the engine room is left unattended during the manoeuvre"
     ],
     "correctIndex": 2,
     "explanation": "Test controls and confirm communication with the bridge before manoeuvring."
@@ -216,10 +216,10 @@
     "difficulty": "hard",
     "question": "A management-level engineer's responsibilities typically include:",
     "options": [
-      "Steering the ship",
-      "Only standing watches",
-      "Only cleaning the engine room",
-      "Planning maintenance and budgets, supervising the team and making sure the engine department complies with regulations"
+      "Steering the ship and keeping the navigational watch with the second mate when in port",
+      "Only standing watches in the engine room, with the work planned by the shore office",
+      "Only cleaning the engine room and painting the machinery, with the watch handed over to juniors",
+      "Planning maintenance and budgets, supervising the team and ensuring regulatory compliance"
     ],
     "correctIndex": 3,
     "explanation": "STCW management level means Chief and Second Engineer, with overall responsibility for the machinery."
@@ -231,10 +231,10 @@
     "difficulty": "easy",
     "question": "The engine room log book is used to record:",
     "options": [
-      "Personal notes of the engineers",
+      "Personal notes of the engineers on watch, which are kept in the control room safe",
       "Machinery readings, operations and important events during each watch",
-      "Only the cargo plan",
-      "Only the crew's overtime"
+      "Only the cargo plan and the stability figures for the voyage, as entered by the chief officer",
+      "Only the crew's overtime and the hours of rest, which are checked by the port state"
     ],
     "correctIndex": 1,
     "explanation": "It is a legal record and must be filled in accurately and on time."
@@ -246,10 +246,10 @@
     "difficulty": "easy",
     "question": "The engineer on watch should call the chief engineer without delay when:",
     "options": [
-      "Never during the night",
+      "Never during the night, as the chief engineer must not be woken in the sleeping hours",
       "Machinery damage or a serious fault occurs, or they are in any doubt",
-      "Every hour as routine",
-      "Only at the end of the watch"
+      "Every hour as routine, to report the readings taken on the engine room round",
+      "Only at the end of the watch, when the log book is signed and handed to the next engineer"
     ],
     "correctIndex": 1,
     "explanation": "Standing orders list the situations in which the chief engineer must be informed."
@@ -261,10 +261,10 @@
     "difficulty": "easy",
     "question": "The engineer on watch must inform the bridge promptly when:",
     "options": [
-      "The ship's stores are delivered",
-      "A routine filter is changed with no effect on operation",
+      "The ship's stores are delivered, or the lubricating oil is landed ashore by the supplier",
+      "A routine filter is changed with no effect on operation, as the standby filter is in use",
       "A machinery fault may reduce speed, cause a shutdown or affect the steering",
-      "The engineers change cabins"
+      "The engineers change cabins, or the engine room staff are changed at the end of a contract"
     ],
     "correctIndex": 2,
     "explanation": "Early warning allows the bridge to take navigational precautions."
@@ -276,7 +276,7 @@
     "difficulty": "easy",
     "question": "A fuel oil purifier separates water and solids from the oil by:",
     "options": [
-      "Gravity in a settling tank only",
+      "Gravity in a settling tank only, where the water sinks to the bottom over some hours",
       "Heating the oil to boiling point",
       "Filtering through cloth",
       "Centrifugal force in a rapidly rotating bowl"
@@ -291,7 +291,7 @@
     "difficulty": "easy",
     "question": "Fuel oil settling tanks should be drained regularly to:",
     "options": [
-      "Increase the fuel temperature",
+      "Increase the fuel temperature in the tank by returning hot fuel from the heater",
       "Remove water and sludge that have settled at the bottom",
       "Check the tank vent",
       "Add more fuel"
@@ -307,9 +307,9 @@
     "question": "A permit-to-work system is typically used for:",
     "options": [
       "Hot work, enclosed space entry, electrical isolation and work at height",
-      "Changing a light bulb in a cabin",
-      "Reading the logbook",
-      "Taking meals"
+      "Changing a light bulb in a cabin, or other routine jobs in the accommodation",
+      "Reading the logbook and the standing orders at the start of each watch of the engineers",
+      "Taking meals in the engine control room during a long watch at the manoeuvring station"
     ],
     "correctIndex": 0,
     "explanation": "Permits make sure hazards are identified, controls are in place and the work is authorised."
@@ -321,10 +321,10 @@
     "difficulty": "easy",
     "question": "A toolbox talk before a job is held to:",
     "options": [
-      "Order spare parts",
-      "Write the logbook",
+      "Order spare parts for the job and check that they are in the stores before starting",
+      "Write up the logbook for the previous watch and hand over the keys to the next shift",
       "Brief the team on the task, hazards, controls and each person's role",
-      "Count the tools"
+      "Count the tools and spare parts at the end of the job and report to the chief engineer"
     ],
     "correctIndex": 2,
     "explanation": "It is a short meeting at the work site and anyone can raise concerns."
@@ -336,9 +336,9 @@
     "difficulty": "easy",
     "question": "Reporting near misses is important because:",
     "options": [
-      "It replaces risk assessment",
-      "It is required only after injuries",
-      "It is a way to blame individuals",
+      "It replaces risk assessment, so that fewer written procedures are needed for each job",
+      "It is required only after injuries, so that the accident report can be sent to the flag state",
+      "It is a way to blame individuals for unsafe acts, and so to improve discipline on board",
       "It helps the ship and company learn and fix hazards before an accident happens"
     ],
     "correctIndex": 3,
@@ -353,7 +353,7 @@
     "options": [
       "Plan cargo operations",
       "Show compliance with rest requirements and help manage fatigue",
-      "Calculate the ship's speed",
+      "Calculate the ship's speed and the engine load from the hours worked by the crew",
       "Record fuel consumption"
     ],
     "correctIndex": 1,
@@ -366,10 +366,10 @@
     "difficulty": "easy",
     "question": "A newly joined engineer should receive:",
     "options": [
-      "No training until the next port",
+      "No training until the next port, where a trainer from the company comes on board",
       "A watch alone on the first day without briefing",
-      "Familiarisation with the machinery, safety equipment and their emergency duties before taking on those duties",
-      "Only the crew list"
+      "Familiarisation with the machinery, safety equipment and emergency duties before taking duties",
+      "Only the crew list and a copy of the standing orders, which are signed on the day of joining"
     ],
     "correctIndex": 2,
     "explanation": "Familiarisation is required by STCW and the company's safety management system."
@@ -381,10 +381,10 @@
     "difficulty": "easy",
     "question": "When ordering spare parts, the engineer should give:",
     "options": [
-      "The ship's IMO number only",
+      "The ship's IMO number only, as the supplier already knows the equipment fitted on board",
       "The maker's part number, drawing reference and the equipment's type and serial number",
-      "Only a description such as 'small valve'",
-      "The price expected"
+      "Only a description such as 'small valve for the pump', with the ship's name and port",
+      "The price expected for the part and the delivery date, as the supplier will find the rest"
     ],
     "correctIndex": 1,
     "explanation": "Accurate information avoids the wrong parts being delivered."
@@ -397,9 +397,9 @@
     "question": "Closed-loop communication means that:",
     "options": [
       "The receiver repeats the message back and the sender confirms it is correct",
-      "Radios are switched off",
-      "Messages are written down only",
-      "Only the chief engineer speaks"
+      "Radios are switched off during the job, so that no messages are heard by mistake",
+      "Messages are written down only, in the log book, and sent by internal telephone",
+      "Only the chief engineer speaks, and the others listen without giving any reply to the orders"
     ],
     "correctIndex": 0,
     "explanation": "It reduces misunderstandings, especially during manoeuvring and emergencies."
@@ -411,9 +411,9 @@
     "difficulty": "easy",
     "question": "After a major overhaul of a diesel generator, it should be:",
     "options": [
-      "Run without lubrication for a few minutes",
-      "Put on full load immediately",
-      "Left stopped until the next port",
+      "Run without lubrication for a few minutes, to bed in the new bearings and liner rings",
+      "Put on full load immediately, to bed in the new rings and bearings under working conditions",
+      "Left stopped until the next port, so that the yard can check the new bearings and rings",
       "Run in gradually, with temperatures, pressures and leaks checked before full load"
     ],
     "correctIndex": 3,
@@ -426,9 +426,9 @@
     "difficulty": "easy",
     "question": "In an emergency, the general order of priorities is:",
     "options": [
-      "The cargo first",
-      "The ship first, then the cargo, then the crew",
-      "The schedule first",
+      "The cargo first, then the ship and the environment, with the crew's safety at the end",
+      "The ship first, then the cargo, then the crew, since the owner bears the greatest loss",
+      "The schedule first, then the cargo and the ship, with safety of life as the last matter",
       "Safety of life, then protection of the environment, then the ship and property"
     ],
     "correctIndex": 3,
@@ -441,10 +441,10 @@
     "difficulty": "easy",
     "question": "When the bridge rings 'Finished With Engines' (FWE), it means:",
     "options": [
-      "The ship is about to manoeuvre",
+      "The ship is about to manoeuvre, and the engines should be ready at short notice",
       "The main engine is no longer required and may be shut down following the procedure",
-      "The engine must be started immediately",
-      "The engine room must be evacuated"
+      "The engine must be started immediately, because the ship is about to leave the berth",
+      "The engine room must be evacuated and the doors closed, as the ship is on fire"
     ],
     "correctIndex": 1,
     "explanation": "The engine room then secures the main engine and adjusts auxiliary machinery for port."
@@ -472,7 +472,7 @@
     "question": "If the relieving engineer is clearly not fit to take over the watch, the engineer on watch should:",
     "options": [
       "Not hand over the watch and inform the chief engineer",
-      "Hand over and leave anyway",
+      "Hand over and leave anyway, since the relieving engineer takes responsibility on arrival",
       "Ask the bridge to take over the engine room",
       "Stay on watch without telling anyone"
     ],
@@ -486,9 +486,9 @@
     "difficulty": "medium",
     "question": "The difference between a purifier and a clarifier is that:",
     "options": [
-      "A purifier works without rotation",
-      "A clarifier removes only water",
-      "There is no difference",
+      "A purifier works without rotation, using gravity to separate the water, and a clarifier does not",
+      "A clarifier removes only water, while a purifier removes only the solid particles",
+      "There is no difference, since both remove water and solids by the same method",
       "A purifier removes water and solids, while a clarifier removes mainly solids"
     ],
     "correctIndex": 3,
@@ -501,10 +501,10 @@
     "difficulty": "medium",
     "question": "The water seal in a purifier bowl is needed to:",
     "options": [
-      "Add water to the fuel",
-      "Lubricate the bowl spindle",
+      "Add water to the fuel to wash out the salts before it is passed to the settling tank",
+      "Lubricate the bowl spindle and the bearings with a thin film of water from the supply",
       "Form the oil/water interface and stop oil escaping through the water outlet",
-      "Cool the bowl"
+      "Cool the bowl and the spindle by passing a flow of water over the bowl shell"
     ],
     "correctIndex": 2,
     "explanation": "The seal water is added each time before the oil feed starts."
@@ -516,10 +516,10 @@
     "difficulty": "medium",
     "question": "Oil coming out of the purifier's water (heavy phase) outlet usually means:",
     "options": [
-      "The fuel is too clean",
+      "The fuel is too clean, so the purifier has no solids to discharge from the bowl periphery",
       "The water seal has been lost or the interface is in the wrong position",
-      "The purifier is working perfectly",
-      "The sludge tank is full"
+      "The purifier is working perfectly, since the water outlet always discharges some oil",
+      "The sludge tank is full, and the sludge has been forced back into the water outlet"
     ],
     "correctIndex": 1,
     "explanation": "Possible causes include a wrong gravity disc, too high a feed temperature or too high a throughput."
@@ -546,10 +546,10 @@
     "difficulty": "medium",
     "question": "During bunkering, the engineers should:",
     "options": [
-      "Take tank soundings before and after, monitor rates and tank levels, and witness the drip sample",
-      "Fill all tanks to 100%",
+      "Take tank soundings before and after, monitor rates and levels, and witness the drip sample",
+      "Fill all tanks to 100% as quickly as possible, to reduce the time spent alongside the barge",
       "Only check the bunker delivery note at the end",
-      "Leave the operation to the barge crew"
+      "Leave the operation to the barge crew, who measure and sample the fuel on behalf of the ship"
     ],
     "correctIndex": 0,
     "explanation": "Accurate measurement protects against short delivery and overflows."
@@ -562,7 +562,7 @@
     "question": "Mixing a newly delivered fuel with fuel already in a tank should be avoided because:",
     "options": [
       "It reduces the sulphur content",
-      "It always improves the fuel quality",
+      "It always improves the fuel quality, since the lighter fuel dilutes the heavier one",
       "The two fuels may be incompatible and form sludge",
       "It is required by MARPOL"
     ],
@@ -577,7 +577,7 @@
     "question": "Bunker samples are sent to a laboratory mainly to:",
     "options": [
       "Test the bunker barge's engines",
-      "Calculate freight",
+      "Calculate freight, which depends on the quantity and grade of fuel delivered to the ship",
       "Check the ship's draught",
       "Check that the fuel meets the ordered specification before it is used"
     ],
@@ -591,10 +591,10 @@
     "difficulty": "medium",
     "question": "When calculating the quantity of bunkers received, measured volumes are corrected to:",
     "options": [
-      "100 °C",
+      "100 °C, the standard temperature used for heated residual fuels in the heating tanks",
       "A standard temperature of 15 °C using volume correction factors and the fuel density",
-      "The temperature of the engine room",
-      "The temperature of the sea"
+      "The temperature of the engine room, measured at the sounding pipe of the tank",
+      "The temperature of the sea water, taken at the sea chest of the ship on the day"
     ],
     "correctIndex": 1,
     "explanation": "Fuel expands when hot, so uncorrected volumes give misleading quantities."
@@ -607,9 +607,9 @@
     "question": "An increase in the viscosity of main engine system oil may be caused by:",
     "options": [
       "Oxidation or contamination with heavy fuel oil or insoluble material",
-      "Too much clean oil being added",
-      "Lower engine load",
-      "Dilution with distillate fuel"
+      "Too much clean oil being added to the system, which raises the oil level in the sump",
+      "A lower engine load, which keeps the oil cooler and reduces the oxidation of the oil",
+      "Dilution with distillate fuel, which makes the oil thinner and the viscosity fall"
     ],
     "correctIndex": 0,
     "explanation": "A fall in viscosity often indicates fuel dilution."
@@ -621,10 +621,10 @@
     "difficulty": "medium",
     "question": "Infrared thermography is useful in the engine room for finding:",
     "options": [
-      "The water content in fuel",
-      "The sulphur content of exhaust",
+      "The water content in fuel oil, from the surface temperature of the settling tank",
+      "The sulphur content of the exhaust gas, from the temperature of the funnel casing",
       "Hot spots, such as loose connections in switchboards and overheating bearings",
-      "The salinity of feed water"
+      "The salinity of the feed water, from the temperature difference across the boiler drum"
     ],
     "correctIndex": 2,
     "explanation": "It allows inspection of live equipment without contact."
@@ -636,9 +636,9 @@
     "difficulty": "medium",
     "question": "Management of change (MoC) means that before changing equipment, procedures or organisation:",
     "options": [
-      "Only the cost is considered",
-      "Only the crew is told after the change",
-      "Changes are made immediately without records",
+      "Only the cost is considered, and the change is made if it is cheaper than the old method",
+      "Only the crew is told after the change has been made, in the next safety meeting",
+      "Changes are made immediately without records, if the chief engineer gives an order",
       "The risks of the change are assessed and the change is approved and communicated"
     ],
     "correctIndex": 3,
@@ -651,10 +651,10 @@
     "difficulty": "medium",
     "question": "Engine Room Resource Management (ERM) focuses on:",
     "options": [
-      "Engine design calculations",
+      "Engine design calculations, such as the sizing of the cooling water and lube oil systems",
       "Teamwork, communication, situational awareness and leadership in the engine department",
-      "Ordering resources from suppliers",
-      "Reducing crew numbers"
+      "Ordering resources from suppliers and agents at the best price for the company",
+      "Reducing crew numbers by combining the duties of the engineers and the engine ratings"
     ],
     "correctIndex": 1,
     "explanation": "STCW includes ERM training for engineering officers."
@@ -666,9 +666,9 @@
     "difficulty": "medium",
     "question": "Before the engine room is left unattended (UMS) for the night, the duty engineer should check that:",
     "options": [
-      "All alarms are switched off",
-      "Tanks are filled, bilges are pumped, alarms and fire detection are working and standby equipment is ready",
-      "The main engine is stopped",
+      "All alarms are switched off and the bilge pumps are stopped, to avoid false calls to the cabins",
+      "Tanks are filled, bilges are pumped, alarms and fire detection work and standby equipment is ready",
+      "The main engine is stopped and the generators are shut down, with the emergency set on",
       "The fire pumps are isolated"
     ],
     "correctIndex": 1,
@@ -681,10 +681,10 @@
     "difficulty": "medium",
     "question": "In preparation for a dry-docking, the engine department should:",
     "options": [
-      "Order no spare parts",
-      "Cancel all surveys",
+      "Order no spare parts before arrival, since the yard will supply everything that is needed",
+      "Cancel all surveys and repair jobs, so that the dock time can be kept as short as possible",
       "Prepare a detailed repair specification and plan the work with the shore and the shipyard",
-      "Wait until the ship is in dock to decide what to do"
+      "Wait until the ship is in dock to decide what to do, with the yard staff on board"
     ],
     "correctIndex": 2,
     "explanation": "Good planning reduces dock time and cost."
@@ -696,9 +696,9 @@
     "difficulty": "medium",
     "question": "The emergency generator is commonly tested:",
     "options": [
-      "Only after a blackout",
-      "Only at the annual survey",
-      "Never at sea",
+      "Only after a blackout, when the main supply has failed and the set starts automatically",
+      "Only at the annual survey, when the surveyor is on board to witness the test",
+      "Never at sea, only in port, when the surveyor can attend and the set can be run on load",
       "Regularly, typically weekly, including start-up and periodic on-load tests"
     ],
     "correctIndex": 3,
@@ -711,9 +711,9 @@
     "difficulty": "medium",
     "question": "The main difference between a main engine slowdown and a shutdown is that:",
     "options": [
-      "A slowdown reduces engine load for less serious faults, while a shutdown stops the engine for critical faults",
-      "A shutdown is only an alarm",
-      "There is no difference",
+      "A slowdown reduces engine load for less serious faults, while a shutdown stops the engine",
+      "A shutdown is only an alarm shown on the panel, and the engine continues to run normally",
+      "There is no difference, since both reduce the speed of the engine in the same way",
       "A slowdown stops the engine immediately"
     ],
     "correctIndex": 0,
@@ -727,9 +727,9 @@
     "question": "Engine room ventilation is usually arranged to:",
     "options": [
       "Supply enough combustion and cooling air and keep the space at a slight positive pressure",
-      "Stop all air flow when engines run",
-      "Supply air only to the accommodation",
-      "Keep the engine room under strong vacuum"
+      "Stop all air flow when engines run, so that the heat is kept in and the space is warm",
+      "Supply air only to the accommodation, with the engine room receiving only the leakage air",
+      "Keep the engine room under strong vacuum, so that smells do not reach the accommodation"
     ],
     "correctIndex": 0,
     "explanation": "Too little air raises engine room temperatures and affects engine performance."
@@ -741,10 +741,10 @@
     "difficulty": "medium",
     "question": "Large main engine cylinder head and main bearing studs are usually tightened with:",
     "options": [
-      "An impact wrench at any torque",
+      "An impact wrench at any torque, until the machine stops by itself on the final nut",
       "Hydraulic tightening tools at the pressure stated by the maker",
-      "By hand only",
-      "A hammer and a spanner"
+      "By hand only, with a short spanner, until the studs are firm and the nuts will not turn",
+      "A hammer and a spanner, tightening the studs by feel until they stop turning"
     ],
     "correctIndex": 1,
     "explanation": "Correct stud tension prevents leaks and component failure."
@@ -757,7 +757,7 @@
     "question": "The officer in charge of an engineering watch should not be given duties that:",
     "options": [
       "Involve reading gauges",
-      "Are part of the watch routine",
+      "Are part of the watch routine, such as taking readings and making rounds of the space",
       "Involve logbook entries",
       "Interfere with the supervision of the machinery on watch"
     ],
@@ -771,10 +771,10 @@
     "difficulty": "medium",
     "question": "Lubricating oil samples for laboratory analysis should be taken:",
     "options": [
-      "From a new drum of oil",
-      "From the bottom of the sump tank when the engine is stopped",
+      "From a new drum of oil, in order to compare it with the oil in the system",
+      "From the bottom of the sump tank when the engine is stopped and the oil has settled",
       "From a running system at the same sampling point each time, after flushing the sample line",
-      "From the drip tray"
+      "From the drip tray under the filter, which collects oil that is flowing at the bottom"
     ],
     "correctIndex": 2,
     "explanation": "Consistent sampling gives results that can be compared to show trends."
@@ -786,10 +786,10 @@
     "difficulty": "hard",
     "question": "To improve the removal of catalytic fines in a fuel purifier, the throughput should be:",
     "options": [
-      "Varied randomly",
+      "Varied randomly during the day so that the bowl does not become fouled by deposits",
       "Reduced, ideally close to the engine's actual fuel consumption",
-      "Stopped completely",
-      "Increased to the maximum rated capacity"
+      "Stopped completely while the fines settle, and then restarted at a higher throughput",
+      "Increased to the maximum rated capacity, so that all the fuel is cleaned at once"
     ],
     "correctIndex": 1,
     "explanation": "Longer residence time in the bowl gives better separation of small particles."
@@ -804,7 +804,7 @@
       "The bowl will not rotate",
       "More water will remain in the cleaned oil but no oil is lost",
       "The interface moves outwards and oil may escape through the water outlet",
-      "Separation improves greatly"
+      "Separation improves greatly, since the interface is moved closer to the bowl periphery"
     ],
     "correctIndex": 2,
     "explanation": "A disc that is too small moves the interface inwards and leaves water in the cleaned oil."
@@ -818,7 +818,7 @@
     "options": [
       "8 hours at maximum continuous rating",
       "3 days",
-      "1 hour",
+      "1 hour at maximum continuous rating, so that the tank can be changed over at manoeuvring",
       "24 hours"
     ],
     "correctIndex": 0,
@@ -846,10 +846,10 @@
     "difficulty": "hard",
     "question": "Under a Continuous Survey Machinery (CSM) scheme, the classification society:",
     "options": [
-      "Never surveys machinery",
-      "Surveys only the main engine",
+      "Never surveys machinery, as the chief engineer certifies it at the end of each five years",
+      "Surveys only the main engine and the boilers, leaving the auxiliary machinery to the owner",
       "Surveys all machinery only once at the end of 5 years",
-      "Surveys machinery items in rotation so that every item is examined within the 5-year cycle"
+      "Surveys machinery items in rotation so every item is examined within the 5-year cycle"
     ],
     "correctIndex": 3,
     "explanation": "This spreads survey work over time and allows it to be done with routine maintenance."
@@ -861,10 +861,10 @@
     "difficulty": "hard",
     "question": "Under some CSM schemes, certain machinery items may be examined by the chief engineer when:",
     "options": [
-      "The item is new",
+      "The item is new and has been supplied with a maker's certificate for use on board",
       "The flag state requests it by email",
-      "He is authorised by the classification society, with the survey later confirmed by a surveyor",
-      "The ship is in dry dock only"
+      "He is authorised by the classification society, with the survey later confirmed",
+      "The ship is in dry dock only, and the surveyor has not yet arrived on board to attend it"
     ],
     "correctIndex": 2,
     "explanation": "Records of the overhaul and findings must be kept for the surveyor."
@@ -906,10 +906,10 @@
     "difficulty": "hard",
     "question": "The spot test (blotter test) of a fuel oil checks for:",
     "options": [
-      "Flash point",
-      "Sulphur content",
+      "Flash point of the fuel, shown by the colour of the ring on the paper after heating",
+      "Sulphur content, shown by the colour of the spot on the filter paper after heating",
       "Instability or incompatibility shown by asphaltene sludge on the filter paper",
-      "Water content"
+      "Water content of the fuel, shown by the size of the ring on the paper after heating"
     ],
     "correctIndex": 2,
     "explanation": "A uniform spot shows a stable fuel; a dark central ring shows sludge precipitation."
@@ -936,10 +936,10 @@
     "difficulty": "hard",
     "question": "A high CCAI value for a residual fuel indicates:",
     "options": [
-      "Lower density",
+      "Lower density and viscosity, which improve the atomisation of the fuel at the nozzle",
       "Poorer ignition quality, with a risk of ignition delay and rough combustion",
-      "Better ignition quality",
-      "Higher sulphur"
+      "Better ignition quality, with a shorter delay and smoother combustion in the cylinders",
+      "Higher sulphur content, which causes cold corrosion in the cylinders of the engine"
     ],
     "correctIndex": 1,
     "explanation": "CCAI is calculated from density and viscosity; medium-speed engines are more sensitive to poor ignition quality."
@@ -951,7 +951,7 @@
     "difficulty": "hard",
     "question": "Under ISO 8217, the limit for total sediment (aged) in residual marine fuels is:",
     "options": [
-      "1.0% m/m",
+      "1.0% m/m, which is the limit for total sediment potential in distillate fuels",
       "0.50% m/m",
       "5.0% m/m",
       "0.10% m/m"
@@ -967,7 +967,7 @@
     "question": "In UMS operation, if a machinery alarm is not acknowledged in the engine room within a set time, the alarm system will:",
     "options": [
       "Extend the alarm to all engineers' cabins and public spaces",
-      "Cancel the alarm automatically",
+      "Cancel the alarm automatically, so that it does not disturb the sleeping engineers",
       "Stop the main engine at once",
       "Switch off the fire detection"
     ],

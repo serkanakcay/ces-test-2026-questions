@@ -9,7 +9,7 @@
       "Galley cooking",
       "Fuel or lubricating oil leaking onto hot surfaces",
       "Sea water leaks",
-      "Lightning strikes"
+      "Lightning strikes on the funnel, which ignite the oil mist in the exhaust"
     ],
     "correctIndex": 1,
     "explanation": "Check hot surfaces are insulated, pipe joints are tight and leak spray shields are in place."
@@ -22,7 +22,7 @@
     "question": "Under SOLAS, surfaces that may be exposed to oil leaks must be insulated if their temperature is above:",
     "options": [
       "220 °C",
-      "60 °C",
+      "60 °C, which is the flash point of the fuel oil used for the boilers",
       "450 °C",
       "100 °C"
     ],
@@ -39,7 +39,7 @@
       "Shut off fuel from outside the space in a fire",
       "Drain water from tanks",
       "Control the purifier",
-      "Speed up bunkering"
+      "Speed up bunkering by opening the tank outlet to the maximum flow rate"
     ],
     "correctIndex": 0,
     "explanation": "They are tested regularly and must never be wedged or tied open."
@@ -66,10 +66,10 @@
     "difficulty": "medium",
     "question": "Local application fire-fighting systems (for example water mist) in machinery spaces protect:",
     "options": [
-      "High-risk areas such as engine tops, purifiers and boiler fronts, without evacuating the whole space",
-      "Only the bridge",
-      "Only the accommodation",
-      "Only the cargo holds"
+      "High-risk areas such as engine tops, purifiers and boiler fronts, without evacuation",
+      "Only the bridge and the chart room, where electronic equipment must be protected",
+      "Only the accommodation and the galley, when the fire is in the deck store",
+      "Only the cargo holds and the deck stores, where a fire detection system is fitted instead"
     ],
     "correctIndex": 0,
     "explanation": "They are required in larger machinery spaces under SOLAS II-2/10."
@@ -81,10 +81,10 @@
     "difficulty": "medium",
     "question": "Before hot work in the engine room, you should:",
     "options": [
-      "Get a hot work permit, remove combustibles, check for gas, and post a fire watch with extinguishers",
+      "Get a hot work permit, remove combustibles, check for gas and post a fire watch",
       "Start immediately if it is a small job",
-      "Just inform the bridge",
-      "Turn off the fire detection system and start"
+      "Just inform the bridge and start the work at once if the job is a short one",
+      "Turn off the fire detection system for the space and start the work at once"
     ],
     "correctIndex": 0,
     "explanation": "The fire watch continues for a set period after the job ends, as smouldering fires can start later."
@@ -96,9 +96,9 @@
     "difficulty": "easy",
     "question": "The purpose of lock-out/tag-out is to:",
     "options": [
-      "Secure spares in the store",
-      "Record running hours",
-      "Mark equipment for disposal",
+      "Secure spares in the store, so that they cannot be taken without permission",
+      "Record the running hours of the machinery and the dates of the last overhaul",
+      "Mark equipment for disposal when it has reached the end of its service life",
       "Stop machinery being energised or started unexpectedly during maintenance"
     ],
     "correctIndex": 3,
@@ -111,7 +111,7 @@
     "difficulty": "medium",
     "question": "If a fire breaks out in the purifier room, an early action should be to:",
     "options": [
-      "Open the room doors fully for ventilation",
+      "Open the room doors fully for ventilation, to let the smoke out of the compartment",
       "Increase purifier throughput",
       "Leave the fuel running to cool the fire",
       "Raise the alarm, stop the purifiers and shut off the fuel supply"
@@ -128,7 +128,7 @@
     "options": [
       "Stop oil escaping if the cap is left open",
       "Let water out",
-      "Speed up soundings",
+      "Speed up soundings by letting air into the tank while the level is measured",
       "Add chemicals to the tank"
     ],
     "correctIndex": 0,
@@ -142,7 +142,7 @@
     "question": "High-pressure fuel delivery pipes between fuel pumps and injectors must be:",
     "options": [
       "Painted red",
-      "Made of plastic",
+      "Made of plastic hose, so that a leak cannot ignite on a hot surface",
       "Left uninsulated for inspection",
       "Jacketed (double-walled) with a leakage alarm"
     ],
@@ -156,10 +156,10 @@
     "difficulty": "medium",
     "question": "Fire dampers in ventilation ducts are closed during a fire to:",
     "options": [
-      "Increase airflow to the fire",
-      "Remove CO2 from the space",
+      "Increase airflow to the fire, so that the smoke is cleared from the compartment",
+      "Remove CO2 from the space after the fixed gas system has been discharged",
       "Stop air supply and prevent fire and smoke spreading through the ducts",
-      "Cool the engine"
+      "Cool the engine by cutting off the hot air that rises from the machinery"
     ],
     "correctIndex": 2,
     "explanation": "Also stop ventilation fans before releasing a fixed gas system."
@@ -171,7 +171,7 @@
     "difficulty": "medium",
     "question": "A firefighter's breathing apparatus air cylinder must hold at least:",
     "options": [
-      "100 litres of free air",
+      "100 litres of free air, about 3 minutes of working time for the fire-fighter",
       "10,000 litres of free air",
       "300 litres of free air",
       "1,200 litres of free air (about 30 minutes)"
@@ -186,9 +186,9 @@
     "difficulty": "easy",
     "question": "When grinding, the essential personal protective equipment is:",
     "options": [
-      "A lifejacket",
-      "A breathing apparatus",
-      "Sunglasses",
+      "A lifejacket and a hard hat, since a grinding wheel can break and fly apart",
+      "A breathing apparatus set with a full face mask, since the dust is harmful",
+      "Sunglasses and a light cotton cap, to keep the dust out of the eyes and hair",
       "Safety goggles or a face shield, gloves and hearing protection"
     ],
     "correctIndex": 3,
@@ -203,7 +203,7 @@
     "options": [
       "Live electrical equipment",
       "Ordinary solids",
-      "Flammable gases",
+      "Flammable gases such as propane, which burn only when mixed with air",
       "Combustible metals such as magnesium or sodium"
     ],
     "correctIndex": 3,
@@ -216,10 +216,10 @@
     "difficulty": "hard",
     "question": "Before entering a crankcase or boiler drum, you must:",
     "options": [
-      "Isolate and lock the equipment, ventilate it, test the atmosphere and use an enclosed space permit with a standby person",
-      "Wear an EEBD and enter",
-      "Only tell the duty engineer",
-      "Enter quickly before it cools"
+      "Isolate and lock the equipment, ventilate it, test the air and use an entry permit with a standby",
+      "Wear an EEBD and enter, without isolating the equipment or testing the air in the space",
+      "Only tell the duty engineer and enter at once if the work is short, with a torch and a radio",
+      "Enter quickly before the space cools, to save time on the job and the permit"
     ],
     "correctIndex": 0,
     "explanation": "Enclosed space accidents often kill rescuers too. Never enter without testing the atmosphere."
@@ -246,10 +246,10 @@
     "difficulty": "easy",
     "question": "EEBDs in the machinery spaces should be located:",
     "options": [
-      "Only in the steering gear room",
-      "In the accommodation only",
+      "Only in the steering gear room and the workshop, where the crew work alone",
+      "In the accommodation only, close to the cabins and the mess room of the engineers",
       "Along escape routes and at the main workstations, ready for immediate use",
-      "Locked in the chief engineer's office"
+      "Locked in the chief engineer's office, with the key held by the second engineer"
     ],
     "correctIndex": 2,
     "explanation": "Engineers must know where they are and how to put one on quickly."
@@ -264,7 +264,7 @@
       "Stored in cardboard boxes",
       "Kept in closed metal containers and disposed of regularly",
       "Thrown into the bilges",
-      "Left on top of hot machinery to dry"
+      "Left on top of hot machinery to dry, where they are away from the walkways"
     ],
     "correctIndex": 1,
     "explanation": "Oily rags can heat up and ignite by spontaneous combustion."
@@ -277,7 +277,7 @@
     "question": "Insulation (lagging) on hot surfaces that becomes soaked with oil should be:",
     "options": [
       "Painted over",
-      "Left in place",
+      "Left in place, since the oil is only on the surface of the lagging material",
       "Replaced, and the source of the leak repaired",
       "Heated to dry it out"
     ],
@@ -291,10 +291,10 @@
     "difficulty": "easy",
     "question": "If fuel oil is found spraying onto a hot exhaust pipe, the immediate action is to:",
     "options": [
-      "Increase engine speed",
+      "Increase engine speed to blow the spray clear and cool the exhaust pipe",
       "Stop the leak by shutting the supply, raise the alarm and be ready to fight a fire",
-      "Wait until the end of the watch",
-      "Wipe the pipe with a rag while it leaks"
+      "Wait until the end of the watch, then report the leak to the chief engineer with a defect list",
+      "Wipe the pipe with a rag while the leak continues, to keep the surface clean"
     ],
     "correctIndex": 1,
     "explanation": "The leak must be stopped as quickly as possible; the engine may need to be stopped."
@@ -306,7 +306,7 @@
     "difficulty": "easy",
     "question": "Suitable personal protective clothing in the engine room includes:",
     "options": [
-      "Shorts and sandals",
+      "Shorts and sandals, which are cooler to work in with the engine room hot",
       "A boiler suit with long sleeves and safety shoes",
       "A raincoat only",
       "Loose clothing and jewellery"
@@ -322,7 +322,7 @@
     "question": "When working near rotating machinery, you should:",
     "options": [
       "Wear loose gloves near rotating shafts",
-      "Remove the guards for a better view",
+      "Remove the guards for a better view of the shaft while the machine is running",
       "Keep guards in place and avoid loose clothing, long hair and jewellery",
       "Reach past moving parts to save time"
     ],
@@ -336,10 +336,10 @@
     "difficulty": "easy",
     "question": "Before using a chain block or other lifting gear in the engine room, check that:",
     "options": [
-      "It has never been tested",
-      "It is the cheapest available",
+      "It has never been tested, but the maker's mark shows that it was new when supplied",
+      "It is the cheapest available, since the load is a light one and for a short lift",
       "It is marked with its SWL, has been inspected and is suitable for the load",
-      "It can lift more than any load on board"
+      "It can lift more than any load on board, so no safe working load is needed"
     ],
     "correctIndex": 2,
     "explanation": "Lifting points such as eyebolts and beams must also be certified and in good condition."
@@ -351,7 +351,7 @@
     "difficulty": "easy",
     "question": "Oil collecting in the engine room bilges should be avoided because it:",
     "options": [
-      "Helps cool the machinery",
+      "Helps cool the machinery by absorbing heat from the pumps and the tanks",
       "Increases the fire risk and can lead to pollution",
       "Improves pump suction",
       "Reduces corrosion"
@@ -368,7 +368,7 @@
     "options": [
       "Blow down air receivers",
       "Blow dust off your clothing or skin",
-      "Start the main engine",
+      "Start the main engine, since the air pressure is too high for the starting valves",
       "Operate pneumatic tools"
     ],
     "correctIndex": 1,
@@ -381,7 +381,7 @@
     "difficulty": "easy",
     "question": "Before using a new chemical on board, you should read its:",
     "options": [
-      "Bunker delivery note",
+      "Bunker delivery note, which lists the physical and chemical properties of the product",
       "Oil Record Book",
       "Safety Data Sheet (SDS)",
       "Crew list"
@@ -396,9 +396,9 @@
     "difficulty": "easy",
     "question": "The main engine can usually be stopped in an emergency from:",
     "options": [
-      "The galley only",
-      "The forecastle only",
-      "The accommodation only",
+      "The galley only, where the cook can stop it by pressing the emergency button",
+      "The forecastle only, where the anchor windlass controls are located on deck",
+      "The accommodation only, where the chief engineer's cabin has an emergency stop",
       "The bridge, the engine control room and the local control stand"
     ],
     "correctIndex": 3,
@@ -412,9 +412,9 @@
     "question": "When lighting an oil-fired boiler, you should:",
     "options": [
       "Never look directly into the furnace through an open sight port while the burner ignites",
-      "Light it before purging",
+      "Light it before the purge cycle has finished, to save time and to avoid delaying the plant",
       "Use a rag soaked in fuel as a torch",
-      "Look into the furnace at close range to check ignition"
+      "Look into the furnace at close range, through the open sight port, to check ignition"
     ],
     "correctIndex": 0,
     "explanation": "A furnace blow-back can blast flame out of the openings."
@@ -427,7 +427,7 @@
     "question": "Acetylene gas cylinders should be stored and used:",
     "options": [
       "In the engine room bilges",
-      "Lying down on their side",
+      "Lying down on their side, where they can be moved and stowed more easily",
       "Next to oxygen cylinders with no separation",
       "Upright, secured, and away from oxygen cylinders"
     ],
@@ -441,9 +441,9 @@
     "difficulty": "easy",
     "question": "The shipboard incinerator should be used:",
     "options": [
-      "For any waste, including PVC and Annex I cargo residues",
+      "For any waste, including PVC and Annex I cargo residues, to save landing costs",
       "Only for permitted waste, by trained persons, following the maker's instructions",
-      "Unattended for long periods",
+      "Unattended for long periods, with the door open, to let the waste burn more completely",
       "With the door open"
     ],
     "correctIndex": 1,
@@ -456,10 +456,10 @@
     "difficulty": "easy",
     "question": "Fire doors in machinery space boundaries should be:",
     "options": [
-      "Locked from both sides",
-      "Removed when in port",
+      "Locked from both sides, so that nobody can open them during a fire or at other times",
+      "Removed when in port, so that the engine room is open to the shore staff",
       "Kept closed or held open only by approved release devices, and never wedged open",
-      "Wedged open for ventilation"
+      "Wedged open for ventilation, so that the air can pass freely between the spaces"
     ],
     "correctIndex": 2,
     "explanation": "Closed fire doors keep fire and smoke from spreading between spaces."
@@ -474,7 +474,7 @@
       "At least two means of escape, as widely separated as possible",
       "No escape routes if the space is unmanned",
       "An escape only through the funnel",
-      "One ladder only"
+      "One ladder only, provided that it is fitted with a safe handrail on both sides"
     ],
     "correctIndex": 0,
     "explanation": "Escape routes must be kept clear and marked."
@@ -487,9 +487,9 @@
     "question": "Insulation on hot surfaces in the engine room should be:",
     "options": [
       "Covered with an oil-resistant cladding so that leaking oil cannot soak into it",
-      "Made of combustible fibre",
-      "Removed to allow inspection at any time",
-      "Left uncovered"
+      "Made of combustible fibre, so that it can absorb any oil that leaks onto it",
+      "Removed to allow inspection at any time of the surface and the pipes beneath the lagging",
+      "Left uncovered, so that the pipes and the surfaces can be seen and inspected easily"
     ],
     "correctIndex": 0,
     "explanation": "Damaged cladding must be repaired."
@@ -516,10 +516,10 @@
     "difficulty": "medium",
     "question": "When working at height in the engine room, for example above 2 m without guard rails, you should:",
     "options": [
-      "Hold onto pipes for support",
+      "Hold onto pipes for support, using one hand to keep a grip on the nearest line",
       "Wear a safety harness attached to a secure point, under a permit if required",
-      "Stand on a stack of boxes",
-      "Work without protection if it is quick"
+      "Stand on a stack of boxes, with a second person holding the base of the pile",
+      "Work without protection if it is a quick job and the space is well lit and clean"
     ],
     "correctIndex": 1,
     "explanation": "Falls from height are a major cause of shipboard injuries."
@@ -533,7 +533,7 @@
     "options": [
       "Filter the fuel",
       "Measure the tank pressure",
-      "Increase vapour release",
+      "Increase vapour release from the tank by holding the vent open at all times",
       "Stop flames from entering the tank through the vent"
     ],
     "correctIndex": 3,
@@ -549,7 +549,7 @@
       "Only portable extinguishers",
       "An approved fixed fire detection and alarm system",
       "A watchman at all times",
-      "No fire detection"
+      "No fire detection, provided that the engineers' cabins are fitted with smoke alarms"
     ],
     "correctIndex": 1,
     "explanation": "Alarms are relayed to the bridge and the engineers' cabins."
@@ -562,7 +562,7 @@
     "question": "Remote stops for fuel oil pumps and machinery space ventilation fans are located:",
     "options": [
       "Outside the machinery space, so they can be used during a fire",
-      "Only next to the pumps",
+      "Only next to the pumps, where the engineer can reach them quickly in a fire",
       "In the engine room bilges",
       "Only in the engine control room"
     ],
@@ -576,10 +576,10 @@
     "difficulty": "medium",
     "question": "High-expansion foam systems in machinery spaces work mainly by:",
     "options": [
-      "Spraying a thin layer of water",
-      "Absorbing electricity",
+      "Spraying a thin layer of water over the whole surface of the burning liquid to cool it",
+      "Absorbing electricity from the fire so that live equipment cannot spread the flames",
       "Filling the space with a large volume of foam that excludes air and cools the fire",
-      "Increasing the oxygen content"
+      "Increasing the oxygen content of the space so that the fire burns itself out quickly"
     ],
     "correctIndex": 2,
     "explanation": "The space must be evacuated before release."
@@ -591,9 +591,9 @@
     "difficulty": "medium",
     "question": "Water mist fire-fighting systems are effective because the fine droplets:",
     "options": [
-      "Form a heavy foam blanket",
-      "Conduct electricity away",
-      "Add fuel to the fire",
+      "Form a heavy foam blanket that floats on the burning oil and excludes the air",
+      "Conduct electricity away from the fire, so that the system is safe to use on live equipment",
+      "Add fuel to the fire by breaking up the droplets of oil in the burning space",
       "Absorb heat quickly and turn to steam, which also displaces oxygen near the fire"
     ],
     "correctIndex": 3,
@@ -606,10 +606,10 @@
     "difficulty": "medium",
     "question": "When changing over and cleaning a fuel oil filter, you should:",
     "options": [
-      "Open it while under pressure to save time",
-      "Make sure the element is isolated and depressurised, use a drip tray and keep oil away from hot surfaces",
-      "Let the oil drain onto the floor plates",
-      "Clean it with petrol near the boiler"
+      "Open it while under pressure, to save time, and let the oil drain onto the plates",
+      "Isolate and depressurise the element, use a drip tray and keep oil from hot surfaces",
+      "Let the oil drain onto the floor plates, then wipe the plates dry when finished",
+      "Clean it with petrol near the boiler front, where the hot parts will dry it quickly"
     ],
     "correctIndex": 1,
     "explanation": "Filter covers that are not properly tightened are a common source of fuel spray fires."
@@ -624,7 +624,7 @@
       "A drain valve",
       "A pressure gauge only",
       "A relief (safety) valve, and often a fusible plug",
-      "A non-return valve only"
+      "A non-return valve only, fitted at the outlet of the compressor delivery line"
     ],
     "correctIndex": 2,
     "explanation": "A fire near the receiver could raise its pressure; the fusible plug melts to release the air."
@@ -636,9 +636,9 @@
     "difficulty": "medium",
     "question": "Sewage tanks and lines can contain:",
     "options": [
-      "Pure oxygen",
-      "Nitrogen only",
-      "Only clean water",
+      "Pure oxygen, which keeps the sewage fresh and so reduces the smell in the tanks",
+      "Nitrogen only, which is harmless and does not need any special testing before entry",
+      "Only clean water and treated effluent, so that no special precautions are needed for entry",
       "Toxic hydrogen sulphide and flammable methane, so they are treated as enclosed spaces"
     ],
     "correctIndex": 3,
@@ -652,9 +652,9 @@
     "question": "A portable gas detector should be checked before use by:",
     "options": [
       "A bump test or calibration check with a known test gas, as the maker recommends",
-      "Shaking it",
-      "Holding it in fresh air only",
-      "Checking it only once a year"
+      "Shaking it to see that the sensor moves freely and that the display lights up as it should",
+      "Holding it in fresh air only, to see that the zero reading is shown on the display",
+      "Checking it only once a year, at the same time as the annual survey of the ship"
     ],
     "correctIndex": 0,
     "explanation": "An uncalibrated detector may give dangerously wrong readings."
@@ -669,7 +669,7 @@
       "The oxygen hose is red and the acetylene hose is green",
       "Colours are chosen by the user",
       "The oxygen hose is blue and the acetylene (fuel gas) hose is red",
-      "Both hoses are black"
+      "Both hoses are black, so that the hose colour does not give away the gas"
     ],
     "correctIndex": 2,
     "explanation": "Correct colours and different thread directions on fittings help prevent dangerous cross-connection."
@@ -681,9 +681,9 @@
     "difficulty": "medium",
     "question": "Flashback arrestors are fitted to gas welding equipment to:",
     "options": [
-      "Light the torch",
-      "Increase the gas pressure",
-      "Mix the gases",
+      "Light the torch automatically when the gas valves are opened by the welder",
+      "Increase the gas pressure at the torch so that the flame burns hotter and cleaner",
+      "Mix the gases in the correct proportions before they reach the torch and the nozzle",
       "Stop a flame travelling back through the hoses into the regulators and cylinders"
     ],
     "correctIndex": 3,
@@ -699,7 +699,7 @@
       "As close as possible to the work",
       "To the ship's switchboard",
       "To the welding machine only",
-      "To any pipe in the engine room"
+      "To any pipe in the engine room, since the current will always return to the machine"
     ],
     "correctIndex": 0,
     "explanation": "Return current flowing through other parts of the ship can damage bearings and electronic equipment."
@@ -711,10 +711,10 @@
     "difficulty": "medium",
     "question": "Engine room fire drills should include testing:",
     "options": [
-      "The anchor windlass",
+      "The anchor windlass and the mooring winches, which are checked at every port call",
       "Remote shut-offs for fuel and ventilation, and the closing of fire dampers and doors",
-      "The cargo pumps",
-      "Only the galley extinguishers"
+      "The cargo pumps and the cargo valves, since these are operated from the engine room",
+      "Only the galley extinguishers and the portable extinguishers in the accommodation corridors"
     ],
     "correctIndex": 1,
     "explanation": "Drills should be realistic and cover different scenarios, such as a fuel spray fire."
@@ -726,9 +726,9 @@
     "difficulty": "medium",
     "question": "Flame detectors in machinery spaces are often placed near:",
     "options": [
-      "The cargo holds",
-      "The galley",
-      "The accommodation corridors",
+      "The cargo holds and the deck stores, where the fire hazard is highest at sea",
+      "The galley and the pantry, where cooking oil and the electrical appliances are used",
+      "The accommodation corridors and the cabins, where people sleep and where the alarm is heard",
       "Main and auxiliary engines, boilers and purifiers, where a fire could start quickly"
     ],
     "correctIndex": 3,
@@ -742,9 +742,9 @@
     "question": "Quick-closing valves on fuel oil tanks should be:",
     "options": [
       "Tested regularly from their remote position to confirm they close fully",
-      "Wired open",
-      "Tested only at dry-docking",
-      "Removed when not needed"
+      "Wired open, so that they cannot be closed by mistake while the engine is running",
+      "Tested only at dry-docking, when the tanks are empty and the valves can be reached",
+      "Removed when not needed, so that they cannot be closed during bunkering by mistake"
     ],
     "correctIndex": 0,
     "explanation": "After testing they must be reset and the system checked before restarting machinery."
@@ -757,7 +757,7 @@
     "question": "Before working on a hydraulic or compressed air system, you must:",
     "options": [
       "Only stop the pump",
-      "Increase the pressure first",
+      "Increase the pressure first, to check that the seals and the hoses are sound",
       "Isolate it and release any stored pressure",
       "Rely on the relief valve"
     ],
@@ -789,7 +789,7 @@
       "250 to 300 °C",
       "100 °C",
       "1,000 °C",
-      "60 °C"
+      "60 °C, which is the flash point of the fuel and the temperature of the storage tank"
     ],
     "correctIndex": 0,
     "explanation": "Many hot surfaces such as exhaust manifolds are well above this temperature, which is why spray shields and insulation are vital."
@@ -818,7 +818,7 @@
     "options": [
       "50 °C",
       "30 °C",
-      "2 °C",
+      "2 °C, which is the tolerance allowed for the tank temperature thermometer",
       "10 °C"
     ],
     "correctIndex": 3,
@@ -831,10 +831,10 @@
     "difficulty": "hard",
     "question": "After a machinery space fire has been extinguished with CO2, the space should be:",
     "options": [
-      "Filled with water at once",
-      "Opened immediately to check the result",
-      "Kept closed long enough for hot surfaces to cool, then re-entered with breathing apparatus after ventilation",
-      "Entered without breathing apparatus once the alarm stops"
+      "Filled with water at once to cool the hot surfaces and to extinguish any embers left",
+      "Opened immediately to check the result of the discharge, with the fire party standing by at the door",
+      "Kept closed until hot surfaces have cooled, then entered with breathing apparatus after ventilation",
+      "Entered without breathing apparatus once the alarm has stopped and the space is cool"
     ],
     "correctIndex": 2,
     "explanation": "Opening too early lets air in and the fire may re-ignite."
@@ -849,7 +849,7 @@
       "2 minutes",
       "10 minutes",
       "20 seconds",
-      "2 seconds"
+      "2 seconds, enough to start the ventilation fans and close the openings"
     ],
     "correctIndex": 2,
     "explanation": "This gives anyone left in the space time to escape."
@@ -861,10 +861,10 @@
     "difficulty": "hard",
     "question": "The fire main isolating valve outside the machinery space allows:",
     "options": [
-      "Sea water to enter the bilges",
-      "The main fire pumps to be tested",
-      "Fuel to be shut off",
-      "The emergency fire pump to supply the fire main when the main fire pumps and machinery space piping are lost"
+      "Sea water to enter the bilges so that the machinery space can be flooded in an emergency",
+      "The main fire pumps to be tested, while the emergency fire pump supplies the hydrants in the engine room",
+      "Fuel to be shut off from the service tanks by a valve fitted outside the machinery space",
+      "The emergency fire pump to supply the fire main when the main pumps are lost"
     ],
     "correctIndex": 3,
     "explanation": "Without it, water from the emergency pump could escape through damaged pipes in the machinery space."
@@ -877,9 +877,9 @@
     "question": "A crankcase explosion is often followed by a more violent secondary explosion because:",
     "options": [
       "Air drawn into the crankcase after the first explosion mixes with the remaining oil mist",
-      "Fuel leaks into the crankcase",
-      "The lube oil pump stops",
-      "The relief valves close too slowly"
+      "Fuel leaks into the crankcase from the injectors and forms a second cloud of vapour",
+      "The lube oil pump stops at once and the bearings overheat, which creates a new hot spot in the crankcase",
+      "The relief valves close too slowly, so that the pressure from the first explosion cannot escape"
     ],
     "correctIndex": 0,
     "explanation": "Relief valves have flame arrestors and close again quickly to stop air entering."
@@ -891,10 +891,10 @@
     "difficulty": "hard",
     "question": "On discovering a scavenge fire, appropriate actions usually include:",
     "options": [
-      "Opening the scavenge doors immediately",
-      "Reducing engine load, cutting fuel to the affected cylinder and increasing its cylinder lubrication",
-      "Stopping all cylinder lubrication",
-      "Increasing engine speed"
+      "Opening the scavenge doors immediately to let the fire burn out in the fresh air",
+      "Reducing engine load, cutting fuel to the affected cylinder and raising its cylinder oil feed",
+      "Stopping all cylinder lubrication on the engine so that no more oil can burn",
+      "Increasing engine speed to blow the fire out of the scavenge space, and opening the scavenge doors at once"
     ],
     "correctIndex": 1,
     "explanation": "The scavenge space must not be opened until the fire is out and the engine has cooled; a fixed system is used if it spreads."
@@ -907,9 +907,9 @@
     "question": "Flame arrestors or bursting discs in the main engine starting air branch pipes protect against:",
     "options": [
       "A flame from a leaking cylinder starting valve travelling into the starting air manifold",
-      "Turbocharger surging",
-      "Sea water entering the engine",
-      "Low starting air pressure"
+      "Turbocharger surging, caused by a blocked air filter or fouling on the nozzle ring",
+      "Sea water entering the engine from the scavenge air cooler and the exhaust manifold, which may cause hydraulic lock",
+      "Low starting air pressure in the receivers, which stops the engine from turning over"
     ],
     "correctIndex": 0,
     "explanation": "Hot cylinder gases meeting oily deposits in the starting air pipes can cause an explosion."
@@ -921,10 +921,10 @@
     "difficulty": "hard",
     "question": "Hydrogen sulphide is especially dangerous because:",
     "options": [
-      "It is harmless at any concentration",
-      "It is lighter than air and disperses at once",
-      "It is always visible as a yellow gas",
-      "At higher concentrations it paralyses the sense of smell, so its rotten-egg odour can no longer be detected"
+      "It is harmless at any concentration, and so is not a danger to people in the space",
+      "It is lighter than air and disperses at once, so it never collects in tanks or low places",
+      "It is always visible as a yellow gas, so it can be seen well before it reaches a harmful concentration",
+      "At higher concentrations it paralyses the sense of smell, so the odour cannot be detected"
     ],
     "correctIndex": 3,
     "explanation": "Use a calibrated detector; never rely on smell."
@@ -936,10 +936,10 @@
     "difficulty": "hard",
     "question": "In a cargo ship, one of the means of escape from the lower part of a category A machinery space must be:",
     "options": [
-      "The shaft tunnel only, with no enclosure",
-      "A rope ladder through the skylight",
-      "A steel ladder in a protected enclosure that gives continuous fire shelter to a safe position outside",
-      "The engine room crane"
+      "The shaft tunnel only, with no enclosure, if it leads to the after part of the ship",
+      "A rope ladder through the skylight, which is fitted at one end of the space and is reached by a short walk",
+      "A steel ladder in a protected enclosure giving continuous fire shelter to a safe place",
+      "The engine room crane, which can lift a person to the upper deck in an emergency"
     ],
     "correctIndex": 2,
     "explanation": "The protected enclosure must be fitted with self-closing fire doors and its own lighting and ventilation."
@@ -951,10 +951,10 @@
     "difficulty": "hard",
     "question": "Most crankcase oil mist detectors work by:",
     "options": [
-      "Detecting sound from the bearings",
-      "Measuring the obscuration or scattering of a light beam by oil mist in samples from the crankcase",
-      "Measuring oxygen in the crankcase",
-      "Measuring the oil temperature in the sump"
+      "Detecting sound from the bearings with a microphone and comparing it with a limit",
+      "Measuring the obscuration or scattering of a light beam by oil mist drawn from the crankcase",
+      "Measuring oxygen in the crankcase and giving an alarm when it is above 21 per cent",
+      "Measuring the oil temperature in the sump and comparing it with the bearing temperatures on the engine"
     ],
     "correctIndex": 1,
     "explanation": "Rising mist density between compartments or above the alarm level indicates a hot spot."
@@ -968,7 +968,7 @@
     "options": [
       "50 bar",
       "1 bar (15 psi), because it can become unstable",
-      "10 bar",
+      "10 bar, which is the working pressure of the welding set pressure regulator",
       "200 bar"
     ],
     "correctIndex": 1,

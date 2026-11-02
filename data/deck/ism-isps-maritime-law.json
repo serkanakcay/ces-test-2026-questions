@@ -6,10 +6,10 @@
     "difficulty": "easy",
     "question": "The main objectives of the ISM Code are to:",
     "options": [
-      "Set crew wage levels",
-      "Ensure safety at sea, prevent injury or loss of life, and avoid damage to the environment and property",
-      "Standardise ship designs",
-      "Increase cargo capacity"
+      "Set minimum wage levels and working hours for seafarers on board",
+      "Ensure safety at sea, prevent loss of life and protect the environment",
+      "Standardise ship designs and the layout of machinery spaces and bridges",
+      "Increase cargo capacity and reduce the time spent in port by ships"
     ],
     "correctIndex": 1,
     "explanation": "The Code requires a Safety Management System (SMS) for each company and ship."
@@ -21,10 +21,10 @@
     "difficulty": "medium",
     "question": "Under the ISM Code, the Designated Person Ashore (DPA):",
     "options": [
-      "Is a port state control inspector",
-      "Is a link between the company and those on board, with direct access to the highest level of management",
-      "Is the ship's master",
-      "Commands the ship in an emergency"
+      "Is a port state control inspector who audits the ship's SMS ashore",
+      "Links the company and the ship, with access to top management",
+      "Is the ship's master, who is responsible for the ISM Code on board",
+      "Commands the ship in an emergency, when the master is not available"
     ],
     "correctIndex": 1,
     "explanation": "The DPA monitors safety and pollution-prevention aspects and ensures adequate resources and shore support."
@@ -81,10 +81,10 @@
     "difficulty": "medium",
     "question": "The Ship Security Alert System (SSAS), when activated:",
     "options": [
-      "Turns on all deck lights",
-      "Sends a covert alert to shore without raising an alarm on board or alerting nearby ships",
-      "Sounds the general alarm",
-      "Transmits a MAYDAY on VHF 16"
+      "Turns on all deck lights and starts the ship's searchlights on the bridge",
+      "Sends a covert alert to shore, with no alarm on board or alert to ships",
+      "Sounds the general emergency alarm on board and calls the crew to muster",
+      "Transmits a MAYDAY on VHF channel 16 and sends a DSC distress alert"
     ],
     "correctIndex": 1,
     "explanation": "SSAS is used when the ship is under threat, for example piracy or terrorism."
@@ -96,10 +96,10 @@
     "difficulty": "medium",
     "question": "The Safety Management Certificate (SMC) is valid for up to:",
     "options": [
-      "Indefinitely",
-      "One year",
-      "Ten years",
-      "Five years, with an intermediate verification between the second and third anniversary"
+      "Indefinitely, provided that the annual audits are completed on time",
+      "One year, with a renewal audit by the flag state before the expiry date",
+      "Ten years, with annual verification by the classification society",
+      "Five years, with an intermediate verification during the term"
     ],
     "correctIndex": 3,
     "explanation": "Renewal requires a successful audit of the shipboard SMS."
@@ -111,10 +111,10 @@
     "difficulty": "medium",
     "question": "Under STCW, minimum hours of rest for a watchkeeper are:",
     "options": [
-      "10 hours in any 24-hour period and 77 hours in any 7-day period",
-      "8 hours in any 24 hours and 56 hours in 7 days",
-      "12 hours in any 24 hours and 84 hours in 7 days",
-      "6 hours in any 24 hours and 50 hours in 7 days"
+      "10 hours in any 24 hours and 77 hours in any 7 days",
+      "8 hours in any 24-hour period and 56 hours in any 7-day period",
+      "12 hours in any 24-hour period and 84 hours in any 7-day period",
+      "6 hours in any 24-hour period and 50 hours in any 7-day period"
     ],
     "correctIndex": 0,
     "explanation": "Rest may be split into no more than two periods, one of at least 6 hours, with no more than 14 hours between them."
@@ -126,10 +126,10 @@
     "difficulty": "easy",
     "question": "The Maritime Labour Convention, 2006 (MLC) deals mainly with:",
     "options": [
-      "Oil pollution limits",
-      "Navigation lights",
+      "Oil pollution limits and the discharge of oily mixtures at sea",
+      "Navigation lights and shapes, and the rules for avoiding collision",
       "Seafarers' working and living conditions",
-      "Ship construction standards"
+      "Ship construction standards and the strength of hull structure"
     ],
     "correctIndex": 2,
     "explanation": "It covers minimum age, employment agreements, hours, accommodation, food, medical care and complaint procedures."
@@ -141,10 +141,10 @@
     "difficulty": "medium",
     "question": "A port state control officer may detain a ship when:",
     "options": [
-      "The cargo is late",
-      "The crew has more than one nationality",
-      "Deficiencies are clearly hazardous to safety, health or the environment",
-      "The ship is older than 15 years"
+      "The cargo is late for delivery and the charterer has complained",
+      "The crew has more than one nationality on board the ship",
+      "Deficiencies are clearly a hazard to safety, health or the environment",
+      "The ship is older than 15 years and is not classed with an IACS member"
     ],
     "correctIndex": 2,
     "explanation": "The ship may not sail until the deficiencies are fixed or the conditions for sailing are agreed."
@@ -156,10 +156,10 @@
     "difficulty": "medium",
     "question": "The ISM Code says the master has overriding authority to:",
     "options": [
-      "Ignore the SMS",
-      "Change the ship's flag",
-      "Sign charter parties",
-      "Make decisions on safety and pollution prevention and to ask for the company's assistance"
+      "Ignore the safety management system if it delays the voyage",
+      "Change the ship's flag when the safety of the ship is endangered",
+      "Sign charter parties and bills of lading on behalf of the owner",
+      "Decide on safety and pollution prevention, and ask for help"
     ],
     "correctIndex": 3,
     "explanation": "ISM Code section 5 requires the company to state this authority clearly in the SMS."
@@ -171,10 +171,10 @@
     "difficulty": "easy",
     "question": "Under UNCLOS, the territorial sea may extend up to:",
     "options": [
-      "3 nautical miles",
-      "24 nautical miles",
+      "3 nautical miles from the baseline, as under the older rule",
+      "24 nautical miles from the baseline, as the contiguous zone",
       "12 nautical miles from the baseline",
-      "200 nautical miles"
+      "200 nautical miles from the baseline, as the EEZ of the state"
     ],
     "correctIndex": 2,
     "explanation": "The contiguous zone goes to 24 NM and the Exclusive Economic Zone (EEZ) to 200 NM."
@@ -186,10 +186,10 @@
     "difficulty": "hard",
     "question": "A Declaration of Security (DoS) under the ISPS Code is:",
     "options": [
-      "An agreement between a ship and a port facility or another ship on the security measures each will take",
-      "A certificate issued by the flag state",
-      "A cargo manifest",
-      "The crew list given to immigration"
+      "An agreement between a ship and a port facility on security measures",
+      "A certificate issued by the flag state after the ship security audit",
+      "A cargo manifest given to customs showing the security status of the cargo",
+      "The crew list given to the immigration authorities on arrival"
     ],
     "correctIndex": 0,
     "explanation": "It may be requested, for example, when security levels differ or after a security incident."
@@ -201,10 +201,10 @@
     "difficulty": "medium",
     "question": "In ISM terms, a 'non-conformity' is:",
     "options": [
-      "A crew complaint about food",
-      "An observed situation where objective evidence shows a specified requirement is not met",
-      "A delay in cargo operations",
-      "A serious accident with loss of life"
+      "A crew complaint about the food or accommodation, made to the master",
+      "A situation where objective evidence shows a requirement is not met",
+      "A delay in cargo operations that is caused by bad weather",
+      "A serious accident with loss of life, reported to the flag state"
     ],
     "correctIndex": 1,
     "explanation": "A 'major non-conformity' is a serious threat to safety or environment that needs immediate corrective action."
@@ -276,10 +276,10 @@
     "difficulty": "easy",
     "question": "Under the ISPS Code, the CSO is the:",
     "options": [
-      "Chief Security Officer on board",
-      "Coast Security Observer",
-      "Cargo Safety Officer",
-      "Company Security Officer, responsible ashore for the security of the company's ships"
+      "Chief Security Officer on board, appointed by the master of each ship",
+      "Coast Security Observer, appointed by the port state to board ships",
+      "Cargo Safety Officer, responsible for the security of dangerous goods",
+      "Company Security Officer, who handles ship security ashore"
     ],
     "correctIndex": 3,
     "explanation": "The CSO ensures ship security assessments and plans are developed, approved and kept up to date."
@@ -291,10 +291,10 @@
     "difficulty": "easy",
     "question": "In the ISPS Code, PFSO stands for:",
     "options": [
-      "Port Flag State Official",
-      "Port Fire Safety Officer",
+      "Port Flag State Official, who inspects the ships calling at the port",
+      "Port Fire Safety Officer, responsible for the fire plan of the port",
       "Port Facility Security Officer",
-      "Public Ferry Security Operator"
+      "Public Ferry Security Operator, responsible for passenger ferries"
     ],
     "correctIndex": 2,
     "explanation": "The PFSO is responsible for the port facility security plan and liaises with the ship's SSO."
@@ -306,10 +306,10 @@
     "difficulty": "medium",
     "question": "ISPS security level 3 applies when:",
     "options": [
-      "The ship is in dry dock",
-      "There is a heightened but general risk",
+      "The ship is in dry dock and under repair in the shipyard",
+      "There is a heightened risk of a security incident, but it is general",
       "A security incident is probable or imminent, for a limited period",
-      "Normal operations continue"
+      "Normal operations continue and the risk of a security incident is low"
     ],
     "correctIndex": 2,
     "explanation": "Level 1 is normal, level 2 heightened; at level 3 the ship may follow specific instructions from those responding to the threat."
@@ -321,10 +321,10 @@
     "difficulty": "medium",
     "question": "A Ship Security Plan must be:",
     "options": [
-      "Approved by the port facility",
-      "Written by the master and kept secret from the company",
-      "Displayed publicly on the gangway",
-      "Approved by the Administration or a Recognised Security Organisation on its behalf"
+      "Approved by the port facility security officer at the first port of call",
+      "Written by the master and kept secret from the company security officer",
+      "Displayed publicly on the gangway so that visitors can read it",
+      "Approved by the Administration or a Recognised Security Organisation"
     ],
     "correctIndex": 3,
     "explanation": "The plan is kept on board and protected from unauthorised access; some parts are confidential."
@@ -336,10 +336,10 @@
     "difficulty": "medium",
     "question": "The International Ship Security Certificate (ISSC) is valid for a maximum of:",
     "options": [
-      "10 years",
+      "10 years, subject to annual verification by the classification society",
       "5 years, subject to an intermediate verification",
-      "The life of the ship",
-      "1 year"
+      "The life of the ship, provided that no change is made to her security plan",
+      "1 year, subject to renewal by the port state at the first port"
     ],
     "correctIndex": 1,
     "explanation": "An interim ISSC, valid for up to 6 months, may be issued for example on a change of flag or company."
@@ -366,10 +366,10 @@
     "difficulty": "hard",
     "question": "Under the ISPS Code, security exercises involving the company and ship should be carried out:",
     "options": [
-      "Every month",
-      "Only after an incident",
-      "At least once each calendar year, with no more than 18 months between exercises",
-      "Once every five years"
+      "Every month, with the whole crew taking part in each exercise",
+      "Only after an incident, to test the changes made to the security plan",
+      "At least once each calendar year, at no more than 18-month intervals",
+      "Once every five years, at the time of the renewal verification"
     ],
     "correctIndex": 2,
     "explanation": "Exercises may be full-scale, tabletop or combined with other exercises such as search and rescue."
@@ -381,10 +381,10 @@
     "difficulty": "medium",
     "question": "The Continuous Synopsis Record (CSR) carried on board shows:",
     "options": [
-      "The ship's history, such as her flag, names, owners, managers and classification society",
-      "Maintenance records of the engine",
-      "The crew's sea service",
-      "The ship's cargo history"
+      "The ship's history, such as flag, names, owners and managers",
+      "The maintenance records of the engine and of the safety equipment",
+      "The crew's sea service records and their certificates of competency",
+      "The ship's cargo history for the last ten voyages and the ports called"
     ],
     "correctIndex": 0,
     "explanation": "It is required by SOLAS chapter XI-1 and is updated by the flag state whenever details change."
@@ -396,10 +396,10 @@
     "difficulty": "easy",
     "question": "A ship's IMO number:",
     "options": [
-      "Changes each time the ship is sold",
+      "Changes each time the ship is sold or her name is changed",
       "Is permanent and stays the same if she changes flag, name or owner",
-      "Is issued by the port of call",
-      "Is the same as her MMSI"
+      "Is issued by the port of call and is valid only while she is in port",
+      "Is the same as her MMSI, which is allocated by the flag state"
     ],
     "correctIndex": 1,
     "explanation": "It is marked permanently on the hull or superstructure and inside the ship."
@@ -411,9 +411,9 @@
     "difficulty": "hard",
     "question": "Under the ISM Code, internal safety audits on board and ashore must be carried out at intervals not exceeding:",
     "options": [
-      "5 years",
-      "30 months",
-      "1 month",
+      "5 years, in line with the renewal of the certificates",
+      "30 months, in line with the intermediate audit",
+      "1 month, in line with the master's monthly review",
       "12 months"
     ],
     "correctIndex": 3,
@@ -426,10 +426,10 @@
     "difficulty": "medium",
     "question": "Under the ISM Code, the master periodically:",
     "options": [
-      "Reviews the Safety Management System and reports its deficiencies to the shore management",
-      "Audits the classification society",
-      "Issues the Document of Compliance",
-      "Approves the company's SMS manual on behalf of the flag"
+      "Reviews the Safety Management System and reports its deficiencies",
+      "Audits the classification society and reports to the shore management",
+      "Issues the Document of Compliance to the company on behalf of the flag",
+      "Approves the company's SMS manual on behalf of the flag state"
     ],
     "correctIndex": 0,
     "explanation": "This master's review is one of the master's ISM responsibilities, together with implementing the company's policy on board."
@@ -441,9 +441,9 @@
     "difficulty": "hard",
     "question": "An interim Safety Management Certificate may be issued to a new ship, or on change of company, and is valid for:",
     "options": [
-      "12 months, with no extension",
-      "5 years",
-      "1 month only",
+      "12 months, with no extension, after which a full certificate is required",
+      "5 years, with an intermediate verification after the second year",
+      "1 month only, to allow the ship to sail to the port of the first audit",
       "Up to 6 months, which may exceptionally be extended by another 6 months"
     ],
     "correctIndex": 3,
@@ -456,10 +456,10 @@
     "difficulty": "medium",
     "question": "Under the ISM Code, a 'major non-conformity' is:",
     "options": [
-      "A delay in a planned maintenance job only",
-      "An identifiable deviation that poses a serious threat to people or the ship, or a serious risk to the environment, requiring immediate corrective action",
-      "An observation made by the crew",
-      "Any minor error in a record"
+      "A delay in a planned maintenance job that is not safety critical",
+      "A serious threat to people, ship or environment",
+      "An observation made by the crew during the internal audit",
+      "Any minor error in a record or a form, found during the audit"
     ],
     "correctIndex": 1,
     "explanation": "A major non-conformity must be downgraded through corrective action before the ship can continue normal operations."
@@ -471,10 +471,10 @@
     "difficulty": "hard",
     "question": "Under STCW, the minimum 10 hours of rest in 24 hours may be divided into no more than two periods, one of at least:",
     "options": [
-      "4 hours, with no limit on the interval",
-      "8 hours, with intervals up to 18 hours",
-      "6 hours, and the interval between consecutive rest periods must not exceed 14 hours",
-      "2 hours, with intervals up to 24 hours"
+      "4 hours, with no limit on the interval between rest periods",
+      "8 hours, with intervals between rest periods of up to 18 hours",
+      "6 hours, with no more than 14 hours between rest periods",
+      "2 hours, with intervals between rest periods of up to 24 hours"
     ],
     "correctIndex": 2,
     "explanation": "Musters and drills should be held in a way that minimises disturbance of rest periods."
@@ -486,10 +486,10 @@
     "difficulty": "hard",
     "question": "STCW requires a limit for alcohol for masters, officers and watchkeepers of not more than:",
     "options": [
-      "No limit when off watch",
-      "0.05% blood alcohol content (BAC) or 0.25 mg/l alcohol in the breath",
-      "0.08% blood alcohol content only",
-      "0.5% blood alcohol content"
+      "No limit when the person is off watch, but 0.05% when on watch",
+      "0.05% BAC or 0.25 mg/l alcohol in the breath",
+      "0.08% blood alcohol content only, or 0.40 mg/l alcohol in the breath",
+      "0.5% blood alcohol content, which is the limit for driving ashore"
     ],
     "correctIndex": 1,
     "explanation": "Many companies apply stricter policies, often zero alcohol on board."
@@ -531,10 +531,10 @@
     "difficulty": "medium",
     "question": "Under the MLC, a Seafarers' Employment Agreement must be:",
     "options": [
-      "An oral agreement only",
-      "Signed only by the master",
-      "Signed by both the seafarer and the shipowner or their representative, with a copy kept by the seafarer",
-      "Kept only at the company office"
+      "An oral agreement only, confirmed by the master at the time of joining",
+      "Signed only by the master, who then gives a copy to the crewing agent",
+      "Signed by seafarer and shipowner, with a copy kept by the seafarer",
+      "Kept only at the company office, with a summary shown to the seafarer"
     ],
     "correctIndex": 2,
     "explanation": "It sets out wages, hours, leave, repatriation and other terms of employment."
@@ -561,9 +561,9 @@
     "difficulty": "hard",
     "question": "Under the MLC, the maximum continuous period a seafarer may serve on board before being entitled to repatriation is:",
     "options": [
-      "There is no maximum",
-      "24 months",
-      "18 months",
+      "There is no maximum, as repatriation is the choice of the owner",
+      "24 months, as set out in the collective agreement of the ship",
+      "18 months, as set out in the national law of the flag state",
       "Less than 12 months"
     ],
     "correctIndex": 3,
@@ -576,10 +576,10 @@
     "difficulty": "medium",
     "question": "A ship of 500 GT or more on international voyages must carry, under the MLC:",
     "options": [
-      "A Maritime Labour Certificate and a Declaration of Maritime Labour Compliance",
-      "An ISSC only",
-      "A Ship Sanitation Certificate only",
-      "A Minimum Safe Manning Document only"
+      "A Maritime Labour Certificate and DMLC Parts I and II",
+      "An ISSC and a Ship Security Plan approved by the flag state",
+      "A Ship Sanitation Certificate, issued by the port health authority",
+      "A Minimum Safe Manning Document, issued by the flag state"
     ],
     "correctIndex": 0,
     "explanation": "DMLC Part I is drawn up by the flag state and Part II by the shipowner."
@@ -591,10 +591,10 @@
     "difficulty": "easy",
     "question": "Under the MLC, seafarers must have access to:",
     "options": [
-      "No complaint procedure while at sea",
-      "On-board complaint procedures that allow complaints to be made without fear of victimisation",
-      "Complaints through the port agent only",
-      "Only the company's lawyer"
+      "No complaint procedure while at sea, but only when in port",
+      "On-board complaint procedures, with no fear of victimisation",
+      "Complaints through the port agent only, when the ship is in a foreign port",
+      "Only the company's lawyer, who can be called when the ship is in port"
     ],
     "correctIndex": 1,
     "explanation": "Seafarers may also complain directly to the master, to an external authority or to port state control."
@@ -606,10 +606,10 @@
     "difficulty": "hard",
     "question": "Under the MLC, the limits on hours of WORK (as an alternative to minimum rest hours) are:",
     "options": [
-      "Not more than 16 hours in 24 and 90 hours in 7 days",
-      "Not more than 12 hours in 24 and 60 hours in 7 days",
-      "Not more than 10 hours in 24 and 77 hours in 7 days",
-      "Not more than 14 hours in any 24-hour period and 72 hours in any 7-day period"
+      "Not more than 16 hours in 24 hours and 90 hours in 7 days",
+      "Not more than 12 hours in 24 hours and 60 hours in 7 days",
+      "Not more than 10 hours in 24 hours and 77 hours in 7 days",
+      "Not more than 14 hours in 24 and 72 hours in 7 days"
     ],
     "correctIndex": 3,
     "explanation": "Flag states set either maximum hours of work or minimum hours of rest; records must be kept on board."
@@ -621,10 +621,10 @@
     "difficulty": "medium",
     "question": "Under the MLC, a seafarer's medical certificate is valid for a maximum of:",
     "options": [
-      "6 months",
+      "6 months for seafarers on tankers and passenger ships",
       "2 years, or 1 year for seafarers under 18",
-      "10 years",
-      "5 years for all seafarers"
+      "10 years for seafarers in the catering department",
+      "5 years for all seafarers, whatever their age"
     ],
     "correctIndex": 1,
     "explanation": "Colour vision certificates may be valid for up to 6 years."
@@ -636,10 +636,10 @@
     "difficulty": "hard",
     "question": "Under the 2014 amendments to the MLC, shipowners must have financial security to cover:",
     "options": [
-      "Abandonment of seafarers and contractual claims for death or long-term disability",
-      "Port dues",
-      "Cargo damage claims",
-      "Hull repairs after collision"
+      "Seafarer abandonment and death or disability claims",
+      "Port dues and pilotage charges unpaid at the end of the voyage",
+      "Cargo damage claims made by the charterers or cargo owners",
+      "Hull repairs after a collision or grounding, up to a set limit"
     ],
     "correctIndex": 0,
     "explanation": "Ships must carry a certificate showing this financial security is in place."
@@ -653,7 +653,7 @@
     "options": [
       "12 nautical miles",
       "200 nautical miles",
-      "24 nautical miles from the baseline",
+      "24 nautical miles",
       "350 nautical miles"
     ],
     "correctIndex": 2,
@@ -668,7 +668,7 @@
     "options": [
       "24 nautical miles",
       "12 nautical miles",
-      "500 nautical miles",
+      "350 nautical miles (shelf limit)",
       "200 nautical miles"
     ],
     "correctIndex": 3,
@@ -681,10 +681,10 @@
     "difficulty": "medium",
     "question": "Innocent passage through a territorial sea must be:",
     "options": [
-      "Approved in advance by the coastal state's navy",
-      "Continuous and expeditious, and not prejudicial to the peace, good order or security of the coastal state",
-      "Made only in daylight",
-      "Made only by warships"
+      "Approved in advance by the coastal state's navy for each passage",
+      "Continuous, expeditious and not harmful to the coastal state's peace",
+      "Made only in daylight and with a pilot of the coastal state on board",
+      "Made only by warships and by ships owned by the flag state"
     ],
     "correctIndex": 1,
     "explanation": "Stopping and anchoring are allowed only when incidental to ordinary navigation, due to force majeure or distress, or to help others in danger."
@@ -711,10 +711,10 @@
     "difficulty": "medium",
     "question": "The Paris MoU and Tokyo MoU are:",
     "options": [
-      "Regional agreements on port state control between maritime authorities",
-      "Ship classification societies",
-      "Insurance clubs",
-      "Tanker safety codes"
+      "Regional agreements on port state control",
+      "Ship classification societies with authority to survey ships",
+      "Insurance clubs which cover the liability of shipowners",
+      "Tanker safety codes agreed between the oil companies"
     ],
     "correctIndex": 0,
     "explanation": "Members share inspection data and target ships with higher risk profiles for inspection."
@@ -726,10 +726,10 @@
     "difficulty": "easy",
     "question": "A classification society mainly:",
     "options": [
-      "Sets freight rates",
-      "Employs the ship's crew",
-      "Charters ships to cargo owners",
-      "Sets technical rules for the ship's structure and machinery and surveys ships against them"
+      "Sets freight rates and the dates of sailing for the liner trade",
+      "Employs the ship's crew and sets their rates of pay and leave",
+      "Charters ships to cargo owners and agrees the freight rate for them",
+      "Sets technical rules for hull and machinery and surveys ships"
     ],
     "correctIndex": 3,
     "explanation": "Many classification societies also act as Recognised Organisations for flag states."
@@ -741,10 +741,10 @@
     "difficulty": "medium",
     "question": "A Recognised Organisation (RO) is:",
     "options": [
-      "A trade union for seafarers",
-      "An insurance company for cargo",
-      "A body authorised by the flag state to carry out statutory surveys and issue certificates on its behalf",
-      "A port state control authority"
+      "A trade union for seafarers, which negotiates on behalf of crews",
+      "An insurance company for cargo, which issues policies to owners",
+      "A body authorised by the flag state to survey ships for it",
+      "A port state control authority, which inspects ships in its ports"
     ],
     "correctIndex": 2,
     "explanation": "The RO Code sets the standards these organisations must meet."
@@ -756,10 +756,10 @@
     "difficulty": "hard",
     "question": "Under the 1989 Salvage Convention, 'special compensation' (Article 14) may be paid to a salvor who:",
     "options": [
-      "Towed a ship under a fixed-price contract",
-      "Worked to prevent or minimise environmental damage, even if the salvage itself was unsuccessful",
-      "Saved only the crew",
-      "Rescued cargo without environmental risk"
+      "Towed a ship under a fixed-price contract signed before the casualty",
+      "Worked to prevent environmental damage, even if the salvage failed",
+      "Saved only the crew of a ship that was lost with all her cargo",
+      "Rescued cargo that posed no risk of environmental damage at all"
     ],
     "correctIndex": 1,
     "explanation": "This modifies the traditional 'no cure, no pay' principle to encourage salvors to deal with pollution threats."
@@ -771,10 +771,10 @@
     "difficulty": "medium",
     "question": "General average is:",
     "options": [
-      "A sacrifice or expense made intentionally for the common safety, shared by all parties in the voyage",
-      "A fine paid to port authorities",
-      "Average cargo damage across all voyages",
-      "The average speed of the ship"
+      "An intentional sacrifice for the common safety, shared by all",
+      "A fine paid to port authorities when a ship is late at the berth",
+      "Average cargo damage across all the voyages of a shipping line",
+      "The average speed of the ship over all her voyages in a year"
     ],
     "correctIndex": 0,
     "explanation": "General average is usually adjusted under the York-Antwerp Rules."
@@ -786,10 +786,10 @@
     "difficulty": "medium",
     "question": "A P&I Club mainly insures a shipowner against:",
     "options": [
-      "Currency changes",
-      "Loss of freight only",
-      "Third-party liabilities such as crew injury, pollution and cargo claims",
-      "Damage to the ship's hull and machinery"
+      "Changes in currency and fuel prices that affect the voyage",
+      "Loss of freight only, when the ship is delayed at a port",
+      "Third-party liabilities, e.g. crew injury, pollution and cargo claims",
+      "Damage to the ship's hull and machinery, which is covered by H&M cover"
     ],
     "correctIndex": 2,
     "explanation": "Hull and machinery insurance covers physical damage to the ship itself."
@@ -801,10 +801,10 @@
     "difficulty": "medium",
     "question": "Under a bareboat (demise) charter, the charterer:",
     "options": [
-      "Hires only cargo space for one voyage",
-      "Pays for the ship by the day while the owner employs the crew",
-      "Buys the ship outright",
-      "Takes over the ship and is responsible for crewing, operating and maintaining her"
+      "Hires only cargo space on the ship for one voyage",
+      "Pays for the ship by the day while the owner supplies the crew",
+      "Buys the ship outright, with the title passing at the end",
+      "Takes over the ship, crewing, operating and maintaining her"
     ],
     "correctIndex": 3,
     "explanation": "The charterer becomes the 'disponent owner' for the charter period."
@@ -816,10 +816,10 @@
     "difficulty": "medium",
     "question": "Demurrage is:",
     "options": [
-      "Money paid by the charterer to the shipowner when the agreed laytime is exceeded",
-      "A port tax on cargo",
-      "Payment for a voyage",
-      "A reward for fast loading"
+      "Money paid by the charterer when the agreed laytime is exceeded",
+      "A port tax on cargo, paid by the receiver to the port authority",
+      "Payment for a voyage, calculated on the quantity of cargo carried",
+      "A reward paid to the charterer for loading the cargo quickly"
     ],
     "correctIndex": 0,
     "explanation": "Despatch, if agreed, is paid by the owner when loading or discharging is completed in less than the laytime."
@@ -831,10 +831,10 @@
     "difficulty": "medium",
     "question": "The master tenders a Notice of Readiness (NOR) when:",
     "options": [
-      "The pilot boards",
-      "The ship has arrived at the agreed place and is ready in all respects to load or discharge",
-      "Cargo operations are complete",
-      "The ship leaves the loading port"
+      "The pilot boards the ship to take her into the berth",
+      "The ship has arrived and is ready to load or discharge",
+      "Cargo operations are complete and the hatches have been closed",
+      "The ship leaves the loading port and sails for the discharge port"
     ],
     "correctIndex": 1,
     "explanation": "Laytime usually begins to count after a valid NOR is tendered, according to the charter party."
@@ -846,10 +846,10 @@
     "difficulty": "hard",
     "question": "A master's note of protest is made in order to:",
     "options": [
-      "Refuse a pilot",
-      "Complain about the port's food",
-      "Request extra crew",
-      "Record formally an event, such as heavy weather, that may have caused damage or loss for which the ship is not responsible"
+      "Refuse a pilot who is not licensed for the ship's size",
+      "Complain about the quality of the provisions supplied in the port",
+      "Request extra crew from the company for the next voyage",
+      "Record formally an event that may have caused damage or loss"
     ],
     "correctIndex": 3,
     "explanation": "It is made before a notary or consul and supports the shipowner's position in later claims."
@@ -861,10 +861,10 @@
     "difficulty": "easy",
     "question": "The official log book records:",
     "options": [
-      "Events required by law, such as drills, disciplinary matters, births and deaths on board",
-      "Personal letters of the crew",
-      "Engine fuel consumption only",
-      "Only the ship's speed"
+      "Legally required events such as drills, births and deaths",
+      "Personal letters and messages of the crew sent through the master",
+      "Engine fuel consumption and bunker deliveries only",
+      "Only the ship's speed and distance run for each day of the voyage"
     ],
     "correctIndex": 0,
     "explanation": "Its entries may be used as evidence in legal proceedings."
@@ -907,9 +907,9 @@
     "question": "The International Convention on Load Lines (1966) sets:",
     "options": [
       "Minimum freeboards for ships according to season and sea area",
-      "Container lashing standards",
-      "Maximum crew numbers",
-      "Fuel sulphur limits"
+      "Container lashing standards for ships carrying deck cargo",
+      "Maximum crew numbers for ships according to their size and trade",
+      "Fuel sulphur limits for ships operating in coastal areas"
     ],
     "correctIndex": 0,
     "explanation": "It also sets conditions of assignment such as watertight closures, guard rails and freeing ports."
@@ -921,9 +921,9 @@
     "difficulty": "medium",
     "question": "The Minimum Safe Manning Document is issued by:",
     "options": [
-      "The ship's master",
-      "The port state",
-      "The manning agency",
+      "The ship's master, after discussion with the company",
+      "The port state, at the time of the port state inspection",
+      "The manning agency which supplies the crew to the ship",
       "The flag state Administration"
     ],
     "correctIndex": 3,
@@ -936,10 +936,10 @@
     "difficulty": "hard",
     "question": "Under UNCLOS, piracy is defined as illegal acts of violence or detention for private ends committed:",
     "options": [
-      "Only by warships",
-      "Only in ports",
-      "On the high seas or in a place outside the jurisdiction of any state",
-      "Only in a state's territorial sea"
+      "Only by warships, against merchant ships on the high seas",
+      "Only in ports and anchorages, against a ship at berth",
+      "On the high seas or outside the jurisdiction of any state",
+      "Only in a state's territorial sea, against a ship at anchor"
     ],
     "correctIndex": 2,
     "explanation": "Similar acts within a state's territorial sea are called armed robbery against ships."
@@ -951,10 +951,10 @@
     "difficulty": "hard",
     "question": "Under the ISPS Code, the Ship Security Assessment (SSA) is carried out:",
     "options": [
-      "By port state control during inspection",
-      "Under the responsibility of the Company Security Officer, by persons with appropriate skills",
-      "Only by the flag state's navy",
-      "By the ship's cook"
+      "By port state control during the first inspection of the ship",
+      "By skilled persons, under the Company Security Officer",
+      "Only by the flag state's navy, using its own staff and equipment",
+      "By the ship's chief officer on the day of the first call at the port"
     ],
     "correctIndex": 1,
     "explanation": "The SSA includes an on-scene security survey and is the basis for the Ship Security Plan."
@@ -966,10 +966,10 @@
     "difficulty": "easy",
     "question": "Under a Ship Security Plan, typical restricted areas on board include:",
     "options": [
-      "The open main deck",
+      "The open main deck and the area forward of the accommodation",
       "The bridge, engine room and steering gear compartment",
-      "The crew mess room only",
-      "The gangway"
+      "The crew mess room and the recreation room, with the gym",
+      "The gangway and the area at the foot of the pilot ladder"
     ],
     "correctIndex": 1,
     "explanation": "Access to restricted areas is controlled and they should be clearly marked."

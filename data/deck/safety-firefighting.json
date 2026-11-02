@@ -66,9 +66,9 @@
     "difficulty": "medium",
     "question": "On a cargo ship, each lifeboat must be launched with its assigned crew on board and manoeuvred in the water at least once every:",
     "options": [
-      "Five years",
-      "Year",
-      "Week",
+      "Five years, at the time of the ship's renewal survey of class",
+      "Year, at the time of the annual safety equipment survey",
+      "Week, with the engine run ahead and astern for at least three minutes",
       "Three months"
     ],
     "correctIndex": 3,
@@ -96,10 +96,10 @@
     "difficulty": "medium",
     "question": "An Emergency Escape Breathing Device (EEBD) is intended for:",
     "options": [
-      "Diving operations",
+      "Diving operations on the hull, such as cleaning the sea chests and propeller",
       "Escaping from a hazardous atmosphere only",
-      "Firefighting inside the space",
-      "Entering enclosed spaces for work"
+      "Fire-fighting inside the burning space, using the supply of air for 30 minutes",
+      "Entering enclosed spaces for work, while an attendant stands at the entrance"
     ],
     "correctIndex": 1,
     "explanation": "EEBDs give about 10 minutes of air for escape. Never use them for firefighting or entry."
@@ -111,10 +111,10 @@
     "difficulty": "hard",
     "question": "Before entering an enclosed space, the oxygen content should read:",
     "options": [
-      "At least 25% by volume",
+      "At least 25% by volume, which is enough to support the breathing of the entrants",
       "About 21% by volume, with flammable and toxic gases within safe limits",
-      "At least 16% by volume",
-      "Oxygen does not need to be measured if the space was ventilated"
+      "At least 16% by volume, provided that no flammable gas is detected",
+      "Oxygen need not be measured if the space has been ventilated for one hour"
     ],
     "correctIndex": 1,
     "explanation": "Test from outside and at different levels, keep ventilating, and keep a standby person with communications at the entrance."
@@ -127,9 +127,9 @@
     "question": "When someone falls overboard, the immediate actions are:",
     "options": [
       "Release a lifebuoy, raise the alarm and keep the person in sight",
-      "Stop the engines and wait for instructions",
-      "Call the company first",
-      "Launch a lifeboat immediately at full speed"
+      "Stop the engines at once and wait for instructions from the company",
+      "Call the company first and wait for a decision on the action to be taken",
+      "Launch a lifeboat immediately at full speed and begin the search"
     ],
     "correctIndex": 0,
     "explanation": "Also mark the position (MOB on GPS/ECDIS), post look-outs and start a recovery manoeuvre."
@@ -141,10 +141,10 @@
     "difficulty": "medium",
     "question": "The Williamson turn is used to:",
     "options": [
-      "Bring the ship back onto her original track in the opposite direction, e.g. for man overboard",
-      "Turn the ship in the smallest possible space",
-      "Approach a berth",
-      "Anchor in strong current"
+      "Bring the ship back onto her original track in the opposite direction",
+      "Turn the ship in the smallest possible space when the rudder is put hard over",
+      "Approach a berth in a strong wind, by using the engines and one tug",
+      "Anchor the ship in a strong current, using the engines to ease the cable"
     ],
     "correctIndex": 0,
     "explanation": "Rudder hard over, after about 60° off the original course put the rudder hard over the other way, and steady on the reciprocal course."
@@ -157,9 +157,9 @@
     "question": "The general emergency alarm signal on board is:",
     "options": [
       "Seven or more short blasts followed by one long blast",
-      "One prolonged blast",
-      "Three short blasts",
-      "Continuous ringing of the bell"
+      "One prolonged blast on the whistle, repeated at intervals of one minute",
+      "Three short blasts on the whistle and three on the ship's bell, repeated",
+      "Continuous ringing of the ship's bell, together with flashing lights on deck"
     ],
     "correctIndex": 0,
     "explanation": "Given on the ship's whistle and the general alarm bells; crew then go to their muster stations."
@@ -186,10 +186,10 @@
     "difficulty": "hard",
     "question": "Before releasing a fixed CO2 flooding system into a space, you must:",
     "options": [
-      "Open the doors to let the gas in faster",
+      "Open the doors to let the gas in faster, then close them once released",
       "Make sure everyone is out and accounted for, and close all openings and ventilation",
-      "Keep ventilation fans running",
-      "Release it immediately without warning"
+      "Keep the ventilation fans running so that the gas is spread through the space",
+      "Release it immediately without warning, to extinguish the fire as quickly as possible"
     ],
     "correctIndex": 1,
     "explanation": "CO2 at extinguishing concentrations is lethal. Head counts and sealing the space are essential before release."
@@ -217,9 +217,9 @@
     "question": "Foam is most effective on:",
     "options": [
       "Class B fires involving flammable liquids",
-      "Combustible metal fires",
-      "Live electrical fires",
-      "Gas fires from a leaking pipe"
+      "Combustible metal fires, such as burning magnesium or sodium",
+      "Live electrical fires, because foam is a good electrical insulator",
+      "Gas fires from a leaking pipe, because foam cuts off the supply of fuel"
     ],
     "correctIndex": 0,
     "explanation": "Foam forms a blanket that smothers the fire and seals vapours."
@@ -261,9 +261,9 @@
     "difficulty": "easy",
     "question": "The main purpose of an immersion suit is to:",
     "options": [
-      "Make a person sink more slowly only",
-      "Replace a lifejacket in all cases",
-      "Protect against fire in the engine room",
+      "Make a person sink more slowly in the water, whatever its temperature",
+      "Replace a lifejacket in all cases, so that no other buoyancy aid is needed",
+      "Protect the wearer against fire and heat when working in the engine room",
       "Reduce loss of body heat for a person in cold water"
     ],
     "correctIndex": 3,
@@ -276,10 +276,10 @@
     "difficulty": "easy",
     "question": "The fire tetrahedron adds which fourth element to fuel, heat and oxygen?",
     "options": [
-      "Water vapour",
-      "Smoke",
+      "Water vapour, produced by cooling of the burning material",
+      "Smoke, produced by the incomplete combustion of the fuel",
       "The uninhibited chemical chain reaction",
-      "Carbon dioxide"
+      "Carbon dioxide, produced as the fuel burns in the oxygen"
     ],
     "correctIndex": 2,
     "explanation": "Dry powders work mainly by interrupting the chemical chain reaction."
@@ -291,9 +291,9 @@
     "difficulty": "easy",
     "question": "Cooling, as a method of fire extinguishing, works by:",
     "options": [
-      "Removing the fuel",
-      "Excluding oxygen",
-      "Adding more air",
+      "Removing the fuel from the fire by shutting off the supply",
+      "Excluding oxygen from the fire by smothering it with foam",
+      "Adding more air to the fire to speed up the burning",
       "Removing heat from the fire"
     ],
     "correctIndex": 3,
@@ -306,10 +306,10 @@
     "difficulty": "easy",
     "question": "The lifebuoys on the bridge wings, intended for a man overboard, are fitted with:",
     "options": [
-      "A radar reflector only",
-      "A rocket parachute flare",
-      "Self-igniting lights and self-activating smoke signals, with quick release",
-      "Only a buoyant line"
+      "A radar reflector and a whistle, with a lanyard made fast to the ship",
+      "A rocket parachute flare and a red hand flare in a watertight container",
+      "Self-igniting lights and self-activating smoke signals",
+      "A buoyant line only, which is made fast to the rail on the bridge wing"
     ],
     "correctIndex": 2,
     "explanation": "Their light and smoke help the ship find the person, by day and night."
@@ -337,9 +337,9 @@
     "question": "Each SOLAS lifejacket must be fitted with:",
     "options": [
       "A whistle firmly secured by a cord, and a lifejacket light",
-      "A rocket parachute flare",
-      "A portable VHF radio",
-      "A smoke signal"
+      "A rocket parachute flare in a pocket, together with a signalling mirror",
+      "A portable VHF radio in a waterproof case, with spare batteries",
+      "A smoke signal and a dye marker, both attached to the front of the lifejacket"
     ],
     "correctIndex": 0,
     "explanation": "Retro-reflective tape is also fitted to help rescuers find the wearer."
@@ -366,9 +366,9 @@
     "difficulty": "easy",
     "question": "The muster list on board shows:",
     "options": [
-      "The ship's daily menu",
-      "The list of passengers' cabins only",
-      "The cargo stowage plan",
+      "The ship's menu and the watch bill for each day of the week",
+      "The list of passengers' cabins and the lifeboats assigned to each of them",
+      "The cargo stowage plan, showing the position of dangerous goods on board",
       "Each crew member's emergency station and duties, and the alarm signals"
     ],
     "correctIndex": 3,
@@ -381,10 +381,10 @@
     "difficulty": "medium",
     "question": "The international shore connection is used to:",
     "options": [
-      "Transfer fuel oil",
-      "Connect a shore or another ship's water supply to the ship's fire main, using a standard flange",
-      "Connect shore electrical power",
-      "Discharge sewage ashore"
+      "Transfer fuel oil from a shore tank to the ship's bunker tanks",
+      "Connect a shore or another ship's water supply to the fire main",
+      "Connect shore electrical power to the main switchboard of the ship",
+      "Discharge sewage from the ship's holding tank to a shore facility"
     ],
     "correctIndex": 1,
     "explanation": "It must be available on both sides of the ship, with gasket, bolts and nuts."
@@ -396,10 +396,10 @@
     "difficulty": "medium",
     "question": "In addition to the copies on board, the fire control plan must also be kept:",
     "options": [
-      "Only in the master's safe",
-      "Only at the company office",
-      "In a prominently marked weathertight enclosure outside the deckhouse, for shore fire-fighters",
-      "In the engine control room only"
+      "Only in the master's safe, together with the ship's other certificates",
+      "Only at the company office, so that it can be sent when required",
+      "In a marked weathertight enclosure outside the deckhouse",
+      "In the engine control room only, where the fire alarm panel is fitted"
     ],
     "correctIndex": 2,
     "explanation": "It shows fire-retardant divisions, detection and extinguishing systems, ventilation controls and means of escape."
@@ -412,9 +412,9 @@
     "question": "A SOLAS fire-fighter's outfit includes:",
     "options": [
       "Protective clothing, boots, gloves, helmet, safety lamp, axe and breathing apparatus with a lifeline",
-      "A fire blanket and bucket",
-      "A portable fire pump",
-      "A lifejacket and immersion suit only"
+      "A fire blanket and a bucket, together with a portable foam applicator",
+      "A portable fire pump and hoses, with a spare set of hand-held nozzles",
+      "A lifejacket and an immersion suit only, stowed beside the fire locker"
     ],
     "correctIndex": 0,
     "explanation": "Cargo ships carry at least two outfits, stored so they are easily accessible and ready for use."
@@ -441,10 +441,10 @@
     "difficulty": "medium",
     "question": "The warning whistle on a breathing apparatus sounds when:",
     "options": [
-      "The mask is fitted correctly",
-      "The wearer enters smoke",
-      "The cylinder pressure falls to a set level, warning the wearer to leave the hazardous area",
-      "The cylinder is full"
+      "The mask is fitted correctly and the wearer may enter the smoke-filled space",
+      "The wearer enters smoke, which is the signal that the set has been activated",
+      "The cylinder pressure falls to a set level, warning the wearer to leave",
+      "The cylinder is full and the set is ready for use by the fire-fighter"
     ],
     "correctIndex": 2,
     "explanation": "The wearer must withdraw at once and should plan the exit time from the gauge reading as well."
@@ -516,10 +516,10 @@
     "difficulty": "hard",
     "question": "On-load release gear on a lifeboat allows the hooks to be released:",
     "options": [
-      "Only by cutting the falls",
-      "Only from the ship's deck",
-      "With the boat's weight still on the falls, so it must be protected against accidental or premature operation",
-      "Only when the boat is fully waterborne"
+      "Only by cutting the falls with an axe once the boat is in the water",
+      "Only from the ship's deck, using a wire that is led to the davit head",
+      "With the boat's weight still on the falls",
+      "Only when the boat is fully waterborne, with the weight off the hooks"
     ],
     "correctIndex": 2,
     "explanation": "Accidents with on-load hooks led to IMO requirements for improved release mechanisms and their regular servicing."
@@ -546,10 +546,10 @@
     "difficulty": "medium",
     "question": "Occupants of a free-fall lifeboat sit:",
     "options": [
-      "Anywhere, lying on the floor",
-      "Facing aft, strapped in with harnesses and with heads against the headrests",
-      "Facing forward, standing up",
-      "Facing the side, without harnesses"
+      "Anywhere in the boat, lying on the floor with the lifejackets as cushions",
+      "Facing aft, strapped in with harnesses, heads against the headrests",
+      "Facing forward, standing up and holding the handrails along the boat",
+      "Facing the side, without harnesses, to see the water as the boat falls"
     ],
     "correctIndex": 1,
     "explanation": "This position spreads the impact forces when the boat enters the water."
@@ -561,10 +561,10 @@
     "difficulty": "easy",
     "question": "To inflate a throw-over liferaft after it has been thrown into the water, you:",
     "options": [
-      "Cut the painter immediately",
-      "Wait for the hydrostatic release to fire",
+      "Cut the painter immediately and let the raft drift away from the ship",
+      "Wait for the hydrostatic release to fire and the raft to inflate by itself",
       "Pull the painter line out fully and then give it a sharp tug",
-      "Open the container by hand"
+      "Open the container by hand and pull the raft out by its canopy"
     ],
     "correctIndex": 2,
     "explanation": "The painter is attached to the ship before throwing so the raft stays alongside for boarding."
@@ -576,10 +576,10 @@
     "difficulty": "hard",
     "question": "The weak link in a float-free liferaft arrangement:",
     "options": [
-      "Releases the raft at 4 m depth",
-      "Holds the raft to the ship permanently",
-      "Inflates the raft",
-      "Breaks under the pull of the inflated raft so that it is not dragged down by the sinking ship"
+      "Releases the raft at a depth of about 4 metres, as the water pressure rises",
+      "Holds the raft to the ship permanently, until the raft is boarded by the crew",
+      "Inflates the raft when the painter is pulled by the sinking ship",
+      "Breaks as the raft inflates, so it is not dragged down with the sinking ship"
     ],
     "correctIndex": 3,
     "explanation": "The hydrostatic release frees the container; the painter inflates the raft, and the weak link then parts."
@@ -591,10 +591,10 @@
     "difficulty": "medium",
     "question": "To right a capsized inflatable liferaft, one person should:",
     "options": [
-      "Stand on the CO2 cylinder side, pull on the righting strap and lean back, preferably with the wind behind",
-      "Release all the air",
-      "Cut the canopy open",
-      "Swim under the raft and push up"
+      "Stand on the cylinder side, pull the righting strap and lean back",
+      "Release all the air from the raft and then inflate it again by hand",
+      "Cut the canopy open, then push the raft over from the inside",
+      "Swim under the raft and push up from below with both arms"
     ],
     "correctIndex": 0,
     "explanation": "The wind then helps flip the raft; the person should move clear as it comes over."
@@ -621,10 +621,10 @@
     "difficulty": "hard",
     "question": "A disposable hydrostatic release unit is normally:",
     "options": [
-      "Kept for the life of the ship",
-      "Serviced every month by the crew",
-      "Replaced every 10 years",
-      "Replaced at the end of its 2-year service life, as shown by its expiry date"
+      "Kept for the life of the ship, and tested at each annual survey",
+      "Serviced every month by the crew, who replace the water-sensitive parts",
+      "Replaced every 10 years, together with the liferaft it is fitted to",
+      "Replaced at the end of its 2-year life, as shown by its expiry date"
     ],
     "correctIndex": 3,
     "explanation": "Non-disposable units are serviced at the same intervals as the liferaft."
@@ -651,10 +651,10 @@
     "difficulty": "hard",
     "question": "An 'A-60' class division is a steel bulkhead or deck that:",
     "options": [
-      "Is made of combustible material 60 mm thick",
-      "Is fitted only around cargo holds",
-      "Stops smoke and flame for the one-hour standard fire test and is insulated so the unexposed side stays within temperature limits for 60 minutes",
-      "Resists fire for 60 seconds"
+      "Is made of combustible material 60 mm thick, with a steel facing",
+      "Is fitted only around cargo holds, and not in the accommodation",
+      "Stops smoke and flame for one hour and is insulated so the unexposed side stays within temperature limits",
+      "Resists fire for 60 seconds, then the insulation must be replaced"
     ],
     "correctIndex": 2,
     "explanation": "Lower ratings such as A-30, A-15 and A-0 have less (or no) insulation."
@@ -666,10 +666,10 @@
     "difficulty": "medium",
     "question": "The painter of a lifeboat is used to:",
     "options": [
-      "Steer the boat",
-      "Lower the boat from the davits",
-      "Hold the boat alongside the ship and in position while it is lowered and released",
-      "Inflate the boat's buoyancy tanks"
+      "Steer the boat when it is under way, after the falls are released",
+      "Lower the boat from the davits to the water, using the winch brake",
+      "Hold the boat alongside the ship while it is lowered and released",
+      "Inflate the boat's buoyancy tanks when the boat enters the water"
     ],
     "correctIndex": 2,
     "explanation": "The painter is released from inside the boat once it is clear and under way."
@@ -696,10 +696,10 @@
     "difficulty": "easy",
     "question": "A fire in a deep fat fryer should be fought with:",
     "options": [
-      "A fire blanket or wet chemical extinguisher, after switching off the heat",
-      "A jet of water",
-      "A wet cloth thrown into the pan",
-      "Fanning the flames out"
+      "A fire blanket or wet chemical extinguisher, with the heat switched off",
+      "A jet of water from the nearest fire hose, directed at the pan",
+      "A wet cloth thrown into the burning pan, followed by a bucket of water",
+      "Fanning the flames out with a towel, then removing the pan from the heat"
     ],
     "correctIndex": 0,
     "explanation": "Water causes a violent steam explosion that spreads burning oil."
@@ -711,10 +711,10 @@
     "difficulty": "medium",
     "question": "Boundary cooling during a fire means:",
     "options": [
-      "Spraying water directly into the seat of the fire",
-      "Cooling the bulkheads and decks around the fire to stop it spreading to adjacent spaces",
-      "Cooling the fire-fighters' breathing apparatus",
-      "Closing all fire doors"
+      "Spraying water directly into the seat of the fire to cool the burning material",
+      "Cooling the bulkheads and decks around the fire to stop it spreading",
+      "Cooling the fire-fighters' breathing apparatus cylinders in the staging area",
+      "Closing all fire doors and ventilators in the accommodation area"
     ],
     "correctIndex": 1,
     "explanation": "Boundaries on all six sides should be checked and cooled, including spaces above and below."
@@ -726,9 +726,9 @@
     "difficulty": "easy",
     "question": "When fire-fighters approach a fire, a water spray (fog) pattern from the nozzle can be used to:",
     "options": [
-      "Replace breathing apparatus",
-      "Reach a fire 50 metres away",
-      "Extinguish an electrical fire with the power on",
+      "Replace the breathing apparatus when the fire is in a small space",
+      "Reach a fire 50 metres away from the nozzle, in the open air",
+      "Extinguish an electrical fire with the power on, using a fine spray",
       "Protect the team by absorbing heat and pushing back smoke"
     ],
     "correctIndex": 3,
@@ -756,10 +756,10 @@
     "difficulty": "medium",
     "question": "During and after hot work, a fire watch should be kept:",
     "options": [
-      "Only if a fire breaks out",
-      "Only at the start of the job",
+      "Only if a fire breaks out, when the nearest crew member is called",
+      "Only at the start of the job, until the first sparks have been seen",
       "Throughout the work and for a period after it ends, with an extinguisher ready",
-      "Only if the work is on deck"
+      "Only if the work is on deck, and not inside a machinery space"
     ],
     "correctIndex": 2,
     "explanation": "Smouldering material on the far side of a bulkhead may ignite some time after the work stops."
@@ -771,10 +771,10 @@
     "difficulty": "medium",
     "question": "During an enclosed space entry, the attendant at the entrance should:",
     "options": [
-      "Stay at the entrance, keep communication with those inside and raise the alarm, never entering without rescue support",
-      "Leave once the entrants are inside",
-      "Do other work nearby",
-      "Enter to help whenever someone feels unwell"
+      "Stay at the entrance, keep communication with those inside and raise the alarm",
+      "Leave the entrance once the entrants are inside, and return before they come out",
+      "Do other work nearby, and check the space at intervals of about 30 minutes",
+      "Enter the space to help whenever someone inside feels unwell or calls out"
     ],
     "correctIndex": 0,
     "explanation": "Many fatalities are would-be rescuers who entered without breathing apparatus."
@@ -816,10 +816,10 @@
     "difficulty": "easy",
     "question": "The HELP position (Heat Escape Lessening Posture) in the water is used to:",
     "options": [
-      "Signal to aircraft",
+      "Signal to aircraft by making the body a large target for the crew",
       "Reduce body heat loss while waiting for rescue",
-      "Climb into a liferaft",
-      "Swim faster"
+      "Climb into a liferaft without help from other persons in the water",
+      "Swim faster towards the survival craft or the nearest shore"
     ],
     "correctIndex": 1,
     "explanation": "Knees are drawn up and arms held close to protect the areas that lose the most heat."
@@ -831,10 +831,10 @@
     "difficulty": "medium",
     "question": "A thermal protective aid (TPA) in a survival craft is used to:",
     "options": [
-      "Signal to rescuers",
-      "Store drinking water",
+      "Signal to rescuers by reflecting the light of the sun or a search light",
+      "Store drinking water in the survival craft, as a reserve to the water packs",
       "Reduce heat loss from a person, for example a survivor who is wet and cold",
-      "Protect the craft from fire"
+      "Protect the craft from fire when the survival craft is in a burning oil slick"
     ],
     "correctIndex": 2,
     "explanation": "TPAs are made of waterproof material with low thermal conductance."
@@ -861,10 +861,10 @@
     "difficulty": "medium",
     "question": "Survival craft, rescue boats and launching appliances must be visually inspected:",
     "options": [
-      "Only during annual surveys",
-      "Only after use",
+      "Only during annual surveys by the flag state or classification society",
+      "Only after use, or when damage to the equipment has been reported",
       "Weekly, to ensure they are ready for use",
-      "Once every five years"
+      "Once every five years, at the same time as the ship's renewal survey"
     ],
     "correctIndex": 2,
     "explanation": "The general emergency alarm system is also tested weekly."
@@ -876,10 +876,10 @@
     "difficulty": "hard",
     "question": "Lifeboat falls must be turned end for end at intervals of not more than 30 months and renewed:",
     "options": [
-      "Every 12 months",
-      "When necessary due to deterioration, or at intervals of not more than 5 years, whichever is earlier",
-      "Every 10 years",
-      "Only after a failure"
+      "Every 12 months, at the same time as the annual survey of the equipment",
+      "When deteriorated, or at intervals of not more than 5 years",
+      "Every 10 years, whatever the condition of the wire or the synthetic fibre",
+      "Only after a failure, or when the lifeboat has been in use for a rescue"
     ],
     "correctIndex": 1,
     "explanation": "SOLAS III/20.4."
@@ -906,10 +906,10 @@
     "difficulty": "medium",
     "question": "Dry powder extinguishers are suitable for:",
     "options": [
-      "Cooling hot bulkheads",
+      "Cooling hot bulkheads and decks near the seat of a major fire",
       "Flammable liquid and gas fires, and fires in electrical equipment",
-      "Only Class A fires in deep-seated material",
-      "Only metal fires with any powder"
+      "Only Class A fires in deep-seated material, such as bales of cotton",
+      "Only metal fires, with any type of dry powder in the extinguisher"
     ],
     "correctIndex": 1,
     "explanation": "Powder knocks down flames quickly but does not cool, so re-ignition is possible."
@@ -921,9 +921,9 @@
     "difficulty": "easy",
     "question": "When escaping through a smoke-filled corridor without breathing apparatus, you should:",
     "options": [
-      "Use the lift",
-      "Open all doors behind you",
-      "Stand up and run",
+      "Use the lift, since it is faster than the stairs when the smoke is thick",
+      "Open all doors behind you, to let the smoke escape from the corridor",
+      "Stand up and run, to get out of the corridor as quickly as possible",
       "Keep low, because hot smoke and gases rise"
     ],
     "correctIndex": 3,
@@ -937,9 +937,9 @@
     "question": "On a cargo ship with lifeboats on both sides, the lifeboats on each side must be able to accommodate:",
     "options": [
       "The total number of persons on board",
-      "25% of the persons on board",
-      "Half the persons on board",
-      "Only the deck crew"
+      "25% of the persons on board, in addition to the liferafts on each side",
+      "Half the persons on board, with the liferafts taking the other half",
+      "Only the deck crew, with the engine crew using the liferafts"
     ],
     "correctIndex": 0,
     "explanation": "Alternatively, one or more free-fall lifeboats at the stern can carry the total number of persons on board."
@@ -966,10 +966,10 @@
     "difficulty": "medium",
     "question": "During a SOLAS fire drill, the fire pump should be started and:",
     "options": [
-      "At least the two required jets of water used to show the system is in working order",
-      "Only the pressure gauge checked",
-      "The CO2 system discharged",
-      "Water used only on deck"
+      "At least the two required jets of water, showing the system works",
+      "Only the pressure gauge checked, without any water being delivered",
+      "The CO2 system discharged into the engine room to test the alarm",
+      "Water used only on deck, for washing down after the drill"
     ],
     "correctIndex": 0,
     "explanation": "Drills also check fire-fighters' outfits, communication equipment, fire doors, dampers and ventilation shutdowns."

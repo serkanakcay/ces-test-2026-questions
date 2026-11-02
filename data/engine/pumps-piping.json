@@ -6,10 +6,10 @@
     "difficulty": "easy",
     "question": "Why does a centrifugal pump usually need priming?",
     "options": [
-      "Priming increases the motor voltage",
-      "Priming lubricates the bearings",
+      "Priming increases the motor voltage so that the starting current is lowered",
+      "Priming lubricates the bearings and the mechanical seal before the first start",
       "It cannot create enough suction to lift liquid when its casing is full of air",
-      "Priming cleans the impeller"
+      "Priming cleans the impeller of fouling before the pump takes up the load"
     ],
     "correctIndex": 2,
     "explanation": "Self-priming arrangements (for example vacuum pumps on bilge or ballast pumps) remove air so the pump can draw liquid."
@@ -21,10 +21,10 @@
     "difficulty": "medium",
     "question": "Why must a positive displacement pump have a relief valve?",
     "options": [
-      "To prime the pump",
+      "To prime the pump by letting air out of the casing before the liquid arrives",
       "Its discharge pressure rises until something fails if the discharge is blocked",
-      "To cool the pump",
-      "To control speed"
+      "To cool the pump bearings by returning part of the liquid to the suction line",
+      "To control the pump speed by opening when the motor current rises too far"
     ],
     "correctIndex": 1,
     "explanation": "Never start a positive displacement pump against a closed discharge valve unless a relief valve is fitted."
@@ -37,9 +37,9 @@
     "question": "Cavitation in a pump happens when:",
     "options": [
       "The local pressure at the suction falls below the vapour pressure of the liquid",
-      "The liquid is very cold",
-      "The discharge valve is fully open",
-      "The pump runs at low speed"
+      "The liquid is very cold, so its viscosity rises and the flow into the impeller falls",
+      "The discharge valve is fully open and the pump delivers a very large flow",
+      "The pump runs at low speed with the suction valve partly closed in cold weather"
     ],
     "correctIndex": 0,
     "explanation": "Vapour bubbles collapse violently, causing noise, vibration, impeller erosion and loss of performance."
@@ -54,7 +54,7 @@
       "Zero",
       "Greater than the NPSH required by the pump",
       "Equal to the discharge head",
-      "Less than the NPSH required"
+      "Less than the NPSH required, with a margin for the losses in the discharge pipe"
     ],
     "correctIndex": 1,
     "explanation": "Raise suction head, reduce suction losses or lower liquid temperature to increase NPSHa."
@@ -67,9 +67,9 @@
     "question": "Non-return valves in bilge suction branches are fitted to:",
     "options": [
       "Prevent sea water or bilge water flowing back into compartments",
-      "Measure bilge level",
-      "Reduce fuel consumption",
-      "Increase pump flow rate"
+      "Measure the bilge level in each compartment and send the reading to the control room",
+      "Reduce fuel consumption by stopping the bilge pump when the suction is empty",
+      "Increase the pump flow rate by keeping the suction pipe full at all times"
     ],
     "correctIndex": 0,
     "explanation": "SOLAS requires bilge arrangements that prevent water passing from the sea or from one compartment into another."
@@ -83,7 +83,7 @@
     "options": [
       "Jet pump",
       "Rotary positive displacement pump",
-      "Centrifugal pump",
+      "Centrifugal pump with a single impeller and a volute casing around it",
       "Axial-flow pump"
     ],
     "correctIndex": 1,
@@ -96,7 +96,7 @@
     "difficulty": "medium",
     "question": "Running two identical centrifugal pumps in parallel mainly:",
     "options": [
-      "Doubles the head at the same flow",
+      "Doubles the head at the same flow, as the two heads add together in the pipe",
       "Increases the flow rate at about the same head",
       "Reduces the flow rate",
       "Has no effect"
@@ -111,7 +111,7 @@
     "difficulty": "medium",
     "question": "Compared with gland packing, a mechanical seal:",
     "options": [
-      "Needs a steady drip of liquid to work",
+      "Needs a steady drip of liquid to work, which is collected in the gland drain",
       "Must be tightened daily",
       "Cannot be used on centrifugal pumps",
       "Leaks much less and needs no regular adjustment"
@@ -126,10 +126,10 @@
     "difficulty": "medium",
     "question": "Under SOLAS, the emergency fire pump on a cargo ship must be:",
     "options": [
-      "Driven by the main engine",
-      "Only used in port",
+      "Driven by the main engine through a clutch so that it starts whenever the engine runs",
+      "Used only in port when the main fire pumps are shut down for maintenance work",
       "Located outside the machinery space and have an independent power source",
-      "Located in the main engine room"
+      "Located in the main engine room, close to the main sea water cooling pump"
     ],
     "correctIndex": 2,
     "explanation": "This ensures water for firefighting if a fire disables the machinery space and main fire pumps."
@@ -142,7 +142,7 @@
     "question": "By the pump affinity laws, if a centrifugal pump's speed is doubled, the power absorbed becomes:",
     "options": [
       "Unchanged",
-      "About 2 times greater",
+      "About 2 times greater, in proportion to the increase in the speed of the shaft",
       "About 4 times greater",
       "About 8 times greater"
     ],
@@ -156,10 +156,10 @@
     "difficulty": "medium",
     "question": "Screw pumps are commonly used on board for:",
     "options": [
-      "Emergency fire pumping with sea water",
-      "Pumping exhaust gas",
+      "Emergency fire pumping with sea water, as they are self-priming with large flow",
+      "Pumping exhaust gas to the economiser at a high pressure from the turbocharger",
       "Transferring high-viscosity fluids such as heavy fuel oil and lubricating oil",
-      "Pumping refrigerant"
+      "Pumping refrigerant from the receiver to the evaporators of the provision plant"
     ],
     "correctIndex": 2,
     "explanation": "They give smooth, pulse-free flow and handle viscous liquids well."
@@ -173,8 +173,8 @@
     "options": [
       "Switch off the alarm",
       "Automatically stop overboard discharge or return the water to the bilge or tank",
-      "Increase the discharge rate",
-      "Discharge anyway and log it later"
+      "Increase the discharge rate so that the bilge tank is emptied before the alarm resets",
+      "Discharge anyway and log it later, since the alarm shows only a short peak"
     ],
     "correctIndex": 1,
     "explanation": "MARPOL Annex I requires an automatic stopping device and a recorded 15 ppm alarm."
@@ -186,10 +186,10 @@
     "difficulty": "easy",
     "question": "The main purpose of a sea chest strainer is to:",
     "options": [
-      "Increase pump suction pressure",
-      "Measure sea water temperature",
+      "Increase pump suction pressure by removing the air and gas from the sea water",
+      "Measure the temperature of the sea water and send it to the cooling water controller",
       "Stop debris and marine growth entering the sea water cooling system",
-      "Prevent oil pollution"
+      "Prevent oil pollution by separating oil from the sea water entering the pump suction"
     ],
     "correctIndex": 2,
     "explanation": "Clean strainers regularly. Change over to the standby sea chest before opening one."
@@ -201,9 +201,9 @@
     "difficulty": "hard",
     "question": "Water hammer in a steam line is mainly caused by:",
     "options": [
-      "A fully open steam trap",
-      "High boiler water pH",
-      "Too much superheat",
+      "A fully open steam trap, which lets steam flow into the condensate return line",
+      "High boiler water pH, which causes foaming and carry-over into the steam line",
+      "Too much superheat, which makes the condensate in the line boil off suddenly",
       "Condensate collected in the line being driven at high speed by steam"
     ],
     "correctIndex": 3,
@@ -217,7 +217,7 @@
     "question": "Why is it important to keep the suction pipe of a centrifugal pump airtight?",
     "options": [
       "Air leaks reduce suction and can make the pump lose prime",
-      "Air leaks increase the discharge pressure",
+      "Air leaks increase the discharge pressure by compressing the air in the casing",
       "Air leaks only affect the motor",
       "Air improves cooling"
     ],
@@ -231,7 +231,7 @@
     "difficulty": "easy",
     "question": "In a centrifugal pump, the impeller gives the liquid velocity, and the volute casing:",
     "options": [
-      "Seals the shaft",
+      "Seals the shaft where it passes through the casing, using the gland or seal",
       "Primes the pump",
       "Filters the liquid",
       "Converts much of that velocity into pressure"
@@ -261,9 +261,9 @@
     "difficulty": "easy",
     "question": "Bilge suctions in the machinery space are fitted with mud boxes or strainers in order to:",
     "options": [
-      "Measure the bilge level",
-      "Separate oil from water",
-      "Heat the bilge water",
+      "Measure the bilge level and start the pump automatically when it rises in the well",
+      "Separate oil from water before the bilge water reaches the oily water separator",
+      "Heat the bilge water to help the separation of the oil in the oily water separator",
       "Stop debris from blocking or damaging the bilge pump and valves"
     ],
     "correctIndex": 3,
@@ -279,7 +279,7 @@
       "Screw type for heavy fuel",
       "Reciprocating hand-pump type",
       "Centrifugal type, with a priming arrangement",
-      "Gear type"
+      "Gear type, with a relief valve to protect the pump from overpressure"
     ],
     "correctIndex": 2,
     "explanation": "Centrifugal pumps handle large volumes of water at moderate head."
@@ -293,8 +293,8 @@
     "options": [
       "A quarter-turn valve with a rotating disc, often used on large-diameter water pipes",
       "A safety valve for air receivers",
-      "A screw-down valve for steam only",
-      "A non-return valve for fuel"
+      "A screw-down valve for steam only, with a stem that rises as it is opened",
+      "A non-return valve for fuel oil lines, which has a hinged disc held shut by a spring"
     ],
     "correctIndex": 0,
     "explanation": "Butterfly valves are compact and light, but less suitable for fine throttling of high-pressure fluids."
@@ -306,10 +306,10 @@
     "difficulty": "easy",
     "question": "Gland packing on a pump shaft should normally be adjusted so that:",
     "options": [
-      "Liquid runs freely from the gland",
+      "Liquid runs freely from the gland in a steady stream, to cool the shaft sleeve",
       "A slight drip of liquid continues, to lubricate and cool the packing",
-      "No liquid at all leaks",
-      "The shaft cannot turn"
+      "No liquid at all leaks, so that the gland is dry and the shaft is not cooled",
+      "The shaft cannot turn by hand when the pump is stopped, to show the packing is tight"
     ],
     "correctIndex": 1,
     "explanation": "Over-tightened packing overheats and scores the shaft sleeve."
@@ -321,9 +321,9 @@
     "difficulty": "easy",
     "question": "An ejector (eductor) creates suction by:",
     "options": [
-      "A reciprocating piston",
-      "A rotating impeller",
-      "Gravity only",
+      "A reciprocating piston that draws the liquid into a cylinder and pushes it out",
+      "A rotating impeller driven by an electric motor, which throws the liquid outwards",
+      "Gravity only, by lowering the discharge of the pipe below the level of the tank",
       "Using a high-velocity jet of water, steam or air, with no moving parts"
     ],
     "correctIndex": 3,
@@ -336,10 +336,10 @@
     "difficulty": "easy",
     "question": "A fuel oil overflow tank is provided to:",
     "options": [
-      "Store lubricating oil",
-      "Hold sludge from the purifiers",
+      "Store lubricating oil which has been drained from the engine sump and filters",
+      "Hold sludge from the purifiers until it is landed ashore or burned in the incinerator",
       "Collect oil that overflows from tanks during filling or transfer",
-      "Store fresh water"
+      "Store fresh water from the evaporator for use in the boilers and the cooling system"
     ],
     "correctIndex": 2,
     "explanation": "Overflow tank level alarms warn the crew before oil can escape through vents."
@@ -351,10 +351,10 @@
     "difficulty": "easy",
     "question": "A hydrophore (pressure set) fresh water system works by:",
     "options": [
-      "Keeping an air cushion in a pressure tank, with the pump started and stopped by pressure switches",
-      "Using the main sea water pump",
-      "Using gravity from a tank on the mast",
-      "Running the pump continuously at full speed"
+      "Keeping an air cushion in a pressure tank, with the pump on pressure switches",
+      "Using the main sea water pump to supply the water through a pressure reducing valve",
+      "Using gravity from a tank on the mast, so that the pressure is steady at all taps",
+      "Running the pump continuously at full speed, with the surplus returned to the tank"
     ],
     "correctIndex": 0,
     "explanation": "If the air cushion is lost, the pump starts and stops too frequently."
@@ -366,10 +366,10 @@
     "difficulty": "easy",
     "question": "Expansion bellows or loops are fitted in steam pipelines to:",
     "options": [
-      "Drain condensate",
+      "Drain condensate from the low points of the line when the steam is shut off",
       "Allow the pipe to expand and contract with temperature changes without overstressing",
-      "Reduce the pressure",
-      "Increase the flow"
+      "Reduce the pressure of the steam before it reaches the heaters and the turbines",
+      "Increase the flow of steam through the line by reducing friction in the long straight pipe"
     ],
     "correctIndex": 1,
     "explanation": "Without them, thermal expansion could crack flanges, valves or pipe supports."
@@ -382,7 +382,7 @@
     "question": "The most common cause of hydraulic system failures is:",
     "options": [
       "Contamination of the oil by dirt, water or air",
-      "Too much clean oil",
+      "Too much clean oil in the tank, which causes the pumps to run too slowly",
       "Low ambient humidity",
       "Using the correct filters"
     ],
@@ -396,9 +396,9 @@
     "difficulty": "easy",
     "question": "A Bourdon tube pressure gauge works because:",
     "options": [
-      "A float rises in a liquid",
-      "A spring is compressed by temperature",
-      "An electric current changes with pressure",
+      "A float rises in the liquid and moves the pointer through a link at the dial",
+      "A spring is compressed by the temperature of the liquid inside and moves the pointer",
+      "An electric current changes with the pressure and moves the needle of the gauge",
       "The curved tube tends to straighten as the pressure inside it rises, moving the pointer"
     ],
     "correctIndex": 3,
@@ -414,7 +414,7 @@
       "Has no effect",
       "Cleans the impeller",
       "Can quickly overheat and damage the seal faces",
-      "Improves the seal's life"
+      "Improves the seal's life by letting the faces run in without liquid film"
     ],
     "correctIndex": 2,
     "explanation": "The seal faces depend on a thin film of liquid for lubrication and cooling."
@@ -426,9 +426,9 @@
     "difficulty": "easy",
     "question": "Duplex filters are used in fuel and lubricating oil systems so that:",
     "options": [
-      "Filters never need cleaning",
-      "Two different oils can be mixed",
-      "The pressure is doubled",
+      "Filters never need cleaning, since one side always holds the dirt for the other",
+      "Two different oils can be mixed in the filter chamber before they reach the engine",
+      "The pressure is doubled across the filter, so that finer particles are removed",
       "One side can be cleaned while the other stays in service, without stopping the flow"
     ],
     "correctIndex": 3,
@@ -441,10 +441,10 @@
     "difficulty": "easy",
     "question": "Before opening a pump for maintenance, you must:",
     "options": [
-      "Open the casing while it is still under pressure",
-      "Close and secure the suction and discharge valves, isolate and lock off the motor, and drain the pump",
-      "Only stop the motor at the local switch",
-      "Leave the valves open to drain the system"
+      "Open the casing while it is still under pressure, to see whether the liquid is clear",
+      "Close and secure the suction and discharge valves, isolate and lock off the motor, and drain it",
+      "Only stop the motor at the local switch, then remove the casing cover to inspect the impeller",
+      "Leave the valves open to drain the system, then start dismantling the casing at once"
     ],
     "correctIndex": 1,
     "explanation": "A permit to work and checks for residual pressure and temperature are also needed."
@@ -456,10 +456,10 @@
     "difficulty": "medium",
     "question": "A centrifugal pump is normally started with its discharge valve closed or nearly closed because:",
     "options": [
-      "It cannot run with the valve open",
-      "It prevents cavitation completely",
+      "It cannot run with the valve open, because the motor would trip on starting",
+      "It prevents cavitation completely at the impeller eye by raising the suction pressure",
       "Power demand is lowest at low flow, which reduces the motor starting load",
-      "It increases the suction lift"
+      "It increases the suction lift of the pump and lets it draw liquid from a lower tank"
     ],
     "correctIndex": 2,
     "explanation": "The valve is opened gradually once the pump is up to speed; running too long at shut-off overheats the liquid."
@@ -474,7 +474,7 @@
       "Smooths out pressure and flow pulsations",
       "Increases the suction lift",
       "Removes air from the liquid",
-      "Primes the pump"
+      "Primes the pump by storing liquid for use when the suction is empty"
     ],
     "correctIndex": 0,
     "explanation": "It acts as a cushion, absorbing peaks and releasing liquid during the suction stroke."
@@ -486,9 +486,9 @@
     "difficulty": "medium",
     "question": "Bilge suction valves are usually of the screw-down non-return type in order to:",
     "options": [
-      "Allow oil to be pumped to the sea",
+      "Allow oil to be pumped to the sea by opening the suction against the bilge pressure",
       "Allow each suction to be closed, while preventing back-flow into the compartment",
-      "Increase the pump capacity",
+      "Increase the pump capacity by allowing a second suction to be opened at once",
       "Reduce the noise of the pump"
     ],
     "correctIndex": 1,
@@ -502,7 +502,7 @@
     "question": "A globe valve is preferred to a gate valve when:",
     "options": [
       "The flow needs to be throttled or finely controlled",
-      "A full, unrestricted bore is needed",
+      "A full, unrestricted bore is needed for the flow of a viscous liquid, such as fuel",
       "Only on/off service is needed",
       "The valve must be quarter-turn"
     ],
@@ -516,9 +516,9 @@
     "difficulty": "medium",
     "question": "A gate valve is best used:",
     "options": [
-      "For throttling at half open",
-      "As a non-return valve",
-      "As a pressure relief valve",
+      "For throttling the flow when it is half open, to give fine control of the pressure",
+      "As a non-return valve, to stop liquid from flowing back through the pipe when the pump stops",
+      "As a pressure relief valve, set to open when the line pressure is too high",
       "Fully open or fully closed, giving a straight-through flow with little pressure drop"
     ],
     "correctIndex": 3,
@@ -546,7 +546,7 @@
     "difficulty": "medium",
     "question": "Spray shields or anti-splash tape around fuel oil pipe flanges are fitted to:",
     "options": [
-      "Insulate the pipe",
+      "Insulate the pipe from heat loss and keep the temperature of the oil constant",
       "Prevent fuel spraying onto hot surfaces if a joint leaks",
       "Identify the pipe contents",
       "Reduce vibration"
@@ -577,9 +577,9 @@
     "question": "Wear rings in a centrifugal pump are fitted to:",
     "options": [
       "Reduce internal leakage from the discharge side back to the suction",
-      "Seal the shaft",
-      "Hold the impeller on the shaft",
-      "Prime the pump"
+      "Seal the shaft where it passes through the casing, in place of the gland",
+      "Hold the impeller on the shaft against the thrust and stop it from moving axially",
+      "Prime the pump by keeping a ring of liquid in the casing when the suction is empty"
     ],
     "correctIndex": 0,
     "explanation": "As wear rings wear, the clearance increases and pump efficiency falls."
@@ -591,10 +591,10 @@
     "difficulty": "medium",
     "question": "Bilge and ballast centrifugal pumps are often fitted with a vacuum pump or air ejector to:",
     "options": [
-      "Clean the strainers",
-      "Increase the discharge pressure",
+      "Clean the strainers by reversing the flow through them from time to time",
+      "Increase the discharge pressure by adding a second stage to the pump casing",
       "Remove air from the suction line so the pump can prime itself",
-      "Cool the pump bearings"
+      "Cool the pump bearings by drawing a flow of air through the bearing housing"
     ],
     "correctIndex": 2,
     "explanation": "Automatic priming units allow the pump to draw liquid from below its own level."
@@ -606,10 +606,10 @@
     "difficulty": "medium",
     "question": "Tank air pipes are fitted with automatic closing heads (for example ball floats) on deck to:",
     "options": [
-      "Release oil vapour into the engine room",
-      "Measure the tank level",
+      "Release oil vapour into the engine room when the tank is being filled with fuel",
+      "Measure the tank level and send the signal to the remote tank gauging system",
       "Let air in and out of the tank but stop sea water entering in heavy weather",
-      "Prevent air entering the tank at all"
+      "Prevent air entering the tank at all, so that the tank always stays under a vacuum"
     ],
     "correctIndex": 2,
     "explanation": "Air pipes prevent over-pressure or vacuum in the tank during filling and emptying."
@@ -621,10 +621,10 @@
     "difficulty": "medium",
     "question": "In a central cooling system:",
     "options": [
-      "Sea water circulates through every engine cooler",
-      "Fresh water cools the sea water",
-      "No sea water is used at all",
-      "Sea water cools the central cooler, which cools a fresh water circuit serving the engine coolers"
+      "Sea water circulates through every engine cooler in turn, as in a conventional open system",
+      "Fresh water cools the sea water in the central cooler, which is then used for the engines",
+      "No sea water is used at all, as the ship is cooled by air coolers on deck",
+      "Sea water cools a central cooler, which cools the fresh water circuit of the engine coolers"
     ],
     "correctIndex": 3,
     "explanation": "This limits sea water piping to a small part of the system, reducing corrosion and fouling."
@@ -636,10 +636,10 @@
     "difficulty": "medium",
     "question": "Compared with shell-and-tube coolers, plate heat exchangers:",
     "options": [
-      "Are always larger",
+      "Are always larger than shell-and-tube coolers for the same heat load, and heavier",
       "Are compact and efficient and easy to open for cleaning, but rely on many gaskets",
-      "Cannot be cleaned",
-      "Work only with steam"
+      "Cannot be cleaned without cutting open the plates, so that they must be replaced as a set",
+      "Work only with steam on one side, and cannot be used for water or oil coolers"
     ],
     "correctIndex": 1,
     "explanation": "Gasket failures may cause leaks between circuits, so pressure tests are done after maintenance."
@@ -652,7 +652,7 @@
     "question": "Sacrificial zinc or soft iron anodes are fitted in sea water coolers to:",
     "options": [
       "Protect the cooler from galvanic corrosion",
-      "Increase heat transfer",
+      "Increase heat transfer by coating the tubes with a layer of conductive metal",
       "Measure the water flow",
       "Filter the sea water"
     ],
@@ -667,9 +667,9 @@
     "question": "A fresh water generator works under vacuum so that:",
     "options": [
       "Sea water boils at a low temperature, using waste heat such as engine jacket water",
-      "The water is sterilised by pressure",
-      "Salt is removed by freezing",
-      "No heating is needed at all"
+      "The water is sterilised by the pressure, and the salts are removed with the brine",
+      "Salt is removed by freezing the sea water at a low temperature in the shell",
+      "No heating is needed at all, since the vacuum alone will boil the sea water in the shell"
     ],
     "correctIndex": 0,
     "explanation": "Typical boiling temperatures are around 40-60 °C."
@@ -681,9 +681,9 @@
     "difficulty": "medium",
     "question": "When the salinometer of a fresh water generator detects high salinity in the distillate:",
     "options": [
-      "The distillate is sent to the drinking water tank anyway",
-      "The generator stops the main engine",
-      "Sea water is added to dilute it",
+      "The distillate is sent to the drinking water tank anyway, with a warning shown on the panel",
+      "The generator stops the main engine so that no more distillate is made at sea",
+      "Sea water is added to dilute it until the salinometer shows a normal reading",
       "An alarm sounds and the distillate is dumped instead of being sent to the storage tanks"
     ],
     "correctIndex": 3,
@@ -696,10 +696,10 @@
     "difficulty": "medium",
     "question": "Drinking water produced or stored on board is usually disinfected by:",
     "options": [
-      "Adding sea water",
+      "Adding sea water in small amounts to bring up the mineral content of the water",
       "Chlorination or UV treatment, with residual chlorine checked regularly",
-      "Heating it to 40 °C",
-      "Filtering through cloth only"
+      "Heating it to 40 °C in the tank for one hour and then storing it in the pressure tank",
+      "Filtering through cloth only, to remove the particles, then adding a little salt"
     ],
     "correctIndex": 1,
     "explanation": "Drinking water tanks should also be cleaned and inspected at regular intervals."
@@ -711,10 +711,10 @@
     "difficulty": "medium",
     "question": "Most shipboard sewage treatment plants work by:",
     "options": [
-      "Mixing it with ballast water",
-      "Simple storage until the ship is at sea",
+      "Mixing it with ballast water and discharging both at the same time at sea",
+      "Simple storage in a tank until the ship is more than 12 miles from land",
       "Aerobic biological treatment, followed by settling and disinfection",
-      "Burning the sewage"
+      "Burning the sewage in the incinerator before the ash is landed ashore with the garbage"
     ],
     "correctIndex": 2,
     "explanation": "Air blowers keep bacteria alive; chlorine or UV disinfects the effluent."
@@ -729,7 +729,7 @@
       "Once every three months",
       "Once a week",
       "Only at dry-docking",
-      "Once a year"
+      "Once a year, at the same time as the annual survey of the steering gear"
     ],
     "correctIndex": 0,
     "explanation": "The drill includes direct control from the steering gear compartment and the communications procedure with the bridge."
@@ -744,7 +744,7 @@
       "The pump's speed",
       "Both vacuum and positive pressure",
       "Only very high pressures",
-      "Only temperatures"
+      "Only temperatures, since it has a thermometer scale next to the pressure scale"
     ],
     "correctIndex": 1,
     "explanation": "Suction pressure can be below or above atmospheric depending on the tank level."
@@ -759,7 +759,7 @@
       "Freezing the ballast",
       "Adding oil to the ballast",
       "Filtration followed by UV treatment or electrochlorination",
-      "Heating the ballast to boiling point"
+      "Heating the ballast to boiling point in the ballast tank before it is discharged"
     ],
     "correctIndex": 2,
     "explanation": "They must be type-approved to meet the D-2 performance standard."
@@ -771,9 +771,9 @@
     "difficulty": "medium",
     "question": "A progressive cavity (mono) pump must not run dry because:",
     "options": [
-      "It loses its prime permanently",
-      "Its relief valve will open",
-      "Its impeller will overspeed",
+      "It loses its prime permanently and the whole pump must be replaced by the maker afterwards",
+      "Its relief valve will open and let the liquid back to the suction while it is dry",
+      "Its impeller will overspeed and damage the drive shaft and the coupling quickly",
       "The rubber stator depends on the pumped liquid for lubrication and quickly overheats"
     ],
     "correctIndex": 3,
@@ -786,10 +786,10 @@
     "difficulty": "hard",
     "question": "In machinery spaces, an emergency bilge suction is normally connected to:",
     "options": [
-      "The fuel oil transfer pump",
-      "The largest available power pump other than the bilge pumps, usually the main sea water cooling pump, through a non-return valve",
-      "The fresh water hydrophore pump",
-      "The sewage pump"
+      "The fuel oil transfer pump, because it is the only pump with a connection to the bilge",
+      "The largest available power pump other than the bilge pumps, usually the main sea water pump",
+      "The fresh water hydrophore pump, because it is the only pump with a bilge connection fitted",
+      "The sewage pump, because it is designed to handle solids and dirty water in suction"
     ],
     "correctIndex": 1,
     "explanation": "This gives a large pumping capacity if the machinery space floods."
@@ -819,7 +819,7 @@
       "The pump's head-flow curve meets the system resistance curve",
       "The motor current is lowest",
       "The NPSH required is zero",
-      "The suction and discharge pressures are equal"
+      "The suction and discharge pressures are equal and the flow through the pump is zero"
     ],
     "correctIndex": 0,
     "explanation": "Throttling a valve changes the system curve and moves the operating point."
@@ -831,10 +831,10 @@
     "difficulty": "hard",
     "question": "In a lube oil cooler, the oil pressure is usually kept higher than the sea water pressure so that:",
     "options": [
-      "Heat transfer is doubled",
-      "The sea water pump uses less power",
+      "Heat transfer is doubled, because the oil film inside the tubes is thinner",
+      "The sea water pump uses less power when the oil pressure is higher than the water",
       "A tube leak lets oil into the water rather than sea water into the oil",
-      "The cooler needs no anodes"
+      "The cooler needs no anodes if the oil pressure is higher than the water pressure"
     ],
     "correctIndex": 2,
     "explanation": "Sea water in the lube oil would cause corrosion and bearing damage."
@@ -846,10 +846,10 @@
     "difficulty": "hard",
     "question": "In an electro-hydraulic steering gear, the variable-delivery pump:",
     "options": [
-      "Delivers a fixed flow in one direction only",
-      "Supplies fuel to the main engine",
-      "Changes the amount and direction of oil flow to the rams, controlled by the hunting gear",
-      "Runs only when the rudder is amidships"
+      "Delivers a fixed flow in one direction only, and the rams are moved by valves",
+      "Supplies fuel to the main engine, and also drives the rudder through a gear train",
+      "Changes the amount and direction of oil flow to the rams, under the hunting gear",
+      "Runs only when the rudder is amidships and stops once the rudder is hard over to one side"
     ],
     "correctIndex": 2,
     "explanation": "When the rudder reaches the ordered angle, the hunting gear returns the pump to no delivery."
@@ -861,10 +861,10 @@
     "difficulty": "hard",
     "question": "SOLAS requires the main steering gear to move the rudder from 35° on one side to 30° on the other in not more than:",
     "options": [
-      "60 seconds at any speed",
+      "60 seconds at any speed, with the rudder moved from 35° on one side to 35° on the other",
       "28 seconds, at the deepest seagoing draught and maximum ahead service speed",
-      "28 seconds with the ship stopped",
-      "10 seconds at half speed"
+      "28 seconds with the ship stopped, and not at the deepest draught and service speed",
+      "10 seconds at half speed, with the rudder moved from 35° on one side to 35° on the other"
     ],
     "correctIndex": 1,
     "explanation": "The auxiliary steering gear must move the rudder from 15° on one side to 15° on the other in 60 seconds at half speed or 7 knots."
@@ -878,7 +878,7 @@
     "options": [
       "After arrival in port only",
       "Once a month at sea",
-      "Only at the annual survey",
+      "Only at the annual survey, when the surveyor is on board to witness it",
       "Within 12 hours before departure"
     ],
     "correctIndex": 3,
@@ -906,9 +906,9 @@
     "difficulty": "hard",
     "question": "Overboard discharges from spaces below the freeboard deck must normally be fitted with:",
     "options": [
-      "A gate valve on deck",
-      "Only a blank flange",
-      "A simple open pipe",
+      "A gate valve on deck, with a handwheel that is locked when the ship is at sea",
+      "Only a blank flange and a manual valve that is kept closed by the engineering watchkeeper",
+      "A simple open pipe, if it is above the load line and fitted with a flap outside",
       "An automatic non-return valve with a positive means of closing from above the freeboard deck"
     ],
     "correctIndex": 3,
@@ -924,7 +924,7 @@
       "Run far out on its curve and overload its motor",
       "Need no NPSH",
       "Produce its maximum head",
-      "Stop pumping completely"
+      "Stop pumping completely, as the head would fall to zero and the impeller stall"
     ],
     "correctIndex": 0,
     "explanation": "Power absorbed by a centrifugal pump rises with flow, so very high flow can trip the motor overload."
@@ -936,7 +936,7 @@
     "difficulty": "hard",
     "question": "Which change will increase the NPSH available at a pump suction?",
     "options": [
-      "Heating the liquid",
+      "Heating the liquid, which raises its vapour pressure and so increases the margin",
       "Partly closing the suction valve",
       "Raising the liquid level in the suction tank above the pump",
       "Using a smaller, longer suction pipe"
@@ -951,10 +951,10 @@
     "difficulty": "hard",
     "question": "A minimum flow (recirculation) line on a centrifugal pump is provided to:",
     "options": [
-      "Increase the pump's maximum flow",
+      "Increase the pump's maximum flow by returning part of the liquid to the suction",
       "Prevent the liquid overheating when the pump runs near zero delivery",
-      "Prime the pump",
-      "Reduce motor voltage"
+      "Prime the pump by returning the liquid to the suction line when the pump is started",
+      "Reduce the motor voltage when the pump runs at low flow and so save electrical power"
     ],
     "correctIndex": 1,
     "explanation": "At shut-off, nearly all the input power becomes heat in the small volume of liquid in the casing."
